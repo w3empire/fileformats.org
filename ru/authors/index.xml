@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Список всех авторов FileFormats on File Formats</title>
+    <link>https://fileformats.org/ru/authors/</link>
+    <description>Recent content in Список всех авторов FileFormats on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 15:40:06 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Все статьи Ричарда Скотта на FileNUX</title>
+      <link>https://fileformats.org/ru/authors/richard-scott/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/authors/richard-scott/</guid>
+      <description>Технический писатель</description>
+    </item>
+    
+    <item>
+      <title>Все статьи Акиры Осавы на FileNUX</title>
+      <link>https://fileformats.org/ru/authors/akira-osawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/authors/akira-osawa/</guid>
+      <description>Технический писатель и редактор</description>
+    </item>
+    
+    <item>
+      <title>Все статьи Бруно Соуза на FileNUX</title>
+      <link>https://fileformats.org/ru/authors/bruno-souza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/authors/bruno-souza/</guid>
+      <description>Технический писатель и редактор</description>
+    </item>
+    
+  </channel>
+</rss>

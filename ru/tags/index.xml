@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on File Formats</title>
+    <link>https://fileformats.org/ru/tags/</link>
+    <description>Recent content in Tags on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 15:40:06 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Список всех расширений текстовых файлов (форматы, типы и значения)</title>
+      <link>https://fileformats.org/ru/tags/text-file-format/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/text-file-format/</guid>
+      <description>Одна форма файла, которая может быть сохранена на компьютере, называется текстовым файлом и структурирована как набор строк текста. В файловой системе компьютера есть текстовый файл, который используется для хранения данных.</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «D» (значения)</title>
+      <link>https://fileformats.org/ru/tags/d/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/d/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «D».</description>
+    </item>
+    
+    <item>
+      <title>Список всех распространенных расширений файлов (форматы, типы и значения)</title>
+      <link>https://fileformats.org/ru/tags/common-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/common-file-extensions/</guid>
+      <description>Полный список с наиболее распространенными расширениями файлов для всех операционных систем. Просмотрите наиболее распространенные типы файлов для Windows, Mac, Android и Linux.</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений двоичных файлов (форматы, типы и значения)</title>
+      <link>https://fileformats.org/ru/tags/binary-file-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/binary-file-format/</guid>
+      <description>Компьютерный файл, который не является текстовым, иногда называют «двоичным файлом». Некоторые форматы двоичных файлов, такие как ранние документы Microsoft Word, фактически сохраняют как текст документа, так и информацию о его форматировании в виде двоичных данных.</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений текстовых и двоичных файлов (форматы, типы и значения)</title>
+      <link>https://fileformats.org/ru/tags/text-and-binary-file-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/text-and-binary-file-format/</guid>
+      <description>Термин «двоичный файл» относится к любому типу нетекстового файла, используемого в вычислениях. «Двоичный файл» часто используется для обозначения «нетекстовых файлов».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов XML (форматы, типы и значения)</title>
+      <link>https://fileformats.org/ru/tags/xml-file-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/xml-file-format/</guid>
+      <description>(XML) Extensible Markup Language — это язык разметки и формат файлов для хранения, передачи и воспроизведения любых данных. Он определяет правила кодирования документов, чтобы их могли читать как компьютеры, так и люди.</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов ZIP (форматы, типы и значения)</title>
+      <link>https://fileformats.org/ru/tags/zip-file-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/zip-file-format/</guid>
+      <description>Сжатие данных без потерь поддерживается форматом файла архива, известным как ZIP. ZIP-файл может включать один или несколько сжатых файлов или каталогов.</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «B» (значения)</title>
+      <link>https://fileformats.org/ru/tags/b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/b/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «B».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «C» (значения)</title>
+      <link>https://fileformats.org/ru/tags/c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/c/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «C».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «F» (значения)</title>
+      <link>https://fileformats.org/ru/tags/f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/f/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «F».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «G» (значения)</title>
+      <link>https://fileformats.org/ru/tags/g/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/g/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «G».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «H» (значения)</title>
+      <link>https://fileformats.org/ru/tags/h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/h/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «H».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «I» (значения)</title>
+      <link>https://fileformats.org/ru/tags/i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/i/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «I».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «J» (значения)</title>
+      <link>https://fileformats.org/ru/tags/j/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/j/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «J».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «L» (значения)</title>
+      <link>https://fileformats.org/ru/tags/l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/l/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «L».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «N» (значения)</title>
+      <link>https://fileformats.org/ru/tags/n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/n/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «N».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «P» (значения)</title>
+      <link>https://fileformats.org/ru/tags/p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/p/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «P».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «Q» (значения)</title>
+      <link>https://fileformats.org/ru/tags/q/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/q/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «Q».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «R» (значения)</title>
+      <link>https://fileformats.org/ru/tags/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/r/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «R».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «S» (значения)</title>
+      <link>https://fileformats.org/ru/tags/s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/s/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «S».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «U» (значения)</title>
+      <link>https://fileformats.org/ru/tags/u/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/u/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «U».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «V» (значения)</title>
+      <link>https://fileformats.org/ru/tags/v/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/v/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «V».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «W» (значения)</title>
+      <link>https://fileformats.org/ru/tags/w/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/w/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «W».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «X» (значения)</title>
+      <link>https://fileformats.org/ru/tags/x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/x/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «X».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «Y» (значения)</title>
+      <link>https://fileformats.org/ru/tags/y/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/y/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «Y».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «Z» (значения)</title>
+      <link>https://fileformats.org/ru/tags/z/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/z/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «Z».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «А» (значения)</title>
+      <link>https://fileformats.org/ru/tags/a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/a/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «А».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «Е» (значения)</title>
+      <link>https://fileformats.org/ru/tags/e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/e/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «Е».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «К» (значения)</title>
+      <link>https://fileformats.org/ru/tags/k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/k/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «К».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «М» (значения)</title>
+      <link>https://fileformats.org/ru/tags/m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/m/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «М».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «О» (значения)</title>
+      <link>https://fileformats.org/ru/tags/o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/o/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «О».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «Т» (значения)</title>
+      <link>https://fileformats.org/ru/tags/t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/t/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «Т».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с цифры или символа</title>
+      <link>https://fileformats.org/ru/tags/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/1/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с цифры или символа.</description>
+    </item>
+    
+  </channel>
+</rss>

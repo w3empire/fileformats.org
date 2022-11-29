@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liste de tous les auteurs FileFormats on File Formats</title>
+    <link>https://fileformats.org/fr/authors/</link>
+    <description>Recent content in Liste de tous les auteurs FileFormats on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 15:40:01 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tous les articles de Richard Scott sur FileNUX</title>
+      <link>https://fileformats.org/fr/authors/richard-scott/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/authors/richard-scott/</guid>
+      <description>Rédacteur technique</description>
+    </item>
+    
+    <item>
+      <title>Tous les articles de Akira Osawa sur FileNUX</title>
+      <link>https://fileformats.org/fr/authors/akira-osawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/authors/akira-osawa/</guid>
+      <description>Rédacteur technique et éditeur</description>
+    </item>
+    
+    <item>
+      <title>Tous les articles de Bruno Souza sur FileNUX</title>
+      <link>https://fileformats.org/fr/authors/bruno-souza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/authors/bruno-souza/</guid>
+      <description>Rédacteur technique et éditeur</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>모든 파일 확장자, 형식 및 의미의 전체 목록 on File Formats</title>
+    <link>https://fileformats.org/ko/file-types/</link>
+    <description>Recent content in 모든 파일 확장자, 형식 및 의미의 전체 목록 on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 15:40:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOC#</title>
+      <link>https://fileformats.org/ko/file-types/libreoffice-document-lock-file/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/libreoffice-document-lock-file/</guid>
+      <description>LibreOffice 문서 잠금 파일</description>
+    </item>
+    
+  </channel>
+</rss>

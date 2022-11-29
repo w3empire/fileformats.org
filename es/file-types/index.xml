@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La lista completa de todas las extensiones de archivo, formatos y significados on File Formats</title>
+    <link>https://fileformats.org/es/file-types/</link>
+    <description>Recent content in La lista completa de todas las extensiones de archivo, formatos y significados on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 15:40:00 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOC#</title>
+      <link>https://fileformats.org/es/file-types/libreoffice-document-lock-file/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/libreoffice-document-lock-file/</guid>
+      <description>Archivo de bloqueo de documentos de LibreOffice</description>
+    </item>
+    
+  </channel>
+</rss>

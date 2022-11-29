@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>所有类别 on File Formats</title>
+    <link>https://fileformats.org/zh-cn/categories/</link>
+    <description>Recent content in 所有类别 on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 15:40:07 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>杂项文件扩展名列表</title>
+      <link>https://fileformats.org/zh-cn/categories/misc-file-extensions/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/misc-file-extensions/</guid>
+      <description>杂项文件类别中有各种不属于任何其他类别的文件类型。</description>
+    </item>
+    
+    <item>
+      <title>3D 图像文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/3d-image-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/3d-image-file-extensions/</guid>
+      <description>3D 模型、3D 动画和 3D 项目文件都是可以在 3D 图像文件中找到的示例。</description>
+    </item>
+    
+    <item>
+      <title>CAD 文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/cad-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/cad-file-extensions/</guid>
+      <description>计算机辅助设计 (CAD) 文件可能包括二维或三维模型。</description>
+    </item>
+    
+    <item>
+      <title>GIS（地理信息系统）文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/gis-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/gis-file-extensions/</guid>
+      <description>来自全球定位系统和制图程序等导航设备的数据可以在 GIS（地理信息系统）类别中找到。</description>
+    </item>
+    
+    <item>
+      <title>Web 文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/web-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/web-file-extensions/</guid>
+      <description>网站（静态和动态）引用的网站、Web 应用程序和文件都属于此类别。</description>
+    </item>
+    
+    <item>
+      <title>光栅图像文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/raster-image-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/raster-image-file-extensions/</guid>
+      <description>光栅图像采用像素网格的形式，每个像素都分配有唯一的颜色来表示整个图像。</description>
+    </item>
+    
+    <item>
+      <title>压缩文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</guid>
+      <description>节省硬盘空间是压缩文件存在的主要原因之一。</description>
+    </item>
+    
+    <item>
+      <title>可执行文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/executable-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/executable-file-extensions/</guid>
+      <description>可执行文件包括 Windows 和 Mac 程序，以及脚本和宏。</description>
+    </item>
+    
+    <item>
+      <title>备份文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/backup-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/backup-file-extensions/</guid>
+      <description>单个文件的备份副本和与备份程序有关的数据都包含在“备份文件”部分中。</description>
+    </item>
+    
+    <item>
+      <title>字体文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/font-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/font-file-extensions/</guid>
+      <description>字体文件是包含计算机操作系统和各种其他计算机程序使用的键入字符的文件。</description>
+    </item>
+    
+    <item>
+      <title>开发人员文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/developer-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/developer-file-extensions/</guid>
+      <description>与创建软件相关的文件类型可以在 Developer Files 类别中找到。</description>
+    </item>
+    
+    <item>
+      <title>插件文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/plugin-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/plugin-file-extensions/</guid>
+      <description>现有程序可以通过使用插件文件从附加特性和功能中受益。</description>
+    </item>
+    
+    <item>
+      <title>数据库文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/database-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/database-file-extensions/</guid>
+      <description>数据库文件中的信息以带有字段的表格或表格格式存储。</description>
+    </item>
+    
+    <item>
+      <title>数据文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/data-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/data-file-extensions/</guid>
+      <description>数据库、项目和保存的文档都是数据文件类型。</description>
+    </item>
+    
+    <item>
+      <title>文本文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/text-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/text-file-extensions/</guid>
+      <description>用文字处理器编写的文档、服务器日志和已保存以备后用的电子邮件都是文本文件的示例。</description>
+    </item>
+    
+    <item>
+      <title>游戏文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/game-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/game-file-extensions/</guid>
+      <description>视频游戏相关文件，例如存档文件，可以在游戏文件类别中找到。</description>
+    </item>
+    
+    <item>
+      <title>电子书文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/ebook-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/ebook-file-extensions/</guid>
+      <description>电子书或电子书文件可以在 Kindle、Nook、iPad 和 Sony Reader 等电子阅读器上阅读。</description>
+    </item>
+    
+    <item>
+      <title>电子表格文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/spreadsheet-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/spreadsheet-file-extensions/</guid>
+      <description>数据保存在电子表格文件单元格内的行和列中。</description>
+    </item>
+    
+    <item>
+      <title>相机图像文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/camera-image-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/camera-image-file-extensions/</guid>
+      <description>相机图像原始文件以原始格式存储，该格式保留了相机传感器记录的所有信息。</description>
+    </item>
+    
+    <item>
+      <title>矢量图像文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/vector-image-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/vector-image-file-extensions/</guid>
+      <description>创建矢量图像时，使用路径而不是像素。 图像中的线条和几何形状可以由这些路径表示。</description>
+    </item>
+    
+    <item>
+      <title>磁盘映像文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/disk-image-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/disk-image-file-extensions/</guid>
+      <description>在磁盘映像文件中，您会找到硬盘驱动器或其他存储介质的副本。</description>
+    </item>
+    
+    <item>
+      <title>系统文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/system-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/system-file-extensions/</guid>
+      <description>计算机操作系统文件（例如 Mac OS、Windows 和 Linux 使用的文件）可以在系统文件类别中找到。</description>
+    </item>
+    
+    <item>
+      <title>编码文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/encoded-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/encoded-file-extensions/</guid>
+      <description>使用编码方法保存其内容的文件被称为“编码”。</description>
+    </item>
+    
+    <item>
+      <title>视频文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/video-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/video-file-extensions/</guid>
+      <description>您会在视频文件类别中找到各种各样的视频格式，每种格式都使用不同的编解码器来编码和压缩视频信息。</description>
+    </item>
+    
+    <item>
+      <title>设置文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/settings-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/settings-file-extensions/</guid>
+      <description>操作系统首选项和计算机程序设置保存在称为“设置”的文件中。 配置文件也可以称为首选项文件。</description>
+    </item>
+    
+    <item>
+      <title>音频文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/audio-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/audio-file-extensions/</guid>
+      <description>称为“音频文件”的类别包含压缩和未压缩的音频格式。</description>
+    </item>
+    
+    <item>
+      <title>页面布局文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/page-layout-file-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/page-layout-file-extensions/</guid>
+      <description>称为页面布局文件的文档可以同时包含文本和图像信息。</description>
+    </item>
+    
+  </channel>
+</rss>

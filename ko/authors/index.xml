@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>모든 FileFormats 작성자 목록 on File Formats</title>
+    <link>https://fileformats.org/ko/authors/</link>
+    <description>Recent content in 모든 FileFormats 작성자 목록 on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 15:40:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FileNUX에 대한 Richard Scott의 모든 기사</title>
+      <link>https://fileformats.org/ko/authors/richard-scott/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/authors/richard-scott/</guid>
+      <description>기술 작가</description>
+    </item>
+    
+    <item>
+      <title>FileNUX에 대한 Akira Osawa의 모든 기사</title>
+      <link>https://fileformats.org/ko/authors/akira-osawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/authors/akira-osawa/</guid>
+      <description>기술 작가 및 편집자</description>
+    </item>
+    
+    <item>
+      <title>FileNUX의 Bruno Souza의 모든 기사</title>
+      <link>https://fileformats.org/ko/authors/bruno-souza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/authors/bruno-souza/</guid>
+      <description>기술 작가 및 편집자</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>すべてのFileFormats作成者のリスト on File Formats</title>
+    <link>https://fileformats.org/ja/authors/</link>
+    <description>Recent content in すべてのFileFormats作成者のリスト on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 15:40:04 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FileNUXに関するRichard Scottによるすべての記事</title>
+      <link>https://fileformats.org/ja/authors/richard-scott/</link>
+      <pubDate>Tue, 29 Nov 2022 15:40:04 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/authors/richard-scott/</guid>
+      <description>テクニカルライター</description>
+    </item>
+    
+    <item>
+      <title>FileNUXに関するBrunoSouzaによるすべての記事</title>
+      <link>https://fileformats.org/ja/authors/bruno-souza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/authors/bruno-souza/</guid>
+      <description>テクニカルライター兼編集者</description>
+    </item>
+    
+    <item>
+      <title>FileNUXに関する大澤晃のすべての記事</title>
+      <link>https://fileformats.org/ja/authors/akira-osawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/authors/akira-osawa/</guid>
+      <description>テクニカルライター兼編集者</description>
+    </item>
+    
+  </channel>
+</rss>
