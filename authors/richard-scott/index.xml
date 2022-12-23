@@ -6,11 +6,92 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:39:53 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/file-types/aero-experience-file/</guid>
+      <description>Aero Experience File</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/directx-mesh-file/</guid>
+      <description>DirectX Mesh File</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/3d-mesh-model/</guid>
+      <description>3D Mesh Model</description>
+    </item>
+    
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/blockbench-3d-model-file/</guid>
+      <description>Blockbench 3D Model File</description>
+    </item>
+    
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/houdini-apprentice-file/</guid>
+      <description>Houdini Apprentice File</description>
+    </item>
+    
+    <item>
+      <title>PDEX</title>
+      <link>https://fileformats.org/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:08:01 -0300</pubDate>
+      
+      <guid>https://fileformats.org/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>Orient Computer Encrypted Data File</description>
+    </item>
+    
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/file-types/bluej-default-template/</link>
+      <pubDate>Tue, 13 Dec 2022 02:44:52 -0300</pubDate>
+      
+      <guid>https://fileformats.org/file-types/bluej-default-template/</guid>
+      <description>BlueJ Default Template</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:42:46 -0300</pubDate>
+      
+      <guid>https://fileformats.org/file-types/finale-temporary-file/</guid>
+      <description>Finale Temporary File</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:36:33 -0300</pubDate>
+      
+      <guid>https://fileformats.org/file-types/temporary-file/</guid>
+      <description>Temporary File</description>
+    </item>
+    
     <item>
       <title>DOC#</title>
       <link>https://fileformats.org/file-types/libreoffice-document-lock-file/</link>
-      <pubDate>Tue, 29 Nov 2022 15:39:53 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 01:29:10 -0300</pubDate>
       
       <guid>https://fileformats.org/file-types/libreoffice-document-lock-file/</guid>
       <description>LibreOffice Document Lock File</description>

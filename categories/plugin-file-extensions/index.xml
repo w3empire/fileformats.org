@@ -5,6 +5,16 @@
     <link>https://fileformats.org/categories/plugin-file-extensions/</link>
     <description>Recent content in The Complete List of Plugin File Extensions on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/categories/plugin-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 03:51:30 -0300</lastBuildDate><atom:link href="https://fileformats.org/categories/plugin-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPD</title>
+      <link>https://fileformats.org/file-types/spss-portable-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:51:30 -0300</pubDate>
+      
+      <guid>https://fileformats.org/file-types/spss-portable-data-file/</guid>
+      <description>SPSS Portable Data File</description>
+    </item>
+    
   </channel>
 </rss>

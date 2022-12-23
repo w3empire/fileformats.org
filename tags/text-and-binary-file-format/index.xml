@@ -5,6 +5,34 @@
     <link>https://fileformats.org/tags/text-and-binary-file-format/</link>
     <description>Recent content in List of All Text and Binary File Extensions (Formats, Types, and Meanings) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/tags/text-and-binary-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/tags/text-and-binary-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/file-types/aero-experience-file/</guid>
+      <description>Aero Experience File</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/file-types/godot-engine-3d-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:10:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/godot-engine-3d-mesh-file/</guid>
+      <description>Godot Engine 3D Mesh File</description>
+    </item>
+    
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/houdini-apprentice-file/</guid>
+      <description>Houdini Apprentice File</description>
+    </item>
+    
   </channel>
 </rss>
