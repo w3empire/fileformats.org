@@ -5,6 +5,25 @@
     <link>https://fileformats.org/ja/tags/c/</link>
     <description>Recent content in 文字「C」で始まるすべてのファイル拡張子のリスト (意味) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 19:18:51 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4D</title>
+      <link>https://fileformats.org/ja/file-types/cinema-4d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:18:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/cinema-4d-model-file/</guid>
+      <description>Cinema 4D モデル ファイル</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/ja/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>圧縮された Poser キャラクター リギング ファイル</description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,6 +5,34 @@
     <link>https://fileformats.org/es/categories/audio-file-extensions/</link>
     <description>Recent content in La lista completa de extensiones de archivos de audio on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/es/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:19 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3</title>
+      <link>https://fileformats.org/es/file-types/mp3-audio-file/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/mp3-audio-file/</guid>
+      <description>Archivo de audio mp3</description>
+    </item>
+    
+    <item>
+      <title>FLP</title>
+      <link>https://fileformats.org/es/file-types/fl-studio-project/</link>
+      <pubDate>Sat, 24 Dec 2022 12:05:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/fl-studio-project/</guid>
+      <description>Proyecto FL Studio</description>
+    </item>
+    
+    <item>
+      <title>EFS</title>
+      <link>https://fileformats.org/es/file-types/ensoniq-sq-80-file/</link>
+      <pubDate>Sat, 24 Dec 2022 11:57:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/ensoniq-sq-80-file/</guid>
+      <description>Archivo Ensoniq SQ-80</description>
+    </item>
+    
   </channel>
 </rss>

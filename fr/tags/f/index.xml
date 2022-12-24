@@ -5,6 +5,16 @@
     <link>https://fileformats.org/fr/tags/f/</link>
     <description>Recent content in Liste de toutes les extensions de fichiers commençant par la lettre “F” (significations) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/tags/f/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:05:10 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/f/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FLP</title>
+      <link>https://fileformats.org/fr/file-types/fl-studio-project/</link>
+      <pubDate>Sat, 24 Dec 2022 12:05:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/fl-studio-project/</guid>
+      <description>Projet FL Studio</description>
+    </item>
+    
   </channel>
 </rss>

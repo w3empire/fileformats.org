@@ -6,7 +6,43 @@
     <description>Recent content in 所有类别 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:07 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>音频文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/audio-file-extensions/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/audio-file-extensions/</guid>
+      <description>称为“音频文件”的类别包含压缩和未压缩的音频格式。</description>
+    </item>
+    
+    <item>
+      <title>3D 图像文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/3d-image-file-extensions/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/3d-image-file-extensions/</guid>
+      <description>3D 模型、3D 动画和 3D 项目文件都是可以在 3D 图像文件中找到的示例。</description>
+    </item>
+    
+    <item>
+      <title>开发人员文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/developer-file-extensions/</guid>
+      <description>与创建软件相关的文件类型可以在 Developer Files 类别中找到。</description>
+    </item>
+    
+    <item>
+      <title>备份文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/backup-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/backup-file-extensions/</guid>
+      <description>单个文件的备份副本和与备份程序有关的数据都包含在“备份文件”部分中。</description>
+    </item>
+    
     <item>
       <title>杂项文件扩展名列表</title>
       <link>https://fileformats.org/zh-cn/categories/misc-file-extensions/</link>
@@ -14,15 +50,6 @@
       
       <guid>https://fileformats.org/zh-cn/categories/misc-file-extensions/</guid>
       <description>杂项文件类别中有各种不属于任何其他类别的文件类型。</description>
-    </item>
-    
-    <item>
-      <title>3D 图像文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/3d-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/3d-image-file-extensions/</guid>
-      <description>3D 模型、3D 动画和 3D 项目文件都是可以在 3D 图像文件中找到的示例。</description>
     </item>
     
     <item>
@@ -80,30 +107,12 @@
     </item>
     
     <item>
-      <title>备份文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/backup-file-extensions/</guid>
-      <description>单个文件的备份副本和与备份程序有关的数据都包含在“备份文件”部分中。</description>
-    </item>
-    
-    <item>
       <title>字体文件扩展名的完整列表</title>
       <link>https://fileformats.org/zh-cn/categories/font-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/categories/font-file-extensions/</guid>
       <description>字体文件是包含计算机操作系统和各种其他计算机程序使用的键入字符的文件。</description>
-    </item>
-    
-    <item>
-      <title>开发人员文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/developer-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/developer-file-extensions/</guid>
-      <description>与创建软件相关的文件类型可以在 Developer Files 类别中找到。</description>
     </item>
     
     <item>
@@ -230,15 +239,6 @@
       
       <guid>https://fileformats.org/zh-cn/categories/settings-file-extensions/</guid>
       <description>操作系统首选项和计算机程序设置保存在称为“设置”的文件中。 配置文件也可以称为首选项文件。</description>
-    </item>
-    
-    <item>
-      <title>音频文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/audio-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/audio-file-extensions/</guid>
-      <description>称为“音频文件”的类别包含压缩和未压缩的音频格式。</description>
     </item>
     
     <item>

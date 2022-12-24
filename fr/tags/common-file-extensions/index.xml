@@ -5,6 +5,25 @@
     <link>https://fileformats.org/fr/tags/common-file-extensions/</link>
     <description>Recent content in Liste de toutes les extensions de fichiers courantes (formats, types et significations) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/tags/common-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/common-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3</title>
+      <link>https://fileformats.org/fr/file-types/mp3-audio-file/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/mp3-audio-file/</guid>
+      <description>Fichier audio MP3</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/fr/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/finale-temporary-file/</guid>
+      <description>Archive temporaire de Finale</description>
+    </item>
+    
   </channel>
 </rss>

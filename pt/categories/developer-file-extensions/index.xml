@@ -5,6 +5,16 @@
     <link>https://fileformats.org/pt/categories/developer-file-extensions/</link>
     <description>Recent content in A lista completa de extensões de arquivo do desenvolvedor on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/pt/categories/developer-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 02:15:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/categories/developer-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/pt/file-types/bluej-default-template/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/bluej-default-template/</guid>
+      <description>Modelo padrão do BlueJ</description>
+    </item>
+    
   </channel>
 </rss>

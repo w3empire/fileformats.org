@@ -5,6 +5,25 @@
     <link>https://fileformats.org/zh-cn/authors/akira-osawa/</link>
     <description>Recent content in 大泽明在 FileFormats 上的所有文章 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/zh-cn/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 11:57:49 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EFS</title>
+      <link>https://fileformats.org/zh-cn/file-types/ensoniq-sq-80-file/</link>
+      <pubDate>Sat, 24 Dec 2022 11:57:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/ensoniq-sq-80-file/</guid>
+      <description>Ensoniq SQ-80 文件</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/zh-cn/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>压缩的 Poser 角色索具文件</description>
+    </item>
+    
   </channel>
 </rss>

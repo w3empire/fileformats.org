@@ -5,6 +5,25 @@
     <link>https://fileformats.org/ru/tags/t/</link>
     <description>Recent content in Список всех расширений файлов, начинающихся с буквы «Т» (значения) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ru/tags/t/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 02:15:17 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/tags/t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/ru/file-types/bluej-default-template/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/bluej-default-template/</guid>
+      <description>Шаблон BlueJ по умолчанию</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/ru/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/finale-temporary-file/</guid>
+      <description>Временный архив Finale</description>
+    </item>
+    
   </channel>
 </rss>

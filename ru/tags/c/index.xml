@@ -5,6 +5,25 @@
     <link>https://fileformats.org/ru/tags/c/</link>
     <description>Recent content in Список всех расширений файлов, начинающихся с буквы «C» (значения) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ru/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 19:18:54 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4D</title>
+      <link>https://fileformats.org/ru/file-types/cinema-4d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:18:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/cinema-4d-model-file/</guid>
+      <description>Cinema 4D -модельный файл</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/ru/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>сжатый файл оснастки персонажей Poser</description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,6 +5,25 @@
     <link>https://fileformats.org/es/authors/akira-osawa/</link>
     <description>Recent content in Todos los artículos de Akira Osawa en FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/es/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 11:57:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EFS</title>
+      <link>https://fileformats.org/es/file-types/ensoniq-sq-80-file/</link>
+      <pubDate>Sat, 24 Dec 2022 11:57:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/ensoniq-sq-80-file/</guid>
+      <description>Archivo Ensoniq SQ-80</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/es/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>Archivo comprimido de manipulación de personajes de Poser</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,7 +6,70 @@
     <description>Recent content in FileFormats에 대한 Richard Scott의 모든 기사 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:05:14 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FLP</title>
+      <link>https://fileformats.org/ko/file-types/fl-studio-project/</link>
+      <pubDate>Sat, 24 Dec 2022 12:05:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/fl-studio-project/</guid>
+      <description>FL Studio 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/ko/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/aero-experience-file/</guid>
+      <description>Aero Experience File</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ko/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/directx-mesh-file/</guid>
+      <description>DirectX 메쉬 파일</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ko/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/3d-mesh-model/</guid>
+      <description>3D 메쉬 모델</description>
+    </item>
+    
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</guid>
+      <description>블록 벤치 3D 모델 파일</description>
+    </item>
+    
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/ko/file-types/bluej-default-template/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/bluej-default-template/</guid>
+      <description>BlueJ 기본 템플릿</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/ko/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/finale-temporary-file/</guid>
+      <description>Finale의 임시 아카이브</description>
+    </item>
+    
     <item>
       <title>DOC#</title>
       <link>https://fileformats.org/ko/file-types/libreoffice-document-lock-file/</link>

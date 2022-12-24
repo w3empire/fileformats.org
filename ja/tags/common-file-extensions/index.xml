@@ -5,6 +5,25 @@
     <link>https://fileformats.org/ja/tags/common-file-extensions/</link>
     <description>Recent content in すべての一般的なファイル拡張子のリスト (形式、種類、および意味) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/tags/common-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/tags/common-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3</title>
+      <link>https://fileformats.org/ja/file-types/mp3-audio-file/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/mp3-audio-file/</guid>
+      <description>MP3 オーディオ ファイル</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/ja/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/finale-temporary-file/</guid>
+      <description>Finale一時アーカイブ</description>
+    </item>
+    
   </channel>
 </rss>

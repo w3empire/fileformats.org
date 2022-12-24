@@ -5,6 +5,25 @@
     <link>https://fileformats.org/zh-cn/tags/common-file-extensions/</link>
     <description>Recent content in 所有常见文件扩展名列表（格式、类型和含义） on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/zh-cn/tags/common-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/tags/common-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3</title>
+      <link>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</guid>
+      <description>MP3 音频文件</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/zh-cn/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/finale-temporary-file/</guid>
+      <description>Finale 临时存档</description>
+    </item>
+    
   </channel>
 </rss>

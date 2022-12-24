@@ -5,6 +5,16 @@
     <link>https://fileformats.org/es/categories/backup-file-extensions/</link>
     <description>Recent content in La lista completa de extensiones de archivos de copia de seguridad on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/es/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 01:37:08 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/es/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/finale-temporary-file/</guid>
+      <description>Archivo Temporal de Finale</description>
+    </item>
+    
   </channel>
 </rss>

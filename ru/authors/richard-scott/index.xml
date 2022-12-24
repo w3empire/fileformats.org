@@ -6,7 +6,70 @@
     <description>Recent content in Все статьи Ричарда Скотта на FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:06 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:05:15 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FLP</title>
+      <link>https://fileformats.org/ru/file-types/fl-studio-project/</link>
+      <pubDate>Sat, 24 Dec 2022 12:05:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/fl-studio-project/</guid>
+      <description>Проект FL Studio</description>
+    </item>
+    
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/ru/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/aero-experience-file/</guid>
+      <description>файл Aero Experience</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ru/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/directx-mesh-file/</guid>
+      <description>Файл сетки DirectX</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ru/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/3d-mesh-model/</guid>
+      <description>3D-модель сетки</description>
+    </item>
+    
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/ru/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/blockbench-3d-model-file/</guid>
+      <description>файл 3D-модели Blockbench</description>
+    </item>
+    
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/ru/file-types/bluej-default-template/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/bluej-default-template/</guid>
+      <description>Шаблон BlueJ по умолчанию</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/ru/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/finale-temporary-file/</guid>
+      <description>Временный архив Finale</description>
+    </item>
+    
     <item>
       <title>DOC#</title>
       <link>https://fileformats.org/ru/file-types/libreoffice-document-lock-file/</link>

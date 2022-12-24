@@ -5,6 +5,61 @@
     <link>https://fileformats.org/fr/categories/3d-image-file-extensions/</link>
     <description>Recent content in La liste complète des extensions de fichiers d&#39;images 3D on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/categories/3d-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/3d-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/fr/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/aero-experience-file/</guid>
+      <description>Fichier d&amp;rsquo;expérience Aero</description>
+    </item>
+    
+    <item>
+      <title>C4D</title>
+      <link>https://fileformats.org/fr/file-types/cinema-4d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:18:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/cinema-4d-model-file/</guid>
+      <description>Fichier de modèle Cinema 4D</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/fr/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>Fichier de montage de personnage compressé Poser</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/fr/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/directx-mesh-file/</guid>
+      <description>Fichier de maillage DirectX</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/fr/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/3d-mesh-model/</guid>
+      <description>Modèle de maillage 3D</description>
+    </item>
+    
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/fr/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/blockbench-3d-model-file/</guid>
+      <description>Fichier de modèle 3D Blockbench</description>
+    </item>
+    
   </channel>
 </rss>

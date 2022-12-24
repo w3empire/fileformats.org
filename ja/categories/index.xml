@@ -6,7 +6,43 @@
     <description>Recent content in すべてのカテゴリ on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:04 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>オーディオ ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/audio-file-extensions/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/audio-file-extensions/</guid>
+      <description>「オーディオ ファイル」として知られるカテゴリには、圧縮されたオーディオ形式と圧縮されていないオーディオ形式の両方が含まれます。</description>
+    </item>
+    
+    <item>
+      <title>3D 画像ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/3d-image-file-extensions/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/3d-image-file-extensions/</guid>
+      <description>3 次元モデル、3 次元アニメーション、および 3 次元プロジェクト ファイルはすべて、3D 画像ファイル内にあるものの例です。</description>
+    </item>
+    
+    <item>
+      <title>開発者ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/developer-file-extensions/</guid>
+      <description>ソフトウェアの作成に関連するファイルの種類は、開発者用ファイル カテゴリにあります。</description>
+    </item>
+    
+    <item>
+      <title>バックアップ ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/backup-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/backup-file-extensions/</guid>
+      <description>バックアップ プログラムに関連する個々のファイルとデータのバックアップ コピーは、どちらも [バックアップ ファイル] セクションに含まれています。</description>
+    </item>
+    
     <item>
       <title>その他のファイル拡張子のリスト</title>
       <link>https://fileformats.org/ja/categories/misc-file-extensions/</link>
@@ -14,15 +50,6 @@
       
       <guid>https://fileformats.org/ja/categories/misc-file-extensions/</guid>
       <description>その他のファイル カテゴリには、他のどのカテゴリにも属さないさまざまなファイル タイプがあります。</description>
-    </item>
-    
-    <item>
-      <title>3D 画像ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/3d-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/3d-image-file-extensions/</guid>
-      <description>3 次元モデル、3 次元アニメーション、および 3 次元プロジェクト ファイルはすべて、3D 画像ファイル内にあるものの例です。</description>
     </item>
     
     <item>
@@ -68,15 +95,6 @@
       
       <guid>https://fileformats.org/ja/categories/encoded-file-extensions/</guid>
       <description>エンコード方法を使用してコンテンツを保存するファイルは、「エンコードされている」と言われます。</description>
-    </item>
-    
-    <item>
-      <title>オーディオ ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/audio-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/audio-file-extensions/</guid>
-      <description>「オーディオ ファイル」として知られるカテゴリには、圧縮されたオーディオ形式と圧縮されていないオーディオ形式の両方が含まれます。</description>
     </item>
     
     <item>
@@ -149,15 +167,6 @@
       
       <guid>https://fileformats.org/ja/categories/database-file-extensions/</guid>
       <description>データベース ファイル内の情報は、フィールドを含む表形式または表形式で格納されます。</description>
-    </item>
-    
-    <item>
-      <title>バックアップ ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/backup-file-extensions/</guid>
-      <description>バックアップ プログラムに関連する個々のファイルとデータのバックアップ コピーは、どちらも [バックアップ ファイル] セクションに含まれています。</description>
     </item>
     
     <item>
@@ -239,15 +248,6 @@
       
       <guid>https://fileformats.org/ja/categories/settings-file-extensions/</guid>
       <description>オペレーティング システムの設定とコンピュータ プログラムの設定は、「設定」と呼ばれるファイルに保存されます。 構成ファイルは、設定ファイルと呼ばれることもあります。</description>
-    </item>
-    
-    <item>
-      <title>開発者ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/developer-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/developer-file-extensions/</guid>
-      <description>ソフトウェアの作成に関連するファイルの種類は、開発者用ファイル カテゴリにあります。</description>
     </item>
     
   </channel>

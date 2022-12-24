@@ -6,7 +6,61 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:16 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List of All Binary File Extensions (Formats, Types, and Meanings)</title>
+      <link>https://fileformats.org/tags/binary-file-format/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/binary-file-format/</guid>
+      <description>A computer file that is not textual is sometimes referred to as a “binary file.” Some binary file formats, like early Microsoft Word documents, actually save both the document&amp;rsquo;s text and its formatting information as binary data.</description>
+    </item>
+    
+    <item>
+      <title>List of All Common File Extensions (Formats, Types, and Meanings)</title>
+      <link>https://fileformats.org/tags/common-file-extensions/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/common-file-extensions/</guid>
+      <description>Complete list with the most common file extensions for all operating systems. Browse the most common file types for Windows, Mac, Android, and Linux.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “M” (Meanings)</title>
+      <link>https://fileformats.org/tags/m/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/m/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “M”.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “A” (Meanings)</title>
+      <link>https://fileformats.org/tags/a/</link>
+      <pubDate>Sat, 24 Dec 2022 12:21:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/a/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “A”.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “F” (Meanings)</title>
+      <link>https://fileformats.org/tags/f/</link>
+      <pubDate>Sat, 24 Dec 2022 12:05:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/f/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “F”.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “E” (Meanings)</title>
+      <link>https://fileformats.org/tags/e/</link>
+      <pubDate>Sat, 24 Dec 2022 11:57:40 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/e/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “E”.</description>
+    </item>
+    
     <item>
       <title>List of All File Extensions Starting With the Letter “R” (Meanings)</title>
       <link>https://fileformats.org/tags/r/</link>
@@ -26,15 +80,6 @@
     </item>
     
     <item>
-      <title>List of All Binary File Extensions (Formats, Types, and Meanings)</title>
-      <link>https://fileformats.org/tags/binary-file-format/</link>
-      <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
-      
-      <guid>https://fileformats.org/tags/binary-file-format/</guid>
-      <description>A computer file that is not textual is sometimes referred to as a “binary file.” Some binary file formats, like early Microsoft Word documents, actually save both the document&amp;rsquo;s text and its formatting information as binary data.</description>
-    </item>
-    
-    <item>
       <title>List of All File Extensions Starting With the Letter “G” (Meanings)</title>
       <link>https://fileformats.org/tags/g/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
@@ -50,15 +95,6 @@
       
       <guid>https://fileformats.org/tags/c/</guid>
       <description>Browse through a complete list of file extensions starting with the letter “C”.</description>
-    </item>
-    
-    <item>
-      <title>List of All File Extensions Starting With the Letter “M” (Meanings)</title>
-      <link>https://fileformats.org/tags/m/</link>
-      <pubDate>Fri, 23 Dec 2022 16:04:09 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/m/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “M”.</description>
     </item>
     
     <item>
@@ -116,15 +152,6 @@
     </item>
     
     <item>
-      <title>List of All Common File Extensions (Formats, Types, and Meanings)</title>
-      <link>https://fileformats.org/tags/common-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 02:50:00 -0300</pubDate>
-      
-      <guid>https://fileformats.org/tags/common-file-extensions/</guid>
-      <description>Complete list with the most common file extensions for all operating systems. Browse the most common file types for Windows, Mac, Android, and Linux.</description>
-    </item>
-    
-    <item>
       <title>List of All File Extensions Starting With the Letter “T” (Meanings)</title>
       <link>https://fileformats.org/tags/t/</link>
       <pubDate>Tue, 13 Dec 2022 02:44:52 -0300</pubDate>
@@ -149,33 +176,6 @@
       
       <guid>https://fileformats.org/tags/1/</guid>
       <description>Browse through a complete list of file extensions starting with a number or a symbol.</description>
-    </item>
-    
-    <item>
-      <title>List of All File Extensions Starting With the Letter “A” (Meanings)</title>
-      <link>https://fileformats.org/tags/a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/a/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “A”.</description>
-    </item>
-    
-    <item>
-      <title>List of All File Extensions Starting With the Letter “E” (Meanings)</title>
-      <link>https://fileformats.org/tags/e/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/e/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “E”.</description>
-    </item>
-    
-    <item>
-      <title>List of All File Extensions Starting With the Letter “F” (Meanings)</title>
-      <link>https://fileformats.org/tags/f/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/f/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “F”.</description>
     </item>
     
     <item>

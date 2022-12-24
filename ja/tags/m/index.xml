@@ -5,6 +5,34 @@
     <link>https://fileformats.org/ja/tags/m/</link>
     <description>Recent content in 文字「M」で始まるすべてのファイル拡張子のリスト (意味) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/tags/m/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/tags/m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3</title>
+      <link>https://fileformats.org/ja/file-types/mp3-audio-file/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/mp3-audio-file/</guid>
+      <description>MP3 オーディオ ファイル</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ja/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:36 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/directx-mesh-file/</guid>
+      <description>DirectX メッシュ ファイル</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ja/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/3d-mesh-model/</guid>
+      <description>3Dメッシュモデル</description>
+    </item>
+    
   </channel>
 </rss>

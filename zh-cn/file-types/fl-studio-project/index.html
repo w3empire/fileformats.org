@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="auto">
+<head>
+    <title>FLP 文件格式（什么是 FLP 文件类型以及如何打开它）</title><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link rel="canonical" href="https://fileformats.org/zh-cn/file-types/fl-studio-project/">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest"><meta name="keywords" content="" /><meta name="description" content="什么是FLP文件？ 了解如何打开、编辑和转换 FLP 文件。 在此页面上，您将找到与 FLP 文件兼容的软件列表。" />
+
+
+<meta itemprop="name" content="FLP 文件格式（什么是 FLP 文件类型以及如何打开它）">
+<meta itemprop="description" content="什么是FLP文件？ 了解如何打开、编辑和转换 FLP 文件。 在此页面上，您将找到与 FLP 文件兼容的软件列表。"><meta itemprop="wordCount" content="66"><meta itemprop="image" content="https://fileformats.org/images/fileformats.jpg">
+
+
+<meta itemprop="keywords" content="F," />
+
+
+<meta property="og:title" content="FLP 文件格式（什么是 FLP 文件类型以及如何打开它）" />
+<meta property="og:image" content="https://fileformats.org/images/fileformats.jpg" />
+<meta property="og:description" content="什么是FLP文件？ 了解如何打开、编辑和转换 FLP 文件。 在此页面上，您将找到与 FLP 文件兼容的软件列表。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://fileformats.org/zh-cn/file-types/fl-studio-project/" /><meta property="article:section" content="file-types" />
+
+
+<meta name="twitter:card" value="summary">
+<meta name="twitter:title" content="FLP 文件格式（什么是 FLP 文件类型以及如何打开它）"/>
+<meta name=twitter:image content="https://fileformats.org/images/fileformats.jpg" />
+<meta name="twitter:description" content="什么是FLP文件？ 了解如何打开、编辑和转换 FLP 文件。 在此页面上，您将找到与 FLP 文件兼容的软件列表。"/>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V3MBY51CR7"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-V3MBY51CR7');
+</script>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3427355473051563" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700;900&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.6/dist/semantic.min.css"><link rel="stylesheet" href="https://fileformats.org/css/main.min.02e19a32d25f87afe3e91ec79415b239c72061544d57deb2bf7f37d9db22f1ad.css" integrity="sha256-AuGaMtJfh6/j6R7HlBWyOccgYVRNV96yv3832dsi8a0=" crossorigin="anonymous"><script type="application/ld+json">
+    {"@context": "http://schema.org","@id": "https:\/\/fileformats.org\/zh-cn\/file-types\/fl-studio-project\/","@type": "Dataset","url": "https:\/\/fileformats.org\/zh-cn\/file-types\/fl-studio-project\/","name": "FL Studio 项目","alternateName": "flp","dateModified": "2022-12-24 12:05:17 \u002b0000 UTC",}
+</script>
+</script></head>
+<body><div class="ui left demo vertical inverted sidebar huge menu">
+    <div class="item" style="background-color: #1b1c1d;">
+        <a href="https://fileformats.org/zh-cn/" class="item no-border" title="返回首页">
+            <span class="flex-center site-name">
+                <span style="color: white;"><i class="file alternate icon"></i></span>
+                FileFormats<span style="color: white;">.org</span>
+            </span>
+        </a>
+    </div><a class="item" href="https://fileformats.org/zh-cn/categories/3d-image-file-extensions/"><i class="cube icon icon"></i>3D 图像文件扩展名
+            </a><a class="item" href="https://fileformats.org/zh-cn/categories/audio-file-extensions/"><i class="volume up icon icon"></i>音频文件扩展名
+            </a><a class="item" href="https://fileformats.org/zh-cn/categories/backup-file-extensions/"><i class="save outline icon"></i>备份文件扩展名
+            </a><a class="item" href="https://fileformats.org/zh-cn/categories/developer-file-extensions/"><i class="file code outline icon"></i>开发人员文件扩展名
+            </a><a class="item" href="https://fileformats.org/zh-cn/categories/misc-file-extensions/"><i class="copy outline icon"></i>杂项文件扩展名
+            </a>
+    <div class="item menu-bottom-space"></div>
+
+</div>
+<div class="pusher">
+        
+        <span id="back-to-top" class="box-shadow" title="回到顶部">
+            <i class="ui large text up arrow icon m-0"></i>
+        </span>
+
+
+
+
+<div class="ui inverted secondary menu m-0 flex-center br-0 bg-green" style="height: 54px;">
+    <div class="ui container">
+
+        
+        <a class="item" id="open-sidebar"><i class="large bars icon"></i></a>
+
+        <a href="https://fileformats.org/zh-cn/" class="item pv-0 hide-mobile" title="返回首页">
+            <span class="flex-center site-name">
+                <span style="color: white;"><i class="file alternate icon"></i></span>
+                FileFormats<span style="color: white;">.org</span>
+            </span>
+        </a>
+
+        <div style="flex: 1;">
+            <div class="ui right aligned item">
+                <div class="ui inverted labeled icon action input">
+                    
+                    <input type="text" placeholder="搜索..." id="search-input" style="border-top-right-radius: 4px;border-bottom-right-radius: 4px;">
+                    <i class="search link icon" id="search-query"></i>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div><div class="ui fluid container">
+    <div class="ui mini inverted message text-center br-0 bg-light-green" style="padding-top: 6px;padding-bottom: 6px;">
+        <div class="content">
+            <i class="info circle icon"></i>
+            本网站由用户资助。 如果可能，我们会使用附属链接。 <a class="white-underline-link amzn" href="https://support.filenux.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener">学到更多</a>
+        </div>
+    </div>
+</div>
+
+        <div class="ui container">
+        <div class="ui breadcrumb" id="breadcrumb" style="margin-top: 2rem;margin-bottom: 1.5rem;">
+    <a href="https://fileformats.org/zh-cn/" class="section">主页
+    </a><i class="angle double right icon divider"></i>
+    <a href="https://fileformats.org/zh-cn/file-types/" class="section">文件扩展名
+    </a>
+        <i class="angle double right icon divider"></i>
+        <a href="https://fileformats.org/zh-cn/categories/audio-file-extensions/" class="section">音频文件扩展名</a>
+    
+
+    <i class="angle double right icon divider"></i>
+    <a href="https://fileformats.org/zh-cn/file-types/fl-studio-project/" class="section">FLP - FL Studio 项目</a>
+    </div>
+    </div>
+    <script>
+        var breadcrumbs = document.getElementById("breadcrumb");
+        sessionStorage.removeItem('filenux_breadcrumbs');
+        sessionStorage.setItem("filenux_breadcrumbs", breadcrumbs.innerHTML);
+    </script>
+
+
+
+<div class="ui container">
+    <div class="ui grid">
+        
+        <div class="eleven wide computer fourteen wide tablet sixteen wide mobile column main-content">
+<div class="ui basic fitted segment b-0 clearfix pager">
+    
+    
+    
+    <a href="/zh-cn/file-types/mp3-audio-file/" class="ui labeled icon left floated button" title="MP3 音频文件">
+        <span class="overflow-hidden">MP3</span>
+        <i class="left chevron icon flex-center"></i>
+    </a>
+    <a href="/zh-cn/file-types/ensoniq-sq-80-file/" class="ui right labeled icon right floated button" title="Ensoniq SQ-80 文件">
+        <span class="overflow-hidden">EFS</span>
+        <i class="right chevron icon flex-center"></i>
+    </a></div>
+<div class="ui vertical fitted raised segment bg-white main-segment">
+
+    <div class="ui basic padded segment mt-0">
+
+        <div class="file-type-card-header">
+            <div class="file-type-card-header__shape"></div>
+        </div>
+        
+        <div class="ui stackable grid">
+            <div class="row"><div class="three wide column center aligned">
+                        <img class="ui rounded centered image download-icon lazy-img" data-src="https://fileformats.org/images/extensions/flp-1252_huc00ff3e49f2eeb847e59ec92229f8844_5299_128x0_resize_box_3.png" alt="FLP" title="FLP">
+                    </div><div class="thirteen wide column download-info">
+
+                    <h1 class="ui header mt-0">.FLP (FL Studio 项目) - 文件扩展名</h1>
+
+
+                    <div class="ui horizontal middle aligned celled list">
+                        <div class="item">
+                            <div class="content">
+                                <strong>编辑评分:</strong>
+                                <div class="ui orange tiny disabled rating" data-rating="3.5" data-max-rating="5" title="3.5 out of 5"></div> (3.5/5)
+                            </div>
+                        </div><div class="item">
+                            <div class="content">
+                                <strong>开发商:</strong> Image-Line
+                            </div>
+                        </div><div class="item">
+                                <div class="content">
+                                    <strong>文件格式:</strong> 无法使用
+                                </div>
+                            </div></div>
+
+                    
+                    <p class="mt-10 pv-10 downloadable-summary">
+                        <i class='info circle blue icon'></i> FL Studio 项目
+                    </p></div>
+            </div>
+        </div>
+        
+
+        
+        <div class="ui floating message">
+            <div class="ui grid">
+                
+                <div class="thirteen wide computer fourteen wide tablet sixteen wide mobile column"><div class="header">
+                        打开 450 多种文件类型
+                    </div><p>需要文件查看器来打开这种类型的文件？ 试试 File Viewer Plus。</p>
+                </div>
+                <div class="three wide computer two wide tablet sixteen wide mobile column">
+                    <a href="https://order.shareit.com/cart/add?vendorid=200276557&amp;PRODUCT[300995578]=1&amp;backlink=https%3A%2F%2Ffileformats.org&amp;affiliateid=200292503" target="_blank" rel="noopener nofollow" class="ui fluid primary button z-depth-2">打开</a>
+                </div>
+            </div>
+
+        </div>
+        
+
+    </div>
+
+</div>
+
+            
+            
+
+            <div class="ui vertical fitted raised segment bg-white main-segment">
+    <div class="ui basic padded segment">
+        <h2 id="什么是-flp-文件"><strong>什么是 .FLP 文件？</strong></h2>
+<p>FLP全称“FL Studio Project”文件，是音乐制作软件FL Studio（前身为FruityLoops）用来保存和存储音乐项目的一种文件格式。</p>
+<p>FLP 文件存储有关音轨、音频剪辑和 MIDI 数据如何在 FL Studio 软件中设置的信息，以及任何效果、自动化和已应用于项目的其他设置。</p>
+<p>它允许用户保存和共享他们的工作，并在以后从他们离开的地方继续。要打开 FLP 文件，您需要在计算机上安装 FL Studio。然后您可以使用该软件打开 FLP 文件并继续处理该项目。</p>
+<p>FLP 文件是项目文件，而不是音频文件。它包含有关 FL Studio 软件中音轨排列和处理的信息，但不包含实际音频数据本身。</p>
+<p>相反，FLP 文件包含对项目中使用的音频文件的引用。当您在 FL Studio 中打开 FLP 文件时，该软件将使用这些引用来定位和加载项目中使用的音频文件。</p>
+<p>这使您能够在 FL Studio 中处理项目并更改音轨的排列和处理，而无需实际修改原始音频文件。</p>
+<h2 id="更多信息"><strong>更多信息</strong></h2>
+<p>应该注意的是，如果您将 FLP 文件或它引用的音频文件移动到计算机上的其他位置，则该项目可能无法在 FL Studio 中正确播放。这是因为 FLP 文件包含对项目中使用的音频文件的引用，如果移动这些文件，引用可能不再有效。</p>
+<p>为确保 FLP 文件在 FL Studio 中正确播放，您应该确保项目中引用的所有音频文件都位于与保存项目时相同的位置。</p>
+<p><strong>如果您需要将音频文件移动到不同的位置，您可以更新 FLP 文件中的引用以指向音频文件的新位置。</strong></p>
+<p>您可以通过右键单击项目中的音频剪辑并从上下文菜单中选择“编辑示例”来执行此操作。这将打开样本属性窗口，您可以在其中更新音频文件的位置。</p>
+<p>或者，您可以使用 FL Studio 中的“全部收集并保存”功能创建一个新的 FLP 文件，其中包含项目中使用的所有音频文件的副本。</p>
+<p>如果您需要与其他人共享项目并希望确保包含所有必需的文件，这将很有用。</p>
+<p>要使用此功能，请转到“文件”菜单并选择“全部收集并保存”。这将创建一个新的 FLP 文件，其中包括项目中使用的所有音频文件的副本以及项目本身。</p>
+
+
+        
+    </div>
+</div><div class="ui vertical fitted raised segment bg-white main-segment">
+    <div class="ui basic padded segment">
+
+        <h2 class="ui header section-header">
+            <div class="content">与 FLP 文件类型兼容的软件
+                <div class="sub header">FL Studio 项目</div>
+            </div>
+        </h2><p>在本节中，您将找到与 FLP 文件类型兼容的最佳程序列表。我们选择了适用于 Windows、Mac、Android 和 Linux 的最佳软件来打开、编辑、转换和查看 FLP 文件的内容。</p>
+
+        <div class="ui pointing secondary menu scroll-menu"><a class="active item" data-tab="windows">
+                    <div class="ui tiny header">
+                        <i class="windows icon"></i>
+                        <div class="content">Windows</div>
+                    </div>
+                </a><a class="item" data-tab="mac">
+                    <div class="ui tiny header">
+                        <i class="apple icon"></i>
+                        <div class="content">macOS</div>
+                    </div>
+                </a><a class="item" data-tab="linux">
+                    <div class="ui tiny header">
+                        <i class="linux icon"></i>
+                        <div class="content">Linux</div>
+                    </div>
+                </a></div><div class="ui active tab basic fitted segment" data-tab="windows">
+                    <table class="ui small celled unstackable table">
+                        <tbody>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/image-line-fl-studio_hu9b1f13e1701be24fdf3f19fadf12fafa_1570_32x0_resize_box_3.png" alt="Image-Line FL Studio" width="32"><div class="content"><a href="/zh-cn/search-online/?q=Image-Line%20FL%20Studio" target="_blank" rel="nofollow noopener" class="legacy-link">Image-Line FL Studio</a><div class="sub header">
+                                                    <strong>执照: <span class="trial_license">试用软件</span></strong>
+                                                </div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/zh-cn/search-online/?q=Image-Line%20FL%20Studio" target="_blank" rel="nofollow noopener" class="ui button" title="在线搜索" alt="在线搜索">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">在线搜索</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/lmms_hu383473fb59b61353740cf575be929432_1524_32x0_resize_box_3.png" alt="LMMS" width="32"><div class="content"><a href="/zh-cn/search-online/?q=LMMS" target="_blank" rel="nofollow noopener" class="legacy-link">LMMS</a><div class="sub header">
+                                                    <strong>执照: <span class="free_license">免费软件</span></strong>
+                                                </div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/zh-cn/search-online/?q=LMMS" target="_blank" rel="nofollow noopener" class="ui button" title="在线搜索" alt="在线搜索">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">在线搜索</span>
+                                            </a></td>
+                                </tr></tbody>
+                    </table>
+                </div><div class="ui tab basic fitted segment" data-tab="mac">
+                    <table class="ui small celled unstackable table">
+                        <tbody>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/lmms_hu383473fb59b61353740cf575be929432_1524_32x0_resize_box_3.png" alt="LMMS" width="32"><div class="content"><a href="/zh-cn/search-online/?q=LMMS" target="_blank" rel="nofollow noopener" class="legacy-link">LMMS</a><div class="sub header">
+                                                    <strong>执照: <span class="free_license">免费软件</span></strong>
+                                                </div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/zh-cn/search-online/?q=LMMS" target="_blank" rel="nofollow noopener" class="ui button" title="在线搜索" alt="在线搜索">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">在线搜索</span>
+                                            </a></td>
+                                </tr></tbody>
+                    </table>
+                </div><div class="ui tab basic fitted segment" data-tab="linux">
+                    <table class="ui small celled unstackable table">
+                        <tbody>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/lmms_hu383473fb59b61353740cf575be929432_1524_32x0_resize_box_3.png" alt="LMMS" width="32"><div class="content"><a href="/zh-cn/search-online/?q=LMMS" target="_blank" rel="nofollow noopener" class="legacy-link">LMMS</a><div class="sub header">
+                                                    <strong>执照: <span class="free_license">免费软件</span></strong>
+                                                </div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/zh-cn/search-online/?q=LMMS" target="_blank" rel="nofollow noopener" class="ui button" title="在线搜索" alt="在线搜索">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">在线搜索</span>
+                                            </a></td>
+                                </tr></tbody>
+                    </table>
+                </div></div>
+</div>
+<div class="ui basic fitted segment b-0 clearfix pager">
+    
+    
+    
+    <a href="/zh-cn/file-types/mp3-audio-file/" class="ui labeled icon left floated button" title="MP3 音频文件">
+        <span class="overflow-hidden">MP3</span>
+        <i class="left chevron icon flex-center"></i>
+    </a>
+    <a href="/zh-cn/file-types/ensoniq-sq-80-file/" class="ui right labeled icon right floated button" title="Ensoniq SQ-80 文件">
+        <span class="overflow-hidden">EFS</span>
+        <i class="right chevron icon flex-center"></i>
+    </a></div></div>
+        
+
+        
+        <div class="five wide computer fourteen wide tablet sixteen wide mobile column">
+
+<div class="ui vertical fitted raised segment bg-white sidebar-widget">
+    <div class="ui basic segment">
+        <h2 class="ui small header">
+            分享此页面
+        </h2>
+
+        <div class="seven ui buttons">
+            <a href="https://api.qrserver.com/v1/create-qr-code/?size=154x154&data=https%3a%2f%2ffileformats.org%2fzh-cn%2ffile-types%2ffl-studio-project%2f" target="_blank" rel="noopener noreferrer" class="ui icon button share-button" aria-label="微信分享" title="微信分享" style="background-color: #26cd2f;">
+                <svg width="18" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M21.502 19.525c1.524-1.105 2.498-2.738 2.498-4.554 0-3.326-3.237-6.023-7.229-6.023s-7.229 2.697-7.229 6.023c0 3.327 3.237 6.024 7.229 6.024.825 0 1.621-.117 2.36-.33l.212-.032c.139 0 .265.043.384.111l1.583.914.139.045c.133 0 .241-.108.241-.241l-.039-.176-.326-1.215-.025-.154c0-.162.08-.305.202-.392zm-12.827-17.228c-4.791 0-8.675 3.236-8.675 7.229 0 2.178 1.168 4.139 2.997 5.464.147.104.243.276.243.471l-.03.184-.391 1.458-.047.211c0 .16.13.29.289.29l.168-.054 1.899-1.097c.142-.082.293-.133.46-.133l.255.038c.886.255 1.842.397 2.832.397l.476-.012c-.188-.564-.291-1.158-.291-1.771 0-3.641 3.542-6.593 7.911-6.593l.471.012c-.653-3.453-4.24-6.094-8.567-6.094zm5.686 11.711c-.532 0-.963-.432-.963-.964 0-.533.431-.964.963-.964.533 0 .964.431.964.964 0 .532-.431.964-.964.964zm4.82 0c-.533 0-.964-.432-.964-.964 0-.533.431-.964.964-.964.532 0 .963.431.963.964 0 .532-.431.964-.963.964zm-13.398-5.639c-.639 0-1.156-.518-1.156-1.156 0-.639.517-1.157 1.156-1.157.639 0 1.157.518 1.157 1.157 0 .638-.518 1.156-1.157 1.156zm5.783 0c-.639 0-1.156-.518-1.156-1.156 0-.639.517-1.157 1.156-1.157.639 0 1.157.518 1.157 1.157 0 .638-.518 1.156-1.157 1.156z" fill="#FFFFFF" /></svg>
+            </a>
+            <a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3a%2f%2ffileformats.org%2fzh-cn%2ffile-types%2ffl-studio-project%2f" target="_blank" rel="noopener noreferrer" class="ui icon button share-button" aria-label="分享到QQ空间" title="分享到QQ空间" style="background-color: #f1c40e;">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 172 172" width="18px" height="16px"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"/><g fill="#ffffff"><path d="M171.82456,64.27296c-0.3956,-1.18336 -1.40352,-2.064 -2.6316,-2.29448l-53.4748,-10.0276l-26.73224,-46.77712c-1.32096,-2.31168 -4.65088,-2.31168 -5.97184,0l-26.73224,46.78056l-53.4748,10.02416c-1.22808,0.23048 -2.236,1.10768 -2.6316,2.29448c-0.3956,1.1868 -0.11696,2.494 0.72584,3.41248l36.7736,40.11728l-6.6908,56.9148c-0.14448,1.2384 0.39216,2.4596 1.40352,3.18888c1.01136,0.73272 2.3392,0.86 3.46752,0.33024l50.1896,-23.42296l53.61584,23.45736c0.44376,0.19608 0.9116,0.28896 1.37944,0.28896c0.77056,0 1.53424,-0.258 2.15344,-0.76024c1.00104,-0.80152 1.46888,-2.09152 1.21776,-3.35056l-6.33304,-37.1692c9.84184,-6.88 12.94128,-12.0744 13.16832,-12.94128c0.3268,-1.23496 -0.05848,-2.54904 -1.00104,-3.41248c-0.45064,-0.41624 -0.9976,-0.68456 -1.57552,-0.81528c-55.78992,27.48904 -99.85288,13.82192 -100.50992,13.72904c-1.31408,-0.1892 -3.44,-1.0492 -3.44,-3.44c0,-1.20744 0.55384,-2.62128 1.60304,-3.44c13.44696,-10.52984 49.99696,-37.84 49.99696,-37.84c0,0 -17.1484,-6.85592 -51.6,-3.44c-1.55144,0.1548 -3.18544,-1.41728 -3.3368,-2.97904c-0.15824,-1.5996 0.17544,-3.00312 1.48264,-3.87344c0.8772,-0.58824 18.37648,-6.68392 50.01416,-6.90752c16.942,-0.1204 25.66928,6.54288 26.1268,6.8456c0.88752,0.59168 1.44824,1.56176 1.52392,2.62472c0.07568,1.06296 -0.35088,2.10184 -1.14552,2.81048l-36.91808,28.896c21.24888,7.8776 51.6688,3.51568 51.6688,3.51568l36.9628,-38.93048c0.83936,-0.91848 1.118,-2.22568 0.72584,-3.40904z"/></g></g></svg>
+            </a>
+            <a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3a%2f%2ffileformats.org%2fzh-cn%2ffile-types%2ffl-studio-project%2f" target="_blank" rel="noopener noreferrer" class="ui icon button share-button" aria-label="分享到微博" title="分享到微博" style="background-color: #f93;">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="#fff" preserveAspectRatio="xMidYMid meet" width="18" height="16" viewBox="0 0 40 40">
+                    <g><path d="m15.1 28.7q0.4-0.8 0.2-1.6t-1-1.1q-0.8-0.3-1.6 0t-1.4 1q-0.5 0.8-0.3 1.5t1 1.2 1.7 0 1.4-1z m2.1-2.7q0.1-0.3 0-0.6t-0.3-0.4q-0.4-0.2-0.7 0t-0.5 0.4q-0.3 0.7 0.3 1 0.3 0.1 0.7 0t0.5-0.4z m3.8 2.3q-1 2.3-3.5 3.4t-5 0.3q-2.4-0.8-3.3-2.9t0.2-4.1q1-2.1 3.4-3.1t4.7-0.5q2.4 0.7 3.5 2.7t0 4.2z m7-3.5q-0.2-2.2-2-3.8t-4.6-2.5-6.2-0.4q-4.9 0.5-8.2 3.1t-3 5.9q0.2 2.2 2 3.8t4.7 2.5 6.1 0.4q5-0.5 8.3-3.1t2.9-5.9z m6.9 0.1q0 1.5-0.8 3.1t-2.5 3-3.7 2.7-5.1 1.8-6 0.7-6.2-0.7-5.3-2.1-3.9-3.4-1.4-4.4q0-2.6 1.6-5.5t4.4-5.8q3.7-3.7 7.6-5.2t5.5 0.1q1.4 1.4 0.4 4.7-0.1 0.3 0 0.4t0.2 0.2 0.4 0 0.3-0.1l0.1-0.1q3.1-1.3 5.5-1.3t3.4 1.4q1 1.4 0 4 0 0.3-0.1 0.4t0.1 0.3 0.3 0.2 0.3 0.1q1.3 0.4 2.3 1t1.8 1.9 0.8 2.6z m-1.7-14q1 1.1 1.3 2.5t-0.2 2.6q-0.2 0.5-0.7 0.7t-0.9 0.1q-0.6-0.1-0.8-0.6t-0.1-1q0.5-1.4-0.5-2.5t-2.4-0.8q-0.6 0.1-1-0.2t-0.6-0.8q-0.1-0.5 0.2-1t0.8-0.5q1.4-0.3 2.7 0.1t2.2 1.4z m4.1-3.6q1.9 2.1 2.5 5t-0.3 5.4q-0.2 0.6-0.8 0.8t-1.1 0.1-0.9-0.7-0.1-1.2q0.6-1.8 0.2-3.8t-1.8-3.5q-1.4-1.6-3.3-2.2t-3.9-0.2q-0.6 0.2-1.1-0.2t-0.7-1 0.2-1.1 1-0.7q2.7-0.5 5.4 0.3t4.7 3z"></path></g>
+                </svg>
+            </a>
+            <a href="http://www.douban.com/recommend/?title=FLP&url=https%3a%2f%2ffileformats.org%2fzh-cn%2ffile-types%2ffl-studio-project%2f" target="_blank" rel="noopener noreferrer" class="ui icon button share-button" aria-label="分享到豆瓣" title="分享到豆瓣" style="background-color: #2E963D">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 35 22">
+                  <g fill="#FFF">
+                    <rect width="16" height="2"/>
+                    <path d="M13.506489,14.0556989 L15.1318414,14.0556989 L15.1318414,4.94654014 L1.37779154,4.94654014 L1.37779154,14.0552298 L2.82468638,14.0552298 L4.05216045,19.2499414 L0,19.2499414 L0,21.3127199 L16.4209385,21.3127199 L16.4209385,19.2499414 L12.3531051,19.2499414 L13.506489,14.0556989 Z M4.14797894,7.29220597 L12.4482112,7.29220597 L12.4482112,11.6462309 L4.14797894,11.6462309 L4.14797894,7.29220597 Z M10.0313768,19.2504105 L6.3738888,19.2504105 L5.14605854,14.0556989 L11.1851169,14.0556989 L10.0313768,19.2504105 Z M22.5668577,12.9316558 L21.3589747,13.2431603 L21.3589747,10.7084337 L23,10.7084337 L23,8.43923657 L22.3392442,8.43923657 L22.564008,3.62733766 L22.8564503,3.62733766 L22.8564503,1.7977183 L21.1847917,1.7977183 L21.1847917,0 L19.7959579,0 L19.7959579,1.7977183 L18.1392597,1.7977183 L18.1392597,3.62733766 L18.4220845,3.62733766 L18.6472046,8.43923657 L17.7691653,8.43923657 L17.7691653,10.7084337 L19.6356667,10.7084337 L19.6356667,13.5673313 L18.0576893,13.9097985 L18.0576893,16.1226997 L19.6139383,15.7525536 C19.4561406,18.0062693 18.4487997,21.0556349 18.4381136,21.0889433 L20.016091,22 C20.0698776,21.8376799 21.317299,18.0630344 21.3568375,15.3256424 L22.5665014,15.0788783 L22.5665014,12.9316558 L22.5668577,12.9316558 Z M20.9472045,8.43923657 L20.038888,8.43923657 L19.813768,3.62733766 L21.1716122,3.62733766 L20.9472045,8.43923657 Z"/>
+                    <path d="M29.5663749,13.8593243 L29.5671009,1.92420235 L29.9776935,1.79704828 L28.819975,0 L23.3366948,1.61077461 L23.3366948,15.2552039 C23.3366948,16.9448046 22.3717478,20.12741 22,21.2112694 L23.3762656,22 C23.4358033,21.8259256 24.8414748,17.703037 24.8414748,15.2552039 L24.8414748,3.17228288 L25.6481385,2.94096571 L25.6481385,19.113931 L24.5336211,19.1176847 L24.5336211,21.4003583 L24.5485056,21.573025 L28.1298456,21.0615936 L28.1298456,19.1040778 L27.1540076,19.1078314 L27.1540076,2.50836034 L28.061958,2.24748336 L28.061958,13.8048968 C28.051793,14.2018427 27.9661167,18.873699 29.4189827,21.854547 C29.9442943,21.6682733 30.471058,21.498891 31,21.3403003 L30.7930701,21.0160809 C29.4505668,18.5330575 29.5645597,13.9048371 29.5663749,13.8593243 Z"/>
+                    <path d="M35,10.8394923 L35,8.54252289 L34.2545706,8.54252289 L34.4745496,3.81799344 L34.9085887,3.81799344 L34.9085887,1.7171473 L33.1757202,1.7171473 L33.1757202,0 L31.8124425,0 L31.8124425,1.7171473 L30.0795739,1.7171473 L30.0795739,3.81799344 L30.4702091,3.81799344 L30.7815994,8.54252289 L30,8.54252289 L30,10.8394923 L31.7045903,10.8394923 L31.7045903,13.6293818 L30.2561489,13.6293818 L30.2561489,15.9287256 L31.7045903,15.9287256 L31.7045903,22 L33.2954098,22 L33.2954098,15.9287256 L34.74418,15.9287256 L34.74418,13.6293818 L33.2954098,13.6293818 L33.2954098,10.8394923 L35,10.8394923 Z M32.8817572,8.54299774 L32.1540839,8.54299774 L31.8436802,3.81846832 L33.102065,3.81846832 L32.8817572,8.54299774 Z"/>
+                  </g>
+                </svg>
+            </a>
+            <a href="mailto:?Subject=FLP&amp;Body=%e7%9c%8b%e4%b8%80%e4%b8%8b%e8%bf%99%e4%b8%aa: https%3a%2f%2ffileformats.org%2fzh-cn%2ffile-types%2ffl-studio-project%2f" class="ui secondary icon button" target="_blank" rel="noopener noreferrer" aria-label="通过电子邮件分享" title="通过电子邮件分享">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 24 24"><path d="M12 12.713l-11.985-9.713h23.971l-11.986 9.713zm-5.425-1.822l-6.575-5.329v12.501l6.575-7.172zm10.85 0l6.575 7.172v-12.501l-6.575 5.329zm-1.557 1.261l-3.868 3.135-3.868-3.135-8.11 8.848h23.956l-8.11-8.848z" fill="#FFFFFF" /></svg>
+            </a></div> 
+
+
+    </div>
+</div><div class="ui vertical fitted raised segment bg-white sidebar-widget"><div class="ui fluid card mb-0 br-0">
+        <div class="extra content">
+            <div class="author">
+                <div class="ui small header" style="display: flex;">
+                    <div class="ui image">
+                        <img class="ui avatar image lazy-img" data-src="https://fileformats.org/images/authors/richard.png" title="作者图片" alt="作者图片" style="width: 50px; height: 50px;">
+                    </div>
+                    <div class="content" style="flex: 1;">
+                        <div class="sub header">
+                            <small style="text-transform: uppercase;">作者</small>
+                        </div>
+                        <a href="https://fileformats.org/zh-cn/authors/richard-scott/" class="legacy-link">Richard Scott</a>
+                        <div class="sub header">
+                            技术文件撰稿人
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><div class="ui message mt-0 br-0 p-0" style="box-shadow: none;border-top: 1px solid #ccc;">
+    <div class="content">
+        
+        <div class="ui basic segment">
+            <div class="ui stackable grid">
+                <div class="row">
+                    <div class="sixteen wide center aligned column mb-20">
+                        <div class="ui tiny statistic">
+                          <div class="value">
+                            3.5/5
+                          </div>
+                          <div class="label">
+                            <div class="ui orange disabled rating" data-rating="3.5" data-max-rating="5"></div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="sixteen wide column">
+
+                        <div class="rating-aspect__container"><div class="ui small indicating progress" data-value="3.1" data-total="5" data-text="便于使用">
+                                <div class="bar">
+                                    <div class="progress"></div>
+                                </div>
+                                <div class="label">便于使用</div>
+                            </div><div class="ui small indicating progress" data-value="3.3" data-total="5" data-text="重要性">
+                                <div class="bar">
+                                    <div class="progress"></div>
+                                </div>
+                                <div class="label">重要性</div>
+                            </div><div class="ui small indicating progress" data-value="3.3" data-total="5" data-text="支持">
+                                <div class="bar">
+                                    <div class="progress"></div>
+                                </div>
+                                <div class="label">支持</div>
+                            </div><div class="ui small indicating progress" data-value="4.4" data-total="5" data-text="可用性">
+                                <div class="bar">
+                                    <div class="progress"></div>
+                                </div>
+                                <div class="label">可用性</div>
+                            </div></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+<div class="ui vertical fitted raised segment bg-white sidebar-widget">
+    <div class="ui basic segment">
+        <h2 class="ui small header">
+            相关文件扩展名
+        </h2>
+
+        <table class="ui small segment unstackable table">
+            <tbody><tr class="break-word">
+                    <td><a class="ui small header download-list-item" href="/zh-cn/file-types/mp3-audio-file/">
+                            <div class="download-icon-list__container">
+                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_3434bd64076b916673fdf2b1f8b351fe.png" alt="MP3 音频文件" title="MP3 音频文件">
+                            </div>
+
+                            <div class="content" style="flex: 1;">
+                                <span class="legacy-link" href="/zh-cn/file-types/mp3-audio-file/">MP3</span>
+                                <div class="sub header">
+                                    <span class="ui grey text">MP3 音频文件</span>
+                                </div>
+                            </div>
+                        </a>
+
+                    </td>
+                </tr><tr class="break-word">
+                    <td><a class="ui small header download-list-item" href="/zh-cn/file-types/ensoniq-sq-80-file/">
+                            <div class="download-icon-list__container">
+                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_6f42b9d36fdd4c94b6137289bbbe1776.png" alt="Ensoniq SQ-80 文件" title="Ensoniq SQ-80 文件">
+                            </div>
+
+                            <div class="content" style="flex: 1;">
+                                <span class="legacy-link" href="/zh-cn/file-types/ensoniq-sq-80-file/">EFS</span>
+                                <div class="sub header">
+                                    <span class="ui grey text">Ensoniq SQ-80 文件</span>
+                                </div>
+                            </div>
+                        </a>
+
+                    </td>
+                </tr></tbody>
+        </table>
+    </div>
+</div>
+
+    
+
+    
+    
+
+    
+</div>
+        
+
+    </div>
+
+</div>
+
+
+        
+        
+
+        
+
+        
+
+<div class="ui container" style="margin-top: 1.8rem;margin-bottom: 1.8rem;">
+    <div class="ui vertical fitted segment">
+        <div class="ui segment">
+            <h2 class="ui small header">
+                按字母顺序浏览文件扩展名
+            </h2>
+
+            <div class="ui horizontal middle aligned celled huge list" style="margin-top: 0;line-height: 1.4em;">
+                <a href="https://fileformats.org/zh-cn/tags/1/" class="item legacy-link">#</a>
+                <a href="https://fileformats.org/zh-cn/tags/a/" class="item legacy-link">A-a</a>
+                <a href="https://fileformats.org/zh-cn/tags/b/" class="item legacy-link">B-b</a>
+                <a href="https://fileformats.org/zh-cn/tags/c/" class="item legacy-link">C-c</a>
+                <a href="https://fileformats.org/zh-cn/tags/d/" class="item legacy-link">D-d</a>
+                <a href="https://fileformats.org/zh-cn/tags/e/" class="item legacy-link">E-e</a>
+                <a href="https://fileformats.org/zh-cn/tags/f/" class="item legacy-link">F-f</a>
+                <a href="https://fileformats.org/zh-cn/tags/g/" class="item legacy-link">G-g</a>
+                <a href="https://fileformats.org/zh-cn/tags/h/" class="item legacy-link">H-h</a>
+                <a href="https://fileformats.org/zh-cn/tags/i/" class="item legacy-link">I-i</a>
+                <a href="https://fileformats.org/zh-cn/tags/j/" class="item legacy-link">J-j</a>
+                <a href="https://fileformats.org/zh-cn/tags/k/" class="item legacy-link">K-k</a>
+                <a href="https://fileformats.org/zh-cn/tags/l/" class="item legacy-link">L-l</a>
+                <a href="https://fileformats.org/zh-cn/tags/m/" class="item legacy-link">M-m</a>
+                <a href="https://fileformats.org/zh-cn/tags/n/" class="item legacy-link">N-n</a>
+                <a href="https://fileformats.org/zh-cn/tags/o/" class="item legacy-link">O-o</a>
+                <a href="https://fileformats.org/zh-cn/tags/p/" class="item legacy-link">P-p</a>
+                <a href="https://fileformats.org/zh-cn/tags/q/" class="item legacy-link">Q-q</a>
+                <a href="https://fileformats.org/zh-cn/tags/r/" class="item legacy-link">R-r</a>
+                <a href="https://fileformats.org/zh-cn/tags/s/" class="item legacy-link">S-s</a>
+                <a href="https://fileformats.org/zh-cn/tags/t/" class="item legacy-link">T-t</a>
+                <a href="https://fileformats.org/zh-cn/tags/u/" class="item legacy-link">U-u</a>
+                <a href="https://fileformats.org/zh-cn/tags/v/" class="item legacy-link">V-v</a>
+                <a href="https://fileformats.org/zh-cn/tags/w/" class="item legacy-link">W-w</a>
+                <a href="https://fileformats.org/zh-cn/tags/x/" class="item legacy-link">X-x</a>
+                <a href="https://fileformats.org/zh-cn/tags/y/" class="item legacy-link">Y-y</a>
+                <a href="https://fileformats.org/zh-cn/tags/z/" class="item legacy-link">Z-z</a>
+            </div>
+        </div>
+    </div>
+</div><div class="ui vertical raised padded segment bg-white" style="margin-top: 1.8rem;">
+    <div class="ui container">
+        <h2 class="ui header center aligned">为什么选择 FileFormats？</h2>
+        <div class="ui three column center aligned divided stackable grid">
+            <div class="row">
+                <div class="column">
+                    <div class="ui basic segment">
+                        <h2 class="ui icon header">
+                            <i class="green search icon"></i>研究
+                        </h2>
+                        <p>FileFormats 团队独立研究了此页面上显示的文件格式。</p>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="ui basic segment">
+                        <h2 class="ui icon header">
+                            <i class="green puzzle piece icon"></i>兼容性
+                        </h2>
+                        <p>我们单独测试与此文件格式兼容的每个应用程序，以确保您只获得解决问题的最佳解决方案。</p>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="ui basic segment">
+                        <h2 class="ui icon header">
+                            <i class="green bullseye icon"></i>准确性
+                        </h2>
+                        <p>我们的目标是 100% 准确，并且我们只发布关于我们已验证的文件类型的信息。</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div><div class="ui inverted vertical footer segment" style="padding: 70px 0;">
+    <div class="ui container">
+        <div class="ui inverted divided equal height stackable grid">
+            <div class="four wide column">
+    
+
+    <a href="https://fileformats.org/zh-cn/" class="item mb-20" title="返回首页">
+        <span class="site-name mt-0 pt-0" style="display: inline-block;">
+            <span style="color: white;"><i class="file alternate icon"></i></span>
+            FileFormats<span style="color: white;">.org</span>
+        </span>
+    </a>
+
+    <p>互联网上最大的文件扩展名数据库。 关于文件类型和文件格式的最值得信赖的信息来源。 在这里您可以找到与文件相关的所有数据。 我们的网站包含超过 10,000 种文件类型的信息。</p>
+
+</div><div class="three wide column"><div class="ui inverted small header">浏览方式</div>
+                    <div class="ui inverted very relaxed link list"><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/categories/" class="amzn inverted_footer__link">
+                                    类别
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/authors/" class="amzn inverted_footer__link">
+                                    作者
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/tags/" class="amzn inverted_footer__link">
+                                    标签
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/tags/a/" class="amzn inverted_footer__link">
+                                    按字母顺序
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/tags/common-file-extensions/" class="amzn inverted_footer__link">
+                                    常见文件扩展名
+                                </a>
+                            </div>
+                        </div></div></div><div class="three wide column"><div class="ui inverted small header">文件格式</div>
+                    <div class="ui inverted very relaxed link list"><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/tags/binary-file-format/" class="amzn inverted_footer__link">
+                                    二进制文件格式
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/tags/text-file-format/" class="amzn inverted_footer__link">
+                                    文本文件格式
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/tags/text-and-binary-file-format/" class="amzn inverted_footer__link">
+                                    文本和二进制文件格式
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/tags/zip-file-format/" class="amzn inverted_footer__link">
+                                    ZIP 文件格式
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/zh-cn/tags/xml-file-format/" class="amzn inverted_footer__link">
+                                    XML 文件格式
+                                </a>
+                            </div>
+                        </div></div></div><div class="three wide column"><div class="ui inverted small header">机构</div>
+                    <div class="ui inverted very relaxed link list"><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/about/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    关于我们
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/privacy-policy/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    隐私政策
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/terms/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    使用条款
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/cookie-policy/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Cookie 政策
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    关联公司披露
+                                </a>
+                            </div>
+                        </div></div></div><div class="three wide column">
+                
+<div class="ui selection dropdown">
+    <input type="hidden" name="languages">
+    <i class="dropdown icon"></i>
+    <div class="default text">
+        <i class="globe icon"></i>
+        <span class="ui black text">语言</span>
+    </div>
+    <div class="scrollhint menu"><a href="https://fileformats.org/file-types/fl-studio-project/" class="item">English</a><a href="https://fileformats.org/pt/file-types/fl-studio-project/" class="item">Português</a><a href="https://fileformats.org/es/file-types/fl-studio-project/" class="item">Español</a><a href="https://fileformats.org/ru/file-types/fl-studio-project/" class="item">Pусский</a><a href="https://fileformats.org/ja/file-types/fl-studio-project/" class="item">日本語</a><a href="https://fileformats.org/de/file-types/fl-studio-project/" class="item">Deutsch</a><a href="https://fileformats.org/ko/file-types/fl-studio-project/" class="item">한국어</a><a href="https://fileformats.org/fr/file-types/fl-studio-project/" class="item">Français</a><a href="https://fileformats.org/it/file-types/fl-studio-project/" class="item">Italiano</a></div>
+</div>
+
+                
+            </div>
+        </div>
+        <div class="ui section divider"></div>
+        <div class="ui container">
+            <p><span class="ui grey text">所有产品名称、徽标和品牌名称均为其各自所有者的财产。 本网站使用的所有公司、产品和服务名称仅用于识别目的。 使用这些名称、徽标和品牌并不意味着认可。</span></p>
+            <div class="ui grid">
+                <div class="row">
+                    <div class="column center aligned">
+                        
+
+                        <small style="text-transform: uppercase;">&copy; <script>document.write( (new Date()).getFullYear() )</script> FileFormats.org, a W3EMPIRE property  - 版权所有</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div> 
+
+
+    
+<script src="/js/vendor/jquery@3.x/jquery.min.js"></script>
+<script src="/js/vendor/fomantic-ui@2.8.6/semantic.min.js"></script>
+
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.min.js"></script>
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.youtube.min.js"></script>
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.picture.min.js"></script>
+
+
+<script src="/js/vendor/lightbox2@2.11.3/lightbox.min.js"></script>
+
+<script src="/js/app.js"></script>
+
+    <script>
+        
+        $("#search-query").click(function() {
+            search();
+        });
+
+        function search() {
+            var searchQuery =  $("#search-input").val().trim();
+            if (searchQuery) {
+                
+                var searchURL = "/zh-cn/search/?q=" + encodeURIComponent(searchQuery);
+
+                window.location = searchURL;
+            }
+
+            return false;
+        }
+
+        var searchInput = $('#search-input');
+        $(window).keydown(function(e) {
+            
+            if (e.keyCode === 13) {
+                
+                if (searchInput.is(':focus')) {
+                    
+                    search();
+                }
+            }
+        });
+    </script>
+<script>
+    $('.ui.rating').rating();
+
+    lightbox.option({
+        'wrapAround': true
+    });
+
+    $(".ui.progress").progress({
+        label: "ratio",
+        text: {
+            ratio: ' {value}'
+        },
+        className: {
+            active: ''
+        }
+    });
+</script>
+</body>
+</html>

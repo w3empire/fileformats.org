@@ -5,6 +5,16 @@
     <link>https://fileformats.org/ko/categories/backup-file-extensions/</link>
     <description>Recent content in 백업 파일 확장자의 전체 목록 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ko/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 01:37:13 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/ko/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/finale-temporary-file/</guid>
+      <description>Finale의 임시 아카이브</description>
+    </item>
+    
   </channel>
 </rss>

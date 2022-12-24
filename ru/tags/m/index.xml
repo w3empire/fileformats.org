@@ -5,6 +5,34 @@
     <link>https://fileformats.org/ru/tags/m/</link>
     <description>Recent content in Список всех расширений файлов, начинающихся с буквы «М» (значения) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ru/tags/m/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/tags/m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3</title>
+      <link>https://fileformats.org/ru/file-types/mp3-audio-file/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/mp3-audio-file/</guid>
+      <description>Удиофайл MP3</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ru/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/directx-mesh-file/</guid>
+      <description>Файл сетки DirectX</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ru/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/3d-mesh-model/</guid>
+      <description>3D-модель сетки</description>
+    </item>
+    
   </channel>
 </rss>

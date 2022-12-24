@@ -5,6 +5,61 @@
     <link>https://fileformats.org/ko/categories/3d-image-file-extensions/</link>
     <description>Recent content in 3D 이미지 파일 확장자의 전체 목록 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ko/categories/3d-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/3d-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/ko/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/aero-experience-file/</guid>
+      <description>Aero Experience File</description>
+    </item>
+    
+    <item>
+      <title>C4D</title>
+      <link>https://fileformats.org/ko/file-types/cinema-4d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:18:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/cinema-4d-model-file/</guid>
+      <description>Cinema 4D 모델 파일</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/ko/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>압축된 포저 캐릭터 리깅 파일</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ko/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/directx-mesh-file/</guid>
+      <description>DirectX 메쉬 파일</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/ko/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/3d-mesh-model/</guid>
+      <description>3D 메쉬 모델</description>
+    </item>
+    
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</guid>
+      <description>블록 벤치 3D 모델 파일</description>
+    </item>
+    
   </channel>
 </rss>

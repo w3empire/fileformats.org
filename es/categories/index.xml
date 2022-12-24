@@ -6,7 +6,43 @@
     <description>Recent content in Todas las categorias on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:00 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:19 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La lista completa de extensiones de archivos de audio</title>
+      <link>https://fileformats.org/es/categories/audio-file-extensions/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/categories/audio-file-extensions/</guid>
+      <description>La categoría conocida como &amp;lsquo;Archivos de audio&amp;rsquo; contiene formatos de audio comprimidos y sin comprimir.</description>
+    </item>
+    
+    <item>
+      <title>La lista completa de extensiones de archivos de imagen 3D</title>
+      <link>https://fileformats.org/es/categories/3d-image-file-extensions/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/es/categories/3d-image-file-extensions/</guid>
+      <description>Los modelos tridimensionales, las animaciones tridimensionales y los archivos de proyectos tridimensionales son ejemplos de lo que se puede encontrar en los archivos de imágenes 3D.</description>
+    </item>
+    
+    <item>
+      <title>La lista completa de extensiones de archivo de desarrollador</title>
+      <link>https://fileformats.org/es/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/categories/developer-file-extensions/</guid>
+      <description>Los tipos de archivos relevantes para la creación de software se pueden encontrar en la categoría Archivos de desarrollador.</description>
+    </item>
+    
+    <item>
+      <title>La lista completa de extensiones de archivos de copia de seguridad</title>
+      <link>https://fileformats.org/es/categories/backup-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/categories/backup-file-extensions/</guid>
+      <description>Las copias de seguridad de los archivos individuales y los datos relacionados con los programas de copia de seguridad se incluyen en la sección Archivos de copia de seguridad.</description>
+    </item>
+    
     <item>
       <title>Lista de extensiones de archivos varios</title>
       <link>https://fileformats.org/es/categories/misc-file-extensions/</link>
@@ -32,15 +68,6 @@
       
       <guid>https://fileformats.org/es/categories/settings-file-extensions/</guid>
       <description>Las preferencias del sistema operativo y la configuración del programa informático se guardan en archivos llamados &amp;lsquo;configuración&amp;rsquo;. Los archivos de configuración también pueden denominarse archivos de preferencias.</description>
-    </item>
-    
-    <item>
-      <title>La lista completa de extensiones de archivo de desarrollador</title>
-      <link>https://fileformats.org/es/categories/developer-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/categories/developer-file-extensions/</guid>
-      <description>Los tipos de archivos relevantes para la creación de software se pueden encontrar en la categoría Archivos de desarrollador.</description>
     </item>
     
     <item>
@@ -116,15 +143,6 @@
     </item>
     
     <item>
-      <title>La lista completa de extensiones de archivos de audio</title>
-      <link>https://fileformats.org/es/categories/audio-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/categories/audio-file-extensions/</guid>
-      <description>La categoría conocida como &amp;lsquo;Archivos de audio&amp;rsquo; contiene formatos de audio comprimidos y sin comprimir.</description>
-    </item>
-    
-    <item>
       <title>La lista completa de extensiones de archivos de bases de datos</title>
       <link>https://fileformats.org/es/categories/database-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -143,15 +161,6 @@
     </item>
     
     <item>
-      <title>La lista completa de extensiones de archivos de copia de seguridad</title>
-      <link>https://fileformats.org/es/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/categories/backup-file-extensions/</guid>
-      <description>Las copias de seguridad de los archivos individuales y los datos relacionados con los programas de copia de seguridad se incluyen en la sección Archivos de copia de seguridad.</description>
-    </item>
-    
-    <item>
       <title>La lista completa de extensiones de archivos de datos</title>
       <link>https://fileformats.org/es/categories/data-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -167,15 +176,6 @@
       
       <guid>https://fileformats.org/es/categories/font-file-extensions/</guid>
       <description>Los archivos de fuentes son archivos que contienen caracteres de escritura utilizados por el sistema operativo de la computadora y varios otros programas de computadora.</description>
-    </item>
-    
-    <item>
-      <title>La lista completa de extensiones de archivos de imagen 3D</title>
-      <link>https://fileformats.org/es/categories/3d-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/categories/3d-image-file-extensions/</guid>
-      <description>Los modelos tridimensionales, las animaciones tridimensionales y los archivos de proyectos tridimensionales son ejemplos de lo que se puede encontrar en los archivos de imágenes 3D.</description>
     </item>
     
     <item>

@@ -6,11 +6,20 @@
     <description>Recent content in Lista de todos los autores de FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:00 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:19 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todos los artículos de Bruno Souza en FileFormats</title>
+      <link>https://fileformats.org/es/authors/bruno-souza/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/authors/bruno-souza/</guid>
+      <description>Redactor técnico y editor</description>
+    </item>
+    
     <item>
       <title>Todos los artículos de Richard Scott en FileFormats</title>
       <link>https://fileformats.org/es/authors/richard-scott/</link>
-      <pubDate>Tue, 29 Nov 2022 15:40:00 +0000</pubDate>
+      <pubDate>Sat, 24 Dec 2022 12:05:09 +0000</pubDate>
       
       <guid>https://fileformats.org/es/authors/richard-scott/</guid>
       <description>Escritor técnico</description>
@@ -19,18 +28,9 @@
     <item>
       <title>Todos los artículos de Akira Osawa en FileFormats</title>
       <link>https://fileformats.org/es/authors/akira-osawa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Dec 2022 11:57:41 +0000</pubDate>
       
       <guid>https://fileformats.org/es/authors/akira-osawa/</guid>
-      <description>Redactor técnico y editor</description>
-    </item>
-    
-    <item>
-      <title>Todos los artículos de Bruno Souza en FileFormats</title>
-      <link>https://fileformats.org/es/authors/bruno-souza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/authors/bruno-souza/</guid>
       <description>Redactor técnico y editor</description>
     </item>
     

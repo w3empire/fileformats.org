@@ -5,6 +5,16 @@
     <link>https://fileformats.org/fr/tags/e/</link>
     <description>Recent content in Liste de toutes les extensions de fichiers commençant par la lettre “E” (significations) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/tags/e/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 11:57:42 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/e/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EFS</title>
+      <link>https://fileformats.org/fr/file-types/ensoniq-sq-80-file/</link>
+      <pubDate>Sat, 24 Dec 2022 11:57:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/ensoniq-sq-80-file/</guid>
+      <description>Fichier Ensoniq SQ-80</description>
+    </item>
+    
   </channel>
 </rss>

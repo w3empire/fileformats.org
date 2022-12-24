@@ -5,6 +5,34 @@
     <link>https://fileformats.org/pt/tags/m/</link>
     <description>Recent content in Lista de todas as extensões de arquivo começando com a letra “M” (significados) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/pt/tags/m/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/tags/m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3</title>
+      <link>https://fileformats.org/pt/file-types/mp3-audio-file/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/mp3-audio-file/</guid>
+      <description>Arquivo de áudio MP3</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/pt/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/directx-mesh-file/</guid>
+      <description>Arquivo DirectX Mesh</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/pt/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/3d-mesh-model/</guid>
+      <description>Modelo de malha 3D</description>
+    </item>
+    
   </channel>
 </rss>

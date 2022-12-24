@@ -6,7 +6,106 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:01 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liste de toutes les extensions de fichiers binaires (formats, types et significations)</title>
+      <link>https://fileformats.org/fr/tags/binary-file-format/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/binary-file-format/</guid>
+      <description>Un fichier informatique qui n&amp;rsquo;est pas textuel est parfois appelé &amp;ldquo;fichier binaire&amp;rdquo;. Certains formats de fichiers binaires, comme les premiers documents Microsoft Word, enregistrent en fait à la fois le texte du document et ses informations de formatage sous forme de données binaires.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “M” (significations)</title>
+      <link>https://fileformats.org/fr/tags/m/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/m/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “M”.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers courantes (formats, types et significations)</title>
+      <link>https://fileformats.org/fr/tags/common-file-extensions/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/common-file-extensions/</guid>
+      <description>Liste complète avec les extensions de fichiers les plus courantes pour tous les systèmes d&amp;rsquo;exploitation. Parcourez les types de fichiers les plus courants pour Windows, Mac, Android et Linux.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “F” (significations)</title>
+      <link>https://fileformats.org/fr/tags/f/</link>
+      <pubDate>Sat, 24 Dec 2022 12:05:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/f/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “F”.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “E” (significations)</title>
+      <link>https://fileformats.org/fr/tags/e/</link>
+      <pubDate>Sat, 24 Dec 2022 11:57:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/e/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “E”.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “R” (significations)</title>
+      <link>https://fileformats.org/fr/tags/r/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/r/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “R”.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers texte et binaires (formats, types et significations)</title>
+      <link>https://fileformats.org/fr/tags/text-and-binary-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/text-and-binary-file-format/</guid>
+      <description>Le terme &amp;ldquo;fichier binaire&amp;rdquo; fait référence à tout type de fichier non textuel utilisé en informatique. &amp;ldquo;Fichier binaire&amp;rdquo; est fréquemment utilisé pour désigner des &amp;ldquo;fichiers non textuels&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “C” (significations)</title>
+      <link>https://fileformats.org/fr/tags/c/</link>
+      <pubDate>Fri, 23 Dec 2022 19:18:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/c/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “C”.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “B” (significations)</title>
+      <link>https://fileformats.org/fr/tags/b/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/b/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “B”.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers texte (formats, types et significations)</title>
+      <link>https://fileformats.org/fr/tags/text-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/text-file-format/</guid>
+      <description>Une forme de fichier qui peut être stockée sur un ordinateur est connue sous le nom de fichier texte, et elle est structurée comme une collection de lignes de texte. Dans le système de fichiers d&amp;rsquo;un ordinateur, il existe un fichier texte qui est utilisé pour stocker des données.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “T” (significations)</title>
+      <link>https://fileformats.org/fr/tags/t/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/t/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “T”.</description>
+    </item>
+    
     <item>
       <title>Liste de toutes les extensions de fichiers commençant par la lettre “D” (significations)</title>
       <link>https://fileformats.org/fr/tags/d/</link>
@@ -17,66 +116,12 @@
     </item>
     
     <item>
-      <title>Liste de toutes les extensions de fichiers texte (formats, types et significations)</title>
-      <link>https://fileformats.org/fr/tags/text-file-format/</link>
-      <pubDate>Tue, 29 Nov 2022 15:40:01 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/text-file-format/</guid>
-      <description>Une forme de fichier qui peut être stockée sur un ordinateur est connue sous le nom de fichier texte, et elle est structurée comme une collection de lignes de texte. Dans le système de fichiers d&amp;rsquo;un ordinateur, il existe un fichier texte qui est utilisé pour stocker des données.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers binaires (formats, types et significations)</title>
-      <link>https://fileformats.org/fr/tags/binary-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/binary-file-format/</guid>
-      <description>Un fichier informatique qui n&amp;rsquo;est pas textuel est parfois appelé &amp;ldquo;fichier binaire&amp;rdquo;. Certains formats de fichiers binaires, comme les premiers documents Microsoft Word, enregistrent en fait à la fois le texte du document et ses informations de formatage sous forme de données binaires.</description>
-    </item>
-    
-    <item>
       <title>Liste de toutes les extensions de fichiers commençant par la lettre “A” (significations)</title>
       <link>https://fileformats.org/fr/tags/a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/fr/tags/a/</guid>
       <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “A”.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “B” (significations)</title>
-      <link>https://fileformats.org/fr/tags/b/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/b/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “B”.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “C” (significations)</title>
-      <link>https://fileformats.org/fr/tags/c/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/c/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “C”.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “E” (significations)</title>
-      <link>https://fileformats.org/fr/tags/e/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/e/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “E”.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “F” (significations)</title>
-      <link>https://fileformats.org/fr/tags/f/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/f/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “F”.</description>
     </item>
     
     <item>
@@ -134,15 +179,6 @@
     </item>
     
     <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “M” (significations)</title>
-      <link>https://fileformats.org/fr/tags/m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/m/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “M”.</description>
-    </item>
-    
-    <item>
       <title>Liste de toutes les extensions de fichiers commençant par la lettre “N” (significations)</title>
       <link>https://fileformats.org/fr/tags/n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -179,30 +215,12 @@
     </item>
     
     <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “R” (significations)</title>
-      <link>https://fileformats.org/fr/tags/r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/r/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “R”.</description>
-    </item>
-    
-    <item>
       <title>Liste de toutes les extensions de fichiers commençant par la lettre “S” (significations)</title>
       <link>https://fileformats.org/fr/tags/s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/fr/tags/s/</guid>
       <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “S”.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “T” (significations)</title>
-      <link>https://fileformats.org/fr/tags/t/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/t/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “T”.</description>
     </item>
     
     <item>
@@ -266,24 +284,6 @@
       
       <guid>https://fileformats.org/fr/tags/1/</guid>
       <description>Parcourez une liste complète d&amp;rsquo;extensions de fichiers commençant par un chiffre ou un symbole.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers courantes (formats, types et significations)</title>
-      <link>https://fileformats.org/fr/tags/common-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/common-file-extensions/</guid>
-      <description>Liste complète avec les extensions de fichiers les plus courantes pour tous les systèmes d&amp;rsquo;exploitation. Parcourez les types de fichiers les plus courants pour Windows, Mac, Android et Linux.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers texte et binaires (formats, types et significations)</title>
-      <link>https://fileformats.org/fr/tags/text-and-binary-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/text-and-binary-file-format/</guid>
-      <description>Le terme &amp;ldquo;fichier binaire&amp;rdquo; fait référence à tout type de fichier non textuel utilisé en informatique. &amp;ldquo;Fichier binaire&amp;rdquo; est fréquemment utilisé pour désigner des &amp;ldquo;fichiers non textuels&amp;rdquo;.</description>
     </item>
     
     <item>

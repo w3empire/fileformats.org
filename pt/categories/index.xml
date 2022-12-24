@@ -6,7 +6,43 @@
     <description>Recent content in Todas as categorias on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:00 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A lista completa de extensões de arquivos de áudio</title>
+      <link>https://fileformats.org/pt/categories/audio-file-extensions/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/categories/audio-file-extensions/</guid>
+      <description>A categoria conhecida como &amp;lsquo;Arquivos de Áudio&amp;rsquo; contém formatos de áudio compactados e não compactados.</description>
+    </item>
+    
+    <item>
+      <title>A lista completa de extensões de arquivo de imagem 3D</title>
+      <link>https://fileformats.org/pt/categories/3d-image-file-extensions/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/pt/categories/3d-image-file-extensions/</guid>
+      <description>Modelos tridimensionais, animações tridimensionais e arquivos de projeto tridimensionais são exemplos do que pode ser encontrado em arquivos de imagem 3D.</description>
+    </item>
+    
+    <item>
+      <title>A lista completa de extensões de arquivo do desenvolvedor</title>
+      <link>https://fileformats.org/pt/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/categories/developer-file-extensions/</guid>
+      <description>Os tipos de arquivo relevantes para a criação de software podem ser encontrados na categoria Arquivos do desenvolvedor.</description>
+    </item>
+    
+    <item>
+      <title>A lista completa de extensões de arquivo de backup</title>
+      <link>https://fileformats.org/pt/categories/backup-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/categories/backup-file-extensions/</guid>
+      <description>Cópias de backup de arquivos individuais e dados pertencentes a programas de backup estão incluídos na seção Arquivos de backup.</description>
+    </item>
+    
     <item>
       <title>Lista de Extensões de Arquivos Diversos</title>
       <link>https://fileformats.org/pt/categories/misc-file-extensions/</link>
@@ -23,15 +59,6 @@
       
       <guid>https://fileformats.org/pt/categories/cad-file-extensions/</guid>
       <description>Os arquivos de desenho assistido por computador (CAD) podem incluir modelos bidimensionais ou tridimensionais.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de backup</title>
-      <link>https://fileformats.org/pt/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/backup-file-extensions/</guid>
-      <description>Cópias de backup de arquivos individuais e dados pertencentes a programas de backup estão incluídos na seção Arquivos de backup.</description>
     </item>
     
     <item>
@@ -68,15 +95,6 @@
       
       <guid>https://fileformats.org/pt/categories/font-file-extensions/</guid>
       <description>Arquivos de fonte são arquivos que contêm caracteres de digitação usados pelo sistema operacional do computador e vários outros programas de computador.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de imagem 3D</title>
-      <link>https://fileformats.org/pt/categories/3d-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/3d-image-file-extensions/</guid>
-      <description>Modelos tridimensionais, animações tridimensionais e arquivos de projeto tridimensionais são exemplos do que pode ser encontrado em arquivos de imagem 3D.</description>
     </item>
     
     <item>
@@ -161,15 +179,6 @@
     </item>
     
     <item>
-      <title>A lista completa de extensões de arquivo do desenvolvedor</title>
-      <link>https://fileformats.org/pt/categories/developer-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/developer-file-extensions/</guid>
-      <description>Os tipos de arquivo relevantes para a criação de software podem ser encontrados na categoria Arquivos do desenvolvedor.</description>
-    </item>
-    
-    <item>
       <title>A lista completa de extensões de arquivo GIS (Sistemas de Informação Geográfica)</title>
       <link>https://fileformats.org/pt/categories/gis-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -221,15 +230,6 @@
       
       <guid>https://fileformats.org/pt/categories/game-file-extensions/</guid>
       <description>Arquivos relacionados a videogames, como arquivos salvos, podem ser encontrados na categoria Arquivos de jogos.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivos de áudio</title>
-      <link>https://fileformats.org/pt/categories/audio-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/audio-file-extensions/</guid>
-      <description>A categoria conhecida como &amp;lsquo;Arquivos de Áudio&amp;rsquo; contém formatos de áudio compactados e não compactados.</description>
     </item>
     
     <item>

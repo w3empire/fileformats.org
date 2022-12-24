@@ -5,6 +5,61 @@
     <link>https://fileformats.org/it/categories/3d-image-file-extensions/</link>
     <description>Recent content in L&#39;elenco completo delle estensioni dei file di immagini 3D on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/it/categories/3d-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/it/categories/3d-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/it/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/aero-experience-file/</guid>
+      <description>File dell&amp;rsquo;esperienza Aero</description>
+    </item>
+    
+    <item>
+      <title>C4D</title>
+      <link>https://fileformats.org/it/file-types/cinema-4d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:18:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/cinema-4d-model-file/</guid>
+      <description>File modello Cinema 4D</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/it/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:43 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>File di rigging dei caratteri compressi di Poser</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/it/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/directx-mesh-file/</guid>
+      <description>File mesh directx</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/it/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/3d-mesh-model/</guid>
+      <description>Modello mesh 3D</description>
+    </item>
+    
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/it/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/blockbench-3d-model-file/</guid>
+      <description>File di modello 3D di Blockbench</description>
+    </item>
+    
   </channel>
 </rss>

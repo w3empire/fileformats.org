@@ -6,7 +6,106 @@
     <description>Recent content in FileFormats - 互联网上最准确的文件扩展信息站点 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:07 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3</title>
+      <link>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</guid>
+      <description>MP3 音频文件</description>
+    </item>
+    
+    <item>
+      <title>FLP</title>
+      <link>https://fileformats.org/zh-cn/file-types/fl-studio-project/</link>
+      <pubDate>Sat, 24 Dec 2022 12:05:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/fl-studio-project/</guid>
+      <description>FL Studio 项目</description>
+    </item>
+    
+    <item>
+      <title>EFS</title>
+      <link>https://fileformats.org/zh-cn/file-types/ensoniq-sq-80-file/</link>
+      <pubDate>Sat, 24 Dec 2022 11:57:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/ensoniq-sq-80-file/</guid>
+      <description>Ensoniq SQ-80 文件</description>
+    </item>
+    
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/zh-cn/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/aero-experience-file/</guid>
+      <description>航空体验文件</description>
+    </item>
+    
+    <item>
+      <title>C4D</title>
+      <link>https://fileformats.org/zh-cn/file-types/cinema-4d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:18:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/cinema-4d-model-file/</guid>
+      <description>Cinema 4D 模型文件</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/zh-cn/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>压缩的 Poser 角色索具文件</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/zh-cn/file-types/directx-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:24:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/directx-mesh-file/</guid>
+      <description>DirectX 网格文件</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
+      <link>https://fileformats.org/zh-cn/file-types/3d-mesh-model/</link>
+      <pubDate>Fri, 23 Dec 2022 14:59:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/3d-mesh-model/</guid>
+      <description>3D网格型号</description>
+    </item>
+    
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/zh-cn/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:39 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/blockbench-3d-model-file/</guid>
+      <description>Blockbench 3D 模型文件</description>
+    </item>
+    
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/zh-cn/file-types/bluej-default-template/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/bluej-default-template/</guid>
+      <description>BlueJ 默认模板</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/zh-cn/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/finale-temporary-file/</guid>
+      <description>Finale 临时存档</description>
+    </item>
+    
     <item>
       <title>DOC#</title>
       <link>https://fileformats.org/zh-cn/file-types/libreoffice-document-lock-file/</link>

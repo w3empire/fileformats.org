@@ -5,6 +5,25 @@
     <link>https://fileformats.org/ja/tags/t/</link>
     <description>Recent content in 文字「T」で始まるすべてのファイル拡張子のリスト (意味) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/tags/t/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 02:15:14 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/tags/t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/ja/file-types/bluej-default-template/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/bluej-default-template/</guid>
+      <description>BlueJ デフォルト テンプレート</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/ja/file-types/finale-temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/finale-temporary-file/</guid>
+      <description>Finale一時アーカイブ</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,7 +6,16 @@
     <description>Recent content in 모든 텍스트 파일 확장자 목록(형식, 유형 및 의미) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/tags/text-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 14:39:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/tags/text-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</guid>
+      <description>블록 벤치 3D 모델 파일</description>
+    </item>
+    
     <item>
       <title>DOC#</title>
       <link>https://fileformats.org/ko/file-types/libreoffice-document-lock-file/</link>

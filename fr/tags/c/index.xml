@@ -5,6 +5,25 @@
     <link>https://fileformats.org/fr/tags/c/</link>
     <description>Recent content in Liste de toutes les extensions de fichiers commençant par la lettre “C” (significations) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 19:18:49 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C4D</title>
+      <link>https://fileformats.org/fr/file-types/cinema-4d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:18:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/cinema-4d-model-file/</guid>
+      <description>Fichier de modèle Cinema 4D</description>
+    </item>
+    
+    <item>
+      <title>CRZ</title>
+      <link>https://fileformats.org/fr/file-types/compressed-poser-character-rigging-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:35:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/compressed-poser-character-rigging-file/</guid>
+      <description>Fichier de montage de personnage compressé Poser</description>
+    </item>
+    
   </channel>
 </rss>

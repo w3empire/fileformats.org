@@ -6,7 +6,43 @@
     <description>Recent content in Toutes catégories on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:01 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La liste complète des extensions de fichiers audio</title>
+      <link>https://fileformats.org/fr/categories/audio-file-extensions/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/audio-file-extensions/</guid>
+      <description>La catégorie connue sous le nom de &amp;lsquo;Fichiers audio&amp;rsquo; contient des formats audio compressés et non compressés.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des extensions de fichiers d&#39;images 3D</title>
+      <link>https://fileformats.org/fr/categories/3d-image-file-extensions/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/3d-image-file-extensions/</guid>
+      <description>Les modèles tridimensionnels, les animations tridimensionnelles et les fichiers de projet tridimensionnels sont tous des exemples de ce que l&amp;rsquo;on peut trouver dans les fichiers d&amp;rsquo;image 3D.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des extensions de fichier de développeur</title>
+      <link>https://fileformats.org/fr/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/developer-file-extensions/</guid>
+      <description>Les types de fichiers pertinents pour la création de logiciels se trouvent dans la catégorie Developer Files.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des extensions de fichiers de sauvegarde</title>
+      <link>https://fileformats.org/fr/categories/backup-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/backup-file-extensions/</guid>
+      <description>Les copies de sauvegarde des fichiers individuels et des données relatives aux programmes de sauvegarde sont toutes deux incluses dans la section Fichiers de sauvegarde.</description>
+    </item>
+    
     <item>
       <title>Liste des extensions de fichiers divers</title>
       <link>https://fileformats.org/fr/categories/misc-file-extensions/</link>
@@ -14,15 +50,6 @@
       
       <guid>https://fileformats.org/fr/categories/misc-file-extensions/</guid>
       <description>Il existe différents types de fichiers dans la catégorie Fichiers divers qui n&amp;rsquo;appartiennent à aucune autre catégorie.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichier de développeur</title>
-      <link>https://fileformats.org/fr/categories/developer-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/developer-file-extensions/</guid>
-      <description>Les types de fichiers pertinents pour la création de logiciels se trouvent dans la catégorie Developer Files.</description>
     </item>
     
     <item>
@@ -50,15 +77,6 @@
       
       <guid>https://fileformats.org/fr/categories/disk-image-file-extensions/</guid>
       <description>Dans un fichier image disque, vous trouverez une copie conforme d&amp;rsquo;un disque dur ou d&amp;rsquo;un autre support de stockage.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers audio</title>
-      <link>https://fileformats.org/fr/categories/audio-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/audio-file-extensions/</guid>
-      <description>La catégorie connue sous le nom de &amp;lsquo;Fichiers audio&amp;rsquo; contient des formats audio compressés et non compressés.</description>
     </item>
     
     <item>
@@ -95,15 +113,6 @@
       
       <guid>https://fileformats.org/fr/categories/camera-image-file-extensions/</guid>
       <description>Les fichiers bruts d&amp;rsquo;image de l&amp;rsquo;appareil photo sont stockés dans un format brut qui conserve toutes les informations enregistrées par le capteur de l&amp;rsquo;appareil photo.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers d&#39;images 3D</title>
-      <link>https://fileformats.org/fr/categories/3d-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/3d-image-file-extensions/</guid>
-      <description>Les modèles tridimensionnels, les animations tridimensionnelles et les fichiers de projet tridimensionnels sont tous des exemples de ce que l&amp;rsquo;on peut trouver dans les fichiers d&amp;rsquo;image 3D.</description>
     </item>
     
     <item>
@@ -167,15 +176,6 @@
       
       <guid>https://fileformats.org/fr/categories/font-file-extensions/</guid>
       <description>Les fichiers de polices sont des fichiers qui contiennent des caractères de frappe utilisés par le système d&amp;rsquo;exploitation de l&amp;rsquo;ordinateur et divers autres programmes informatiques.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers de sauvegarde</title>
-      <link>https://fileformats.org/fr/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/backup-file-extensions/</guid>
-      <description>Les copies de sauvegarde des fichiers individuels et des données relatives aux programmes de sauvegarde sont toutes deux incluses dans la section Fichiers de sauvegarde.</description>
     </item>
     
     <item>

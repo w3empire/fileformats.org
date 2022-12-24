@@ -6,7 +6,43 @@
     <description>Recent content in Все категории on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:06 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 12:52:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Полный список расширений аудиофайлов</title>
+      <link>https://fileformats.org/ru/categories/audio-file-extensions/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/audio-file-extensions/</guid>
+      <description>Категория, известная как «Аудиофайлы», содержит как сжатые, так и несжатые аудиоформаты.</description>
+    </item>
+    
+    <item>
+      <title>Полный список расширений файлов 3D-изображений</title>
+      <link>https://fileformats.org/ru/categories/3d-image-file-extensions/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/3d-image-file-extensions/</guid>
+      <description>Трехмерные модели, трехмерные анимации и файлы трехмерных проектов — все это примеры того, что можно найти в файлах трехмерных изображений.</description>
+    </item>
+    
+    <item>
+      <title>Полный список расширений файлов разработчика</title>
+      <link>https://fileformats.org/ru/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/developer-file-extensions/</guid>
+      <description>Типы файлов, относящиеся к созданию программного обеспечения, можно найти в категории «Файлы разработчика».</description>
+    </item>
+    
+    <item>
+      <title>Полный список расширений файлов резервных копий</title>
+      <link>https://fileformats.org/ru/categories/backup-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 01:37:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/backup-file-extensions/</guid>
+      <description>Резервные копии отдельных файлов и данных, относящихся к программам резервного копирования, включены в раздел «Файлы резервных копий».</description>
+    </item>
+    
     <item>
       <title>Список различных расширений файлов</title>
       <link>https://fileformats.org/ru/categories/misc-file-extensions/</link>
@@ -23,15 +59,6 @@
       
       <guid>https://fileformats.org/ru/categories/encoded-file-extensions/</guid>
       <description>Файлы, которые используют метод кодирования для сохранения своего содержимого, называются «закодированными».</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений аудиофайлов</title>
-      <link>https://fileformats.org/ru/categories/audio-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/audio-file-extensions/</guid>
-      <description>Категория, известная как «Аудиофайлы», содержит как сжатые, так и несжатые аудиоформаты.</description>
     </item>
     
     <item>
@@ -95,15 +122,6 @@
       
       <guid>https://fileformats.org/ru/categories/text-file-extensions/</guid>
       <description>Документы, написанные в текстовых процессорах, журналы серверов и электронные письма, которые были сохранены для последующего использования, — все это примеры текстовых файлов.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов 3D-изображений</title>
-      <link>https://fileformats.org/ru/categories/3d-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/3d-image-file-extensions/</guid>
-      <description>Трехмерные модели, трехмерные анимации и файлы трехмерных проектов — все это примеры того, что можно найти в файлах трехмерных изображений.</description>
     </item>
     
     <item>
@@ -197,30 +215,12 @@
     </item>
     
     <item>
-      <title>Полный список расширений файлов разработчика</title>
-      <link>https://fileformats.org/ru/categories/developer-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/developer-file-extensions/</guid>
-      <description>Типы файлов, относящиеся к созданию программного обеспечения, можно найти в категории «Файлы разработчика».</description>
-    </item>
-    
-    <item>
       <title>Полный список расширений файлов растровых изображений</title>
       <link>https://fileformats.org/ru/categories/raster-image-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/categories/raster-image-file-extensions/</guid>
       <description>Растровые изображения имеют форму сетки пикселей, каждому из которых назначается уникальный цвет для представления всего изображения.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов резервных копий</title>
-      <link>https://fileformats.org/ru/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/backup-file-extensions/</guid>
-      <description>Резервные копии отдельных файлов и данных, относящихся к программам резервного копирования, включены в раздел «Файлы резервных копий».</description>
     </item>
     
     <item>

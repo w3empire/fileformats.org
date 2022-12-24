@@ -5,6 +5,16 @@
     <link>https://fileformats.org/pt/tags/b/</link>
     <description>Recent content in Lista de todas as extensões de arquivo começando com a letra “B” (significados) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/pt/tags/b/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 14:39:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/tags/b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BBMODEL</title>
+      <link>https://fileformats.org/pt/file-types/blockbench-3d-model-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:39:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/blockbench-3d-model-file/</guid>
+      <description>Arquivo de modelo 3D Blockbench</description>
+    </item>
+    
   </channel>
 </rss>

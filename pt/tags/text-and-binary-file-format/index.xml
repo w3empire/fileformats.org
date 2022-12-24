@@ -5,6 +5,16 @@
     <link>https://fileformats.org/pt/tags/text-and-binary-file-format/</link>
     <description>Recent content in Lista de todas as extensões de arquivos de texto e binários (formatos, tipos e significados) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/pt/tags/text-and-binary-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/pt/tags/text-and-binary-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REAL</title>
+      <link>https://fileformats.org/pt/file-types/aero-experience-file/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/aero-experience-file/</guid>
+      <description>Arquivo de Experiência Aero</description>
+    </item>
+    
   </channel>
 </rss>
