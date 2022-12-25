@@ -6,7 +6,16 @@
     <description>Recent content in Lista de extensiones de archivos varios on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:00 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/misc-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 03:36:03 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/misc-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPD</title>
+      <link>https://fileformats.org/es/file-types/form-z-suspended-render-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:36:03 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/form-z-suspended-render-file/</guid>
+      <description>Archivo de procesamiento de form·Z en pausa</description>
+    </item>
+    
     <item>
       <title>DOC#</title>
       <link>https://fileformats.org/es/file-types/libreoffice-document-lock-file/</link>

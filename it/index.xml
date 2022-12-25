@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>GH</title>
+      <link>https://fileformats.org/it/file-types/grasshopper-binary-definition-file/</link>
+      <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/grasshopper-binary-definition-file/</guid>
+      <description>File di definizione binaria del programma Grasshopper</description>
+    </item>
+    
+    <item>
       <title>C4D</title>
       <link>https://fileformats.org/it/file-types/cinema-4d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:18:50 +0000</pubDate>
@@ -72,6 +81,15 @@
     
     <item>
       <title>MESH</title>
+      <link>https://fileformats.org/it/file-types/godot-engine-3d-mesh-file/</link>
+      <pubDate>Fri, 23 Dec 2022 15:10:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/godot-engine-3d-mesh-file/</guid>
+      <description>File mesh 3D del Godot Engine</description>
+    </item>
+    
+    <item>
+      <title>MESH</title>
       <link>https://fileformats.org/it/file-types/3d-mesh-model/</link>
       <pubDate>Fri, 23 Dec 2022 14:59:21 +0000</pubDate>
       
@@ -86,6 +104,15 @@
       
       <guid>https://fileformats.org/it/file-types/blockbench-3d-model-file/</guid>
       <description>File di modello 3D di Blockbench</description>
+    </item>
+    
+    <item>
+      <title>SPD</title>
+      <link>https://fileformats.org/it/file-types/form-z-suspended-render-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:36:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/form-z-suspended-render-file/</guid>
+      <description>File di rendering form·Z in pausa</description>
     </item>
     
     <item>

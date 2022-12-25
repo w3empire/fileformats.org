@@ -6,7 +6,52 @@
     <description>Recent content in The Complete List of All File Extensions, Formats and Meanings on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:16 +0000</lastBuildDate><atom:link href="https://fileformats.org/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 12:50:15 +0000</lastBuildDate><atom:link href="https://fileformats.org/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UST</title>
+      <link>https://fileformats.org/file-types/utau-sequence-text-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/utau-sequence-text-file/</guid>
+      <description>UTAU Sequence Text File</description>
+    </item>
+    
+    <item>
+      <title>MUI</title>
+      <link>https://fileformats.org/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/myriad-user-instrument-file/</guid>
+      <description>Myriad User Instrument File</description>
+    </item>
+    
+    <item>
+      <title>COPY</title>
+      <link>https://fileformats.org/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Sony Ericsson Protected Content File</description>
+    </item>
+    
+    <item>
+      <title>WPROJ</title>
+      <link>https://fileformats.org/file-types/wwise-project-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/wwise-project-file/</guid>
+      <description>Wwise Project File</description>
+    </item>
+    
+    <item>
+      <title>L</title>
+      <link>https://fileformats.org/file-types/left-audio-channel-file/</link>
+      <pubDate>Sun, 25 Dec 2022 11:59:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/left-audio-channel-file/</guid>
+      <description>Left Audio Channel File</description>
+    </item>
+    
     <item>
       <title>MP3</title>
       <link>https://fileformats.org/file-types/mp3-audio-file/</link>

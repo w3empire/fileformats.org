@@ -5,6 +5,16 @@
     <link>https://fileformats.org/fr/tags/s/</link>
     <description>Recent content in Liste de toutes les extensions de fichiers commençant par la lettre “S” (significations) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/tags/s/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 03:36:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPD</title>
+      <link>https://fileformats.org/fr/file-types/form-z-suspended-render-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:36:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/form-z-suspended-render-file/</guid>
+      <description>Fichier de rendu form·Z en pause</description>
+    </item>
+    
   </channel>
 </rss>

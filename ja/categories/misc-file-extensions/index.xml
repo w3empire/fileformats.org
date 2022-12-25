@@ -6,7 +6,16 @@
     <description>Recent content in その他のファイル拡張子のリスト on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:04 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/misc-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 03:36:07 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/misc-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPD</title>
+      <link>https://fileformats.org/ja/file-types/form-z-suspended-render-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:36:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/form-z-suspended-render-file/</guid>
+      <description>form・Z レンダリングファイル一時停止</description>
+    </item>
+    
     <item>
       <title>DOC#</title>
       <link>https://fileformats.org/ja/file-types/libreoffice-document-lock-file/</link>

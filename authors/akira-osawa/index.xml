@@ -6,7 +6,25 @@
     <description>Recent content in All articles by Akira Osawa on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 11:57:40 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 12:20:06 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WPROJ</title>
+      <link>https://fileformats.org/file-types/wwise-project-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/wwise-project-file/</guid>
+      <description>Wwise Project File</description>
+    </item>
+    
+    <item>
+      <title>L</title>
+      <link>https://fileformats.org/file-types/left-audio-channel-file/</link>
+      <pubDate>Sun, 25 Dec 2022 11:59:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/left-audio-channel-file/</guid>
+      <description>Left Audio Channel File</description>
+    </item>
+    
     <item>
       <title>EFS</title>
       <link>https://fileformats.org/file-types/ensoniq-sq-80-file/</link>

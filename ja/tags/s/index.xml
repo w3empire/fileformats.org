@@ -5,6 +5,16 @@
     <link>https://fileformats.org/ja/tags/s/</link>
     <description>Recent content in 文字「S」で始まるすべてのファイル拡張子のリスト (意味) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/tags/s/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 03:36:07 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/tags/s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPD</title>
+      <link>https://fileformats.org/ja/file-types/form-z-suspended-render-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:36:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/form-z-suspended-render-file/</guid>
+      <description>form・Z レンダリングファイル一時停止</description>
+    </item>
+    
   </channel>
 </rss>
