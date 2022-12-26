@@ -6,7 +6,25 @@
     <description>Recent content in List of All ZIP File Extensions (Formats, Types, and Meanings) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Dec 2022 03:17:17 -0300</lastBuildDate><atom:link href="https://fileformats.org/tags/zip-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 14:21:31 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/zip-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WX</title>
+      <link>https://fileformats.org/file-types/wanam-xposed-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/wanam-xposed-backup-file/</guid>
+      <description>Wanam Xposed Backup File</description>
+    </item>
+    
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/alfresco-content-package/</guid>
+      <description>Alfresco Content Package</description>
+    </item>
+    
     <item>
       <title>SPD</title>
       <link>https://fileformats.org/file-types/s-note-file/</link>

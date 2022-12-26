@@ -6,7 +6,16 @@
     <description>Recent content in La liste complète des extensions de fichiers de sauvegarde on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Dec 2022 01:37:10 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/fr/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/alfresco-content-package/</guid>
+      <description>Pack de contenu Alfresco</description>
+    </item>
+    
     <item>
       <title>TMP</title>
       <link>https://fileformats.org/fr/file-types/finale-temporary-file/</link>

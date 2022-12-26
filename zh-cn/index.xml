@@ -6,7 +6,25 @@
     <description>Recent content in FileFormats - 互联网上最准确的文件扩展信息站点 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/zh-cn/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/alfresco-content-package/</guid>
+      <description>Alfresco 内容包</description>
+    </item>
+    
+    <item>
+      <title>L</title>
+      <link>https://fileformats.org/zh-cn/file-types/left-audio-channel-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/left-audio-channel-file/</guid>
+      <description>左声道文件</description>
+    </item>
+    
     <item>
       <title>MP3</title>
       <link>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</link>
@@ -14,6 +32,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</guid>
       <description>MP3 音频文件</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>https://fileformats.org/zh-cn/file-types/abc-music-notation/</link>
+      <pubDate>Sat, 24 Dec 2022 12:21:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/abc-music-notation/</guid>
+      <description>ABC简谱</description>
     </item>
     
     <item>
@@ -62,6 +89,15 @@
     </item>
     
     <item>
+      <title>MD5ANIM</title>
+      <link>https://fileformats.org/zh-cn/file-types/id-tech-4-model-animation-file/</link>
+      <pubDate>Fri, 23 Dec 2022 16:04:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/id-tech-4-model-animation-file/</guid>
+      <description>id Tech 4模型动画文件</description>
+    </item>
+    
+    <item>
       <title>CRZ</title>
       <link>https://fileformats.org/zh-cn/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:55 +0000</pubDate>
@@ -104,6 +140,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/blockbench-3d-model-file/</guid>
       <description>Blockbench 3D 模型文件</description>
+    </item>
+    
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/zh-cn/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/houdini-apprentice-file/</guid>
+      <description>Houdini Apprentice 程序文件</description>
     </item>
     
     <item>

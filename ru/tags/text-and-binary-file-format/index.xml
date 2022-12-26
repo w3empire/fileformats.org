@@ -25,5 +25,14 @@
       <description>Файл 3D-сетки Godot Engine</description>
     </item>
     
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/ru/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/houdini-apprentice-file/</guid>
+      <description>Программный файл Houdini Apprentice</description>
+    </item>
+    
   </channel>
 </rss>

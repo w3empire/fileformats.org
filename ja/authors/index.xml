@@ -6,20 +6,11 @@
     <description>Recent content in すべてのFileFormats作成者のリスト on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FileFormatsに関するBrunoSouzaによるすべての記事</title>
-      <link>https://fileformats.org/ja/authors/bruno-souza/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:22 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/authors/bruno-souza/</guid>
-      <description>テクニカルライター兼編集者</description>
-    </item>
-    
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FileFormatsに関するRichard Scottによるすべての記事</title>
       <link>https://fileformats.org/ja/authors/richard-scott/</link>
-      <pubDate>Sat, 24 Dec 2022 12:05:13 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 13:46:22 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/authors/richard-scott/</guid>
       <description>テクニカルライター</description>
@@ -28,9 +19,18 @@
     <item>
       <title>FileFormatsに関する大澤晃のすべての記事</title>
       <link>https://fileformats.org/ja/authors/akira-osawa/</link>
-      <pubDate>Sat, 24 Dec 2022 11:57:45 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:11 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/authors/akira-osawa/</guid>
+      <description>テクニカルライター兼編集者</description>
+    </item>
+    
+    <item>
+      <title>FileFormatsに関するBrunoSouzaによるすべての記事</title>
+      <link>https://fileformats.org/ja/authors/bruno-souza/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/authors/bruno-souza/</guid>
       <description>テクニカルライター兼編集者</description>
     </item>
     

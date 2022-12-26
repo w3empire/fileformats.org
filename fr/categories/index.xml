@@ -6,11 +6,20 @@
     <description>Recent content in Toutes catégories on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La liste complète des extensions de fichiers de sauvegarde</title>
+      <link>https://fileformats.org/fr/categories/backup-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/backup-file-extensions/</guid>
+      <description>Les copies de sauvegarde des fichiers individuels et des données relatives aux programmes de sauvegarde sont toutes deux incluses dans la section Fichiers de sauvegarde.</description>
+    </item>
+    
     <item>
       <title>La liste complète des extensions de fichiers audio</title>
       <link>https://fileformats.org/fr/categories/audio-file-extensions/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:20 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:07 +0000</pubDate>
       
       <guid>https://fileformats.org/fr/categories/audio-file-extensions/</guid>
       <description>La catégorie connue sous le nom de &amp;lsquo;Fichiers audio&amp;rsquo; contient des formats audio compressés et non compressés.</description>
@@ -41,15 +50,6 @@
       
       <guid>https://fileformats.org/fr/categories/developer-file-extensions/</guid>
       <description>Les types de fichiers pertinents pour la création de logiciels se trouvent dans la catégorie Developer Files.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers de sauvegarde</title>
-      <link>https://fileformats.org/fr/categories/backup-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 01:37:10 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/backup-file-extensions/</guid>
-      <description>Les copies de sauvegarde des fichiers individuels et des données relatives aux programmes de sauvegarde sont toutes deux incluses dans la section Fichiers de sauvegarde.</description>
     </item>
     
     <item>

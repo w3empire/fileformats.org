@@ -6,7 +6,25 @@
     <description>Recent content in 理查德·斯科特在 FileFormats 上的所有文章 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:05:17 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/zh-cn/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/alfresco-content-package/</guid>
+      <description>Alfresco 内容包</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>https://fileformats.org/zh-cn/file-types/abc-music-notation/</link>
+      <pubDate>Sat, 24 Dec 2022 12:21:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/abc-music-notation/</guid>
+      <description>ABC简谱</description>
+    </item>
+    
     <item>
       <title>FLP</title>
       <link>https://fileformats.org/zh-cn/file-types/fl-studio-project/</link>
@@ -50,6 +68,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/blockbench-3d-model-file/</guid>
       <description>Blockbench 3D 模型文件</description>
+    </item>
+    
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/zh-cn/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/houdini-apprentice-file/</guid>
+      <description>Houdini Apprentice 程序文件</description>
     </item>
     
     <item>

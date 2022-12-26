@@ -6,7 +6,25 @@
     <description>Recent content in FileFormats - O site de informações de extensão de arquivo mais preciso da Internet on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/pt/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/alfresco-content-package/</guid>
+      <description>Pacote de conteúdo do Alfresco</description>
+    </item>
+    
+    <item>
+      <title>L</title>
+      <link>https://fileformats.org/pt/file-types/left-audio-channel-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/left-audio-channel-file/</guid>
+      <description>Arquivo do canal de áudio esquerdo</description>
+    </item>
+    
     <item>
       <title>MP3</title>
       <link>https://fileformats.org/pt/file-types/mp3-audio-file/</link>
@@ -14,6 +32,15 @@
       
       <guid>https://fileformats.org/pt/file-types/mp3-audio-file/</guid>
       <description>Arquivo de áudio MP3</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>https://fileformats.org/pt/file-types/abc-music-notation/</link>
+      <pubDate>Sat, 24 Dec 2022 12:21:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/abc-music-notation/</guid>
+      <description>Notação musical ABC</description>
     </item>
     
     <item>
@@ -62,6 +89,15 @@
     </item>
     
     <item>
+      <title>MD5ANIM</title>
+      <link>https://fileformats.org/pt/file-types/id-tech-4-model-animation-file/</link>
+      <pubDate>Fri, 23 Dec 2022 16:04:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/id-tech-4-model-animation-file/</guid>
+      <description>Arquivo de animação de modelo do id Tech 4</description>
+    </item>
+    
+    <item>
       <title>CRZ</title>
       <link>https://fileformats.org/pt/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:40 +0000</pubDate>
@@ -104,6 +140,15 @@
       
       <guid>https://fileformats.org/pt/file-types/blockbench-3d-model-file/</guid>
       <description>Arquivo de modelo 3D Blockbench</description>
+    </item>
+    
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/pt/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/houdini-apprentice-file/</guid>
+      <description>Arquivo do Houdini Apprentice</description>
     </item>
     
     <item>

@@ -6,7 +6,43 @@
     <description>Recent content in All articles by Bruno Souza on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Dec 2022 12:50:15 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:47:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPA</title>
+      <link>https://fileformats.org/file-types/cadstar-pcb-archive-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/cadstar-pcb-archive-file/</guid>
+      <description>CADSTAR PCB Archive File</description>
+    </item>
+    
+    <item>
+      <title>FBW</title>
+      <link>https://fileformats.org/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>HP Recovery Manager Backup File</description>
+    </item>
+    
+    <item>
+      <title>NMM</title>
+      <link>https://fileformats.org/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/samsung-memo-file/</guid>
+      <description>Samsung Memo File</description>
+    </item>
+    
+    <item>
+      <title>ABK</title>
+      <link>https://fileformats.org/file-types/automatic-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:56:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/automatic-backup-file/</guid>
+      <description>Automatic Backup File</description>
+    </item>
+    
     <item>
       <title>UST</title>
       <link>https://fileformats.org/file-types/utau-sequence-text-file/</link>

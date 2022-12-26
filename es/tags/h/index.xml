@@ -5,6 +5,16 @@
     <link>https://fileformats.org/es/tags/h/</link>
     <description>Recent content in Lista de todas las extensiones de archivos que comienzan con la letra “H” (significados) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/es/tags/h/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 14:22:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/tags/h/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/es/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/houdini-apprentice-file/</guid>
+      <description>Archivo del Houdini Apprentice</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,7 +6,52 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Dec 2022 12:29:11 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 17:59:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EPF</title>
+      <link>https://fileformats.org/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/eagle-project/</guid>
+      <description>EAGLE Project</description>
+    </item>
+    
+    <item>
+      <title>IBA</title>
+      <link>https://fileformats.org/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectra Clothing Design Pieces File</description>
+    </item>
+    
+    <item>
+      <title>BDC</title>
+      <link>https://fileformats.org/file-types/west-point-bridge-designer-design-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/west-point-bridge-designer-design-file/</guid>
+      <description>West Point Bridge Designer Design File</description>
+    </item>
+    
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/alfresco-content-package/</guid>
+      <description>Alfresco Content Package</description>
+    </item>
+    
+    <item>
+      <title>SPG</title>
+      <link>https://fileformats.org/file-types/tcp-optimizer-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:09:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/tcp-optimizer-backup-file/</guid>
+      <description>TCP Optimizer Backup File</description>
+    </item>
+    
     <item>
       <title>COPY</title>
       <link>https://fileformats.org/file-types/sony-ericsson-protected-content-file/</link>

@@ -6,20 +6,11 @@
     <description>Recent content in Список всех авторов FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Все статьи Бруно Соуза на FileFormats</title>
-      <link>https://fileformats.org/ru/authors/bruno-souza/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:25 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/authors/bruno-souza/</guid>
-      <description>Технический писатель и редактор</description>
-    </item>
-    
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Все статьи Ричарда Скотта на FileFormats</title>
       <link>https://fileformats.org/ru/authors/richard-scott/</link>
-      <pubDate>Sat, 24 Dec 2022 12:05:15 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 13:46:25 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/authors/richard-scott/</guid>
       <description>Технический писатель</description>
@@ -28,9 +19,18 @@
     <item>
       <title>Все статьи Акиры Осавы на FileFormats</title>
       <link>https://fileformats.org/ru/authors/akira-osawa/</link>
-      <pubDate>Sat, 24 Dec 2022 11:57:48 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:14 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/authors/akira-osawa/</guid>
+      <description>Технический писатель и редактор</description>
+    </item>
+    
+    <item>
+      <title>Все статьи Бруно Соуза на FileFormats</title>
+      <link>https://fileformats.org/ru/authors/bruno-souza/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/authors/bruno-souza/</guid>
       <description>Технический писатель и редактор</description>
     </item>
     

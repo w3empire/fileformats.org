@@ -6,7 +6,25 @@
     <description>Recent content in Tous les articles de Richard Scott sur FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:05:10 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/fr/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/alfresco-content-package/</guid>
+      <description>Pack de contenu Alfresco</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>https://fileformats.org/fr/file-types/abc-music-notation/</link>
+      <pubDate>Sat, 24 Dec 2022 12:21:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/abc-music-notation/</guid>
+      <description>Notation musicale ABC</description>
+    </item>
+    
     <item>
       <title>FLP</title>
       <link>https://fileformats.org/fr/file-types/fl-studio-project/</link>
@@ -50,6 +68,15 @@
       
       <guid>https://fileformats.org/fr/file-types/blockbench-3d-model-file/</guid>
       <description>Fichier de modèle 3D Blockbench</description>
+    </item>
+    
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/fr/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/houdini-apprentice-file/</guid>
+      <description>Fichier du programme Houdini Apprentice</description>
     </item>
     
     <item>

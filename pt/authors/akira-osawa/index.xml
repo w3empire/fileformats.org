@@ -6,7 +6,16 @@
     <description>Recent content in Todos os artigos de Akira Osawa no FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 11:57:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 12:00:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L</title>
+      <link>https://fileformats.org/pt/file-types/left-audio-channel-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/left-audio-channel-file/</guid>
+      <description>Arquivo do canal de áudio esquerdo</description>
+    </item>
+    
     <item>
       <title>EFS</title>
       <link>https://fileformats.org/pt/file-types/ensoniq-sq-80-file/</link>
@@ -23,6 +32,15 @@
       
       <guid>https://fileformats.org/pt/file-types/grasshopper-binary-definition-file/</guid>
       <description>Arquivo de definição binária do Grasshopper</description>
+    </item>
+    
+    <item>
+      <title>MD5ANIM</title>
+      <link>https://fileformats.org/pt/file-types/id-tech-4-model-animation-file/</link>
+      <pubDate>Fri, 23 Dec 2022 16:04:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/id-tech-4-model-animation-file/</guid>
+      <description>Arquivo de animação de modelo do id Tech 4</description>
     </item>
     
     <item>

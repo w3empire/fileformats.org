@@ -25,5 +25,14 @@
       <description>Archivo de malla 3D del Godot Engine</description>
     </item>
     
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/es/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/houdini-apprentice-file/</guid>
+      <description>Archivo del Houdini Apprentice</description>
+    </item>
+    
   </channel>
 </rss>

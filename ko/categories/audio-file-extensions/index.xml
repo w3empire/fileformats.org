@@ -6,7 +6,16 @@
     <description>Recent content in 오디오 파일 확장자의 전체 목록 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 12:00:13 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L</title>
+      <link>https://fileformats.org/ko/file-types/left-audio-channel-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/left-audio-channel-file/</guid>
+      <description>왼쪽 오디오 채널 파일</description>
+    </item>
+    
     <item>
       <title>MP3</title>
       <link>https://fileformats.org/ko/file-types/mp3-audio-file/</link>
@@ -14,6 +23,15 @@
       
       <guid>https://fileformats.org/ko/file-types/mp3-audio-file/</guid>
       <description>MP3 오디오 파일</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>https://fileformats.org/ko/file-types/abc-music-notation/</link>
+      <pubDate>Sat, 24 Dec 2022 12:21:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/abc-music-notation/</guid>
+      <description>ABC 악보</description>
     </item>
     
     <item>

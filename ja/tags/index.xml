@@ -6,7 +6,34 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>すべての ZIP ファイル拡張子のリスト (形式、種類、および意味)</title>
+      <link>https://fileformats.org/ja/tags/zip-file-format/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/tags/zip-file-format/</guid>
+      <description>無損失データ圧縮は、ZIP と呼ばれるアーカイブ ファイル形式でサポートされています。 ZIP ファイルには、1 つ以上の圧縮ファイルまたはディレクトリが含まれる場合があります。</description>
+    </item>
+    
+    <item>
+      <title>文字「A」で始まるすべてのファイル拡張子のリスト (意味)</title>
+      <link>https://fileformats.org/ja/tags/a/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/tags/a/</guid>
+      <description>文字「A」で始まるファイル拡張子の完全なリストを参照します。</description>
+    </item>
+    
+    <item>
+      <title>文字「L」で始まるすべてのファイル拡張子のリスト (意味)</title>
+      <link>https://fileformats.org/ja/tags/l/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/tags/l/</guid>
+      <description>文字「L」で始まるファイル拡張子の完全なリストを参照します。</description>
+    </item>
+    
     <item>
       <title>すべてのバイナリ ファイル拡張子のリスト (形式、種類、および意味)</title>
       <link>https://fileformats.org/ja/tags/binary-file-format/</link>
@@ -91,7 +118,7 @@
     <item>
       <title>すべてのテキスト ファイル拡張子のリスト (形式、種類、および意味)</title>
       <link>https://fileformats.org/ja/tags/text-file-format/</link>
-      <pubDate>Fri, 23 Dec 2022 14:39:36 +0000</pubDate>
+      <pubDate>Fri, 23 Dec 2022 16:04:15 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/tags/text-file-format/</guid>
       <description>コンピュータに保存できるファイル形式の 1 つはテキスト ファイルと呼ばれ、テキスト行の集まりとして構造化されています。コンピュータのファイル システム内には、データの保存に使用されるテキスト ファイルがあります。</description>
@@ -104,6 +131,15 @@
       
       <guid>https://fileformats.org/ja/tags/b/</guid>
       <description>文字「B」で始まるファイル拡張子の完全なリストを参照します。</description>
+    </item>
+    
+    <item>
+      <title>文字「H」で始まるすべてのファイル拡張子のリスト (意味)</title>
+      <link>https://fileformats.org/ja/tags/h/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/tags/h/</guid>
+      <description>文字「H」で始まるファイル拡張子の完全なリストを参照します。</description>
     </item>
     
     <item>
@@ -143,39 +179,12 @@
     </item>
     
     <item>
-      <title>すべての ZIP ファイル拡張子のリスト (形式、種類、および意味)</title>
-      <link>https://fileformats.org/ja/tags/zip-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/tags/zip-file-format/</guid>
-      <description>無損失データ圧縮は、ZIP と呼ばれるアーカイブ ファイル形式でサポートされています。 ZIP ファイルには、1 つ以上の圧縮ファイルまたはディレクトリが含まれる場合があります。</description>
-    </item>
-    
-    <item>
       <title>数字または記号で始まるすべてのファイル拡張子のリスト</title>
       <link>https://fileformats.org/ja/tags/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/tags/1/</guid>
       <description>数字または記号で始まるファイル拡張子の完全なリストを参照します。</description>
-    </item>
-    
-    <item>
-      <title>文字「A」で始まるすべてのファイル拡張子のリスト (意味)</title>
-      <link>https://fileformats.org/ja/tags/a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/tags/a/</guid>
-      <description>文字「A」で始まるファイル拡張子の完全なリストを参照します。</description>
-    </item>
-    
-    <item>
-      <title>文字「H」で始まるすべてのファイル拡張子のリスト (意味)</title>
-      <link>https://fileformats.org/ja/tags/h/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/tags/h/</guid>
-      <description>文字「H」で始まるファイル拡張子の完全なリストを参照します。</description>
     </item>
     
     <item>
@@ -203,15 +212,6 @@
       
       <guid>https://fileformats.org/ja/tags/k/</guid>
       <description>文字「K」で始まるファイル拡張子の完全なリストを参照します。</description>
-    </item>
-    
-    <item>
-      <title>文字「L」で始まるすべてのファイル拡張子のリスト (意味)</title>
-      <link>https://fileformats.org/ja/tags/l/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/tags/l/</guid>
-      <description>文字「L」で始まるファイル拡張子の完全なリストを参照します。</description>
     </item>
     
     <item>

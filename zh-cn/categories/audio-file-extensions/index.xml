@@ -6,7 +6,16 @@
     <description>Recent content in 音频文件扩展名的完整列表 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 12:00:15 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L</title>
+      <link>https://fileformats.org/zh-cn/file-types/left-audio-channel-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/left-audio-channel-file/</guid>
+      <description>左声道文件</description>
+    </item>
+    
     <item>
       <title>MP3</title>
       <link>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</link>
@@ -14,6 +23,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</guid>
       <description>MP3 音频文件</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>https://fileformats.org/zh-cn/file-types/abc-music-notation/</link>
+      <pubDate>Sat, 24 Dec 2022 12:21:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/abc-music-notation/</guid>
+      <description>ABC简谱</description>
     </item>
     
     <item>

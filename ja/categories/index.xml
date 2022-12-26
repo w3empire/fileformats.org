@@ -6,11 +6,20 @@
     <description>Recent content in すべてのカテゴリ on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>バックアップ ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/backup-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/backup-file-extensions/</guid>
+      <description>バックアップ プログラムに関連する個々のファイルとデータのバックアップ コピーは、どちらも [バックアップ ファイル] セクションに含まれています。</description>
+    </item>
+    
     <item>
       <title>オーディオ ファイル拡張子の完全なリスト</title>
       <link>https://fileformats.org/ja/categories/audio-file-extensions/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:22 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:11 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/categories/audio-file-extensions/</guid>
       <description>「オーディオ ファイル」として知られるカテゴリには、圧縮されたオーディオ形式と圧縮されていないオーディオ形式の両方が含まれます。</description>
@@ -41,15 +50,6 @@
       
       <guid>https://fileformats.org/ja/categories/developer-file-extensions/</guid>
       <description>ソフトウェアの作成に関連するファイルの種類は、開発者用ファイル カテゴリにあります。</description>
-    </item>
-    
-    <item>
-      <title>バックアップ ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/backup-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 01:37:12 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/backup-file-extensions/</guid>
-      <description>バックアップ プログラムに関連する個々のファイルとデータのバックアップ コピーは、どちらも [バックアップ ファイル] セクションに含まれています。</description>
     </item>
     
     <item>

@@ -25,5 +25,14 @@
       <description>File mesh 3D del Godot Engine</description>
     </item>
     
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/it/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/houdini-apprentice-file/</guid>
+      <description>File Houdini Apprentice</description>
+    </item>
+    
   </channel>
 </rss>

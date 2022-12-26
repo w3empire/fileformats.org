@@ -25,5 +25,14 @@
       <description>Godot Engine 3D 메쉬 파일</description>
     </item>
     
+    <item>
+      <title>HIPNC</title>
+      <link>https://fileformats.org/ko/file-types/houdini-apprentice-file/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/houdini-apprentice-file/</guid>
+      <description>Houdini Apprentice 프로그램 파일</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,7 +6,34 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:21 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:21 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elenco di tutte le estensioni dei file ZIP (formati, tipi e significati)</title>
+      <link>https://fileformats.org/it/tags/zip-file-format/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/tags/zip-file-format/</guid>
+      <description>La compressione dei dati senza perdita di dati è supportata dal formato di file di archivio noto come ZIP. Un file ZIP potrebbe includere uno o più file o directory compressi.</description>
+    </item>
+    
+    <item>
+      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “A” (significati)</title>
+      <link>https://fileformats.org/it/tags/a/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/tags/a/</guid>
+      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “A”.</description>
+    </item>
+    
+    <item>
+      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “L” (significati)</title>
+      <link>https://fileformats.org/it/tags/l/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/tags/l/</guid>
+      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “L”.</description>
+    </item>
+    
     <item>
       <title>Elenco di tutte le estensioni di file binari (formati, tipi e significati)</title>
       <link>https://fileformats.org/it/tags/binary-file-format/</link>
@@ -91,7 +118,7 @@
     <item>
       <title>Elenco di tutte le estensioni dei file di testo (formati, tipi e significati)</title>
       <link>https://fileformats.org/it/tags/text-file-format/</link>
-      <pubDate>Fri, 23 Dec 2022 14:39:34 +0000</pubDate>
+      <pubDate>Fri, 23 Dec 2022 16:04:14 +0000</pubDate>
       
       <guid>https://fileformats.org/it/tags/text-file-format/</guid>
       <description>Una forma di file che può essere archiviata su un computer è nota come file di testo ed è strutturata come una raccolta di righe di testo. All&amp;rsquo;interno del file system di un computer, è presente un file di testo che viene utilizzato per memorizzare i dati.</description>
@@ -104,6 +131,15 @@
       
       <guid>https://fileformats.org/it/tags/b/</guid>
       <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “B”.</description>
+    </item>
+    
+    <item>
+      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “H” (significati)</title>
+      <link>https://fileformats.org/it/tags/h/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/tags/h/</guid>
+      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “H”.</description>
     </item>
     
     <item>
@@ -134,33 +170,6 @@
     </item>
     
     <item>
-      <title>Elenco di tutte le estensioni dei file ZIP (formati, tipi e significati)</title>
-      <link>https://fileformats.org/it/tags/zip-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/tags/zip-file-format/</guid>
-      <description>La compressione dei dati senza perdita di dati è supportata dal formato di file di archivio noto come ZIP. Un file ZIP potrebbe includere uno o più file o directory compressi.</description>
-    </item>
-    
-    <item>
-      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “A” (significati)</title>
-      <link>https://fileformats.org/it/tags/a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/tags/a/</guid>
-      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “A”.</description>
-    </item>
-    
-    <item>
-      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “H” (significati)</title>
-      <link>https://fileformats.org/it/tags/h/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/tags/h/</guid>
-      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “H”.</description>
-    </item>
-    
-    <item>
       <title>Elenco di tutte le estensioni di file che iniziano con la lettera “I” (significati)</title>
       <link>https://fileformats.org/it/tags/i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -185,15 +194,6 @@
       
       <guid>https://fileformats.org/it/tags/k/</guid>
       <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “K”.</description>
-    </item>
-    
-    <item>
-      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “L” (significati)</title>
-      <link>https://fileformats.org/it/tags/l/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/tags/l/</guid>
-      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “L”.</description>
     </item>
     
     <item>

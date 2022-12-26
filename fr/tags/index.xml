@@ -6,7 +6,34 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “A” (significations)</title>
+      <link>https://fileformats.org/fr/tags/a/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/a/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “A”.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers ZIP (formats, types et significations)</title>
+      <link>https://fileformats.org/fr/tags/zip-file-format/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/zip-file-format/</guid>
+      <description>La compression des données sans perte est prise en charge par le format de fichier d&amp;rsquo;archive connu sous le nom de ZIP. Un fichier ZIP peut inclure un ou plusieurs fichiers ou répertoires compressés.</description>
+    </item>
+    
+    <item>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “L” (significations)</title>
+      <link>https://fileformats.org/fr/tags/l/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/l/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “L”.</description>
+    </item>
+    
     <item>
       <title>Liste de toutes les extensions de fichiers binaires (formats, types et significations)</title>
       <link>https://fileformats.org/fr/tags/binary-file-format/</link>
@@ -89,6 +116,15 @@
     </item>
     
     <item>
+      <title>Liste de toutes les extensions de fichiers texte (formats, types et significations)</title>
+      <link>https://fileformats.org/fr/tags/text-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 16:04:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/tags/text-file-format/</guid>
+      <description>Une forme de fichier qui peut être stockée sur un ordinateur est connue sous le nom de fichier texte, et elle est structurée comme une collection de lignes de texte. Dans le système de fichiers d&amp;rsquo;un ordinateur, il existe un fichier texte qui est utilisé pour stocker des données.</description>
+    </item>
+    
+    <item>
       <title>Liste de toutes les extensions de fichiers commençant par la lettre “B” (significations)</title>
       <link>https://fileformats.org/fr/tags/b/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:33 +0000</pubDate>
@@ -98,12 +134,12 @@
     </item>
     
     <item>
-      <title>Liste de toutes les extensions de fichiers texte (formats, types et significations)</title>
-      <link>https://fileformats.org/fr/tags/text-file-format/</link>
-      <pubDate>Fri, 23 Dec 2022 14:39:33 +0000</pubDate>
+      <title>Liste de toutes les extensions de fichiers commençant par la lettre “H” (significations)</title>
+      <link>https://fileformats.org/fr/tags/h/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:24 +0000</pubDate>
       
-      <guid>https://fileformats.org/fr/tags/text-file-format/</guid>
-      <description>Une forme de fichier qui peut être stockée sur un ordinateur est connue sous le nom de fichier texte, et elle est structurée comme une collection de lignes de texte. Dans le système de fichiers d&amp;rsquo;un ordinateur, il existe un fichier texte qui est utilisé pour stocker des données.</description>
+      <guid>https://fileformats.org/fr/tags/h/</guid>
+      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “H”.</description>
     </item>
     
     <item>
@@ -134,24 +170,6 @@
     </item>
     
     <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “A” (significations)</title>
-      <link>https://fileformats.org/fr/tags/a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/a/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “A”.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “H” (significations)</title>
-      <link>https://fileformats.org/fr/tags/h/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/h/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “H”.</description>
-    </item>
-    
-    <item>
       <title>Liste de toutes les extensions de fichiers commençant par la lettre “I” (significations)</title>
       <link>https://fileformats.org/fr/tags/i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -176,15 +194,6 @@
       
       <guid>https://fileformats.org/fr/tags/k/</guid>
       <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “K”.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers commençant par la lettre “L” (significations)</title>
-      <link>https://fileformats.org/fr/tags/l/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/l/</guid>
-      <description>Parcourez une liste complète des extensions de fichiers commençant par la lettre “L”.</description>
     </item>
     
     <item>
@@ -293,15 +302,6 @@
       
       <guid>https://fileformats.org/fr/tags/xml-file-format/</guid>
       <description>(XML) Extensible Markup Language est un langage de balisage et un format de fichier pour stocker, transmettre et reproduire tout type de données. Il spécifie les règles d&amp;rsquo;encodage des documents afin qu&amp;rsquo;ils puissent être lus par les ordinateurs et les personnes.</description>
-    </item>
-    
-    <item>
-      <title>Liste de toutes les extensions de fichiers ZIP (formats, types et significations)</title>
-      <link>https://fileformats.org/fr/tags/zip-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/tags/zip-file-format/</guid>
-      <description>La compression des données sans perte est prise en charge par le format de fichier d&amp;rsquo;archive connu sous le nom de ZIP. Un fichier ZIP peut inclure un ou plusieurs fichiers ou répertoires compressés.</description>
     </item>
     
   </channel>

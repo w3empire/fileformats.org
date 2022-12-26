@@ -6,20 +6,11 @@
     <description>Recent content in Liste aller FileFormats-Autoren on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:27 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alle Artikel von Bruno Souza auf FileFormats</title>
-      <link>https://fileformats.org/de/authors/bruno-souza/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:27 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/authors/bruno-souza/</guid>
-      <description>Technischer Redakteur und Redakteur</description>
-    </item>
-    
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:27 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alle Artikel von Richard Scott auf FileFormats</title>
       <link>https://fileformats.org/de/authors/richard-scott/</link>
-      <pubDate>Sat, 24 Dec 2022 12:05:18 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 13:46:27 +0000</pubDate>
       
       <guid>https://fileformats.org/de/authors/richard-scott/</guid>
       <description>Technischer Schreiber</description>
@@ -28,9 +19,18 @@
     <item>
       <title>Alle Artikel von Akira Osawa auf FileFormats</title>
       <link>https://fileformats.org/de/authors/akira-osawa/</link>
-      <pubDate>Sat, 24 Dec 2022 11:57:50 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:17 +0000</pubDate>
       
       <guid>https://fileformats.org/de/authors/akira-osawa/</guid>
+      <description>Technischer Redakteur und Redakteur</description>
+    </item>
+    
+    <item>
+      <title>Alle Artikel von Bruno Souza auf FileFormats</title>
+      <link>https://fileformats.org/de/authors/bruno-souza/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/authors/bruno-souza/</guid>
       <description>Technischer Redakteur und Redakteur</description>
     </item>
     

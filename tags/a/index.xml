@@ -6,7 +6,34 @@
     <description>Recent content in List of All File Extensions Starting With the Letter “A” (Meanings) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:21:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/a/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:57:43 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AFS</title>
+      <link>https://fileformats.org/file-types/staad-foundation-project-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:57:43 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/staad-foundation-project-file/</guid>
+      <description>STAAD.foundation Project File</description>
+    </item>
+    
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/alfresco-content-package/</guid>
+      <description>Alfresco Content Package</description>
+    </item>
+    
+    <item>
+      <title>ABK</title>
+      <link>https://fileformats.org/file-types/automatic-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:56:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/automatic-backup-file/</guid>
+      <description>Automatic Backup File</description>
+    </item>
+    
     <item>
       <title>ABC</title>
       <link>https://fileformats.org/file-types/abc-music-notation/</link>

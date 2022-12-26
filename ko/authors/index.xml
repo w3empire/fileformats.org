@@ -6,20 +6,11 @@
     <description>Recent content in 모든 FileFormats 작성자 목록 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FileFormats의 Bruno Souza의 모든 기사</title>
-      <link>https://fileformats.org/ko/authors/bruno-souza/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:23 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ko/authors/bruno-souza/</guid>
-      <description>기술 작가 및 편집자</description>
-    </item>
-    
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FileFormats에 대한 Richard Scott의 모든 기사</title>
       <link>https://fileformats.org/ko/authors/richard-scott/</link>
-      <pubDate>Sat, 24 Dec 2022 12:05:14 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 13:46:23 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/authors/richard-scott/</guid>
       <description>기술 작가</description>
@@ -28,9 +19,18 @@
     <item>
       <title>FileFormats에 대한 Akira Osawa의 모든 기사</title>
       <link>https://fileformats.org/ko/authors/akira-osawa/</link>
-      <pubDate>Sat, 24 Dec 2022 11:57:47 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:13 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/authors/akira-osawa/</guid>
+      <description>기술 작가 및 편집자</description>
+    </item>
+    
+    <item>
+      <title>FileFormats의 Bruno Souza의 모든 기사</title>
+      <link>https://fileformats.org/ko/authors/bruno-souza/</link>
+      <pubDate>Sat, 24 Dec 2022 12:52:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/authors/bruno-souza/</guid>
       <description>기술 작가 및 편집자</description>
     </item>
     

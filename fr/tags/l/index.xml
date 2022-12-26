@@ -5,6 +5,16 @@
     <link>https://fileformats.org/fr/tags/l/</link>
     <description>Recent content in Liste de toutes les extensions de fichiers commençant par la lettre “L” (significations) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/tags/l/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Dec 2022 12:00:07 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/l/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L</title>
+      <link>https://fileformats.org/fr/file-types/left-audio-channel-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/left-audio-channel-file/</guid>
+      <description>Fichier de canal audio gauche</description>
+    </item>
+    
   </channel>
 </rss>

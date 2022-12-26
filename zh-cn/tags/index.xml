@@ -6,7 +6,34 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>以字母“A”开头的所有文件扩展名列表（含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/a/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/tags/a/</guid>
+      <description>浏览以字母“A”开头的文件扩展名的完整列表。</description>
+    </item>
+    
+    <item>
+      <title>所有 ZIP 文件扩展名列表（格式、类型和含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/zip-file-format/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/tags/zip-file-format/</guid>
+      <description>称为 ZIP 的存档文件格式支持无损数据压缩。 ZIP 文件可能包含一个或多个压缩文件或目录。</description>
+    </item>
+    
+    <item>
+      <title>以字母“L”开头的所有文件扩展名列表（含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/l/</link>
+      <pubDate>Sun, 25 Dec 2022 12:00:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/tags/l/</guid>
+      <description>浏览以字母“L”开头的文件扩展名的完整列表。</description>
+    </item>
+    
     <item>
       <title>以字母“M”开头的所有文件扩展名列表（含义）</title>
       <link>https://fileformats.org/zh-cn/tags/m/</link>
@@ -89,6 +116,15 @@
     </item>
     
     <item>
+      <title>所有文本文件扩展名列表（格式、类型和含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/text-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 16:04:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/tags/text-file-format/</guid>
+      <description>可以存储在计算机上的一种文件形式称为文本文件，它的结构是文本行的集合。在计算机的文件系统中，有一个文本文件用于存储数据。</description>
+    </item>
+    
+    <item>
       <title>以字母“B”开头的所有文件扩展名列表（含义）</title>
       <link>https://fileformats.org/zh-cn/tags/b/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:39 +0000</pubDate>
@@ -98,12 +134,12 @@
     </item>
     
     <item>
-      <title>所有文本文件扩展名列表（格式、类型和含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/text-file-format/</link>
-      <pubDate>Fri, 23 Dec 2022 14:39:39 +0000</pubDate>
+      <title>以字母“H”开头的所有文件扩展名列表（含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/h/</link>
+      <pubDate>Fri, 23 Dec 2022 14:22:30 +0000</pubDate>
       
-      <guid>https://fileformats.org/zh-cn/tags/text-file-format/</guid>
-      <description>可以存储在计算机上的一种文件形式称为文本文件，它的结构是文本行的集合。在计算机的文件系统中，有一个文本文件用于存储数据。</description>
+      <guid>https://fileformats.org/zh-cn/tags/h/</guid>
+      <description>浏览以字母“H”开头的文件扩展名的完整列表。</description>
     </item>
     
     <item>
@@ -134,24 +170,6 @@
     </item>
     
     <item>
-      <title>以字母“A”开头的所有文件扩展名列表（含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/tags/a/</guid>
-      <description>浏览以字母“A”开头的文件扩展名的完整列表。</description>
-    </item>
-    
-    <item>
-      <title>以字母“H”开头的所有文件扩展名列表（含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/h/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/tags/h/</guid>
-      <description>浏览以字母“H”开头的文件扩展名的完整列表。</description>
-    </item>
-    
-    <item>
       <title>以字母“I”开头的所有文件扩展名列表（含义）</title>
       <link>https://fileformats.org/zh-cn/tags/i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -176,15 +194,6 @@
       
       <guid>https://fileformats.org/zh-cn/tags/k/</guid>
       <description>浏览以字母“K”开头的文件扩展名的完整列表。</description>
-    </item>
-    
-    <item>
-      <title>以字母“L”开头的所有文件扩展名列表（含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/l/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/tags/l/</guid>
-      <description>浏览以字母“L”开头的文件扩展名的完整列表。</description>
     </item>
     
     <item>
@@ -293,15 +302,6 @@
       
       <guid>https://fileformats.org/zh-cn/tags/xml-file-format/</guid>
       <description>(XML) 可扩展标记语言是一种标记语言和文件格式，用于存储、传输和复制任何类型的数据。它指定了对文档进行编码的规则，以便计算机和人都可以阅读它们。</description>
-    </item>
-    
-    <item>
-      <title>所有 ZIP 文件扩展名列表（格式、类型和含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/zip-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/tags/zip-file-format/</guid>
-      <description>称为 ZIP 的存档文件格式支持无损数据压缩。 ZIP 文件可能包含一个或多个压缩文件或目录。</description>
     </item>
     
   </channel>

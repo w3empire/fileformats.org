@@ -6,11 +6,20 @@
     <description>Recent content in Tutte le categorie on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:21 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:21 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;elenco completo delle estensioni dei file di backup</title>
+      <link>https://fileformats.org/it/categories/backup-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/categories/backup-file-extensions/</guid>
+      <description>Le copie di backup dei singoli file e dei dati relativi ai programmi di backup sono entrambe incluse nella sezione File di backup.</description>
+    </item>
+    
     <item>
       <title>L&#39;elenco completo delle estensioni dei file audio</title>
       <link>https://fileformats.org/it/categories/audio-file-extensions/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:21 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:10 +0000</pubDate>
       
       <guid>https://fileformats.org/it/categories/audio-file-extensions/</guid>
       <description>La categoria nota come &amp;lsquo;File audio&amp;rsquo; contiene formati audio compressi e non compressi.</description>
@@ -41,15 +50,6 @@
       
       <guid>https://fileformats.org/it/categories/developer-file-extensions/</guid>
       <description>I tipi di file rilevanti per la creazione di software possono essere trovati nella categoria File per sviluppatori.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;elenco completo delle estensioni dei file di backup</title>
-      <link>https://fileformats.org/it/categories/backup-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 01:37:11 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/categories/backup-file-extensions/</guid>
-      <description>Le copie di backup dei singoli file e dei dati relativi ai programmi di backup sono entrambe incluse nella sezione File di backup.</description>
     </item>
     
     <item>

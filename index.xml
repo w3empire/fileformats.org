@@ -6,7 +6,169 @@
     <description>Recent content in FileFormats - The most accurate file extension information site on the internet on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Dec 2022 12:50:15 +0000</lastBuildDate><atom:link href="https://fileformats.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:57:43 +0000</lastBuildDate><atom:link href="https://fileformats.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AFS</title>
+      <link>https://fileformats.org/file-types/staad-foundation-project-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:57:43 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/staad-foundation-project-file/</guid>
+      <description>STAAD.foundation Project File</description>
+    </item>
+    
+    <item>
+      <title>CPA</title>
+      <link>https://fileformats.org/file-types/cadstar-pcb-archive-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/cadstar-pcb-archive-file/</guid>
+      <description>CADSTAR PCB Archive File</description>
+    </item>
+    
+    <item>
+      <title>PSM</title>
+      <link>https://fileformats.org/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Solid Edge Sheet Metal File</description>
+    </item>
+    
+    <item>
+      <title>DLV</title>
+      <link>https://fileformats.org/file-types/catia-4-export-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:17:03 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/catia-4-export-file/</guid>
+      <description>CATIA 4 Export File</description>
+    </item>
+    
+    <item>
+      <title>EPF</title>
+      <link>https://fileformats.org/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/eagle-project/</guid>
+      <description>EAGLE Project</description>
+    </item>
+    
+    <item>
+      <title>IBA</title>
+      <link>https://fileformats.org/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectra Clothing Design Pieces File</description>
+    </item>
+    
+    <item>
+      <title>OPT</title>
+      <link>https://fileformats.org/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:40 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/opterecenja-file/</guid>
+      <description>Opterecenja File</description>
+    </item>
+    
+    <item>
+      <title>BDC</title>
+      <link>https://fileformats.org/file-types/west-point-bridge-designer-design-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/west-point-bridge-designer-design-file/</guid>
+      <description>West Point Bridge Designer Design File</description>
+    </item>
+    
+    <item>
+      <title>FBW</title>
+      <link>https://fileformats.org/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>HP Recovery Manager Backup File</description>
+    </item>
+    
+    <item>
+      <title>NMM</title>
+      <link>https://fileformats.org/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/samsung-memo-file/</guid>
+      <description>Samsung Memo File</description>
+    </item>
+    
+    <item>
+      <title>DSB</title>
+      <link>https://fileformats.org/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/dell-datasafe-backup-file/</guid>
+      <description>Dell DataSafe Backup File</description>
+    </item>
+    
+    <item>
+      <title>WX</title>
+      <link>https://fileformats.org/file-types/wanam-xposed-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/wanam-xposed-backup-file/</guid>
+      <description>Wanam Xposed Backup File</description>
+    </item>
+    
+    <item>
+      <title>TIG</title>
+      <link>https://fileformats.org/file-types/ti-connect-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:02:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/ti-connect-backup-file/</guid>
+      <description>TI Connect Backup File</description>
+    </item>
+    
+    <item>
+      <title>ACP</title>
+      <link>https://fileformats.org/file-types/alfresco-content-package/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/alfresco-content-package/</guid>
+      <description>Alfresco Content Package</description>
+    </item>
+    
+    <item>
+      <title>NPF</title>
+      <link>https://fileformats.org/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:25:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/nti-partition-file/</guid>
+      <description>NTI Partition File</description>
+    </item>
+    
+    <item>
+      <title>SPG</title>
+      <link>https://fileformats.org/file-types/tcp-optimizer-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:09:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/tcp-optimizer-backup-file/</guid>
+      <description>TCP Optimizer Backup File</description>
+    </item>
+    
+    <item>
+      <title>ABK</title>
+      <link>https://fileformats.org/file-types/automatic-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:56:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/automatic-backup-file/</guid>
+      <description>Automatic Backup File</description>
+    </item>
+    
+    <item>
+      <title>BKZ</title>
+      <link>https://fileformats.org/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:28:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/filefort-backup-file/</guid>
+      <description>FileFort Backup File</description>
+    </item>
+    
     <item>
       <title>UST</title>
       <link>https://fileformats.org/file-types/utau-sequence-text-file/</link>

@@ -6,11 +6,20 @@
     <description>Recent content in Все категории on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Полный список расширений файлов резервных копий</title>
+      <link>https://fileformats.org/ru/categories/backup-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/backup-file-extensions/</guid>
+      <description>Резервные копии отдельных файлов и данных, относящихся к программам резервного копирования, включены в раздел «Файлы резервных копий».</description>
+    </item>
+    
     <item>
       <title>Полный список расширений аудиофайлов</title>
       <link>https://fileformats.org/ru/categories/audio-file-extensions/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:25 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:14 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/categories/audio-file-extensions/</guid>
       <description>Категория, известная как «Аудиофайлы», содержит как сжатые, так и несжатые аудиоформаты.</description>
@@ -41,15 +50,6 @@
       
       <guid>https://fileformats.org/ru/categories/developer-file-extensions/</guid>
       <description>Типы файлов, относящиеся к созданию программного обеспечения, можно найти в категории «Файлы разработчика».</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов резервных копий</title>
-      <link>https://fileformats.org/ru/categories/backup-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 01:37:15 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/backup-file-extensions/</guid>
-      <description>Резервные копии отдельных файлов и данных, относящихся к программам резервного копирования, включены в раздел «Файлы резервных копий».</description>
     </item>
     
     <item>

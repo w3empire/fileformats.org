@@ -6,11 +6,20 @@
     <description>Recent content in 所有类别 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:46:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>备份文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/backup-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 13:46:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/backup-file-extensions/</guid>
+      <description>单个文件的备份副本和与备份程序有关的数据都包含在“备份文件”部分中。</description>
+    </item>
+    
     <item>
       <title>音频文件扩展名的完整列表</title>
       <link>https://fileformats.org/zh-cn/categories/audio-file-extensions/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:26 +0000</pubDate>
+      <pubDate>Sun, 25 Dec 2022 12:00:15 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/categories/audio-file-extensions/</guid>
       <description>称为“音频文件”的类别包含压缩和未压缩的音频格式。</description>
@@ -41,15 +50,6 @@
       
       <guid>https://fileformats.org/zh-cn/categories/developer-file-extensions/</guid>
       <description>与创建软件相关的文件类型可以在 Developer Files 类别中找到。</description>
-    </item>
-    
-    <item>
-      <title>备份文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/backup-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 01:37:16 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/backup-file-extensions/</guid>
-      <description>单个文件的备份副本和与备份程序有关的数据都包含在“备份文件”部分中。</description>
     </item>
     
     <item>

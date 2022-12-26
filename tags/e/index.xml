@@ -6,7 +6,16 @@
     <description>Recent content in List of All File Extensions Starting With the Letter “E” (Meanings) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 11:57:40 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/e/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 17:59:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/e/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EPF</title>
+      <link>https://fileformats.org/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/eagle-project/</guid>
+      <description>EAGLE Project</description>
+    </item>
+    
     <item>
       <title>EFS</title>
       <link>https://fileformats.org/file-types/ensoniq-sq-80-file/</link>
