@@ -6,7 +6,70 @@
     <description>Recent content in The Complete List of All File Extensions, Formats and Meanings on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:57:43 +0000</lastBuildDate><atom:link href="https://fileformats.org/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 19:44:02 +0000</lastBuildDate><atom:link href="https://fileformats.org/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NRW</title>
+      <link>https://fileformats.org/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/nikon-raw-image-file/</guid>
+      <description>Nikon Raw Image File</description>
+    </item>
+    
+    <item>
+      <title>RW2</title>
+      <link>https://fileformats.org/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/panasonic-raw-image/</guid>
+      <description>Panasonic RAW Image</description>
+    </item>
+    
+    <item>
+      <title>RAF</title>
+      <link>https://fileformats.org/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/fuji-raw-image-file/</guid>
+      <description>Fuji RAW Image File</description>
+    </item>
+    
+    <item>
+      <title>ERF</title>
+      <link>https://fileformats.org/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/epson-raw-file/</guid>
+      <description>Epson RAW File</description>
+    </item>
+    
+    <item>
+      <title>CR2</title>
+      <link>https://fileformats.org/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/canon-raw-image-file/</guid>
+      <description>Canon Raw Image File</description>
+    </item>
+    
+    <item>
+      <title>MCX</title>
+      <link>https://fileformats.org/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>MICRO CADAM-X/6000 Model Data File</description>
+    </item>
+    
+    <item>
+      <title>TCT</title>
+      <link>https://fileformats.org/file-types/turbocad-drawing-template/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/turbocad-drawing-template/</guid>
+      <description>TurboCAD Drawing Template</description>
+    </item>
+    
     <item>
       <title>AFS</title>
       <link>https://fileformats.org/file-types/staad-foundation-project-file/</link>

@@ -6,7 +6,25 @@
     <description>Recent content in La lista completa de todas las extensiones de archivo, formatos y significados on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 13:46:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:47:31 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPA</title>
+      <link>https://fileformats.org/es/file-types/cadstar-pcb-archive-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/cadstar-pcb-archive-file/</guid>
+      <description>Archivo CADSTAR PCB</description>
+    </item>
+    
+    <item>
+      <title>DLV</title>
+      <link>https://fileformats.org/es/file-types/catia-4-export-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:17:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/catia-4-export-file/</guid>
+      <description>Archivo de exportación de CATIA 4</description>
+    </item>
+    
     <item>
       <title>ACP</title>
       <link>https://fileformats.org/es/file-types/alfresco-content-package/</link>
@@ -14,6 +32,15 @@
       
       <guid>https://fileformats.org/es/file-types/alfresco-content-package/</guid>
       <description>Paquete de contenido de Alfresco</description>
+    </item>
+    
+    <item>
+      <title>ABK</title>
+      <link>https://fileformats.org/es/file-types/automatic-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:56:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/automatic-backup-file/</guid>
+      <description>Archivo de copia de seguridad automático</description>
     </item>
     
     <item>

@@ -6,7 +6,16 @@
     <description>Recent content in 모든 카테고리 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 13:46:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:47:38 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cad 파일 확장자의 전체 목록</title>
+      <link>https://fileformats.org/ko/categories/cad-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/categories/cad-file-extensions/</guid>
+      <description>CAD(Computer-Aided Design) 파일에는 2차원 또는 3차원 모델이 포함될 수 있습니다.</description>
+    </item>
+    
     <item>
       <title>백업 파일 확장자의 전체 목록</title>
       <link>https://fileformats.org/ko/categories/backup-file-extensions/</link>
@@ -50,15 +59,6 @@
       
       <guid>https://fileformats.org/ko/categories/developer-file-extensions/</guid>
       <description>소프트웨어 생성과 관련된 파일 형식은 개발자 파일 범주에서 찾을 수 있습니다.</description>
-    </item>
-    
-    <item>
-      <title>Cad 파일 확장자의 전체 목록</title>
-      <link>https://fileformats.org/ko/categories/cad-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ko/categories/cad-file-extensions/</guid>
-      <description>CAD(Computer-Aided Design) 파일에는 2차원 또는 3차원 모델이 포함될 수 있습니다.</description>
     </item>
     
     <item>

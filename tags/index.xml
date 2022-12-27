@@ -6,14 +6,68 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:57:43 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 19:44:02 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>List of All Binary File Extensions (Formats, Types, and Meanings)</title>
       <link>https://fileformats.org/tags/binary-file-format/</link>
-      <pubDate>Mon, 26 Dec 2022 18:57:43 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 19:44:02 +0000</pubDate>
       
       <guid>https://fileformats.org/tags/binary-file-format/</guid>
       <description>A computer file that is not textual is sometimes referred to as a “binary file.” Some binary file formats, like early Microsoft Word documents, actually save both the document&amp;rsquo;s text and its formatting information as binary data.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “N” (Meanings)</title>
+      <link>https://fileformats.org/tags/n/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/n/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “N”.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “R” (Meanings)</title>
+      <link>https://fileformats.org/tags/r/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/r/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “R”.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “E” (Meanings)</title>
+      <link>https://fileformats.org/tags/e/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/e/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “E”.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “C” (Meanings)</title>
+      <link>https://fileformats.org/tags/c/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/c/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “C”.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “M” (Meanings)</title>
+      <link>https://fileformats.org/tags/m/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/m/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “M”.</description>
+    </item>
+    
+    <item>
+      <title>List of All File Extensions Starting With the Letter “T” (Meanings)</title>
+      <link>https://fileformats.org/tags/t/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/tags/t/</guid>
+      <description>Browse through a complete list of file extensions starting with the letter “T”.</description>
     </item>
     
     <item>
@@ -23,15 +77,6 @@
       
       <guid>https://fileformats.org/tags/a/</guid>
       <description>Browse through a complete list of file extensions starting with the letter “A”.</description>
-    </item>
-    
-    <item>
-      <title>List of All File Extensions Starting With the Letter “C” (Meanings)</title>
-      <link>https://fileformats.org/tags/c/</link>
-      <pubDate>Mon, 26 Dec 2022 18:47:22 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/c/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “C”.</description>
     </item>
     
     <item>
@@ -59,15 +104,6 @@
       
       <guid>https://fileformats.org/tags/d/</guid>
       <description>Browse through a complete list of file extensions starting with the letter “D”.</description>
-    </item>
-    
-    <item>
-      <title>List of All File Extensions Starting With the Letter “E” (Meanings)</title>
-      <link>https://fileformats.org/tags/e/</link>
-      <pubDate>Mon, 26 Dec 2022 17:59:25 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/e/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “E”.</description>
     </item>
     
     <item>
@@ -107,15 +143,6 @@
     </item>
     
     <item>
-      <title>List of All File Extensions Starting With the Letter “N” (Meanings)</title>
-      <link>https://fileformats.org/tags/n/</link>
-      <pubDate>Mon, 26 Dec 2022 15:06:48 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/n/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “N”.</description>
-    </item>
-    
-    <item>
       <title>List of All File Extensions Starting With the Letter “W” (Meanings)</title>
       <link>https://fileformats.org/tags/w/</link>
       <pubDate>Mon, 26 Dec 2022 14:21:31 +0000</pubDate>
@@ -131,15 +158,6 @@
       
       <guid>https://fileformats.org/tags/zip-file-format/</guid>
       <description>Lossless data compression is supported by the archive file format known as ZIP. A ZIP file might include one or more compressed files or directories.</description>
-    </item>
-    
-    <item>
-      <title>List of All File Extensions Starting With the Letter “T” (Meanings)</title>
-      <link>https://fileformats.org/tags/t/</link>
-      <pubDate>Mon, 26 Dec 2022 14:02:27 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/t/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “T”.</description>
     </item>
     
     <item>
@@ -170,15 +188,6 @@
     </item>
     
     <item>
-      <title>List of All File Extensions Starting With the Letter “M” (Meanings)</title>
-      <link>https://fileformats.org/tags/m/</link>
-      <pubDate>Sun, 25 Dec 2022 12:38:08 +0000</pubDate>
-      
-      <guid>https://fileformats.org/tags/m/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “M”.</description>
-    </item>
-    
-    <item>
       <title>List of All XML File Extensions (Formats, Types, and Meanings)</title>
       <link>https://fileformats.org/tags/xml-file-format/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:06 +0000</pubDate>
@@ -194,15 +203,6 @@
       
       <guid>https://fileformats.org/tags/l/</guid>
       <description>Browse through a complete list of file extensions starting with the letter “L”.</description>
-    </item>
-    
-    <item>
-      <title>List of All File Extensions Starting With the Letter “R” (Meanings)</title>
-      <link>https://fileformats.org/tags/r/</link>
-      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
-      
-      <guid>https://fileformats.org/tags/r/</guid>
-      <description>Browse through a complete list of file extensions starting with the letter “R”.</description>
     </item>
     
     <item>

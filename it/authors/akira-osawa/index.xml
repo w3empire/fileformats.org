@@ -6,7 +6,16 @@
     <description>Recent content in Tutti gli articoli di Akira Osawa su FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Dec 2022 12:00:10 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:17:08 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DLV</title>
+      <link>https://fileformats.org/it/file-types/catia-4-export-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:17:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/catia-4-export-file/</guid>
+      <description>File di esportazione Catia 4</description>
+    </item>
+    
     <item>
       <title>L</title>
       <link>https://fileformats.org/it/file-types/left-audio-channel-file/</link>

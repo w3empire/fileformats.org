@@ -5,6 +5,52 @@
     <link>https://fileformats.org/categories/camera-image-file-extensions/</link>
     <description>Recent content in The Complete List of Camera Image File Extensions on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Dec 2022 19:44:02 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NRW</title>
+      <link>https://fileformats.org/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/nikon-raw-image-file/</guid>
+      <description>Nikon Raw Image File</description>
+    </item>
+    
+    <item>
+      <title>RW2</title>
+      <link>https://fileformats.org/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/panasonic-raw-image/</guid>
+      <description>Panasonic RAW Image</description>
+    </item>
+    
+    <item>
+      <title>RAF</title>
+      <link>https://fileformats.org/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/fuji-raw-image-file/</guid>
+      <description>Fuji RAW Image File</description>
+    </item>
+    
+    <item>
+      <title>ERF</title>
+      <link>https://fileformats.org/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/epson-raw-file/</guid>
+      <description>Epson RAW File</description>
+    </item>
+    
+    <item>
+      <title>CR2</title>
+      <link>https://fileformats.org/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/canon-raw-image-file/</guid>
+      <description>Canon Raw Image File</description>
+    </item>
+    
   </channel>
 </rss>

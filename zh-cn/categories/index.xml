@@ -6,7 +6,16 @@
     <description>Recent content in 所有类别 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 13:46:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:47:43 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAD 文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/cad-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:43 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/cad-file-extensions/</guid>
+      <description>计算机辅助设计 (CAD) 文件可能包括二维或三维模型。</description>
+    </item>
+    
     <item>
       <title>备份文件扩展名的完整列表</title>
       <link>https://fileformats.org/zh-cn/categories/backup-file-extensions/</link>
@@ -50,15 +59,6 @@
       
       <guid>https://fileformats.org/zh-cn/categories/developer-file-extensions/</guid>
       <description>与创建软件相关的文件类型可以在 Developer Files 类别中找到。</description>
-    </item>
-    
-    <item>
-      <title>CAD 文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/cad-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/cad-file-extensions/</guid>
-      <description>计算机辅助设计 (CAD) 文件可能包括二维或三维模型。</description>
     </item>
     
     <item>

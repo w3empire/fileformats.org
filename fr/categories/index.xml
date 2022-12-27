@@ -6,7 +6,16 @@
     <description>Recent content in Toutes catégories on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 13:46:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:47:33 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La liste complète des extensions de fichiers CAO</title>
+      <link>https://fileformats.org/fr/categories/cad-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/cad-file-extensions/</guid>
+      <description>Les fichiers de conception assistée par ordinateur (CAO) peuvent inclure des modèles bidimensionnels ou tridimensionnels.</description>
+    </item>
+    
     <item>
       <title>La liste complète des extensions de fichiers de sauvegarde</title>
       <link>https://fileformats.org/fr/categories/backup-file-extensions/</link>
@@ -77,15 +86,6 @@
       
       <guid>https://fileformats.org/fr/categories/disk-image-file-extensions/</guid>
       <description>Dans un fichier image disque, vous trouverez une copie conforme d&amp;rsquo;un disque dur ou d&amp;rsquo;un autre support de stockage.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers CAO</title>
-      <link>https://fileformats.org/fr/categories/cad-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/cad-file-extensions/</guid>
-      <description>Les fichiers de conception assistée par ordinateur (CAO) peuvent inclure des modèles bidimensionnels ou tridimensionnels.</description>
     </item>
     
     <item>

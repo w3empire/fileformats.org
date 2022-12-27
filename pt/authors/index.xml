@@ -6,7 +6,25 @@
     <description>Recent content in Lista de todos os autores do FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 13:46:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:47:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todos os artigos de Bruno Souza no FileFormats</title>
+      <link>https://fileformats.org/pt/authors/bruno-souza/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/authors/bruno-souza/</guid>
+      <description>Redator e Editor Técnico</description>
+    </item>
+    
+    <item>
+      <title>Todos os artigos de Akira Osawa no FileFormats</title>
+      <link>https://fileformats.org/pt/authors/akira-osawa/</link>
+      <pubDate>Mon, 26 Dec 2022 18:17:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/authors/akira-osawa/</guid>
+      <description>Redator e Editor Técnico</description>
+    </item>
+    
     <item>
       <title>Todos os artigos de Richard Scott no FileFormats</title>
       <link>https://fileformats.org/pt/authors/richard-scott/</link>
@@ -14,24 +32,6 @@
       
       <guid>https://fileformats.org/pt/authors/richard-scott/</guid>
       <description>Escritor técnico</description>
-    </item>
-    
-    <item>
-      <title>Todos os artigos de Akira Osawa no FileFormats</title>
-      <link>https://fileformats.org/pt/authors/akira-osawa/</link>
-      <pubDate>Sun, 25 Dec 2022 12:00:05 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/authors/akira-osawa/</guid>
-      <description>Redator e Editor Técnico</description>
-    </item>
-    
-    <item>
-      <title>Todos os artigos de Bruno Souza no FileFormats</title>
-      <link>https://fileformats.org/pt/authors/bruno-souza/</link>
-      <pubDate>Sat, 24 Dec 2022 12:52:18 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/authors/bruno-souza/</guid>
-      <description>Redator e Editor Técnico</description>
     </item>
     
   </channel>

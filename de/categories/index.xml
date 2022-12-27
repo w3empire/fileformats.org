@@ -6,7 +6,16 @@
     <description>Recent content in Die vollständige Liste aller Dateierweiterungs- und Dateitypkategorien on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 13:46:27 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:47:44 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die vollständige Liste der Cad-Dateierweiterungen</title>
+      <link>https://fileformats.org/de/categories/cad-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/categories/cad-file-extensions/</guid>
+      <description>CAD-Dateien (Computer Aided Design) können entweder zweidimensionale oder dreidimensionale Modelle enthalten.</description>
+    </item>
+    
     <item>
       <title>Die vollständige Liste der Backup-Dateierweiterungen</title>
       <link>https://fileformats.org/de/categories/backup-file-extensions/</link>
@@ -59,15 +68,6 @@
       
       <guid>https://fileformats.org/de/categories/executable-file-extensions/</guid>
       <description>Ausführbare Dateien umfassen sowohl Windows- als auch Mac-Programme sowie Skripte und Makros.</description>
-    </item>
-    
-    <item>
-      <title>Die vollständige Liste der Cad-Dateierweiterungen</title>
-      <link>https://fileformats.org/de/categories/cad-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/categories/cad-file-extensions/</guid>
-      <description>CAD-Dateien (Computer Aided Design) können entweder zweidimensionale oder dreidimensionale Modelle enthalten.</description>
     </item>
     
     <item>

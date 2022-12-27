@@ -6,7 +6,25 @@
     <description>Recent content in Lista de todas as extensões de arquivos binários (formatos, tipos e significados) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/tags/binary-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:17:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/tags/binary-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DLV</title>
+      <link>https://fileformats.org/pt/file-types/catia-4-export-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:17:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/catia-4-export-file/</guid>
+      <description>Arquivo de exportação do CATIA 4</description>
+    </item>
+    
+    <item>
+      <title>ABK</title>
+      <link>https://fileformats.org/pt/file-types/automatic-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:56:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/automatic-backup-file/</guid>
+      <description>Arquivo de backup automático</description>
+    </item>
+    
     <item>
       <title>MP3</title>
       <link>https://fileformats.org/pt/file-types/mp3-audio-file/</link>

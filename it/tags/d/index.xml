@@ -6,7 +6,16 @@
     <description>Recent content in Elenco di tutte le estensioni di file che iniziano con la lettera “D” (significati) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:40:03 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/tags/d/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:17:08 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/tags/d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DLV</title>
+      <link>https://fileformats.org/it/file-types/catia-4-export-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:17:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/catia-4-export-file/</guid>
+      <description>File di esportazione Catia 4</description>
+    </item>
+    
     <item>
       <title>DOC#</title>
       <link>https://fileformats.org/it/file-types/libreoffice-document-lock-file/</link>

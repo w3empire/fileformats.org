@@ -6,7 +6,25 @@
     <description>Recent content in Tous les articles de Bruno Souza sur FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 18:47:33 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPA</title>
+      <link>https://fileformats.org/fr/file-types/cadstar-pcb-archive-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:47:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/cadstar-pcb-archive-file/</guid>
+      <description>Fichier CADSTAR PCB</description>
+    </item>
+    
+    <item>
+      <title>ABK</title>
+      <link>https://fileformats.org/fr/file-types/automatic-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:57:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/automatic-backup-file/</guid>
+      <description>Fichier de sauvegarde automatique</description>
+    </item>
+    
     <item>
       <title>MP3</title>
       <link>https://fileformats.org/fr/file-types/mp3-audio-file/</link>

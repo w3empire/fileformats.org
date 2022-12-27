@@ -6,7 +6,16 @@
     <description>Recent content in 모든 공통 파일 확장자 목록(형식, 유형 및 의미) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 12:52:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/tags/common-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 12:57:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/tags/common-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABK</title>
+      <link>https://fileformats.org/ko/file-types/automatic-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:57:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/automatic-backup-file/</guid>
+      <description>자동 백업 파일</description>
+    </item>
+    
     <item>
       <title>MP3</title>
       <link>https://fileformats.org/ko/file-types/mp3-audio-file/</link>
