@@ -44,6 +44,33 @@
     </item>
     
     <item>
+      <title>Lista de todas las extensiones de archivos que comienzan con la letra “B” (significados)</title>
+      <link>https://fileformats.org/es/tags/b/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/tags/b/</guid>
+      <description>Navegue a través de una lista completa de extensiones de archivo que comienzan con la letra “B”.</description>
+    </item>
+    
+    <item>
+      <title>Lista de todas las extensiones de archivos que comienzan con la letra “W” (significados)</title>
+      <link>https://fileformats.org/es/tags/w/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/tags/w/</guid>
+      <description>Navegue a través de una lista completa de extensiones de archivo que comienzan con la letra “W”.</description>
+    </item>
+    
+    <item>
+      <title>Lista de todas las extensiones de archivos ZIP (formatos, tipos y significados)</title>
+      <link>https://fileformats.org/es/tags/zip-file-format/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/tags/zip-file-format/</guid>
+      <description>La compresión de datos sin pérdida es compatible con el formato de archivo conocido como ZIP. Un archivo ZIP puede incluir uno o más archivos o directorios comprimidos.</description>
+    </item>
+    
+    <item>
       <title>Lista de todas las extensiones de archivo que comienzan con la letra “A” (significados)</title>
       <link>https://fileformats.org/es/tags/a/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:18 +0000</pubDate>
@@ -53,21 +80,21 @@
     </item>
     
     <item>
-      <title>Lista de todas las extensiones de archivos ZIP (formatos, tipos y significados)</title>
-      <link>https://fileformats.org/es/tags/zip-file-format/</link>
-      <pubDate>Mon, 26 Dec 2022 13:46:18 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/tags/zip-file-format/</guid>
-      <description>La compresión de datos sin pérdida es compatible con el formato de archivo conocido como ZIP. Un archivo ZIP puede incluir uno o más archivos o directorios comprimidos.</description>
-    </item>
-    
-    <item>
       <title>Lista de todas las extensiones de archivo comunes (formatos, tipos y significados)</title>
       <link>https://fileformats.org/es/tags/common-file-extensions/</link>
       <pubDate>Mon, 26 Dec 2022 12:56:58 +0000</pubDate>
       
       <guid>https://fileformats.org/es/tags/common-file-extensions/</guid>
       <description>Lista completa con las extensiones de archivo más comunes para todos los sistemas operativos. Explore los tipos de archivos más comunes para Windows, Mac, Android y Linux.</description>
+    </item>
+    
+    <item>
+      <title>Lista de todas las extensiones de archivos XML (formatos, tipos y significados)</title>
+      <link>https://fileformats.org/es/tags/xml-file-format/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/tags/xml-file-format/</guid>
+      <description>(XML) El lenguaje de marcado extensible es un lenguaje de marcado y un formato de archivo para almacenar, transmitir y reproducir cualquier tipo de datos. Especifica reglas para codificar documentos para que puedan ser leídos por computadoras y personas por igual.</description>
     </item>
     
     <item>
@@ -131,15 +158,6 @@
       
       <guid>https://fileformats.org/es/tags/g/</guid>
       <description>Navegue a través de una lista completa de extensiones de archivo que comienzan con la letra “G”.</description>
-    </item>
-    
-    <item>
-      <title>Lista de todas las extensiones de archivos que comienzan con la letra “B” (significados)</title>
-      <link>https://fileformats.org/es/tags/b/</link>
-      <pubDate>Fri, 23 Dec 2022 14:39:33 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/tags/b/</guid>
-      <description>Navegue a través de una lista completa de extensiones de archivo que comienzan con la letra “B”.</description>
     </item>
     
     <item>
@@ -269,15 +287,6 @@
     </item>
     
     <item>
-      <title>Lista de todas las extensiones de archivos que comienzan con la letra “W” (significados)</title>
-      <link>https://fileformats.org/es/tags/w/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/tags/w/</guid>
-      <description>Navegue a través de una lista completa de extensiones de archivo que comienzan con la letra “W”.</description>
-    </item>
-    
-    <item>
       <title>Lista de todas las extensiones de archivos que comienzan con la letra “Y” (significados)</title>
       <link>https://fileformats.org/es/tags/y/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -293,15 +302,6 @@
       
       <guid>https://fileformats.org/es/tags/z/</guid>
       <description>Navegue a través de una lista completa de extensiones de archivo que comienzan con la letra “Z”.</description>
-    </item>
-    
-    <item>
-      <title>Lista de todas las extensiones de archivos XML (formatos, tipos y significados)</title>
-      <link>https://fileformats.org/es/tags/xml-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/tags/xml-file-format/</guid>
-      <description>(XML) El lenguaje de marcado extensible es un lenguaje de marcado y un formato de archivo para almacenar, transmitir y reproducir cualquier tipo de datos. Especifica reglas para codificar documentos para que puedan ser leídos por computadoras y personas por igual.</description>
     </item>
     
   </channel>

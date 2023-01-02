@@ -5,6 +5,25 @@
     <link>https://fileformats.org/fr/tags/w/</link>
     <description>Recent content in Liste de toutes les extensions de fichiers commençant par la lettre “W” (significations) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/tags/w/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Dec 2022 14:21:36 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/w/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WX</title>
+      <link>https://fileformats.org/fr/file-types/wanam-xposed-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:36 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/wanam-xposed-backup-file/</guid>
+      <description>Fichier de sauvegarde Wanam Xposed</description>
+    </item>
+    
+    <item>
+      <title>WPROJ</title>
+      <link>https://fileformats.org/fr/file-types/wwise-project-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/wwise-project-file/</guid>
+      <description>Fichier de projet Wwise</description>
+    </item>
+    
   </channel>
 </rss>

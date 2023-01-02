@@ -6,7 +6,16 @@
     <description>Recent content in 音频文件扩展名的完整列表 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Dec 2022 12:00:15 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 12:20:21 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WPROJ</title>
+      <link>https://fileformats.org/zh-cn/file-types/wwise-project-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/wwise-project-file/</guid>
+      <description>Wwise 项目文件</description>
+    </item>
+    
     <item>
       <title>L</title>
       <link>https://fileformats.org/zh-cn/file-types/left-audio-channel-file/</link>

@@ -43,5 +43,14 @@
       <description>Cinema 4D モデル ファイル</description>
     </item>
     
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/ja/file-types/xfire-user-interface-template/</link>
+      <pubDate>Tue, 13 Dec 2022 01:59:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/xfire-user-interface-template/</guid>
+      <description>Xfire ユーザー インターフェイス テンプレート</description>
+    </item>
+    
   </channel>
 </rss>

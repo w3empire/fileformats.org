@@ -25,5 +25,14 @@
       <description>Arquivo de exportação do CATIA 4</description>
     </item>
     
+    <item>
+      <title>BDC</title>
+      <link>https://fileformats.org/pt/file-types/west-point-bridge-designer-design-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/west-point-bridge-designer-design-file/</guid>
+      <description>Arquivo de Design do West Point Bridge Designer</description>
+    </item>
+    
   </channel>
 </rss>

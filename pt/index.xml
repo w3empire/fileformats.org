@@ -26,6 +26,24 @@
     </item>
     
     <item>
+      <title>BDC</title>
+      <link>https://fileformats.org/pt/file-types/west-point-bridge-designer-design-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/west-point-bridge-designer-design-file/</guid>
+      <description>Arquivo de Design do West Point Bridge Designer</description>
+    </item>
+    
+    <item>
+      <title>WX</title>
+      <link>https://fileformats.org/pt/file-types/wanam-xposed-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/wanam-xposed-backup-file/</guid>
+      <description>Arquivo de backup do Wanam Xposed</description>
+    </item>
+    
+    <item>
       <title>ACP</title>
       <link>https://fileformats.org/pt/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:18 +0000</pubDate>
@@ -41,6 +59,15 @@
       
       <guid>https://fileformats.org/pt/file-types/automatic-backup-file/</guid>
       <description>Arquivo de backup automático</description>
+    </item>
+    
+    <item>
+      <title>WPROJ</title>
+      <link>https://fileformats.org/pt/file-types/wwise-project-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/wwise-project-file/</guid>
+      <description>Arquivo de projeto WWise</description>
     </item>
     
     <item>
@@ -194,6 +221,15 @@
       
       <guid>https://fileformats.org/pt/file-types/bluej-default-template/</guid>
       <description>Modelo padrão do BlueJ</description>
+    </item>
+    
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/pt/file-types/xfire-user-interface-template/</link>
+      <pubDate>Tue, 13 Dec 2022 01:59:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/xfire-user-interface-template/</guid>
+      <description>Modelo de interface de usuário do Xfire</description>
     </item>
     
     <item>

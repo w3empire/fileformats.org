@@ -44,12 +44,30 @@
     </item>
     
     <item>
+      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “B” (significati)</title>
+      <link>https://fileformats.org/it/tags/b/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/tags/b/</guid>
+      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “B”.</description>
+    </item>
+    
+    <item>
       <title>Elenco di tutte le estensioni dei file ZIP (formati, tipi e significati)</title>
       <link>https://fileformats.org/it/tags/zip-file-format/</link>
-      <pubDate>Mon, 26 Dec 2022 13:46:21 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 14:21:37 +0000</pubDate>
       
       <guid>https://fileformats.org/it/tags/zip-file-format/</guid>
       <description>La compressione dei dati senza perdita di dati è supportata dal formato di file di archivio noto come ZIP. Un file ZIP potrebbe includere uno o più file o directory compressi.</description>
+    </item>
+    
+    <item>
+      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “W” (significati)</title>
+      <link>https://fileformats.org/it/tags/w/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/tags/w/</guid>
+      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “W”.</description>
     </item>
     
     <item>
@@ -68,6 +86,15 @@
       
       <guid>https://fileformats.org/it/tags/common-file-extensions/</guid>
       <description>Elenco completo con le estensioni di file più comuni per tutti i sistemi operativi. Sfoglia i tipi di file più comuni per Windows, Mac, Android e Linux.</description>
+    </item>
+    
+    <item>
+      <title>Elenco di tutte le estensioni di file XML (formati, tipi e significati)</title>
+      <link>https://fileformats.org/it/tags/xml-file-format/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/tags/xml-file-format/</guid>
+      <description>(XML) Extensible Markup Language è un linguaggio di markup e un formato di file per archiviare, trasmettere e riprodurre qualsiasi tipo di dati. Specifica le regole per codificare i documenti in modo che possano essere letti da computer e persone allo stesso modo.</description>
     </item>
     
     <item>
@@ -131,15 +158,6 @@
       
       <guid>https://fileformats.org/it/tags/g/</guid>
       <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “G”.</description>
-    </item>
-    
-    <item>
-      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “B” (significati)</title>
-      <link>https://fileformats.org/it/tags/b/</link>
-      <pubDate>Fri, 23 Dec 2022 14:39:34 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/tags/b/</guid>
-      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “B”.</description>
     </item>
     
     <item>
@@ -251,15 +269,6 @@
     </item>
     
     <item>
-      <title>Elenco di tutte le estensioni di file che iniziano con la lettera “W” (significati)</title>
-      <link>https://fileformats.org/it/tags/w/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/tags/w/</guid>
-      <description>Sfoglia un elenco completo di estensioni di file che iniziano con la lettera “W”.</description>
-    </item>
-    
-    <item>
       <title>Elenco di tutte le estensioni di file che iniziano con la lettera “X” (significati)</title>
       <link>https://fileformats.org/it/tags/x/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -293,15 +302,6 @@
       
       <guid>https://fileformats.org/it/tags/1/</guid>
       <description>Sfoglia un elenco completo di estensioni di file che iniziano con un numero o un simbolo.</description>
-    </item>
-    
-    <item>
-      <title>Elenco di tutte le estensioni di file XML (formati, tipi e significati)</title>
-      <link>https://fileformats.org/it/tags/xml-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/tags/xml-file-format/</guid>
-      <description>(XML) Extensible Markup Language è un linguaggio di markup e un formato di file per archiviare, trasmettere e riprodurre qualsiasi tipo di dati. Specifica le regole per codificare i documenti in modo che possano essere letti da computer e persone allo stesso modo.</description>
     </item>
     
   </channel>

@@ -6,7 +6,16 @@
     <description>Recent content in FileFormats에 대한 Richard Scott의 모든 기사 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 13:46:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 17:12:14 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BDC</title>
+      <link>https://fileformats.org/ko/file-types/west-point-bridge-designer-design-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/west-point-bridge-designer-design-file/</guid>
+      <description>West Point Bridge Designer 설계 파일</description>
+    </item>
+    
     <item>
       <title>ACP</title>
       <link>https://fileformats.org/ko/file-types/alfresco-content-package/</link>

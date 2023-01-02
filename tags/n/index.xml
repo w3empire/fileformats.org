@@ -6,7 +6,16 @@
     <description>Recent content in List of All File Extensions Starting With the Letter “N” (Meanings) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 19:44:02 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 22:15:38 +0000</lastBuildDate><atom:link href="https://fileformats.org/tags/n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NEF</title>
+      <link>https://fileformats.org/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>Nikon Electronic Format RAW Image</description>
+    </item>
+    
     <item>
       <title>NRW</title>
       <link>https://fileformats.org/file-types/nikon-raw-image-file/</link>

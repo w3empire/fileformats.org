@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>WX</title>
+      <link>https://fileformats.org/pt/file-types/wanam-xposed-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/wanam-xposed-backup-file/</guid>
+      <description>Arquivo de backup do Wanam Xposed</description>
+    </item>
+    
+    <item>
+      <title>WPROJ</title>
+      <link>https://fileformats.org/pt/file-types/wwise-project-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/wwise-project-file/</guid>
+      <description>Arquivo de projeto WWise</description>
+    </item>
+    
+    <item>
       <title>L</title>
       <link>https://fileformats.org/pt/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:05 +0000</pubDate>

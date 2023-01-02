@@ -43,5 +43,14 @@
       <description>arquivo de modelo do Cinema 4D</description>
     </item>
     
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/pt/file-types/xfire-user-interface-template/</link>
+      <pubDate>Tue, 13 Dec 2022 01:59:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/xfire-user-interface-template/</guid>
+      <description>Modelo de interface de usuário do Xfire</description>
+    </item>
+    
   </channel>
 </rss>

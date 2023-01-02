@@ -44,12 +44,30 @@
     </item>
     
     <item>
+      <title>文字「B」で始まるすべてのファイル拡張子のリスト (意味)</title>
+      <link>https://fileformats.org/ja/tags/b/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/tags/b/</guid>
+      <description>文字「B」で始まるファイル拡張子の完全なリストを参照します。</description>
+    </item>
+    
+    <item>
       <title>すべての ZIP ファイル拡張子のリスト (形式、種類、および意味)</title>
       <link>https://fileformats.org/ja/tags/zip-file-format/</link>
-      <pubDate>Mon, 26 Dec 2022 13:46:22 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 14:21:39 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/tags/zip-file-format/</guid>
       <description>無損失データ圧縮は、ZIP と呼ばれるアーカイブ ファイル形式でサポートされています。 ZIP ファイルには、1 つ以上の圧縮ファイルまたはディレクトリが含まれる場合があります。</description>
+    </item>
+    
+    <item>
+      <title>文字「W」で始まるすべてのファイル拡張子のリスト (意味)</title>
+      <link>https://fileformats.org/ja/tags/w/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:39 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/tags/w/</guid>
+      <description>文字「W」で始まるファイル拡張子の完全なリストを参照します。</description>
     </item>
     
     <item>
@@ -68,6 +86,15 @@
       
       <guid>https://fileformats.org/ja/tags/common-file-extensions/</guid>
       <description>すべてのオペレーティング システムで最も一般的なファイル拡張子の完全なリスト。 Windows、Mac、Android、および Linux の最も一般的なファイル タイプを参照します。</description>
+    </item>
+    
+    <item>
+      <title>すべての XML ファイル拡張子のリスト (形式、種類、および意味)</title>
+      <link>https://fileformats.org/ja/tags/xml-file-format/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/tags/xml-file-format/</guid>
+      <description>(XML) Extensible Markup Language は、あらゆる種類のデータを格納、送信、および再生するためのマークアップ言語およびファイル形式です。これは、コンピューターと人間の両方が同じように文書を読み取ることができるように、文書をエンコードするための規則を指定します。</description>
     </item>
     
     <item>
@@ -134,15 +161,6 @@
     </item>
     
     <item>
-      <title>文字「B」で始まるすべてのファイル拡張子のリスト (意味)</title>
-      <link>https://fileformats.org/ja/tags/b/</link>
-      <pubDate>Fri, 23 Dec 2022 14:39:36 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/tags/b/</guid>
-      <description>文字「B」で始まるファイル拡張子の完全なリストを参照します。</description>
-    </item>
-    
-    <item>
       <title>文字「H」で始まるすべてのファイル拡張子のリスト (意味)</title>
       <link>https://fileformats.org/ja/tags/h/</link>
       <pubDate>Fri, 23 Dec 2022 14:22:27 +0000</pubDate>
@@ -167,15 +185,6 @@
       
       <guid>https://fileformats.org/ja/tags/t/</guid>
       <description>文字「T」で始まるファイル拡張子の完全なリストを参照します。</description>
-    </item>
-    
-    <item>
-      <title>すべての XML ファイル拡張子のリスト (形式、種類、および意味)</title>
-      <link>https://fileformats.org/ja/tags/xml-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/tags/xml-file-format/</guid>
-      <description>(XML) Extensible Markup Language は、あらゆる種類のデータを格納、送信、および再生するためのマークアップ言語およびファイル形式です。これは、コンピューターと人間の両方が同じように文書を読み取ることができるように、文書をエンコードするための規則を指定します。</description>
     </item>
     
     <item>
@@ -266,15 +275,6 @@
       
       <guid>https://fileformats.org/ja/tags/v/</guid>
       <description>文字「V」で始まるファイル拡張子の完全なリストを参照します。</description>
-    </item>
-    
-    <item>
-      <title>文字「W」で始まるすべてのファイル拡張子のリスト (意味)</title>
-      <link>https://fileformats.org/ja/tags/w/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/tags/w/</guid>
-      <description>文字「W」で始まるファイル拡張子の完全なリストを参照します。</description>
     </item>
     
     <item>

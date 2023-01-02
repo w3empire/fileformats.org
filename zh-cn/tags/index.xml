@@ -44,6 +44,33 @@
     </item>
     
     <item>
+      <title>以字母“B”开头的所有文件扩展名列表（含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/b/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/tags/b/</guid>
+      <description>浏览以字母“B”开头的文件扩展名的完整列表。</description>
+    </item>
+    
+    <item>
+      <title>以字母“W”开头的所有文件扩展名列表（含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/w/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/tags/w/</guid>
+      <description>浏览以字母“W”开头的文件扩展名的完整列表。</description>
+    </item>
+    
+    <item>
+      <title>所有 ZIP 文件扩展名列表（格式、类型和含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/zip-file-format/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/tags/zip-file-format/</guid>
+      <description>称为 ZIP 的存档文件格式支持无损数据压缩。 ZIP 文件可能包含一个或多个压缩文件或目录。</description>
+    </item>
+    
+    <item>
       <title>以字母“A”开头的所有文件扩展名列表（含义）</title>
       <link>https://fileformats.org/zh-cn/tags/a/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:26 +0000</pubDate>
@@ -53,21 +80,21 @@
     </item>
     
     <item>
-      <title>所有 ZIP 文件扩展名列表（格式、类型和含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/zip-file-format/</link>
-      <pubDate>Mon, 26 Dec 2022 13:46:26 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/tags/zip-file-format/</guid>
-      <description>称为 ZIP 的存档文件格式支持无损数据压缩。 ZIP 文件可能包含一个或多个压缩文件或目录。</description>
-    </item>
-    
-    <item>
       <title>所有常见文件扩展名列表（格式、类型和含义）</title>
       <link>https://fileformats.org/zh-cn/tags/common-file-extensions/</link>
       <pubDate>Mon, 26 Dec 2022 12:57:06 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/tags/common-file-extensions/</guid>
       <description>包含所有操作系统最常见文件扩展名的完整列表。 浏览适用于 Windows、Mac、Android 和 Linux 的最常见文件类型。</description>
+    </item>
+    
+    <item>
+      <title>所有 XML 文件扩展名列表（格式、类型和含义）</title>
+      <link>https://fileformats.org/zh-cn/tags/xml-file-format/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/tags/xml-file-format/</guid>
+      <description>(XML) 可扩展标记语言是一种标记语言和文件格式，用于存储、传输和复制任何类型的数据。它指定了对文档进行编码的规则，以便计算机和人都可以阅读它们。</description>
     </item>
     
     <item>
@@ -131,15 +158,6 @@
       
       <guid>https://fileformats.org/zh-cn/tags/g/</guid>
       <description>浏览以字母“G”开头的文件扩展名的完整列表。</description>
-    </item>
-    
-    <item>
-      <title>以字母“B”开头的所有文件扩展名列表（含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/b/</link>
-      <pubDate>Fri, 23 Dec 2022 14:39:39 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/tags/b/</guid>
-      <description>浏览以字母“B”开头的文件扩展名的完整列表。</description>
     </item>
     
     <item>
@@ -251,15 +269,6 @@
     </item>
     
     <item>
-      <title>以字母“W”开头的所有文件扩展名列表（含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/w/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/tags/w/</guid>
-      <description>浏览以字母“W”开头的文件扩展名的完整列表。</description>
-    </item>
-    
-    <item>
       <title>以字母“X”开头的所有文件扩展名列表（含义）</title>
       <link>https://fileformats.org/zh-cn/tags/x/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -293,15 +302,6 @@
       
       <guid>https://fileformats.org/zh-cn/tags/1/</guid>
       <description>浏览以数字或符号开头的文件扩展名的完整列表。</description>
-    </item>
-    
-    <item>
-      <title>所有 XML 文件扩展名列表（格式、类型和含义）</title>
-      <link>https://fileformats.org/zh-cn/tags/xml-file-format/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/tags/xml-file-format/</guid>
-      <description>(XML) 可扩展标记语言是一种标记语言和文件格式，用于存储、传输和复制任何类型的数据。它指定了对文档进行编码的规则，以便计算机和人都可以阅读它们。</description>
     </item>
     
   </channel>

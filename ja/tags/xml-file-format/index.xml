@@ -5,6 +5,16 @@
     <link>https://fileformats.org/ja/tags/xml-file-format/</link>
     <description>Recent content in すべての XML ファイル拡張子のリスト (形式、種類、および意味) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/tags/xml-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Dec 2022 12:20:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/tags/xml-file-format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WPROJ</title>
+      <link>https://fileformats.org/ja/file-types/wwise-project-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/wwise-project-file/</guid>
+      <description>Wwiseプロジェクトファイル</description>
+    </item>
+    
   </channel>
 </rss>

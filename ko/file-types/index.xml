@@ -26,6 +26,24 @@
     </item>
     
     <item>
+      <title>BDC</title>
+      <link>https://fileformats.org/ko/file-types/west-point-bridge-designer-design-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:12:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/west-point-bridge-designer-design-file/</guid>
+      <description>West Point Bridge Designer 설계 파일</description>
+    </item>
+    
+    <item>
+      <title>WX</title>
+      <link>https://fileformats.org/ko/file-types/wanam-xposed-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:21:40 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/wanam-xposed-backup-file/</guid>
+      <description>Wanam Xposed 백업 파일</description>
+    </item>
+    
+    <item>
       <title>ACP</title>
       <link>https://fileformats.org/ko/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:23 +0000</pubDate>
@@ -41,6 +59,15 @@
       
       <guid>https://fileformats.org/ko/file-types/automatic-backup-file/</guid>
       <description>자동 백업 파일</description>
+    </item>
+    
+    <item>
+      <title>WPROJ</title>
+      <link>https://fileformats.org/ko/file-types/wwise-project-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:20:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/wwise-project-file/</guid>
+      <description>Wwise 프로젝트 파일</description>
     </item>
     
     <item>
@@ -194,6 +221,15 @@
       
       <guid>https://fileformats.org/ko/file-types/bluej-default-template/</guid>
       <description>BlueJ 기본 템플릿</description>
+    </item>
+    
+    <item>
+      <title>TMPL</title>
+      <link>https://fileformats.org/ko/file-types/xfire-user-interface-template/</link>
+      <pubDate>Tue, 13 Dec 2022 01:59:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/xfire-user-interface-template/</guid>
+      <description>Xfire 사용자 인터페이스 템플릿</description>
     </item>
     
     <item>
