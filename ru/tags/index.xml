@@ -6,7 +6,34 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:47:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:37:34 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «Т» (значения)</title>
+      <link>https://fileformats.org/ru/tags/t/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/t/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «Т».</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений двоичных файлов (форматы, типы и значения)</title>
+      <link>https://fileformats.org/ru/tags/binary-file-format/</link>
+      <pubDate>Mon, 26 Dec 2022 18:57:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/binary-file-format/</guid>
+      <description>Компьютерный файл, который не является текстовым, иногда называют «двоичным файлом». Некоторые форматы двоичных файлов, такие как ранние документы Microsoft Word, фактически сохраняют как текст документа, так и информацию о его форматировании в виде двоичных данных.</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «А» (значения)</title>
+      <link>https://fileformats.org/ru/tags/a/</link>
+      <pubDate>Mon, 26 Dec 2022 18:57:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/a/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «А».</description>
+    </item>
+    
     <item>
       <title>Список всех расширений текстовых файлов (форматы, типы и значения)</title>
       <link>https://fileformats.org/ru/tags/text-file-format/</link>
@@ -23,15 +50,6 @@
       
       <guid>https://fileformats.org/ru/tags/c/</guid>
       <description>Просмотрите полный список расширений файлов, начинающихся с буквы «C».</description>
-    </item>
-    
-    <item>
-      <title>Список всех расширений двоичных файлов (форматы, типы и значения)</title>
-      <link>https://fileformats.org/ru/tags/binary-file-format/</link>
-      <pubDate>Mon, 26 Dec 2022 18:17:13 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/tags/binary-file-format/</guid>
-      <description>Компьютерный файл, который не является текстовым, иногда называют «двоичным файлом». Некоторые форматы двоичных файлов, такие как ранние документы Microsoft Word, фактически сохраняют как текст документа, так и информацию о его форматировании в виде двоичных данных.</description>
     </item>
     
     <item>
@@ -71,12 +89,12 @@
     </item>
     
     <item>
-      <title>Список всех расширений файлов, начинающихся с буквы «А» (значения)</title>
-      <link>https://fileformats.org/ru/tags/a/</link>
-      <pubDate>Mon, 26 Dec 2022 13:46:25 +0000</pubDate>
+      <title>Список всех расширений файлов, начинающихся с буквы «S» (значения)</title>
+      <link>https://fileformats.org/ru/tags/s/</link>
+      <pubDate>Mon, 26 Dec 2022 13:10:03 +0000</pubDate>
       
-      <guid>https://fileformats.org/ru/tags/a/</guid>
-      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «А».</description>
+      <guid>https://fileformats.org/ru/tags/s/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «S».</description>
     </item>
     
     <item>
@@ -86,6 +104,15 @@
       
       <guid>https://fileformats.org/ru/tags/common-file-extensions/</guid>
       <description>Полный список с наиболее распространенными расширениями файлов для всех операционных систем. Просмотрите наиболее распространенные типы файлов для Windows, Mac, Android и Linux.</description>
+    </item>
+    
+    <item>
+      <title>Список всех расширений файлов, начинающихся с буквы «U» (значения)</title>
+      <link>https://fileformats.org/ru/tags/u/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/tags/u/</guid>
+      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «U».</description>
     </item>
     
     <item>
@@ -170,24 +197,6 @@
     </item>
     
     <item>
-      <title>Список всех расширений файлов, начинающихся с буквы «S» (значения)</title>
-      <link>https://fileformats.org/ru/tags/s/</link>
-      <pubDate>Tue, 13 Dec 2022 03:36:10 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/tags/s/</guid>
-      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «S».</description>
-    </item>
-    
-    <item>
-      <title>Список всех расширений файлов, начинающихся с буквы «Т» (значения)</title>
-      <link>https://fileformats.org/ru/tags/t/</link>
-      <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/tags/t/</guid>
-      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «Т».</description>
-    </item>
-    
-    <item>
       <title>Список всех расширений файлов, начинающихся с буквы «I» (значения)</title>
       <link>https://fileformats.org/ru/tags/i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -230,15 +239,6 @@
       
       <guid>https://fileformats.org/ru/tags/q/</guid>
       <description>Просмотрите полный список расширений файлов, начинающихся с буквы «Q».</description>
-    </item>
-    
-    <item>
-      <title>Список всех расширений файлов, начинающихся с буквы «U» (значения)</title>
-      <link>https://fileformats.org/ru/tags/u/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/tags/u/</guid>
-      <description>Просмотрите полный список расширений файлов, начинающихся с буквы «U».</description>
     </item>
     
     <item>

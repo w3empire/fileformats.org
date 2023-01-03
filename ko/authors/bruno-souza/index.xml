@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>UST</title>
+      <link>https://fileformats.org/ko/file-types/utau-sequence-text-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/utau-sequence-text-file/</guid>
+      <description>UTAU 시퀀스 텍스트 파일</description>
+    </item>
+    
+    <item>
       <title>MP3</title>
       <link>https://fileformats.org/ko/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:23 +0000</pubDate>

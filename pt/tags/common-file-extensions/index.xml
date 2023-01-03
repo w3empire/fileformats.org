@@ -34,5 +34,14 @@
       <description>Arquivo Temporario do Finale</description>
     </item>
     
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/pt/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/temporary-file/</guid>
+      <description>Arquivo temporário</description>
+    </item>
+    
   </channel>
 </rss>

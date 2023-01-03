@@ -6,7 +6,25 @@
     <description>Recent content in Liste aller FileFormats-Autoren on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:47:44 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:37:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alle Artikel von Richard Scott auf FileFormats</title>
+      <link>https://fileformats.org/de/authors/richard-scott/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/authors/richard-scott/</guid>
+      <description>Technischer Schreiber</description>
+    </item>
+    
+    <item>
+      <title>Alle Artikel von Akira Osawa auf FileFormats</title>
+      <link>https://fileformats.org/de/authors/akira-osawa/</link>
+      <pubDate>Mon, 26 Dec 2022 18:57:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/authors/akira-osawa/</guid>
+      <description>Technischer Redakteur und Redakteur</description>
+    </item>
+    
     <item>
       <title>Alle Artikel von Bruno Souza auf FileFormats</title>
       <link>https://fileformats.org/de/authors/bruno-souza/</link>
@@ -14,24 +32,6 @@
       
       <guid>https://fileformats.org/de/authors/bruno-souza/</guid>
       <description>Technischer Redakteur und Redakteur</description>
-    </item>
-    
-    <item>
-      <title>Alle Artikel von Akira Osawa auf FileFormats</title>
-      <link>https://fileformats.org/de/authors/akira-osawa/</link>
-      <pubDate>Mon, 26 Dec 2022 18:17:16 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/authors/akira-osawa/</guid>
-      <description>Technischer Redakteur und Redakteur</description>
-    </item>
-    
-    <item>
-      <title>Alle Artikel von Richard Scott auf FileFormats</title>
-      <link>https://fileformats.org/de/authors/richard-scott/</link>
-      <pubDate>Mon, 26 Dec 2022 17:12:17 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/authors/richard-scott/</guid>
-      <description>Technischer Schreiber</description>
     </item>
     
   </channel>

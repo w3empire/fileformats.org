@@ -34,5 +34,14 @@
       <description>Temporäre Finale-Datei</description>
     </item>
     
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/de/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/file-types/temporary-file/</guid>
+      <description>Temporäre Datei</description>
+    </item>
+    
   </channel>
 </rss>

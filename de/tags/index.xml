@@ -6,7 +6,34 @@
     <description>Recent content in Tags on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:47:44 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:37:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „T“ (Bedeutungen)</title>
+      <link>https://fileformats.org/de/tags/t/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/tags/t/</guid>
+      <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „T“ beginnen.</description>
+    </item>
+    
+    <item>
+      <title>Liste aller binären Dateierweiterungen (Formate, Typen und Bedeutungen)</title>
+      <link>https://fileformats.org/de/tags/binary-file-format/</link>
+      <pubDate>Mon, 26 Dec 2022 18:57:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/tags/binary-file-format/</guid>
+      <description>Eine Computerdatei, die keine Textdatei ist, wird manchmal als „Binärdatei“ bezeichnet. Einige Binärdateiformate, wie frühe Microsoft Word-Dokumente, speichern tatsächlich sowohl den Text des Dokuments als auch seine Formatierungsinformationen als Binärdaten.</description>
+    </item>
+    
+    <item>
+      <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „A“ (Bedeutungen)</title>
+      <link>https://fileformats.org/de/tags/a/</link>
+      <pubDate>Mon, 26 Dec 2022 18:57:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/tags/a/</guid>
+      <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „A“ beginnen.</description>
+    </item>
+    
     <item>
       <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „C“ (Bedeutungen)</title>
       <link>https://fileformats.org/de/tags/c/</link>
@@ -23,15 +50,6 @@
       
       <guid>https://fileformats.org/de/tags/text-file-format/</guid>
       <description>Eine Dateiform, die auf einem Computer gespeichert werden kann, ist als Textdatei bekannt und ist als eine Sammlung von Textzeilen strukturiert. Innerhalb des Dateisystems eines Computers gibt es eine Textdatei, die zum Speichern von Daten verwendet wird.</description>
-    </item>
-    
-    <item>
-      <title>Liste aller binären Dateierweiterungen (Formate, Typen und Bedeutungen)</title>
-      <link>https://fileformats.org/de/tags/binary-file-format/</link>
-      <pubDate>Mon, 26 Dec 2022 18:17:16 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/tags/binary-file-format/</guid>
-      <description>Eine Computerdatei, die keine Textdatei ist, wird manchmal als „Binärdatei“ bezeichnet. Einige Binärdateiformate, wie frühe Microsoft Word-Dokumente, speichern tatsächlich sowohl den Text des Dokuments als auch seine Formatierungsinformationen als Binärdaten.</description>
     </item>
     
     <item>
@@ -71,12 +89,12 @@
     </item>
     
     <item>
-      <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „A“ (Bedeutungen)</title>
-      <link>https://fileformats.org/de/tags/a/</link>
-      <pubDate>Mon, 26 Dec 2022 13:46:27 +0000</pubDate>
+      <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „S“ (Bedeutungen)</title>
+      <link>https://fileformats.org/de/tags/s/</link>
+      <pubDate>Mon, 26 Dec 2022 13:10:05 +0000</pubDate>
       
-      <guid>https://fileformats.org/de/tags/a/</guid>
-      <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „A“ beginnen.</description>
+      <guid>https://fileformats.org/de/tags/s/</guid>
+      <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „S“ beginnen.</description>
     </item>
     
     <item>
@@ -86,6 +104,15 @@
       
       <guid>https://fileformats.org/de/tags/common-file-extensions/</guid>
       <description>Vollständige Liste mit den gängigsten Dateierweiterungen für alle Betriebssysteme. Durchsuchen Sie die gängigsten Dateitypen für Windows, Mac, Android und Linux.</description>
+    </item>
+    
+    <item>
+      <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „U“ (Bedeutungen)</title>
+      <link>https://fileformats.org/de/tags/u/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/tags/u/</guid>
+      <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „U“ beginnen.</description>
     </item>
     
     <item>
@@ -170,24 +197,6 @@
     </item>
     
     <item>
-      <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „S“ (Bedeutungen)</title>
-      <link>https://fileformats.org/de/tags/s/</link>
-      <pubDate>Tue, 13 Dec 2022 03:36:12 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/tags/s/</guid>
-      <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „S“ beginnen.</description>
-    </item>
-    
-    <item>
-      <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „T“ (Bedeutungen)</title>
-      <link>https://fileformats.org/de/tags/t/</link>
-      <pubDate>Tue, 13 Dec 2022 02:15:18 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/tags/t/</guid>
-      <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „T“ beginnen.</description>
-    </item>
-    
-    <item>
       <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „I“ (Bedeutungen)</title>
       <link>https://fileformats.org/de/tags/i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -248,15 +257,6 @@
       
       <guid>https://fileformats.org/de/tags/q/</guid>
       <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „Q“ beginnen.</description>
-    </item>
-    
-    <item>
-      <title>Liste aller Dateiendungen beginnend mit dem Buchstaben „U“ (Bedeutungen)</title>
-      <link>https://fileformats.org/de/tags/u/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/tags/u/</guid>
-      <description>Durchsuchen Sie eine vollständige Liste der Dateierweiterungen, die mit dem Buchstaben „U“ beginnen.</description>
     </item>
     
     <item>

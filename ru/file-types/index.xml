@@ -6,7 +6,25 @@
     <description>Recent content in Полный список всех расширений файлов, форматов и значений on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:47:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:37:34 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TCT</title>
+      <link>https://fileformats.org/ru/file-types/turbocad-drawing-template/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/turbocad-drawing-template/</guid>
+      <description>Шаблон дизайна TurboCAD</description>
+    </item>
+    
+    <item>
+      <title>AFS</title>
+      <link>https://fileformats.org/ru/file-types/staad-foundation-project-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:57:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/staad-foundation-project-file/</guid>
+      <description>Файл проекта STAAD.foundation</description>
+    </item>
+    
     <item>
       <title>CPA</title>
       <link>https://fileformats.org/ru/file-types/cadstar-pcb-archive-file/</link>
@@ -44,6 +62,15 @@
     </item>
     
     <item>
+      <title>TIG</title>
+      <link>https://fileformats.org/ru/file-types/ti-connect-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:02:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/ti-connect-backup-file/</guid>
+      <description>Резервный файл TI Connect</description>
+    </item>
+    
+    <item>
       <title>ACP</title>
       <link>https://fileformats.org/ru/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:25 +0000</pubDate>
@@ -53,12 +80,30 @@
     </item>
     
     <item>
+      <title>SPG</title>
+      <link>https://fileformats.org/ru/file-types/tcp-optimizer-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:10:03 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/tcp-optimizer-backup-file/</guid>
+      <description>Файл резервной копии TCP Optimizer</description>
+    </item>
+    
+    <item>
       <title>ABK</title>
       <link>https://fileformats.org/ru/file-types/automatic-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 12:57:06 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/automatic-backup-file/</guid>
       <description>Файл автоматического резервного копирования</description>
+    </item>
+    
+    <item>
+      <title>UST</title>
+      <link>https://fileformats.org/ru/file-types/utau-sequence-text-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/utau-sequence-text-file/</guid>
+      <description>Текстовый файл последовательности UTAU</description>
     </item>
     
     <item>
@@ -239,6 +284,15 @@
       
       <guid>https://fileformats.org/ru/file-types/finale-temporary-file/</guid>
       <description>Временный архив Finale</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/ru/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/temporary-file/</guid>
+      <description>Временный файл</description>
     </item>
     
     <item>

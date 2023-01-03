@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>UST</title>
+      <link>https://fileformats.org/es/file-types/utau-sequence-text-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/utau-sequence-text-file/</guid>
+      <description>Archivo de texto de secuencia UTAU</description>
+    </item>
+    
+    <item>
       <title>MD5ANIM</title>
       <link>https://fileformats.org/es/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:10 +0000</pubDate>

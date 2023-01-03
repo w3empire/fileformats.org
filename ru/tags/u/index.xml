@@ -5,6 +5,16 @@
     <link>https://fileformats.org/ru/tags/u/</link>
     <description>Recent content in Список всех расширений файлов, начинающихся с буквы «U» (значения) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ru/tags/u/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Dec 2022 12:50:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/tags/u/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UST</title>
+      <link>https://fileformats.org/ru/file-types/utau-sequence-text-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/utau-sequence-text-file/</guid>
+      <description>Текстовый файл последовательности UTAU</description>
+    </item>
+    
   </channel>
 </rss>

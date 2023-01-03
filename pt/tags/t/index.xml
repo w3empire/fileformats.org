@@ -6,7 +6,25 @@
     <description>Recent content in Lista de todas as extensões de arquivo começando com a letra “T” (significados) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Dec 2022 02:15:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/tags/t/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:37:27 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/tags/t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TCT</title>
+      <link>https://fileformats.org/pt/file-types/turbocad-drawing-template/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/turbocad-drawing-template/</guid>
+      <description>Modelo de desenho do turbocad</description>
+    </item>
+    
+    <item>
+      <title>TIG</title>
+      <link>https://fileformats.org/pt/file-types/ti-connect-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:02:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/ti-connect-backup-file/</guid>
+      <description>Arquivo de Cópia de Segurança do TI Connect</description>
+    </item>
+    
     <item>
       <title>TMPL</title>
       <link>https://fileformats.org/pt/file-types/bluej-default-template/</link>
@@ -32,6 +50,15 @@
       
       <guid>https://fileformats.org/pt/file-types/finale-temporary-file/</guid>
       <description>Arquivo Temporario do Finale</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/pt/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/temporary-file/</guid>
+      <description>Arquivo temporário</description>
     </item>
     
   </channel>

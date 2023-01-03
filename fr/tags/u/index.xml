@@ -5,6 +5,16 @@
     <link>https://fileformats.org/fr/tags/u/</link>
     <description>Recent content in Liste de toutes les extensions de fichiers commençant par la lettre “U” (significations) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/tags/u/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Dec 2022 12:50:18 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/tags/u/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UST</title>
+      <link>https://fileformats.org/fr/file-types/utau-sequence-text-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/utau-sequence-text-file/</guid>
+      <description>Fichier texte de séquence UTAU</description>
+    </item>
+    
   </channel>
 </rss>

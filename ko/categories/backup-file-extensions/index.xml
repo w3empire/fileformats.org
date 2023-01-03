@@ -17,12 +17,30 @@
     </item>
     
     <item>
+      <title>TIG</title>
+      <link>https://fileformats.org/ko/file-types/ti-connect-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:02:40 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/ti-connect-backup-file/</guid>
+      <description>TI Connect 백업 파일</description>
+    </item>
+    
+    <item>
       <title>ACP</title>
       <link>https://fileformats.org/ko/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:23 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/alfresco-content-package/</guid>
       <description>Alfresco 콘텐츠 팩</description>
+    </item>
+    
+    <item>
+      <title>SPG</title>
+      <link>https://fileformats.org/ko/file-types/tcp-optimizer-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:10:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/tcp-optimizer-backup-file/</guid>
+      <description>TCP Optimizer 백업 파일</description>
     </item>
     
     <item>
@@ -41,6 +59,15 @@
       
       <guid>https://fileformats.org/ko/file-types/finale-temporary-file/</guid>
       <description>Finale의 임시 아카이브</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/ko/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/temporary-file/</guid>
+      <description>임시 파일</description>
     </item>
     
   </channel>

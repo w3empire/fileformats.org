@@ -6,7 +6,16 @@
     <description>Recent content in Tous les articles de Richard Scott sur FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 17:12:10 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:37:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TCT</title>
+      <link>https://fileformats.org/fr/file-types/turbocad-drawing-template/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/turbocad-drawing-template/</guid>
+      <description>Modèle de conception TurboCAD</description>
+    </item>
+    
     <item>
       <title>BDC</title>
       <link>https://fileformats.org/fr/file-types/west-point-bridge-designer-design-file/</link>
@@ -23,6 +32,15 @@
       
       <guid>https://fileformats.org/fr/file-types/alfresco-content-package/</guid>
       <description>Pack de contenu Alfresco</description>
+    </item>
+    
+    <item>
+      <title>SPG</title>
+      <link>https://fileformats.org/fr/file-types/tcp-optimizer-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:09:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/tcp-optimizer-backup-file/</guid>
+      <description>Fichier de sauvegarde TCP Optimizer</description>
     </item>
     
     <item>
@@ -104,6 +122,15 @@
       
       <guid>https://fileformats.org/fr/file-types/finale-temporary-file/</guid>
       <description>Archive temporaire de Finale</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/fr/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/temporary-file/</guid>
+      <description>Fichier temporaire</description>
     </item>
     
     <item>

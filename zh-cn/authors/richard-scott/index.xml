@@ -6,7 +6,16 @@
     <description>Recent content in 理查德·斯科特在 FileFormats 上的所有文章 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 17:12:17 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:37:35 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TCT</title>
+      <link>https://fileformats.org/zh-cn/file-types/turbocad-drawing-template/</link>
+      <pubDate>Tue, 27 Dec 2022 17:37:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/turbocad-drawing-template/</guid>
+      <description>TurboCAD 设计模板</description>
+    </item>
+    
     <item>
       <title>BDC</title>
       <link>https://fileformats.org/zh-cn/file-types/west-point-bridge-designer-design-file/</link>
@@ -23,6 +32,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/alfresco-content-package/</guid>
       <description>Alfresco 内容包</description>
+    </item>
+    
+    <item>
+      <title>SPG</title>
+      <link>https://fileformats.org/zh-cn/file-types/tcp-optimizer-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:10:04 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/tcp-optimizer-backup-file/</guid>
+      <description>TCP Optimizer 备份文件</description>
     </item>
     
     <item>
@@ -104,6 +122,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/finale-temporary-file/</guid>
       <description>Finale 临时存档</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/zh-cn/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/temporary-file/</guid>
+      <description>临时文件</description>
     </item>
     
     <item>

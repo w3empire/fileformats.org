@@ -6,7 +6,16 @@
     <description>Recent content in 문자 “S”로 시작하는 모든 파일 확장자 목록(의미) on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Dec 2022 03:36:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/tags/s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 13:10:02 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/tags/s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPG</title>
+      <link>https://fileformats.org/ko/file-types/tcp-optimizer-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:10:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/tcp-optimizer-backup-file/</guid>
+      <description>TCP Optimizer 백업 파일</description>
+    </item>
+    
     <item>
       <title>SPD</title>
       <link>https://fileformats.org/ko/file-types/form-z-suspended-render-file/</link>

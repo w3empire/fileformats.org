@@ -34,5 +34,14 @@
       <description>Finale 临时存档</description>
     </item>
     
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/zh-cn/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/temporary-file/</guid>
+      <description>临时文件</description>
+    </item>
+    
   </channel>
 </rss>

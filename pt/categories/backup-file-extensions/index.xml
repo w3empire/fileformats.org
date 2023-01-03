@@ -17,12 +17,30 @@
     </item>
     
     <item>
+      <title>TIG</title>
+      <link>https://fileformats.org/pt/file-types/ti-connect-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:02:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/ti-connect-backup-file/</guid>
+      <description>Arquivo de Cópia de Segurança do TI Connect</description>
+    </item>
+    
+    <item>
       <title>ACP</title>
       <link>https://fileformats.org/pt/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:18 +0000</pubDate>
       
       <guid>https://fileformats.org/pt/file-types/alfresco-content-package/</guid>
       <description>Pacote de conteúdo do Alfresco</description>
+    </item>
+    
+    <item>
+      <title>SPG</title>
+      <link>https://fileformats.org/pt/file-types/tcp-optimizer-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:09:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/tcp-optimizer-backup-file/</guid>
+      <description>Arquivo de Cópia de Segurança do TCP Optimizer</description>
     </item>
     
     <item>
@@ -41,6 +59,15 @@
       
       <guid>https://fileformats.org/pt/file-types/finale-temporary-file/</guid>
       <description>Arquivo Temporario do Finale</description>
+    </item>
+    
+    <item>
+      <title>TMP</title>
+      <link>https://fileformats.org/pt/file-types/temporary-file/</link>
+      <pubDate>Tue, 13 Dec 2022 01:31:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/temporary-file/</guid>
+      <description>Arquivo temporário</description>
     </item>
     
   </channel>

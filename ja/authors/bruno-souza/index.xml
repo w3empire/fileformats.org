@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>UST</title>
+      <link>https://fileformats.org/ja/file-types/utau-sequence-text-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:50:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/utau-sequence-text-file/</guid>
+      <description>UTAUシーケンステキストファイル</description>
+    </item>
+    
+    <item>
       <title>MP3</title>
       <link>https://fileformats.org/ja/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:22 +0000</pubDate>

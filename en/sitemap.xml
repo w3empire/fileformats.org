@@ -982,9 +982,109 @@
   </url><url>
     <loc>https://fileformats.org/file-types/turbocad-drawing-template/</loc>
     <lastmod>2022-12-27T17:37:22+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/turbocad-drawing-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/turbocad-drawing-template/"
+                />
   </url><url>
     <loc>https://fileformats.org/file-types/staad-foundation-project-file/</loc>
     <lastmod>2022-12-26T18:57:43+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/staad-foundation-project-file/"
+                />
   </url><url>
     <loc>https://fileformats.org/file-types/cadstar-pcb-archive-file/</loc>
     <lastmod>2022-12-26T18:47:22+00:00</lastmod>
@@ -1804,6 +1904,56 @@
   </url><url>
     <loc>https://fileformats.org/file-types/ti-connect-backup-file/</loc>
     <lastmod>2022-12-26T14:02:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/ti-connect-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/ti-connect-backup-file/"
+                />
   </url><url>
     <loc>https://fileformats.org/file-types/alfresco-content-package/</loc>
     <lastmod>2022-12-26T13:46:17+00:00</lastmod>
@@ -1916,6 +2066,56 @@
   </url><url>
     <loc>https://fileformats.org/file-types/tcp-optimizer-backup-file/</loc>
     <lastmod>2022-12-26T13:09:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/tcp-optimizer-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/tcp-optimizer-backup-file/"
+                />
   </url><url>
     <loc>https://fileformats.org/file-types/automatic-backup-file/</loc>
     <lastmod>2022-12-26T12:56:55+00:00</lastmod>
@@ -2134,6 +2334,56 @@
   </url><url>
     <loc>https://fileformats.org/file-types/utau-sequence-text-file/</loc>
     <lastmod>2022-12-25T12:50:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/utau-sequence-text-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/utau-sequence-text-file/"
+                />
   </url><url>
     <loc>https://fileformats.org/file-types/myriad-user-instrument-file/</loc>
     <lastmod>2022-12-25T12:38:08+00:00</lastmod>
@@ -3857,6 +4107,56 @@
   </url><url>
     <loc>https://fileformats.org/file-types/temporary-file/</loc>
     <lastmod>2022-12-13T01:36:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/temporary-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/temporary-file/"
+                />
   </url><url>
     <loc>https://fileformats.org/file-types/libreoffice-document-lock-file/</loc>
     <lastmod>2022-12-13T01:29:10-03:00</lastmod>
