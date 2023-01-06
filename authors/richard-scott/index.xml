@@ -6,7 +6,16 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 23:01:51 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 20:41:24 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZIP</title>
+      <link>https://fileformats.org/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/zipped-file/</guid>
+      <description>Zipped File</description>
+    </item>
+    
     <item>
       <title>ARW</title>
       <link>https://fileformats.org/file-types/sony-digital-camera-image/</link>

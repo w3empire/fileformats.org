@@ -6,7 +6,16 @@
     <description>Recent content in All articles by Akira Osawa on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 19:44:02 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 15:54:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RWZ</title>
+      <link>https://fileformats.org/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor Compressed Image</description>
+    </item>
+    
     <item>
       <title>NRW</title>
       <link>https://fileformats.org/file-types/nikon-raw-image-file/</link>

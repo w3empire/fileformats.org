@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of Camera Image File Extensions on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 23:01:51 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:10 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNG</title>
+      <link>https://fileformats.org/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/digital-negative-image-file/</guid>
+      <description>Digital Negative Image File</description>
+    </item>
+    
+    <item>
+      <title>EIP</title>
+      <link>https://fileformats.org/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/enhanced-image-package-file/</guid>
+      <description>Enhanced Image Package File</description>
+    </item>
+    
+    <item>
+      <title>RWZ</title>
+      <link>https://fileformats.org/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor Compressed Image</description>
+    </item>
+    
     <item>
       <title>ARW</title>
       <link>https://fileformats.org/file-types/sony-digital-camera-image/</link>

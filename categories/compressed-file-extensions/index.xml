@@ -6,7 +6,16 @@
     <description>Recent content in The Complete List of Compressed File Extensions on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Dec 2022 03:17:17 -0300</lastBuildDate><atom:link href="https://fileformats.org/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 20:41:24 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZIP</title>
+      <link>https://fileformats.org/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/zipped-file/</guid>
+      <description>Zipped File</description>
+    </item>
+    
     <item>
       <title>SPD</title>
       <link>https://fileformats.org/file-types/s-note-file/</link>

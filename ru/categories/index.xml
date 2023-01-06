@@ -71,93 +71,12 @@
     </item>
     
     <item>
-      <title>Полный список расширений веб-файлов</title>
-      <link>https://fileformats.org/ru/categories/web-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/web-file-extensions/</guid>
-      <description>Веб-сайты, веб-приложения и файлы, на которые ссылаются веб-сайты (как статические, так и динамические), подпадают под эту категорию.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений видеофайлов</title>
-      <link>https://fileformats.org/ru/categories/video-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/video-file-extensions/</guid>
-      <description>В категории «Видеофайлы» вы найдете множество видеоформатов, каждый из которых использует свой кодек для кодирования и сжатия видеоинформации.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений игровых файлов</title>
-      <link>https://fileformats.org/ru/categories/game-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/game-file-extensions/</guid>
-      <description>Файлы, связанные с видеоиграми, такие как файлы сохранения, можно найти в категории «Файлы игр».</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений исполняемых файлов</title>
-      <link>https://fileformats.org/ru/categories/executable-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/executable-file-extensions/</guid>
-      <description>Исполняемые файлы включают программы для Windows и Mac, а также сценарии и макросы.</description>
-    </item>
-    
-    <item>
       <title>Полный список расширений сжатых файлов</title>
       <link>https://fileformats.org/ru/categories/compressed-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/categories/compressed-file-extensions/</guid>
       <description>Экономия места на жестком диске — одна из основных причин существования сжатых файлов.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений системных файлов</title>
-      <link>https://fileformats.org/ru/categories/system-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/system-file-extensions/</guid>
-      <description>Файлы операционной системы компьютера (например, используемые Mac OS, Windows и Linux) можно найти в категории «Системные файлы».</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений текстовых файлов</title>
-      <link>https://fileformats.org/ru/categories/text-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/text-file-extensions/</guid>
-      <description>Документы, написанные в текстовых процессорах, журналы серверов и электронные письма, которые были сохранены для последующего использования, — все это примеры текстовых файлов.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов ГИС (геоинформационных систем)</title>
-      <link>https://fileformats.org/ru/categories/gis-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/gis-file-extensions/</guid>
-      <description>Данные из навигационных средств, таких как системы глобального позиционирования и картографические программы, можно найти в категории ГИС (Географические информационные системы).</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов базы данных</title>
-      <link>https://fileformats.org/ru/categories/database-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/database-file-extensions/</guid>
-      <description>Информация в файле базы данных хранится в табличном или табличном формате с полями.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов векторных изображений</title>
-      <link>https://fileformats.org/ru/categories/vector-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/vector-image-file-extensions/</guid>
-      <description>При создании векторного изображения вместо пикселей используются пути. Линии и геометрические фигуры на изображении могут быть представлены этими путями.</description>
     </item>
     
     <item>
@@ -188,66 +107,12 @@
     </item>
     
     <item>
-      <title>Полный список расширений файлов настроек</title>
-      <link>https://fileformats.org/ru/categories/settings-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/settings-file-extensions/</guid>
-      <description>Настройки операционной системы и настройки компьютерных программ сохраняются в файлах, называемых «настройки». Файлы конфигурации также могут называться файлами настроек.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов образа диска</title>
-      <link>https://fileformats.org/ru/categories/disk-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/disk-image-file-extensions/</guid>
-      <description>В файле образа диска вы найдете точную копию жесткого диска или другого носителя информации.</description>
-    </item>
-    
-    <item>
       <title>Полный список расширений файлов плагинов</title>
       <link>https://fileformats.org/ru/categories/plugin-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/categories/plugin-file-extensions/</guid>
       <description>Существующие программы могут получить дополнительные возможности и функциональные возможности с помощью файлов плагинов.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов растровых изображений</title>
-      <link>https://fileformats.org/ru/categories/raster-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/raster-image-file-extensions/</guid>
-      <description>Растровые изображения имеют форму сетки пикселей, каждому из которых назначается уникальный цвет для представления всего изображения.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов шрифтов</title>
-      <link>https://fileformats.org/ru/categories/font-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/font-file-extensions/</guid>
-      <description>Файлы шрифтов — это файлы, содержащие символы для ввода, используемые операционной системой компьютера и различными другими компьютерными программами.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов электронных книг</title>
-      <link>https://fileformats.org/ru/categories/ebook-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/ebook-file-extensions/</guid>
-      <description>Электронные книги или файлы электронных книг можно читать на устройствах для чтения, таких как Kindle, Nook, iPad и Sony Reader.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов электронных таблиц</title>
-      <link>https://fileformats.org/ru/categories/spreadsheet-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/spreadsheet-file-extensions/</guid>
-      <description>Данные хранятся в строках и столбцах в ячейках файла электронной таблицы.</description>
     </item>
     
   </channel>

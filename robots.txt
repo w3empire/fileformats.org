@@ -19,3 +19,13 @@ Disallow: /de/search/
 Disallow: /ko/search/
 Disallow: /it/search/
 Disallow: /fr/search/
+Disallow: /search-online/
+Disallow: /pt/search-online/
+Disallow: /es/search-online/
+Disallow: /ru/search-online/
+Disallow: /ja/search-online/
+Disallow: /zh-cn/search-online/
+Disallow: /de/search-online/
+Disallow: /ko/search-online/
+Disallow: /it/search-online/
+Disallow: /fr/search-online/

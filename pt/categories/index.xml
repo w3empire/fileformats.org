@@ -62,75 +62,12 @@
     </item>
     
     <item>
-      <title>A lista completa de extensões de arquivo de banco de dados</title>
-      <link>https://fileformats.org/pt/categories/database-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/database-file-extensions/</guid>
-      <description>As informações em um arquivo de banco de dados são armazenadas em formato tabular, ou tabela, com campos.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de configurações</title>
-      <link>https://fileformats.org/pt/categories/settings-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/settings-file-extensions/</guid>
-      <description>As preferências do sistema operacional e as configurações do programa de computador são salvas em arquivos chamados &amp;lsquo;configurações&amp;rsquo;. Os arquivos de configuração também podem ser chamados de arquivos de preferência.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de e-book</title>
-      <link>https://fileformats.org/pt/categories/ebook-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/ebook-file-extensions/</guid>
-      <description>Os eBooks, ou arquivos de livros eletrônicos, podem ser lidos em eReaders como Kindle, Nook, iPad e Sony Reader.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de fonte</title>
-      <link>https://fileformats.org/pt/categories/font-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/font-file-extensions/</guid>
-      <description>Arquivos de fonte são arquivos que contêm caracteres de digitação usados pelo sistema operacional do computador e vários outros programas de computador.</description>
-    </item>
-    
-    <item>
       <title>A lista completa de extensões de arquivo de imagem da câmera</title>
       <link>https://fileformats.org/pt/categories/camera-image-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/pt/categories/camera-image-file-extensions/</guid>
       <description>Os arquivos raw de imagem da câmera são armazenados em um formato raw que retém todas as informações que o sensor da câmera registrou.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de imagem de disco</title>
-      <link>https://fileformats.org/pt/categories/disk-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/disk-image-file-extensions/</guid>
-      <description>Em um arquivo de imagem de disco, você encontrará uma cópia carbono de um disco rígido ou outro meio de armazenamento.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de imagem raster</title>
-      <link>https://fileformats.org/pt/categories/raster-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/raster-image-file-extensions/</guid>
-      <description>As imagens rasterizadas assumem a forma de uma grade de pixels, cada um dos quais recebe uma cor exclusiva para representar a imagem geral.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de imagem vetorial</title>
-      <link>https://fileformats.org/pt/categories/vector-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/vector-image-file-extensions/</guid>
-      <description>Ao criar uma imagem vetorial, os caminhos são usados em vez de pixels. Linhas e formas geométricas em uma imagem podem ser representadas por esses caminhos.</description>
     </item>
     
     <item>
@@ -143,48 +80,12 @@
     </item>
     
     <item>
-      <title>A lista completa de extensões de arquivo de planilha</title>
-      <link>https://fileformats.org/pt/categories/spreadsheet-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/spreadsheet-file-extensions/</guid>
-      <description>Os dados são mantidos em linhas e colunas dentro das células de um arquivo de planilha.</description>
-    </item>
-    
-    <item>
       <title>A lista completa de extensões de arquivo de plug-in</title>
       <link>https://fileformats.org/pt/categories/plugin-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/pt/categories/plugin-file-extensions/</guid>
       <description>Os programas existentes podem se beneficiar de recursos e funcionalidades adicionais usando arquivos de plug-in.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de texto</title>
-      <link>https://fileformats.org/pt/categories/text-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/text-file-extensions/</guid>
-      <description>Documentos escritos em processadores de texto, logs de servidor e e-mails que foram salvos para uso posterior são exemplos de arquivos de texto.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo de vídeo</title>
-      <link>https://fileformats.org/pt/categories/video-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/video-file-extensions/</guid>
-      <description>Você encontrará uma grande variedade de formatos de vídeo na categoria Arquivos de vídeo, cada um empregando um codec diferente para codificar e compactar informações de vídeo.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivo GIS (Sistemas de Informação Geográfica)</title>
-      <link>https://fileformats.org/pt/categories/gis-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/gis-file-extensions/</guid>
-      <description>Dados de auxílios à navegação como sistemas de posicionamento global e programas cartográficos podem ser encontrados na categoria GIS (Sistemas de Informação Geográfica).</description>
     </item>
     
     <item>
@@ -206,48 +107,12 @@
     </item>
     
     <item>
-      <title>A lista completa de extensões de arquivos da Web</title>
-      <link>https://fileformats.org/pt/categories/web-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/web-file-extensions/</guid>
-      <description>Sites, aplicativos da Web e arquivos referenciados por sites (estáticos e dinâmicos) se enquadram nessa categoria.</description>
-    </item>
-    
-    <item>
       <title>A lista completa de extensões de arquivos de dados</title>
       <link>https://fileformats.org/pt/categories/data-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/pt/categories/data-file-extensions/</guid>
       <description>Bancos de dados, projetos e documentos salvos são todos os tipos de arquivos de dados.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivos de jogos</title>
-      <link>https://fileformats.org/pt/categories/game-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/game-file-extensions/</guid>
-      <description>Arquivos relacionados a videogames, como arquivos salvos, podem ser encontrados na categoria Arquivos de jogos.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivos do sistema</title>
-      <link>https://fileformats.org/pt/categories/system-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/system-file-extensions/</guid>
-      <description>Os arquivos do sistema operacional do computador (como os usados pelo Mac OS, Windows e Linux) podem ser encontrados na categoria Arquivos do sistema.</description>
-    </item>
-    
-    <item>
-      <title>A lista completa de extensões de arquivos executáveis</title>
-      <link>https://fileformats.org/pt/categories/executable-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/pt/categories/executable-file-extensions/</guid>
-      <description>Os arquivos executáveis incluem programas Windows e Mac, bem como scripts e macros.</description>
     </item>
     
   </channel>

@@ -62,33 +62,6 @@
     </item>
     
     <item>
-      <title>eBook ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/ebook-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/ebook-file-extensions/</guid>
-      <description>電子書籍または電子書籍ファイルは、Kindle、Nook、iPad、Sony Reader などの電子書籍リーダーで読むことができます。</description>
-    </item>
-    
-    <item>
-      <title>GIS (地理情報システム) ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/gis-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/gis-file-extensions/</guid>
-      <description>全地球測位システムや地図作成プログラムなどのナビゲーション支援からのデータは、GIS (地理情報システム) カテゴリで見つけることができます。</description>
-    </item>
-    
-    <item>
-      <title>Web ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/web-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/web-file-extensions/</guid>
-      <description>Web サイト、Web アプリケーション、および Web サイトによって参照されるファイル (静的および動的の両方) はすべて、このカテゴリに分類されます。</description>
-    </item>
-    
-    <item>
       <title>エンコードされたファイル拡張子の完全なリスト</title>
       <link>https://fileformats.org/ja/categories/encoded-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -107,84 +80,12 @@
     </item>
     
     <item>
-      <title>ゲーム ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/game-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/game-file-extensions/</guid>
-      <description>セーブファイルなどのビデオゲーム関連のファイルは、ゲームファイルカテゴリにあります。</description>
-    </item>
-    
-    <item>
-      <title>システム ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/system-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/system-file-extensions/</guid>
-      <description>コンピューターのオペレーティング システム ファイル (Mac OS、Windows、および Linux で使用されるファイルなど) は、システム ファイル カテゴリにあります。</description>
-    </item>
-    
-    <item>
-      <title>スプレッドシート ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/spreadsheet-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/spreadsheet-file-extensions/</guid>
-      <description>データは、スプレッドシート ファイルのセル内の行と列に保持されます。</description>
-    </item>
-    
-    <item>
-      <title>テキスト ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/text-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/text-file-extensions/</guid>
-      <description>後で使用するために保存されたワード プロセッサ、サーバー ログ、および電子メールで書かれた文書は、すべてテキスト ファイルの例です。</description>
-    </item>
-    
-    <item>
-      <title>ディスク イメージ ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/disk-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/disk-image-file-extensions/</guid>
-      <description>ディスク イメージ ファイルには、ハード ドライブまたはその他の記憶媒体のカーボン コピーがあります。</description>
-    </item>
-    
-    <item>
       <title>データ ファイル拡張子の完全なリスト</title>
       <link>https://fileformats.org/ja/categories/data-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/categories/data-file-extensions/</guid>
       <description>データベース、プロジェクト、および保存されたドキュメントは、すべての種類のデータ ファイルです。</description>
-    </item>
-    
-    <item>
-      <title>データベース ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/database-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/database-file-extensions/</guid>
-      <description>データベース ファイル内の情報は、フィールドを含む表形式または表形式で格納されます。</description>
-    </item>
-    
-    <item>
-      <title>ビデオ ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/video-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/video-file-extensions/</guid>
-      <description>ビデオ ファイル カテゴリにはさまざまなビデオ形式があり、それぞれが異なるコーデックを使用してビデオ情報をエンコードおよび圧縮しています。</description>
-    </item>
-    
-    <item>
-      <title>フォント ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/font-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/font-file-extensions/</guid>
-      <description>フォント ファイルは、コンピューターのオペレーティング システムやその他のさまざまなコンピューター プログラムで使用される入力文字を含むファイルです。</description>
     </item>
     
     <item>
@@ -197,15 +98,6 @@
     </item>
     
     <item>
-      <title>ベクター画像ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/vector-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/vector-image-file-extensions/</guid>
-      <description>ベクター イメージを作成する場合、ピクセルの代わりにパスが使用されます。 画像内の線と幾何学的形状は、これらのパスで表すことができます。</description>
-    </item>
-    
-    <item>
       <title>ページ レイアウト ファイル拡張子の完全なリスト</title>
       <link>https://fileformats.org/ja/categories/page-layout-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -215,39 +107,12 @@
     </item>
     
     <item>
-      <title>ラスター イメージ ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/raster-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/raster-image-file-extensions/</guid>
-      <description>ラスター イメージはピクセルのグリッドの形をとり、各ピクセルにはイメージ全体を表す一意の色が割り当てられます。</description>
-    </item>
-    
-    <item>
       <title>圧縮ファイル拡張子の完全なリスト</title>
       <link>https://fileformats.org/ja/categories/compressed-file-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/categories/compressed-file-extensions/</guid>
       <description>圧縮ファイルが存在する主な理由の 1 つは、ハード ドライブのスペースを節約することです。</description>
-    </item>
-    
-    <item>
-      <title>実行可能ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/executable-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/executable-file-extensions/</guid>
-      <description>実行可能ファイルには、Windows と Mac の両方のプログラム、およびスクリプトとマクロが含まれます。</description>
-    </item>
-    
-    <item>
-      <title>設定ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/settings-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/settings-file-extensions/</guid>
-      <description>オペレーティング システムの設定とコンピュータ プログラムの設定は、「設定」と呼ばれるファイルに保存されます。 構成ファイルは、設定ファイルと呼ばれることもあります。</description>
     </item>
     
   </channel>
