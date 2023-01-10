@@ -543,7 +543,7 @@ function scrollParentToChild(parent, child) {
 // Remove os parâmetros da URL (não remove quando a URL é a /search/)
 function cleanURL() {
     // var newUrl = window.location.origin + window.location.pathname
-    if (window.location.pathname.indexOf("/search/") == -1 && window.location.pathname.indexOf("/download/") == -1) {
+    if (window.location.pathname.indexOf("/search/") == -1 && window.location.pathname.indexOf("/download/") == -1 && window.location.pathname.indexOf("/search-online/") == -1) {
         var newUrl = window.location.href.split("?")[0]
         window.history.replaceState({}, document.title, newUrl);
     }
