@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko" dir="auto">
 <head>
-    <title>MESH 파일 형식(MESH 파일 형식은 무엇이며 여는 방법)</title><link rel="preconnect" href="https://fonts.googleapis.com">
+    <title>MESH(Godot Engine 3D 메쉬 파일) - 파일 형식 | 파일 형식</title><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <link rel="canonical" href="https://fileformats.org/ko/file-types/godot-engine-3d-mesh-file/">
@@ -10,27 +10,27 @@
 <meta charset="utf-8"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest"><meta name="keywords" content="" /><meta name="description" content="MESH 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다." />
+<link rel="manifest" href="/site.webmanifest"><meta name="keywords" content="" /><meta name="description" content="MESH(Godot Engine 3D 메쉬 파일) 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다." />
 
 
-<meta itemprop="name" content="MESH 파일 형식(MESH 파일 형식은 무엇이며 여는 방법)">
-<meta itemprop="description" content="MESH 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다."><meta itemprop="wordCount" content="324"><meta itemprop="image" content="https://fileformats.org/images/fileformats.jpg">
+<meta itemprop="name" content="MESH(Godot Engine 3D 메쉬 파일) - 파일 형식 | 파일 형식">
+<meta itemprop="description" content="MESH(Godot Engine 3D 메쉬 파일) 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다."><meta itemprop="wordCount" content="324"><meta itemprop="image" content="https://fileformats.org/images/fileformats.jpg">
 
 
 <meta itemprop="keywords" content="M,Text and binary file format," />
 
 
-<meta property="og:title" content="MESH 파일 형식(MESH 파일 형식은 무엇이며 여는 방법)" />
+<meta property="og:title" content="MESH(Godot Engine 3D 메쉬 파일) - 파일 형식 | 파일 형식" />
 <meta property="og:image" content="https://fileformats.org/images/fileformats.jpg" />
-<meta property="og:description" content="MESH 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다." />
+<meta property="og:description" content="MESH(Godot Engine 3D 메쉬 파일) 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://fileformats.org/ko/file-types/godot-engine-3d-mesh-file/" /><meta property="article:section" content="file-types" />
 
 
 <meta name="twitter:card" value="summary">
-<meta name="twitter:title" content="MESH 파일 형식(MESH 파일 형식은 무엇이며 여는 방법)"/>
+<meta name="twitter:title" content="MESH(Godot Engine 3D 메쉬 파일) - 파일 형식 | 파일 형식"/>
 <meta name=twitter:image content="https://fileformats.org/images/fileformats.jpg" />
-<meta name="twitter:description" content="MESH 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다."/>
+<meta name="twitter:description" content="MESH(Godot Engine 3D 메쉬 파일) 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다."/>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V3MBY51CR7"></script>
 <script>
@@ -45,16 +45,19 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3427355473051563" crossorigin="anonymous"></script>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="dns-prefetch" href="//fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700;900&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.6/dist/semantic.min.css"><link rel="stylesheet" href="https://fileformats.org/css/main.min.02e19a32d25f87afe3e91ec79415b239c72061544d57deb2bf7f37d9db22f1ad.css" integrity="sha256-AuGaMtJfh6/j6R7HlBWyOccgYVRNV96yv3832dsi8a0=" crossorigin="anonymous"><script type="application/ld+json">
-    {"@context": "http://schema.org","@id": "https:\/\/fileformats.org\/ko\/file-types\/godot-engine-3d-mesh-file\/","@type": "Dataset","url": "https:\/\/fileformats.org\/ko\/file-types\/godot-engine-3d-mesh-file\/","name": "Godot Engine 3D 메쉬 파일","alternateName": "mesh","dateModified": "2022-12-23 15:10:35 \u002b0000 UTC",}
+<link rel="dns-prefetch" href="//fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700;900&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.6/dist/semantic.min.css"><link rel="stylesheet" href="https://fileformats.org/css/main.min.18e121ffc63d4f8be42f8c55aef81b41c7d961b1ce7ed9e749bb0f1efafb9824.css" integrity="sha256-GOEh/8Y9T4vkL4xVrvgbQcfZYbHOftnnSbsPHvr7mCQ=" crossorigin="anonymous"><script type="application/ld+json">
+    {"@context": "http://schema.org","@id": "https:\/\/fileformats.org\/ko\/file-types\/godot-engine-3d-mesh-file\/","@type": "Dataset","url": "https:\/\/fileformats.org\/ko\/file-types\/godot-engine-3d-mesh-file\/","name": "Godot Engine 3D 메쉬 파일","alternateName": "mesh","description": "\u0022MESH({% name %}) 파일이란? MESH 파일을 열고 편집하고 변환하는 방법을 알아보세요. 이 페이지에서 MESH 파일과 호환되는 소프트웨어 목록을 찾을 수 있습니다.\u0022","dateModified": "2022-12-23 15:10:35 \u002b0000 UTC","creator":{
+            "@type": "Organization",
+            "name": "Godot"
+        }}
 </script>
 </script></head>
 <body><div class="ui left demo vertical inverted sidebar huge menu">
     <div class="item" style="background-color: #1b1c1d;">
         <a href="https://fileformats.org/ko/" class="item no-border" title="홈페이지로 돌아 가기">
-            <span class="flex-center site-name">
-                <span style="color: white;"><i class="file alternate icon"></i></span>
-                FileFormats<span style="color: white;">.org</span>
+            <span class="flex-center site-name__inverted">
+                <i class="copy outline icon"></i>
+                FileFormats
             </span>
         </a>
     </div><a class="item" href="https://fileformats.org/ko/categories/3d-image-file-extensions/"><i class="cube icon icon"></i>3D 이미지 파일 확장자
@@ -76,47 +79,56 @@
 
 
 
-<div class="ui inverted secondary menu m-0 flex-center br-0 bg-green" style="height: 54px;">
+<div class="ui menu m-0 flex-center br-0">
     <div class="ui container">
 
         
         <a class="item" id="open-sidebar"><i class="large bars icon"></i></a>
 
         
-        <a href="https://fileformats.org/ko/" class="item pv-0 hide-desktop" title="홈페이지로 돌아 가기">
+        <a href="https://fileformats.org/ko/" class="item hide-desktop" title="홈페이지로 돌아 가기">
             <span class="flex-center site-name">
-                <span style="color: white;"><i class="home icon"></i></span>
+                <i class="home icon"></i>
             </span>
         </a>
 
-        <a href="https://fileformats.org/ko/" class="item pv-0 hide-mobile" title="홈페이지로 돌아 가기">
+        <a href="https://fileformats.org/ko/" class="item hide-mobile" title="홈페이지로 돌아 가기">
             <span class="flex-center site-name">
-                <span style="color: white;"><i class="file alternate icon"></i></span>
-                FileFormats<span style="color: white;">.org</span>
+                <i class="copy outline icon logo-icon"></i>
+                FileFormats
             </span>
         </a>
 
-        <div style="flex: 1;">
-            <div class="ui right aligned item m-0">
-                <div class="ui inverted labeled icon action input">
-                    
-                    <input type="text" placeholder="찾다..." id="search-input" style="border-top-right-radius: 4px;border-bottom-right-radius: 4px;">
-                    <i class="search link icon" id="search-query"></i>
-                </div>
+        <div class="ui right aligned item m-0" style="flex: 1;">
+            <div class="ui inverted labeled icon action input">
+                
+                <input type="text" placeholder="찾다..." id="search-input" style="border-top-right-radius: 4px;border-bottom-right-radius: 4px;">
+                <i class="search link icon" id="search-query"></i>
             </div>
         </div>
 
     </div>
 </div><div class="ui fluid container">
-    <div class="ui mini inverted message text-center br-0 bg-light-green" style="padding-top: 6px;padding-bottom: 6px;">
+    <div class="ui mini message text-center affiliate-disclaimer-msg br-0" style="padding-top: 6px;padding-bottom: 6px;">
         <div class="content">
             <i class="info circle icon"></i>
-            이 사이트는 사용자가 자금을 지원합니다. 가능한 경우 제휴사 링크를 사용합니다. <a class="white-underline-link amzn" href="https://support.filenux.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener">더 알아보기</a>
+            이 사이트는 사용자가 자금을 지원합니다. 가능한 경우 제휴사 링크를 사용합니다. <a class="legacy-link amzn" href="https://support.filenux.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener">더 알아보기</a>
         </div>
     </div>
-</div>
-
-        <div class="ui container">
+</div><div class="ad-unit-container" align="center">
+    <div class="ad-unit">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="5022247450"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div><div class="ui container">
         <div class="ui breadcrumb" id="breadcrumb" style="margin-top: 2rem;margin-bottom: 1.5rem;">
     <a href="https://fileformats.org/ko/" class="section">홈페이지
     </a><i class="angle double right icon divider"></i>
@@ -164,7 +176,7 @@
         
         <div class="ui stackable grid">
             <div class="row"><div class="three wide column center aligned">
-                        <img class="ui rounded centered image download-icon lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_a10250d3feda6d709d885527a2562abc.png" alt="MESH" title="MESH">
+                        <img class="ui rounded centered image download-icon lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_5e0a174c91d7eb78c1d0283ea80d7010.png" alt="MESH" title="MESH">
                     </div><div class="thirteen wide column download-info">
 
                     <h1 class="ui header mt-0">.MESH (Godot Engine 3D 메쉬 파일) - 파일 확장자</h1>
@@ -214,9 +226,20 @@
 </div>
 
             
-            
-
-            <div class="ui vertical fitted raised segment bg-white main-segment">
+            <div class="ui vertical fitted raised segment bg-white sidebar-widget">
+    <div class="bg-white ad-unit" align="center" data-text="광고">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="5022247450"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div><div class="ui vertical fitted raised segment bg-white main-segment main-article">
     <div class="ui basic padded segment">
         <h2 id="mesh-파일이란"><strong>MESH 파일이란?</strong></h2>
 <p>MESH 파일은 2D 및 3D 게임 제작에 사용되는 오픈 소스 게임 엔진인 Godot Engine에서 사용되는 3D 모델 파일입니다. MESH 파일 형식은 3D 지오메트리를 저장하는 데 사용되며 일반적으로 게임에서 개체, 캐릭터 및 환경의 3D 모델을 저장하는 데 사용됩니다.</p>
@@ -239,6 +262,19 @@
 
 
         
+    </div>
+</div><div class="ui vertical fitted raised segment bg-white sidebar-widget">
+    <div class="bg-white ad-unit" align="center" data-text="광고">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="5022247450"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
     </div>
 </div><div class="ui vertical fitted raised segment bg-white main-segment">
     <div class="ui basic padded segment">
@@ -372,7 +408,7 @@
                         <div class="sub header">
                             <small style="text-transform: uppercase;">작가</small>
                         </div>
-                        <a href="https://fileformats.org/ko/authors/akira-osawa/" class="legacy-link">Akira Osawa</a>
+                        <a href="https://fileformats.org/ko/authors/akira-osawa/" class="legacy-link__author-name">Akira Osawa</a>
                         <div class="sub header">
                             기술 작가 및 편집자
                         </div>
@@ -430,152 +466,150 @@
 
 
 </div>
-<div class="ui vertical fitted raised segment bg-white sidebar-widget">
-    <div class="ui basic segment">
-        <h2 class="ui small header">
-            관련 파일 확장자
-        </h2>
+<table class="ui big raised segment unstackable selectable table sidebar-widget">
+    <thead>
+        <tr>
+            <th colspan="2">관련 파일 확장자</th>
+        </tr>
+    </thead>
 
-        <table class="ui small segment unstackable table">
-            <tbody><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/aero-experience-file/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_e54e8d5ac121113f38f2803b479d6f31.png" alt="Aero Experience File" title="Aero Experience File">
-                            </div>
+    <tbody><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/aero-experience-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_10ae06aaa836aad4bfd6236dfceb21f8.png" alt="Aero Experience File" title="Aero Experience File">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/aero-experience-file/">REAL</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">Aero Experience File</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/aero-experience-file/">REAL</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Aero Experience File</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/grasshopper-binary-definition-file/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_e095f39fdf5a2f65ac91e761b3d01ae5.png" alt="Grasshopper 프로그램 바이너리 정의 파일" title="Grasshopper 프로그램 바이너리 정의 파일">
-                            </div>
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/grasshopper-binary-definition-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="Grasshopper 프로그램 바이너리 정의 파일" title="Grasshopper 프로그램 바이너리 정의 파일">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/grasshopper-binary-definition-file/">GH</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">Grasshopper 프로그램 바이너리 정의 파일</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/grasshopper-binary-definition-file/">GH</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Grasshopper 프로그램 바이너리 정의 파일</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/cinema-4d-model-file/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_12fbea2568619e973192096d673e1e0c.png" alt="Cinema 4D 모델 파일" title="Cinema 4D 모델 파일">
-                            </div>
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/cinema-4d-model-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_ad1377fb3681eb9c8f1c838b1f105783.png" alt="Cinema 4D 모델 파일" title="Cinema 4D 모델 파일">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/cinema-4d-model-file/">C4D</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">Cinema 4D 모델 파일</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/cinema-4d-model-file/">C4D</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Cinema 4D 모델 파일</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/id-tech-4-model-animation-file/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_e095f39fdf5a2f65ac91e761b3d01ae5.png" alt="id Tech 4 모델 애니메이션 파일" title="id Tech 4 모델 애니메이션 파일">
-                            </div>
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/id-tech-4-model-animation-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="id Tech 4 모델 애니메이션 파일" title="id Tech 4 모델 애니메이션 파일">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/id-tech-4-model-animation-file/">MD5ANIM</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">id Tech 4 모델 애니메이션 파일</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/id-tech-4-model-animation-file/">MD5ANIM</span>
+                        <div class="sub header">
+                            <span class="ui grey text">id Tech 4 모델 애니메이션 파일</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/compressed-poser-character-rigging-file/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_549d5c9ec9c19cfd44f4f60c90c71e24.png" alt="압축된 포저 캐릭터 리깅 파일" title="압축된 포저 캐릭터 리깅 파일">
-                            </div>
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/compressed-poser-character-rigging-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_5c6c9a4dfbebe0054927e8f19182ce75.png" alt="압축된 포저 캐릭터 리깅 파일" title="압축된 포저 캐릭터 리깅 파일">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/compressed-poser-character-rigging-file/">CRZ</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">압축된 포저 캐릭터 리깅 파일</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/compressed-poser-character-rigging-file/">CRZ</span>
+                        <div class="sub header">
+                            <span class="ui grey text">압축된 포저 캐릭터 리깅 파일</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/directx-mesh-file/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_e095f39fdf5a2f65ac91e761b3d01ae5.png" alt="DirectX 메쉬 파일" title="DirectX 메쉬 파일">
-                            </div>
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/directx-mesh-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="DirectX 메쉬 파일" title="DirectX 메쉬 파일">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/directx-mesh-file/">MESH</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">DirectX 메쉬 파일</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/directx-mesh-file/">MESH</span>
+                        <div class="sub header">
+                            <span class="ui grey text">DirectX 메쉬 파일</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/3d-mesh-model/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_e095f39fdf5a2f65ac91e761b3d01ae5.png" alt="3D 메쉬 모델" title="3D 메쉬 모델">
-                            </div>
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/3d-mesh-model/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="3D 메쉬 모델" title="3D 메쉬 모델">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/3d-mesh-model/">MESH</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">3D 메쉬 모델</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/3d-mesh-model/">MESH</span>
+                        <div class="sub header">
+                            <span class="ui grey text">3D 메쉬 모델</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/blockbench-3d-model-file/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_e095f39fdf5a2f65ac91e761b3d01ae5.png" alt="블록 벤치 3D 모델 파일" title="블록 벤치 3D 모델 파일">
-                            </div>
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/blockbench-3d-model-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="블록 벤치 3D 모델 파일" title="블록 벤치 3D 모델 파일">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/blockbench-3d-model-file/">BBMODEL</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">블록 벤치 3D 모델 파일</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/blockbench-3d-model-file/">BBMODEL</span>
+                        <div class="sub header">
+                            <span class="ui grey text">블록 벤치 3D 모델 파일</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr><tr class="break-word">
-                    <td><a class="ui small header download-list-item" href="/ko/file-types/houdini-apprentice-file/">
-                            <div class="download-icon-list__container">
-                                <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/white-bg_huc7a918c5fe36b19d823f67833421804a_3506_e095f39fdf5a2f65ac91e761b3d01ae5.png" alt="Houdini Apprentice 프로그램 파일" title="Houdini Apprentice 프로그램 파일">
-                            </div>
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/ko/file-types/houdini-apprentice-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="Houdini Apprentice 프로그램 파일" title="Houdini Apprentice 프로그램 파일">
+                    </div>
 
-                            <div class="content" style="flex: 1;">
-                                <span class="legacy-link" href="/ko/file-types/houdini-apprentice-file/">HIPNC</span>
-                                <div class="sub header">
-                                    <span class="ui grey text">Houdini Apprentice 프로그램 파일</span>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/ko/file-types/houdini-apprentice-file/">HIPNC</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Houdini Apprentice 프로그램 파일</span>
+                        </div>
+                    </div>
+                </a>
 
-                    </td>
-                </tr></tbody>
-        </table>
-    </div>
-</div>
+            </td>
+        </tr></tbody>
+</table>
 
     
 
@@ -592,11 +626,19 @@
 
 
         
+        <div class="ad-unit-container" align="center">
+    <div class="ad-unit">
         
-
-        
-
-        <div class="ui vertical raised padded segment bg-white" style="margin-top: 1.8rem;">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-format="autorelaxed"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="6791744254"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div><div class="ui vertical raised padded segment bg-white" style="margin-top: 1.8rem;">
     <div class="ui container">
         <h2 class="ui header center aligned">FileFormats를 선택하는 이유는 무엇입니까?</h2>
         <div class="ui three column center aligned divided stackable grid">
@@ -637,10 +679,9 @@
             <div class="six wide column">
     
 
-    <a href="https://fileformats.org/ko/" class="item mb-20" title="홈페이지로 돌아 가기">
-        <span class="site-name mt-0 pt-0" style="display: inline-block;">
-            <span style="color: white;"><i class="file alternate icon"></i></span>
-            FileFormats<span style="color: white;">.org</span>
+    <a href="https://fileformats.org/ko/" class="item" title="홈페이지로 돌아 가기">
+        <span class="site-name__inverted mt-0 pt-0 mb-20" style="display: inline-block;">
+            <i class="copy outline icon"></i> FileFormats
         </span>
     </a>
 
