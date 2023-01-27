@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Sun, 25 Dec 2022 12:50:24 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UST</title>
+      <title>Was ist eine UST-Datei (UTAU-Sequenz-Textdatei)?</title>
       <link>https://fileformats.org/de/file-types/utau-sequence-text-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:50:24 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>Was ist eine WPROJ-Datei (Wwise-Projektdatei)?</title>
       <link>https://fileformats.org/de/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:22 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>Was ist eine L-Datei (linke Audiokanaldatei)?</title>
       <link>https://fileformats.org/de/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:17 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>MP3</title>
+      <title>Was ist eine MP3-Datei (MP3-Audiodatei)?</title>
       <link>https://fileformats.org/de/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:27 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>ABC</title>
+      <title>Was ist eine ABC-Datei (ABC-Musiknotation)?</title>
       <link>https://fileformats.org/de/file-types/abc-music-notation/</link>
       <pubDate>Sat, 24 Dec 2022 12:21:21 +0000</pubDate>
       
@@ -53,16 +53,16 @@
     </item>
     
     <item>
-      <title>FLP</title>
+      <title>Was ist eine FLP-Datei (FL Studio-Projekt)?</title>
       <link>https://fileformats.org/de/file-types/fl-studio-project/</link>
       <pubDate>Sat, 24 Dec 2022 12:05:18 +0000</pubDate>
       
       <guid>https://fileformats.org/de/file-types/fl-studio-project/</guid>
-      <description>Projekt FL Studio</description>
+      <description>FL Studio-Projekt</description>
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>Was ist eine EFS-Datei (Ensoniq SQ-80-Datei)?</title>
       <link>https://fileformats.org/de/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:50 +0000</pubDate>
       

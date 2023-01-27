@@ -8,16 +8,16 @@
     <language>en</language>
     <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/3d-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>REAL</title>
+      <title>什么是 REAL 文件（Aero 体验档）？</title>
       <link>https://fileformats.org/zh-cn/file-types/aero-experience-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
       
       <guid>https://fileformats.org/zh-cn/file-types/aero-experience-file/</guid>
-      <description>航空体验文件</description>
+      <description>Aero 体验档</description>
     </item>
     
     <item>
-      <title>GH</title>
+      <title>什么是 GH 文件（Grasshopper 二进制定义文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/grasshopper-binary-definition-file/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>C4D</title>
+      <title>什么是 C4D 文件（Cinema 4D 模型文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/cinema-4d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:18:55 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>MD5ANIM</title>
+      <title>什么是 MD5ANIM 文件（id Tech 4模型动画文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:21 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>CRZ</title>
+      <title>什么是 CRZ 文件（压缩的 Poser 角色装配文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:55 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>什么是 MESH 文件（DirectX 网格文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/directx-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:24:42 +0000</pubDate>
       
@@ -62,16 +62,16 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>什么是 MESH 文件（Godot Engine 3D 网格文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/godot-engine-3d-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:10:37 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/file-types/godot-engine-3d-mesh-file/</guid>
-      <description>Godot Godot Engine 3D 网格文件</description>
+      <description>Godot Engine 3D 网格文件</description>
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>什么是 MESH 文件（3D 网格模型）？</title>
       <link>https://fileformats.org/zh-cn/file-types/3d-mesh-model/</link>
       <pubDate>Fri, 23 Dec 2022 14:59:26 +0000</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>BBMODEL</title>
+      <title>什么是 BBMODEL 文件（Blockbench 3D 模型文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/blockbench-3d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:39 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>HIPNC</title>
+      <title>什么是 HIPNC 文件（Houdini Apprentice 程序文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/houdini-apprentice-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:22:30 +0000</pubDate>
       

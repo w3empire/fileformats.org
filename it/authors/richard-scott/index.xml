@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Tue, 27 Dec 2022 17:37:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TCT</title>
+      <title>Cos&#39;è un file TCT (Modello di progettazione TurboCAD)?</title>
       <link>https://fileformats.org/it/file-types/turbocad-drawing-template/</link>
       <pubDate>Tue, 27 Dec 2022 17:37:30 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>BDC</title>
+      <title>Che cos&#39;è un file BDC (File di progettazione del West Point Bridge Designer)?</title>
       <link>https://fileformats.org/it/file-types/west-point-bridge-designer-design-file/</link>
       <pubDate>Mon, 26 Dec 2022 17:12:12 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>ACP</title>
+      <title>Che cos&#39;è un file ACP (pacchetto di contenuti Alfresco)?</title>
       <link>https://fileformats.org/it/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:21 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>SPG</title>
+      <title>Che cos&#39;è un file SPG (File di backup TCP Optimizer)?</title>
       <link>https://fileformats.org/it/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:09:59 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>ABC</title>
+      <title>Cos&#39;è un file ABC (notazione musicale ABC)?</title>
       <link>https://fileformats.org/it/file-types/abc-music-notation/</link>
       <pubDate>Sat, 24 Dec 2022 12:21:16 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>FLP</title>
+      <title>Cos&#39;è un file FLP (Progetto FL Studio)?</title>
       <link>https://fileformats.org/it/file-types/fl-studio-project/</link>
       <pubDate>Sat, 24 Dec 2022 12:05:12 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>REAL</title>
+      <title>Cos&#39;è un file REAL (File dell&#39;esperienza Aero)?</title>
       <link>https://fileformats.org/it/file-types/aero-experience-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
       
@@ -71,16 +71,16 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Cos&#39;è un file MESH (File mesh DirectX)?</title>
       <link>https://fileformats.org/it/file-types/directx-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:24:34 +0000</pubDate>
       
       <guid>https://fileformats.org/it/file-types/directx-mesh-file/</guid>
-      <description>File mesh directx</description>
+      <description>File mesh DirectX</description>
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Cos&#39;è un file MESH (Modello mesh 3D)?</title>
       <link>https://fileformats.org/it/file-types/3d-mesh-model/</link>
       <pubDate>Fri, 23 Dec 2022 14:59:21 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>BBMODEL</title>
+      <title>Che cos&#39;è un file BBMODEL (File di modello 3D di Blockbench)?</title>
       <link>https://fileformats.org/it/file-types/blockbench-3d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:34 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>HIPNC</title>
+      <title>Cos&#39;è un file HIPNC (File Houdini Apprentice)?</title>
       <link>https://fileformats.org/it/file-types/houdini-apprentice-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:22:25 +0000</pubDate>
       
@@ -107,7 +107,7 @@
     </item>
     
     <item>
-      <title>TMPL</title>
+      <title>Che cos&#39;è un file TMPL (modello predefinito BlueJ)?</title>
       <link>https://fileformats.org/it/file-types/bluej-default-template/</link>
       <pubDate>Tue, 13 Dec 2022 02:15:12 +0000</pubDate>
       
@@ -116,7 +116,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>Cos&#39;è un file TMP (Archivio temporaneo di Finale)?</title>
       <link>https://fileformats.org/it/file-types/finale-temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:37:11 +0000</pubDate>
       
@@ -125,7 +125,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>Che cos&#39;è un file TMP (file temporaneo)?</title>
       <link>https://fileformats.org/it/file-types/temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:31:51 +0000</pubDate>
       
@@ -134,7 +134,7 @@
     </item>
     
     <item>
-      <title>DOC#</title>
+      <title>Che cos&#39;è un file DOC# (file di blocco del documento di LibreOffice)?</title>
       <link>https://fileformats.org/it/file-types/libreoffice-document-lock-file/</link>
       <pubDate>Tue, 29 Nov 2022 15:40:03 +0000</pubDate>
       

@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Tue, 27 Dec 2022 17:37:34 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TCT</title>
+      <title>Что такое файл TCT (Шаблон дизайна TurboCAD)?</title>
       <link>https://fileformats.org/ru/file-types/turbocad-drawing-template/</link>
       <pubDate>Tue, 27 Dec 2022 17:37:34 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>AFS</title>
+      <title>Что такое файл AFS (Файл проекта STAAD.foundation)?</title>
       <link>https://fileformats.org/ru/file-types/staad-foundation-project-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:57:56 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>CPA</title>
+      <title>Что такое файл CPA (Файл CADSTAR PCB)?</title>
       <link>https://fileformats.org/ru/file-types/cadstar-pcb-archive-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:47:41 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>DLV</title>
+      <title>Что такое файл DLV (Экспортный файл CATIA 4)?</title>
       <link>https://fileformats.org/ru/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:13 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>BDC</title>
+      <title>Что такое файл BDC (Файл проекта West Point Bridge Designer)?</title>
       <link>https://fileformats.org/ru/file-types/west-point-bridge-designer-design-file/</link>
       <pubDate>Mon, 26 Dec 2022 17:12:15 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>WX</title>
+      <title>Что такое файл WX (Файл резервной копии Wanam Xposed)?</title>
       <link>https://fileformats.org/ru/file-types/wanam-xposed-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:21:41 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>TIG</title>
+      <title>Что такое файл TIG (Резервный файл TI Connect)?</title>
       <link>https://fileformats.org/ru/file-types/ti-connect-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:02:41 +0000</pubDate>
       
@@ -71,16 +71,16 @@
     </item>
     
     <item>
-      <title>ACP</title>
+      <title>Что такое файл ACP (Пакет контента Alfresco)?</title>
       <link>https://fileformats.org/ru/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:25 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/alfresco-content-package/</guid>
-      <description>Контент-пак Alfresco</description>
+      <description>Пакет контента Alfresco</description>
     </item>
     
     <item>
-      <title>SPG</title>
+      <title>Что такое файл SPG (Файл резервной копии TCP Optimizer)?</title>
       <link>https://fileformats.org/ru/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:03 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>ABK</title>
+      <title>Что такое файл ABK (файл автоматического резервного копирования)?</title>
       <link>https://fileformats.org/ru/file-types/automatic-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 12:57:06 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>UST</title>
+      <title>Что такое файл UST (текстовый файл последовательности UTAU)?</title>
       <link>https://fileformats.org/ru/file-types/utau-sequence-text-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:50:22 +0000</pubDate>
       
@@ -107,7 +107,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>Что такое файл WPROJ (Файл проекта Wwise)?</title>
       <link>https://fileformats.org/ru/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:20 +0000</pubDate>
       
@@ -116,7 +116,7 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>Что такое файл L (файл левого аудиоканала)?</title>
       <link>https://fileformats.org/ru/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:14 +0000</pubDate>
       
@@ -125,16 +125,16 @@
     </item>
     
     <item>
-      <title>MP3</title>
+      <title>Что такое файл MP3 (Аудиофайл MP3)?</title>
       <link>https://fileformats.org/ru/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:25 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/mp3-audio-file/</guid>
-      <description>Удиофайл MP3</description>
+      <description>Аудиофайл MP3</description>
     </item>
     
     <item>
-      <title>ABC</title>
+      <title>Что такое файл ABC (музыкальная нотация ABC)?</title>
       <link>https://fileformats.org/ru/file-types/abc-music-notation/</link>
       <pubDate>Sat, 24 Dec 2022 12:21:19 +0000</pubDate>
       
@@ -143,7 +143,7 @@
     </item>
     
     <item>
-      <title>FLP</title>
+      <title>Что такое файл FLP (проект FL Studio)?</title>
       <link>https://fileformats.org/ru/file-types/fl-studio-project/</link>
       <pubDate>Sat, 24 Dec 2022 12:05:15 +0000</pubDate>
       
@@ -152,7 +152,7 @@
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>Что такое файл EFS (файл Ensoniq SQ-80)?</title>
       <link>https://fileformats.org/ru/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:48 +0000</pubDate>
       
@@ -161,16 +161,16 @@
     </item>
     
     <item>
-      <title>REAL</title>
+      <title>Что такое REAL файл (Файл опыта Aero)?</title>
       <link>https://fileformats.org/ru/file-types/aero-experience-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/aero-experience-file/</guid>
-      <description>файл Aero Experience</description>
+      <description>Файл опыта Aero</description>
     </item>
     
     <item>
-      <title>GH</title>
+      <title>Что такое файл GH (бинарный файл определения Grasshopper)?</title>
       <link>https://fileformats.org/ru/file-types/grasshopper-binary-definition-file/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
       
@@ -179,16 +179,16 @@
     </item>
     
     <item>
-      <title>C4D</title>
+      <title>Что такое файл C4D (файл модели Cinema 4D)?</title>
       <link>https://fileformats.org/ru/file-types/cinema-4d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:18:54 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/cinema-4d-model-file/</guid>
-      <description>Cinema 4D -модельный файл</description>
+      <description>Файл модели Cinema 4D</description>
     </item>
     
     <item>
-      <title>MD5ANIM</title>
+      <title>Что такое файл MD5ANIM (Файл анимации модели id Tech 4)?</title>
       <link>https://fileformats.org/ru/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:19 +0000</pubDate>
       
@@ -197,7 +197,7 @@
     </item>
     
     <item>
-      <title>CRZ</title>
+      <title>Что такое файл CRZ (сжатый файл оснастки персонажей Poser)?</title>
       <link>https://fileformats.org/ru/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:54 +0000</pubDate>
       
@@ -206,7 +206,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Что такое файл MESH (Файл сетки DirectX)?</title>
       <link>https://fileformats.org/ru/file-types/directx-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:24:41 +0000</pubDate>
       
@@ -215,7 +215,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Что такое файл MESH (Файл 3D-сетки Godot Engine)?</title>
       <link>https://fileformats.org/ru/file-types/godot-engine-3d-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:10:36 +0000</pubDate>
       
@@ -224,7 +224,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Что такое файл MESH (3D-модель сетки)?</title>
       <link>https://fileformats.org/ru/file-types/3d-mesh-model/</link>
       <pubDate>Fri, 23 Dec 2022 14:59:25 +0000</pubDate>
       
@@ -233,7 +233,7 @@
     </item>
     
     <item>
-      <title>BBMODEL</title>
+      <title>Что такое файл BBMODEL (файл 3D-модели Blockbench)?</title>
       <link>https://fileformats.org/ru/file-types/blockbench-3d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:38 +0000</pubDate>
       
@@ -242,7 +242,7 @@
     </item>
     
     <item>
-      <title>HIPNC</title>
+      <title>Что такое файл HIPNC (Программный файл Houdini Apprentice)?</title>
       <link>https://fileformats.org/ru/file-types/houdini-apprentice-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:22:29 +0000</pubDate>
       
@@ -251,16 +251,16 @@
     </item>
     
     <item>
-      <title>SPD</title>
+      <title>Что такое файл SPD (Файл рендеринга Form·Z приостановлен)?</title>
       <link>https://fileformats.org/ru/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:10 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/form-z-suspended-render-file/</guid>
-      <description>Файл рендеринга form·Z приостановлен</description>
+      <description>Файл рендеринга Form·Z приостановлен</description>
     </item>
     
     <item>
-      <title>TMPL</title>
+      <title>Что такое файл TMPL (Шаблон BlueJ по умолчанию)?</title>
       <link>https://fileformats.org/ru/file-types/bluej-default-template/</link>
       <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
       
@@ -269,7 +269,7 @@
     </item>
     
     <item>
-      <title>TMPL</title>
+      <title>Что такое файл TMPL (Шаблон пользовательского интерфейса Xfire)?</title>
       <link>https://fileformats.org/ru/file-types/xfire-user-interface-template/</link>
       <pubDate>Tue, 13 Dec 2022 01:59:51 +0000</pubDate>
       
@@ -278,7 +278,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>Что такое файл TMP (Временный архив Finale)?</title>
       <link>https://fileformats.org/ru/file-types/finale-temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:37:15 +0000</pubDate>
       
@@ -287,7 +287,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>Что такое файл TMP (Временный файл)?</title>
       <link>https://fileformats.org/ru/file-types/temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:31:56 +0000</pubDate>
       
@@ -296,7 +296,7 @@
     </item>
     
     <item>
-      <title>DOC#</title>
+      <title>Что такое файл DOC# (файл блокировки документа LibreOffice)?</title>
       <link>https://fileformats.org/ru/file-types/libreoffice-document-lock-file/</link>
       <pubDate>Tue, 29 Nov 2022 15:40:06 +0000</pubDate>
       

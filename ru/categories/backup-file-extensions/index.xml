@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Mon, 26 Dec 2022 14:21:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>WX</title>
+      <title>Что такое файл WX (Файл резервной копии Wanam Xposed)?</title>
       <link>https://fileformats.org/ru/file-types/wanam-xposed-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:21:41 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>TIG</title>
+      <title>Что такое файл TIG (Резервный файл TI Connect)?</title>
       <link>https://fileformats.org/ru/file-types/ti-connect-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:02:41 +0000</pubDate>
       
@@ -26,16 +26,16 @@
     </item>
     
     <item>
-      <title>ACP</title>
+      <title>Что такое файл ACP (Пакет контента Alfresco)?</title>
       <link>https://fileformats.org/ru/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:25 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/alfresco-content-package/</guid>
-      <description>Контент-пак Alfresco</description>
+      <description>Пакет контента Alfresco</description>
     </item>
     
     <item>
-      <title>SPG</title>
+      <title>Что такое файл SPG (Файл резервной копии TCP Optimizer)?</title>
       <link>https://fileformats.org/ru/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:03 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>ABK</title>
+      <title>Что такое файл ABK (файл автоматического резервного копирования)?</title>
       <link>https://fileformats.org/ru/file-types/automatic-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 12:57:06 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>Что такое файл TMP (Временный архив Finale)?</title>
       <link>https://fileformats.org/ru/file-types/finale-temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:37:15 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>Что такое файл TMP (Временный файл)?</title>
       <link>https://fileformats.org/ru/file-types/temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:31:56 +0000</pubDate>
       

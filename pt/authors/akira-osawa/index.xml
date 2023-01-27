@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Mon, 26 Dec 2022 18:57:48 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AFS</title>
+      <title>O que é um arquivo AFS (Arquivo de Projeto do STAAD.foundation)?</title>
       <link>https://fileformats.org/pt/file-types/staad-foundation-project-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:57:48 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>DLV</title>
+      <title>O que é um arquivo DLV (Arquivo de exportação do CATIA 4)?</title>
       <link>https://fileformats.org/pt/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:05 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>WX</title>
+      <title>O que é um arquivo WX (Arquivo de backup do Wanam Xposed)?</title>
       <link>https://fileformats.org/pt/file-types/wanam-xposed-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:21:31 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>TIG</title>
+      <title>O que é um arquivo TIG (Arquivo de Cópia de Segurança do TI Connect)?</title>
       <link>https://fileformats.org/pt/file-types/ti-connect-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:02:27 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>O que é um arquivo WPROJ (Arquivo de projeto WWise)?</title>
       <link>https://fileformats.org/pt/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:11 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>O que é um arquivo L (arquivo do canal de áudio esquerdo)?</title>
       <link>https://fileformats.org/pt/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:05 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>O que é um arquivo EFS (arquivo Ensoniq SQ-80)?</title>
       <link>https://fileformats.org/pt/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:41 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>GH</title>
+      <title>O que é um arquivo GH (arquivo de definição binária Grasshopper)?</title>
       <link>https://fileformats.org/pt/file-types/grasshopper-binary-definition-file/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>MD5ANIM</title>
+      <title>O que é um arquivo MD5ANIM (Arquivo de animação de modelo do id Tech 4)?</title>
       <link>https://fileformats.org/pt/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:09 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>CRZ</title>
+      <title>O que é um arquivo CRZ (arquivo de rigging de personagem Poser compactado)?</title>
       <link>https://fileformats.org/pt/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:40 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>O que é um arquivo MESH (Arquivo de malha 3D do Godot Engine)?</title>
       <link>https://fileformats.org/pt/file-types/godot-engine-3d-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:10:29 +0000</pubDate>
       
@@ -107,12 +107,12 @@
     </item>
     
     <item>
-      <title>SPD</title>
+      <title>O que é um arquivo SPD (Arquivo de renderização do Form·Z pausado)?</title>
       <link>https://fileformats.org/pt/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:03 +0000</pubDate>
       
       <guid>https://fileformats.org/pt/file-types/form-z-suspended-render-file/</guid>
-      <description>Arquivo de renderização do form·Z pausado</description>
+      <description>Arquivo de renderização do Form·Z pausado</description>
     </item>
     
   </channel>

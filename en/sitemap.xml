@@ -161,9 +161,6 @@
                 href="https://fileformats.org/authors/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/stuffit-x-archive/</loc>
-    <lastmod>2023-01-10T10:57:20+00:00</lastmod>
-  </url><url>
     <loc>https://fileformats.org/categories/</loc>
     <lastmod>2023-01-10T10:57:20+00:00</lastmod>
     <xhtml:link
@@ -323,6 +320,9 @@
                 href="https://fileformats.org/categories/compressed-file-extensions/"
                 />
   </url><url>
+    <loc>https://fileformats.org/file-types/stuffit-x-archive/</loc>
+    <lastmod>2023-01-10T10:57:20+00:00</lastmod>
+  </url><url>
     <loc>https://fileformats.org/authors/richard-scott/</loc>
     <lastmod>2023-01-10T10:25:42+00:00</lastmod>
     <xhtml:link
@@ -441,9 +441,6 @@
                 href="https://fileformats.org/authors/bruno-souza/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/digital-negative-image-file/</loc>
-    <lastmod>2023-01-03T20:06:10+00:00</lastmod>
-  </url><url>
     <loc>https://fileformats.org/categories/camera-image-file-extensions/</loc>
     <lastmod>2023-01-03T20:06:10+00:00</lastmod>
     <xhtml:link
@@ -497,6 +494,9 @@
                 href="https://fileformats.org/categories/camera-image-file-extensions/"
                 />
   </url><url>
+    <loc>https://fileformats.org/file-types/digital-negative-image-file/</loc>
+    <lastmod>2023-01-03T20:06:10+00:00</lastmod>
+  </url><url>
     <loc>https://fileformats.org/file-types/enhanced-image-package-file/</loc>
     <lastmod>2023-01-03T16:34:19+00:00</lastmod>
   </url><url>
@@ -523,9 +523,6 @@
   </url><url>
     <loc>https://fileformats.org/file-types/canon-raw-image-file/</loc>
     <lastmod>2022-12-27T18:13:42+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/file-types/micro-cadam-x-6000-model-data-file/</loc>
-    <lastmod>2022-12-27T17:47:41+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/categories/cad-file-extensions/</loc>
     <lastmod>2022-12-27T17:47:41+00:00</lastmod>
@@ -579,6 +576,9 @@
                 hreflang="en"
                 href="https://fileformats.org/categories/cad-file-extensions/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/file-types/micro-cadam-x-6000-model-data-file/</loc>
+    <lastmod>2022-12-27T17:47:41+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/file-types/turbocad-drawing-template/</loc>
     <lastmod>2022-12-27T17:37:22+00:00</lastmod>
@@ -857,9 +857,6 @@
                 href="https://fileformats.org/file-types/west-point-bridge-designer-design-file/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/hp-recovery-manager-backup-file/</loc>
-    <lastmod>2022-12-26T16:46:05+00:00</lastmod>
-  </url><url>
     <loc>https://fileformats.org/categories/backup-file-extensions/</loc>
     <lastmod>2022-12-26T16:46:05+00:00</lastmod>
     <xhtml:link
@@ -913,8 +910,8 @@
                 href="https://fileformats.org/categories/backup-file-extensions/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/samsung-memo-file/</loc>
-    <lastmod>2022-12-26T15:06:48+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/hp-recovery-manager-backup-file/</loc>
+    <lastmod>2022-12-26T16:46:05+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/categories/data-file-extensions/</loc>
     <lastmod>2022-12-26T15:06:48+00:00</lastmod>
@@ -968,6 +965,9 @@
                 hreflang="en"
                 href="https://fileformats.org/categories/data-file-extensions/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/file-types/samsung-memo-file/</loc>
+    <lastmod>2022-12-26T15:06:48+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/file-types/dell-datasafe-backup-file/</loc>
     <lastmod>2022-12-26T14:48:27+00:00</lastmod>
@@ -1676,59 +1676,6 @@
     <loc>https://fileformats.org/file-types/multitracker-module/</loc>
     <lastmod>2022-12-24T11:31:17+00:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/file-types/aero-experience-file/</loc>
-    <lastmod>2022-12-23T19:00:56-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/file-types/aero-experience-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/file-types/aero-experience-file/"
-                />
-  </url><url>
     <loc>https://fileformats.org/categories/3d-image-file-extensions/</loc>
     <lastmod>2022-12-23T19:00:56-03:00</lastmod>
     <xhtml:link
@@ -1780,6 +1727,59 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fileformats.org/categories/3d-image-file-extensions/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/aero-experience-file/</loc>
+    <lastmod>2022-12-23T19:00:56-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/aero-experience-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/aero-experience-file/"
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/grasshopper-binary-definition-file/</loc>
@@ -2259,9 +2259,6 @@
                 href="https://fileformats.org/file-types/houdini-apprentice-file/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/spss-portable-data-file/</loc>
-    <lastmod>2022-12-13T03:51:34-03:00</lastmod>
-  </url><url>
     <loc>https://fileformats.org/categories/plugin-file-extensions/</loc>
     <lastmod>2022-12-13T03:51:34-03:00</lastmod>
     <xhtml:link
@@ -2315,8 +2312,8 @@
                 href="https://fileformats.org/categories/plugin-file-extensions/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/sealed-acrobat-document/</loc>
-    <lastmod>2022-12-13T03:42:55-03:00</lastmod>
+    <loc>https://fileformats.org/file-types/spss-portable-data-file/</loc>
+    <lastmod>2022-12-13T03:51:34-03:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/categories/encoded-file-extensions/</loc>
     <lastmod>2022-12-13T03:42:55-03:00</lastmod>
@@ -2370,6 +2367,9 @@
                 hreflang="en"
                 href="https://fileformats.org/categories/encoded-file-extensions/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/file-types/sealed-acrobat-document/</loc>
+    <lastmod>2022-12-13T03:42:55-03:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/categories/misc-file-extensions/</loc>
     <lastmod>2022-12-13T03:36:31-03:00</lastmod>
@@ -2483,9 +2483,6 @@
     <loc>https://fileformats.org/file-types/orient-computer-encrypted-data-file/</loc>
     <lastmod>2022-12-13T03:08:06-03:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/file-types/portable-document-format-file/</loc>
-    <lastmod>2022-12-13T02:50:04-03:00</lastmod>
-  </url><url>
     <loc>https://fileformats.org/categories/page-layout-file-extensions/</loc>
     <lastmod>2022-12-13T02:50:04-03:00</lastmod>
     <xhtml:link
@@ -2538,6 +2535,9 @@
                 hreflang="en"
                 href="https://fileformats.org/categories/page-layout-file-extensions/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/file-types/portable-document-format-file/</loc>
+    <lastmod>2022-12-13T02:50:04-03:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/categories/developer-file-extensions/</loc>
     <lastmod>2022-12-13T02:44:57-03:00</lastmod>

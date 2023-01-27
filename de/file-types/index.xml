@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Tue, 27 Dec 2022 17:37:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/file-types/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TCT</title>
+      <title>Was ist eine TCT-Datei (TurboCAD-Designvorlage)?</title>
       <link>https://fileformats.org/de/file-types/turbocad-drawing-template/</link>
       <pubDate>Tue, 27 Dec 2022 17:37:37 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>AFS</title>
+      <title>Was ist eine AFS-Datei (Projektdatei STAAD.foundation)?</title>
       <link>https://fileformats.org/de/file-types/staad-foundation-project-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:57:59 +0000</pubDate>
       
@@ -26,16 +26,16 @@
     </item>
     
     <item>
-      <title>CPA</title>
+      <title>Was ist eine CPA-Datei (CADSTAR PCB-Archivdatei)?</title>
       <link>https://fileformats.org/de/file-types/cadstar-pcb-archive-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:47:44 +0000</pubDate>
       
       <guid>https://fileformats.org/de/file-types/cadstar-pcb-archive-file/</guid>
-      <description>CADSTAR PCB-Datei</description>
+      <description>CADSTAR PCB-Archivdatei</description>
     </item>
     
     <item>
-      <title>DLV</title>
+      <title>Was ist eine DLV-Datei (CATIA 4-Exportdatei)?</title>
       <link>https://fileformats.org/de/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:16 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>BDC</title>
+      <title>Was ist eine BDC-Datei (West Point Bridge Designer-Entwurfsdatei)?</title>
       <link>https://fileformats.org/de/file-types/west-point-bridge-designer-design-file/</link>
       <pubDate>Mon, 26 Dec 2022 17:12:17 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>WX</title>
+      <title>Was ist eine WX-Datei (Wanam Xposed-Sicherungsdatei)?</title>
       <link>https://fileformats.org/de/file-types/wanam-xposed-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:21:43 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>TIG</title>
+      <title>Was ist eine TIG-Datei (TI Connect-Sicherungsdatei)?</title>
       <link>https://fileformats.org/de/file-types/ti-connect-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:02:44 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>ACP</title>
+      <title>Was ist eine ACP-Datei (Alfresco-Inhaltspaket)?</title>
       <link>https://fileformats.org/de/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:27 +0000</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>SPG</title>
+      <title>Was ist eine SPG-Datei (Sicherungsdatei TCP Optimizer)?</title>
       <link>https://fileformats.org/de/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:05 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>ABK</title>
+      <title>Was ist eine ABK-Datei (Automatische Sicherungsdatei)?</title>
       <link>https://fileformats.org/de/file-types/automatic-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 12:57:08 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>UST</title>
+      <title>Was ist eine UST-Datei (UTAU-Sequenz-Textdatei)?</title>
       <link>https://fileformats.org/de/file-types/utau-sequence-text-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:50:24 +0000</pubDate>
       
@@ -107,7 +107,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>Was ist eine WPROJ-Datei (Wwise-Projektdatei)?</title>
       <link>https://fileformats.org/de/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:22 +0000</pubDate>
       
@@ -116,7 +116,7 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>Was ist eine L-Datei (linke Audiokanaldatei)?</title>
       <link>https://fileformats.org/de/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:17 +0000</pubDate>
       
@@ -125,7 +125,7 @@
     </item>
     
     <item>
-      <title>MP3</title>
+      <title>Was ist eine MP3-Datei (MP3-Audiodatei)?</title>
       <link>https://fileformats.org/de/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:27 +0000</pubDate>
       
@@ -134,7 +134,7 @@
     </item>
     
     <item>
-      <title>ABC</title>
+      <title>Was ist eine ABC-Datei (ABC-Musiknotation)?</title>
       <link>https://fileformats.org/de/file-types/abc-music-notation/</link>
       <pubDate>Sat, 24 Dec 2022 12:21:21 +0000</pubDate>
       
@@ -143,16 +143,16 @@
     </item>
     
     <item>
-      <title>FLP</title>
+      <title>Was ist eine FLP-Datei (FL Studio-Projekt)?</title>
       <link>https://fileformats.org/de/file-types/fl-studio-project/</link>
       <pubDate>Sat, 24 Dec 2022 12:05:18 +0000</pubDate>
       
       <guid>https://fileformats.org/de/file-types/fl-studio-project/</guid>
-      <description>Projekt FL Studio</description>
+      <description>FL Studio-Projekt</description>
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>Was ist eine EFS-Datei (Ensoniq SQ-80-Datei)?</title>
       <link>https://fileformats.org/de/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:50 +0000</pubDate>
       
@@ -161,7 +161,7 @@
     </item>
     
     <item>
-      <title>REAL</title>
+      <title>Was ist eine REAL-Datei (Aero Experience-Datei)?</title>
       <link>https://fileformats.org/de/file-types/aero-experience-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
       
@@ -170,7 +170,7 @@
     </item>
     
     <item>
-      <title>GH</title>
+      <title>Was ist eine GH-Datei (Grasshopper-Binärdefinitionsdatei)?</title>
       <link>https://fileformats.org/de/file-types/grasshopper-binary-definition-file/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
       
@@ -179,7 +179,7 @@
     </item>
     
     <item>
-      <title>C4D</title>
+      <title>Was ist eine C4D-Datei (Cinema 4D-Modelldatei)?</title>
       <link>https://fileformats.org/de/file-types/cinema-4d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:18:57 +0000</pubDate>
       
@@ -188,7 +188,7 @@
     </item>
     
     <item>
-      <title>MD5ANIM</title>
+      <title>Was ist eine MD5ANIM-Datei (id Tech 4-Modellanimationsdatei)?</title>
       <link>https://fileformats.org/de/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:22 +0000</pubDate>
       
@@ -197,7 +197,7 @@
     </item>
     
     <item>
-      <title>CRZ</title>
+      <title>Was ist eine CRZ-Datei (komprimierte Poser-Charakter-Rigging-Datei)?</title>
       <link>https://fileformats.org/de/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:56 +0000</pubDate>
       
@@ -206,7 +206,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Was ist eine MESH-Datei (DirectX-Mesh-Datei)?</title>
       <link>https://fileformats.org/de/file-types/directx-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:24:44 +0000</pubDate>
       
@@ -215,7 +215,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Was ist eine MESH-Datei (Godot Engine 3D-Mesh-Datei)?</title>
       <link>https://fileformats.org/de/file-types/godot-engine-3d-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:10:38 +0000</pubDate>
       
@@ -224,7 +224,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Was ist eine MESH-Datei (3D-Mesh-Modell)?</title>
       <link>https://fileformats.org/de/file-types/3d-mesh-model/</link>
       <pubDate>Fri, 23 Dec 2022 14:59:27 +0000</pubDate>
       
@@ -233,7 +233,7 @@
     </item>
     
     <item>
-      <title>BBMODEL</title>
+      <title>Was ist eine BBMODEL-Datei (Blockbench 3D-Modelldatei)?</title>
       <link>https://fileformats.org/de/file-types/blockbench-3d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:41 +0000</pubDate>
       
@@ -242,7 +242,7 @@
     </item>
     
     <item>
-      <title>HIPNC</title>
+      <title>Was ist eine HIPNC-Datei (Houdini Apprentice-Datei)?</title>
       <link>https://fileformats.org/de/file-types/houdini-apprentice-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:22:31 +0000</pubDate>
       
@@ -251,7 +251,7 @@
     </item>
     
     <item>
-      <title>SPD</title>
+      <title>Was ist eine SPD-Datei (Form·Z-Renderdatei angehalten)?</title>
       <link>https://fileformats.org/de/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:12 +0000</pubDate>
       
@@ -260,7 +260,7 @@
     </item>
     
     <item>
-      <title>TMPL</title>
+      <title>Was ist eine TMPL-Datei (BlueJ-Standardvorlage)?</title>
       <link>https://fileformats.org/de/file-types/bluej-default-template/</link>
       <pubDate>Tue, 13 Dec 2022 02:15:18 +0000</pubDate>
       
@@ -269,7 +269,7 @@
     </item>
     
     <item>
-      <title>TMPL</title>
+      <title>Was ist eine TMPL-Datei (Vorlage für Xfire-Benutzeroberfläche)?</title>
       <link>https://fileformats.org/de/file-types/xfire-user-interface-template/</link>
       <pubDate>Tue, 13 Dec 2022 01:59:53 +0000</pubDate>
       
@@ -278,7 +278,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>Was ist eine TMP-Datei (Temporäre Finale-Datei)?</title>
       <link>https://fileformats.org/de/file-types/finale-temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:37:17 +0000</pubDate>
       
@@ -287,7 +287,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>Was ist eine TMP-Datei (Temporäre Datei)?</title>
       <link>https://fileformats.org/de/file-types/temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:31:58 +0000</pubDate>
       
@@ -296,12 +296,12 @@
     </item>
     
     <item>
-      <title>DOC#</title>
+      <title>Was ist eine DOC#-Datei (LibreOffice-Dokumentensperrdatei)?</title>
       <link>https://fileformats.org/de/file-types/libreoffice-document-lock-file/</link>
       <pubDate>Tue, 29 Nov 2022 15:40:08 +0000</pubDate>
       
       <guid>https://fileformats.org/de/file-types/libreoffice-document-lock-file/</guid>
-      <description>LibreOffice Dokumentsperrdatei</description>
+      <description>LibreOffice-Dokumentsperrdatei</description>
     </item>
     
   </channel>

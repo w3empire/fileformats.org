@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Mon, 26 Dec 2022 18:57:56 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AFS</title>
+      <title>Что такое файл AFS (Файл проекта STAAD.foundation)?</title>
       <link>https://fileformats.org/ru/file-types/staad-foundation-project-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:57:56 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>DLV</title>
+      <title>Что такое файл DLV (Экспортный файл CATIA 4)?</title>
       <link>https://fileformats.org/ru/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:13 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>WX</title>
+      <title>Что такое файл WX (Файл резервной копии Wanam Xposed)?</title>
       <link>https://fileformats.org/ru/file-types/wanam-xposed-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:21:41 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>TIG</title>
+      <title>Что такое файл TIG (Резервный файл TI Connect)?</title>
       <link>https://fileformats.org/ru/file-types/ti-connect-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:02:41 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>Что такое файл WPROJ (Файл проекта Wwise)?</title>
       <link>https://fileformats.org/ru/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:20 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>Что такое файл L (файл левого аудиоканала)?</title>
       <link>https://fileformats.org/ru/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:14 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>Что такое файл EFS (файл Ensoniq SQ-80)?</title>
       <link>https://fileformats.org/ru/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:48 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>GH</title>
+      <title>Что такое файл GH (бинарный файл определения Grasshopper)?</title>
       <link>https://fileformats.org/ru/file-types/grasshopper-binary-definition-file/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>MD5ANIM</title>
+      <title>Что такое файл MD5ANIM (Файл анимации модели id Tech 4)?</title>
       <link>https://fileformats.org/ru/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:19 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>CRZ</title>
+      <title>Что такое файл CRZ (сжатый файл оснастки персонажей Poser)?</title>
       <link>https://fileformats.org/ru/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:54 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>Что такое файл MESH (Файл 3D-сетки Godot Engine)?</title>
       <link>https://fileformats.org/ru/file-types/godot-engine-3d-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:10:36 +0000</pubDate>
       
@@ -107,12 +107,12 @@
     </item>
     
     <item>
-      <title>SPD</title>
+      <title>Что такое файл SPD (Файл рендеринга Form·Z приостановлен)?</title>
       <link>https://fileformats.org/ru/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:10 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/form-z-suspended-render-file/</guid>
-      <description>Файл рендеринга form·Z приостановлен</description>
+      <description>Файл рендеринга Form·Z приостановлен</description>
     </item>
     
   </channel>

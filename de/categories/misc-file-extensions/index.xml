@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Tue, 13 Dec 2022 03:36:12 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/categories/misc-file-extensions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SPD</title>
+      <title>Was ist eine SPD-Datei (Form·Z-Renderdatei angehalten)?</title>
       <link>https://fileformats.org/de/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:12 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>TMPL</title>
+      <title>Was ist eine TMPL-Datei (Vorlage für Xfire-Benutzeroberfläche)?</title>
       <link>https://fileformats.org/de/file-types/xfire-user-interface-template/</link>
       <pubDate>Tue, 13 Dec 2022 01:59:53 +0000</pubDate>
       
@@ -26,12 +26,12 @@
     </item>
     
     <item>
-      <title>DOC#</title>
+      <title>Was ist eine DOC#-Datei (LibreOffice-Dokumentensperrdatei)?</title>
       <link>https://fileformats.org/de/file-types/libreoffice-document-lock-file/</link>
       <pubDate>Tue, 29 Nov 2022 15:40:08 +0000</pubDate>
       
       <guid>https://fileformats.org/de/file-types/libreoffice-document-lock-file/</guid>
-      <description>LibreOffice Dokumentsperrdatei</description>
+      <description>LibreOffice-Dokumentsperrdatei</description>
     </item>
     
   </channel>

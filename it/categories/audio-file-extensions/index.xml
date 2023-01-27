@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Sun, 25 Dec 2022 12:50:19 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UST</title>
+      <title>Cos&#39;è un file UST (File di testo sequenza UTAU)?</title>
       <link>https://fileformats.org/it/file-types/utau-sequence-text-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:50:19 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>Che cos&#39;è un file WPROJ (File di progetto Wwise)?</title>
       <link>https://fileformats.org/it/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:17 +0000</pubDate>
       
@@ -26,16 +26,16 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>Che cos&#39;è un file L (file del canale audio sinistro)?</title>
       <link>https://fileformats.org/it/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:10 +0000</pubDate>
       
       <guid>https://fileformats.org/it/file-types/left-audio-channel-file/</guid>
-      <description>File di canale audio sinistro</description>
+      <description>File del canale audio sinistro</description>
     </item>
     
     <item>
-      <title>MP3</title>
+      <title>Cos&#39;è un file MP3 (file audio MP3)?</title>
       <link>https://fileformats.org/it/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:21 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>ABC</title>
+      <title>Cos&#39;è un file ABC (notazione musicale ABC)?</title>
       <link>https://fileformats.org/it/file-types/abc-music-notation/</link>
       <pubDate>Sat, 24 Dec 2022 12:21:16 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>FLP</title>
+      <title>Cos&#39;è un file FLP (Progetto FL Studio)?</title>
       <link>https://fileformats.org/it/file-types/fl-studio-project/</link>
       <pubDate>Sat, 24 Dec 2022 12:05:12 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>Cos&#39;è un file EFS (file Ensoniq SQ-80)?</title>
       <link>https://fileformats.org/it/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:44 +0000</pubDate>
       

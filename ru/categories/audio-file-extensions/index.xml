@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Sun, 25 Dec 2022 12:50:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UST</title>
+      <title>Что такое файл UST (текстовый файл последовательности UTAU)?</title>
       <link>https://fileformats.org/ru/file-types/utau-sequence-text-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:50:22 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>Что такое файл WPROJ (Файл проекта Wwise)?</title>
       <link>https://fileformats.org/ru/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:20 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>Что такое файл L (файл левого аудиоканала)?</title>
       <link>https://fileformats.org/ru/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:14 +0000</pubDate>
       
@@ -35,16 +35,16 @@
     </item>
     
     <item>
-      <title>MP3</title>
+      <title>Что такое файл MP3 (Аудиофайл MP3)?</title>
       <link>https://fileformats.org/ru/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:25 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/mp3-audio-file/</guid>
-      <description>Удиофайл MP3</description>
+      <description>Аудиофайл MP3</description>
     </item>
     
     <item>
-      <title>ABC</title>
+      <title>Что такое файл ABC (музыкальная нотация ABC)?</title>
       <link>https://fileformats.org/ru/file-types/abc-music-notation/</link>
       <pubDate>Sat, 24 Dec 2022 12:21:19 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>FLP</title>
+      <title>Что такое файл FLP (проект FL Studio)?</title>
       <link>https://fileformats.org/ru/file-types/fl-studio-project/</link>
       <pubDate>Sat, 24 Dec 2022 12:05:15 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>Что такое файл EFS (файл Ensoniq SQ-80)?</title>
       <link>https://fileformats.org/ru/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:48 +0000</pubDate>
       

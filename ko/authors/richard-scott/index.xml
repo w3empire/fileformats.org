@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Tue, 27 Dec 2022 17:37:33 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TCT</title>
+      <title>TCT 파일(TurboCAD 설계 템플릿)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/turbocad-drawing-template/</link>
       <pubDate>Tue, 27 Dec 2022 17:37:33 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>BDC</title>
+      <title>BDC 파일(West Point Bridge Designer 설계 파일)이란?</title>
       <link>https://fileformats.org/ko/file-types/west-point-bridge-designer-design-file/</link>
       <pubDate>Mon, 26 Dec 2022 17:12:14 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>ACP</title>
+      <title>ACP 파일(Alfresco 콘텐츠 패키지)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:23 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>SPG</title>
+      <title>SPG 파일(TCP Optimizer 백업 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:02 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>ABC</title>
+      <title>ABC 파일(ABC 악보)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/abc-music-notation/</link>
       <pubDate>Sat, 24 Dec 2022 12:21:18 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>FLP</title>
+      <title>FLP 파일(FL Studio 프로젝트)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/fl-studio-project/</link>
       <pubDate>Sat, 24 Dec 2022 12:05:14 +0000</pubDate>
       
@@ -62,25 +62,25 @@
     </item>
     
     <item>
-      <title>REAL</title>
+      <title>REAL 파일(Aero 경험 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/aero-experience-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/aero-experience-file/</guid>
-      <description>Aero Experience File</description>
+      <description>Aero 경험 파일</description>
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>MESH 파일(DirectX 메시 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/directx-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:24:37 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/directx-mesh-file/</guid>
-      <description>DirectX 메쉬 파일</description>
+      <description>DirectX 메시 파일</description>
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>MESH 파일(3D 메쉬 모델)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/3d-mesh-model/</link>
       <pubDate>Fri, 23 Dec 2022 14:59:23 +0000</pubDate>
       
@@ -89,16 +89,16 @@
     </item>
     
     <item>
-      <title>BBMODEL</title>
+      <title>BBMODEL 파일(Blockbench 3D 모델 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:37 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</guid>
-      <description>블록 벤치 3D 모델 파일</description>
+      <description>Blockbench 3D 모델 파일</description>
     </item>
     
     <item>
-      <title>HIPNC</title>
+      <title>HIPNC 파일(Houdini Apprentice 프로그램 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/houdini-apprentice-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:22:28 +0000</pubDate>
       
@@ -107,7 +107,7 @@
     </item>
     
     <item>
-      <title>TMPL</title>
+      <title>TMPL 파일(BlueJ 기본 템플릿)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/bluej-default-template/</link>
       <pubDate>Tue, 13 Dec 2022 02:15:15 +0000</pubDate>
       
@@ -116,7 +116,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>TMP 파일(Finale의 임시 아카이브)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/finale-temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:37:13 +0000</pubDate>
       
@@ -125,7 +125,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>TMP 파일(임시 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:31:55 +0000</pubDate>
       
@@ -134,7 +134,7 @@
     </item>
     
     <item>
-      <title>DOC#</title>
+      <title>DOC# 파일(LibreOffice 문서 잠금 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/libreoffice-document-lock-file/</link>
       <pubDate>Tue, 29 Nov 2022 15:40:05 +0000</pubDate>
       

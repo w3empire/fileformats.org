@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Mon, 26 Dec 2022 18:57:48 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AFS</title>
+      <title>¿Qué es un archivo AFS (Archivo de proyecto Staad.foundation)?</title>
       <link>https://fileformats.org/es/file-types/staad-foundation-project-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:57:48 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>DLV</title>
+      <title>¿Qué es un archivo DLV (Archivo de exportación de CATIA 4)?</title>
       <link>https://fileformats.org/es/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:06 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>WX</title>
+      <title>¿Qué es un archivo WX (Archivo de copia de seguridad de Wanam xposed)?</title>
       <link>https://fileformats.org/es/file-types/wanam-xposed-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:21:35 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>TIG</title>
+      <title>¿Qué es un archivo TIG (Archivo de copia de seguridad de TI Connect)?</title>
       <link>https://fileformats.org/es/file-types/ti-connect-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:02:28 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>¿Qué es un archivo WPROJ (Archivo de proyecto Wwise)?</title>
       <link>https://fileformats.org/es/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:12 +0000</pubDate>
       
@@ -53,16 +53,16 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>¿Qué es un archivo L (Archivo de canal de audio izquierdo)?</title>
       <link>https://fileformats.org/es/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:06 +0000</pubDate>
       
       <guid>https://fileformats.org/es/file-types/left-audio-channel-file/</guid>
-      <description>Archivo del canal de audio izquierdo</description>
+      <description>Archivo de canal de audio izquierdo</description>
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>¿Qué es un archivo EFS (archivo Ensoniq SQ-80)?</title>
       <link>https://fileformats.org/es/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:41 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>GH</title>
+      <title>¿Qué es un archivo GH (archivo de definición binaria de Grasshopper)?</title>
       <link>https://fileformats.org/es/file-types/grasshopper-binary-definition-file/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>MD5ANIM</title>
+      <title>¿Qué es un archivo MD5ANIM (Archivo de animación del modelo de software id Tech 4)?</title>
       <link>https://fileformats.org/es/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:10 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>CRZ</title>
+      <title>¿Qué es un archivo CRZ (Archivo comprimido de manipulación de personajes de Poser)?</title>
       <link>https://fileformats.org/es/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:41 +0000</pubDate>
       
@@ -98,16 +98,16 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>¿Qué es un archivo MESH (Archivo de malla 3D de Godot Engine)?</title>
       <link>https://fileformats.org/es/file-types/godot-engine-3d-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:10:30 +0000</pubDate>
       
       <guid>https://fileformats.org/es/file-types/godot-engine-3d-mesh-file/</guid>
-      <description>Archivo de malla 3D del Godot Engine</description>
+      <description>Archivo de malla 3D de Godot Engine</description>
     </item>
     
     <item>
-      <title>SPD</title>
+      <title>¿Qué es un archivo SPD (Archivo de procesamiento de form·Z en pausa)?</title>
       <link>https://fileformats.org/es/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:03 +0000</pubDate>
       

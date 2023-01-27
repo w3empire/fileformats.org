@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Mon, 26 Dec 2022 18:57:53 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AFS</title>
+      <title>AFS ファイル (STAAD.foundation プロジェクト ファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/staad-foundation-project-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:57:53 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>DLV</title>
+      <title>DLV ファイル (CATIA 4 エクスポート ファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:09 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>WX</title>
+      <title>WX ファイル (Wanam Xposed バックアップファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/wanam-xposed-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:21:39 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>TIG</title>
+      <title>TIG ファイル (TI Connect バックアップ ファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/ti-connect-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 14:02:39 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>WPROJ</title>
+      <title>WPROJ ファイル (Wwiseプロジェクトファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:18 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>L</title>
+      <title>Lファイル（左オーディオチャンネルファイル）とは？</title>
       <link>https://fileformats.org/ja/file-types/left-audio-channel-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:00:11 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>EFS</title>
+      <title>EFS ファイル (Ensoniq SQ-80 ファイル) とは?</title>
       <link>https://fileformats.org/ja/file-types/ensoniq-sq-80-file/</link>
       <pubDate>Sat, 24 Dec 2022 11:57:45 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>GH</title>
+      <title>GHファイル（Grasshopper プログラムのバイナリ定義ファイル）とは？</title>
       <link>https://fileformats.org/ja/file-types/grasshopper-binary-definition-file/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>MD5ANIM</title>
+      <title>MD5ANIMファイル（id Tech 4モデルアニメーションファイル）とは？</title>
       <link>https://fileformats.org/ja/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:15 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>CRZ</title>
+      <title>CRZ ファイル (圧縮された Poser キャラクター リギング ファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:47 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>MESHファイル（Godot Engine 3D メッシュ ファイル）とは？</title>
       <link>https://fileformats.org/ja/file-types/godot-engine-3d-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:10:33 +0000</pubDate>
       
@@ -107,12 +107,12 @@
     </item>
     
     <item>
-      <title>SPD</title>
+      <title>SPDファイル（Form・Z レンダリングファイル一時停止）とは？</title>
       <link>https://fileformats.org/ja/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:07 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/file-types/form-z-suspended-render-file/</guid>
-      <description>form・Z レンダリングファイル一時停止</description>
+      <description>Form・Z レンダリングファイル一時停止</description>
     </item>
     
   </channel>

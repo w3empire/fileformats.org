@@ -373,59 +373,6 @@
                 href="https://fileformats.org/de/file-types/turbocad-drawing-template/"
                 />
   </url><url>
-    <loc>https://fileformats.org/de/file-types/staad-foundation-project-file/</loc>
-    <lastmod>2022-12-26T18:57:59+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/file-types/staad-foundation-project-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/file-types/staad-foundation-project-file/"
-                />
-  </url><url>
     <loc>https://fileformats.org/de/authors/akira-osawa/</loc>
     <lastmod>2022-12-26T18:57:59+00:00</lastmod>
     <xhtml:link
@@ -477,6 +424,59 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://fileformats.org/de/authors/akira-osawa/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/de/file-types/staad-foundation-project-file/</loc>
+    <lastmod>2022-12-26T18:57:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/staad-foundation-project-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/staad-foundation-project-file/"
                 />
   </url><url>
     <loc>https://fileformats.org/de/authors/bruno-souza/</loc>

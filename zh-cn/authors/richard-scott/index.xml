@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Tue, 27 Dec 2022 17:37:35 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TCT</title>
+      <title>什么是 TCT 文件（TurboCAD 设计模板）？</title>
       <link>https://fileformats.org/zh-cn/file-types/turbocad-drawing-template/</link>
       <pubDate>Tue, 27 Dec 2022 17:37:35 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>BDC</title>
+      <title>什么是 BDC 文件（West Point Bridge Designer 设计文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/west-point-bridge-designer-design-file/</link>
       <pubDate>Mon, 26 Dec 2022 17:12:17 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>ACP</title>
+      <title>什么是 ACP 文件（Alfresco 内容包）？</title>
       <link>https://fileformats.org/zh-cn/file-types/alfresco-content-package/</link>
       <pubDate>Mon, 26 Dec 2022 13:46:26 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>SPG</title>
+      <title>什么是 SPG 文件（TCP Optimizer 备份文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:04 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>ABC</title>
+      <title>什么是 ABC 文件（ABC 乐谱）？</title>
       <link>https://fileformats.org/zh-cn/file-types/abc-music-notation/</link>
       <pubDate>Sat, 24 Dec 2022 12:21:20 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>FLP</title>
+      <title>什么是 FLP 文件（FL Studio 项目）？</title>
       <link>https://fileformats.org/zh-cn/file-types/fl-studio-project/</link>
       <pubDate>Sat, 24 Dec 2022 12:05:17 +0000</pubDate>
       
@@ -62,16 +62,16 @@
     </item>
     
     <item>
-      <title>REAL</title>
+      <title>什么是 REAL 文件（Aero 体验档）？</title>
       <link>https://fileformats.org/zh-cn/file-types/aero-experience-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
       
       <guid>https://fileformats.org/zh-cn/file-types/aero-experience-file/</guid>
-      <description>航空体验文件</description>
+      <description>Aero 体验档</description>
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>什么是 MESH 文件（DirectX 网格文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/directx-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:24:42 +0000</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>什么是 MESH 文件（3D 网格模型）？</title>
       <link>https://fileformats.org/zh-cn/file-types/3d-mesh-model/</link>
       <pubDate>Fri, 23 Dec 2022 14:59:26 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>BBMODEL</title>
+      <title>什么是 BBMODEL 文件（Blockbench 3D 模型文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/blockbench-3d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:39 +0000</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>HIPNC</title>
+      <title>什么是 HIPNC 文件（Houdini Apprentice 程序文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/houdini-apprentice-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:22:30 +0000</pubDate>
       
@@ -107,7 +107,7 @@
     </item>
     
     <item>
-      <title>TMPL</title>
+      <title>什么是 TMPL 文件（BlueJ 默认模板）？</title>
       <link>https://fileformats.org/zh-cn/file-types/bluej-default-template/</link>
       <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
       
@@ -116,7 +116,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>什么是 TMP 文件（Finale 临时存档）？</title>
       <link>https://fileformats.org/zh-cn/file-types/finale-temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:37:16 +0000</pubDate>
       
@@ -125,7 +125,7 @@
     </item>
     
     <item>
-      <title>TMP</title>
+      <title>什么是 TMP 文件（临时文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/temporary-file/</link>
       <pubDate>Tue, 13 Dec 2022 01:31:57 +0000</pubDate>
       
@@ -134,7 +134,7 @@
     </item>
     
     <item>
-      <title>DOC#</title>
+      <title>什么是 DOC# 文件（LibreOffice 文档锁定文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/libreoffice-document-lock-file/</link>
       <pubDate>Tue, 29 Nov 2022 15:40:07 +0000</pubDate>
       

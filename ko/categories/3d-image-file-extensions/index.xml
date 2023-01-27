@@ -8,16 +8,16 @@
     <language>en</language>
     <lastBuildDate>Fri, 23 Dec 2022 19:00:56 -0300</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/3d-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>REAL</title>
+      <title>REAL 파일(Aero 경험 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/aero-experience-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/aero-experience-file/</guid>
-      <description>Aero Experience File</description>
+      <description>Aero 경험 파일</description>
     </item>
     
     <item>
-      <title>GH</title>
+      <title>GH 파일(Grasshopper 이진 정의 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/grasshopper-binary-definition-file/</link>
       <pubDate>Fri, 23 Dec 2022 18:33:18 -0300</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>C4D</title>
+      <title>C4D 파일(Cinema 4D 모델 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/cinema-4d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 19:18:52 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>MD5ANIM</title>
+      <title>MD5ANIM 파일(id Tech 4 모델 애니메이션 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/id-tech-4-model-animation-file/</link>
       <pubDate>Fri, 23 Dec 2022 16:04:16 +0000</pubDate>
       
@@ -44,25 +44,25 @@
     </item>
     
     <item>
-      <title>CRZ</title>
+      <title>CRZ 파일(압축된 Poser 캐릭터 리깅 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/compressed-poser-character-rigging-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:35:52 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/compressed-poser-character-rigging-file/</guid>
-      <description>압축된 포저 캐릭터 리깅 파일</description>
+      <description>압축된 Poser 캐릭터 리깅 파일</description>
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>MESH 파일(DirectX 메시 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/directx-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:24:37 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/directx-mesh-file/</guid>
-      <description>DirectX 메쉬 파일</description>
+      <description>DirectX 메시 파일</description>
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>MESH 파일(Godot Engine 3D 메쉬 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/godot-engine-3d-mesh-file/</link>
       <pubDate>Fri, 23 Dec 2022 15:10:35 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>MESH</title>
+      <title>MESH 파일(3D 메쉬 모델)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/3d-mesh-model/</link>
       <pubDate>Fri, 23 Dec 2022 14:59:23 +0000</pubDate>
       
@@ -80,16 +80,16 @@
     </item>
     
     <item>
-      <title>BBMODEL</title>
+      <title>BBMODEL 파일(Blockbench 3D 모델 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:39:37 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/blockbench-3d-model-file/</guid>
-      <description>블록 벤치 3D 모델 파일</description>
+      <description>Blockbench 3D 모델 파일</description>
     </item>
     
     <item>
-      <title>HIPNC</title>
+      <title>HIPNC 파일(Houdini Apprentice 프로그램 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/houdini-apprentice-file/</link>
       <pubDate>Fri, 23 Dec 2022 14:22:28 +0000</pubDate>
       
