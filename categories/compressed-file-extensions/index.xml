@@ -6,7 +6,16 @@
     <description>Recent content in The Complete List of Compressed File Extensions on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 10:57:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2023 19:08:12 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an ICE file (ICE File Archive)?</title>
+      <link>https://fileformats.org/file-types/ice-file-archive/</link>
+      <pubDate>Sun, 12 Feb 2023 19:08:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/ice-file-archive/</guid>
+      <description>ICE File Archive</description>
+    </item>
+    
     <item>
       <title>What is a SITX file (StuffIt X Archive)?</title>
       <link>https://fileformats.org/file-types/stuffit-x-archive/</link>
