@@ -6,7 +6,61 @@
     <description>Recent content in FileFormatsに関するBrunoSouzaによるすべての記事 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:47:36 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNGファイル（デジタルネガティブイメージファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/digital-negative-image-file/</guid>
+      <description>デジタルネガティブイメージファイル</description>
+    </item>
+    
+    <item>
+      <title>EIPファイル（拡張画像パッケージファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/enhanced-image-package-file/</guid>
+      <description>拡張画像パッケージファイル</description>
+    </item>
+    
+    <item>
+      <title>RW2ファイル（パナソニックのRAWイメージ）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/panasonic-raw-image/</guid>
+      <description>パナソニックのRAWイメージ</description>
+    </item>
+    
+    <item>
+      <title>RAFファイル（富士のRAW画像ファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/fuji-raw-image-file/</guid>
+      <description>富士のRAW画像ファイル</description>
+    </item>
+    
+    <item>
+      <title>CR2ファイル（キヤノンのRAWイメージファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:53 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/canon-raw-image-file/</guid>
+      <description>キヤノンのRAWイメージファイル。</description>
+    </item>
+    
+    <item>
+      <title>MCXファイルとは何ですか（MICRO CADAM-X/6000モデルデータファイル）？</title>
+      <link>https://fileformats.org/ja/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>MICRO CADAM-X/6000モデルデータファイル</description>
+    </item>
+    
     <item>
       <title>CPA ファイル (CADSTAR PCB ファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/cadstar-pcb-archive-file/</link>
@@ -14,6 +68,24 @@
       
       <guid>https://fileformats.org/ja/file-types/cadstar-pcb-archive-file/</guid>
       <description>CADSTAR PCB ファイル</description>
+    </item>
+    
+    <item>
+      <title>FBWファイルとは何ですか（HP Recovery Managerバックアップファイル）？</title>
+      <link>https://fileformats.org/ja/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>HP Recovery Managerバックアップファイル</description>
+    </item>
+    
+    <item>
+      <title>NMMファイル（Samsungメモファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/samsung-memo-file/</guid>
+      <description>Samsungメモファイル</description>
     </item>
     
     <item>
@@ -35,6 +107,15 @@
     </item>
     
     <item>
+      <title>MUIファイル（マイリアドユーザーインストゥルメントファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/myriad-user-instrument-file/</guid>
+      <description>マイリアドユーザーインストゥルメントファイル</description>
+    </item>
+    
+    <item>
       <title>MP3ファイル（MP3 オーディオ ファイル）とは？</title>
       <link>https://fileformats.org/ja/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:22 +0000</pubDate>
@@ -50,6 +131,33 @@
       
       <guid>https://fileformats.org/ja/file-types/cinema-4d-model-file/</guid>
       <description>Cinema 4D モデル ファイル</description>
+    </item>
+    
+    <item>
+      <title>SPDファイル（SPSSポータブルデータファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/spss-portable-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:53 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/spss-portable-data-file/</guid>
+      <description>SPSSポータブルデータファイル</description>
+    </item>
+    
+    <item>
+      <title>SPDファイル（シールドされたアクロバットドキュメント）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/sealed-acrobat-document/</guid>
+      <description>シールドされたアクロバットドキュメント</description>
+    </item>
+    
+    <item>
+      <title>SPDファイル（S Noteファイル）とは？</title>
+      <link>https://fileformats.org/ja/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/s-note-file/</guid>
+      <description>S Noteファイル</description>
     </item>
     
     <item>

@@ -6,7 +6,25 @@
     <description>Recent content in バックアップ ファイル拡張子の完全なリスト on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 14:21:39 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 16:46:16 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FBWファイルとは何ですか（HP Recovery Managerバックアップファイル）？</title>
+      <link>https://fileformats.org/ja/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>HP Recovery Managerバックアップファイル</description>
+    </item>
+    
+    <item>
+      <title>DSBファイル（Dell DataSafeバックアップファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/dell-datasafe-backup-file/</guid>
+      <description>Dell DataSafeバックアップファイル</description>
+    </item>
+    
     <item>
       <title>WX ファイル (Wanam Xposed バックアップファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/wanam-xposed-backup-file/</link>
@@ -35,6 +53,15 @@
     </item>
     
     <item>
+      <title>NPFファイル（NTIパーティションファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:04 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/nti-partition-file/</guid>
+      <description>NTIパーティションファイル</description>
+    </item>
+    
+    <item>
       <title>SPG ファイル (TCP Optimizer バックアップファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:01 +0000</pubDate>
@@ -50,6 +77,15 @@
       
       <guid>https://fileformats.org/ja/file-types/automatic-backup-file/</guid>
       <description>自動バックアップ ファイル</description>
+    </item>
+    
+    <item>
+      <title>BKZ ファイル（FileFort バックアップファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:28:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/filefort-backup-file/</guid>
+      <description>FileFort バックアップファイル</description>
     </item>
     
     <item>

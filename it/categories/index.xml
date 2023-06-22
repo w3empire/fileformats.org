@@ -6,11 +6,29 @@
     <description>Recent content in Tutte le categorie on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;elenco completo delle estensioni dei file compressi</title>
+      <link>https://fileformats.org/it/categories/compressed-file-extensions/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/categories/compressed-file-extensions/</guid>
+      <description>Risparmiare spazio sul disco rigido è uno dei motivi principali per cui esistono file compressi.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;elenco completo delle estensioni dei file di immagini della fotocamera</title>
+      <link>https://fileformats.org/it/categories/camera-image-file-extensions/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/categories/camera-image-file-extensions/</guid>
+      <description>I file raw delle immagini della fotocamera vengono archiviati in un formato raw che conserva tutte le informazioni registrate dal sensore della fotocamera.</description>
+    </item>
+    
     <item>
       <title>L&#39;elenco completo delle estensioni dei file Cad</title>
       <link>https://fileformats.org/it/categories/cad-file-extensions/</link>
-      <pubDate>Tue, 27 Dec 2022 17:37:30 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 17:47:50 +0000</pubDate>
       
       <guid>https://fileformats.org/it/categories/cad-file-extensions/</guid>
       <description>I file CAD (Computer Aided Design) possono includere modelli bidimensionali o tridimensionali.</description>
@@ -19,10 +37,19 @@
     <item>
       <title>L&#39;elenco completo delle estensioni dei file di backup</title>
       <link>https://fileformats.org/it/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 14:21:37 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 16:46:15 +0000</pubDate>
       
       <guid>https://fileformats.org/it/categories/backup-file-extensions/</guid>
       <description>Le copie di backup dei singoli file e dei dati relativi ai programmi di backup sono entrambe incluse nella sezione File di backup.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;elenco completo delle estensioni dei file di dati</title>
+      <link>https://fileformats.org/it/categories/data-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/categories/data-file-extensions/</guid>
+      <description>Database, progetti e documenti salvati sono tutti i tipi di file di dati.</description>
     </item>
     
     <item>
@@ -44,6 +71,24 @@
     </item>
     
     <item>
+      <title>L&#39;elenco completo delle estensioni dei file di plugin</title>
+      <link>https://fileformats.org/it/categories/plugin-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/categories/plugin-file-extensions/</guid>
+      <description>I programmi esistenti possono beneficiare di funzionalità e funzionalità aggiuntive utilizzando i file plug-in.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;elenco completo delle estensioni di file codificate</title>
+      <link>https://fileformats.org/it/categories/encoded-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/categories/encoded-file-extensions/</guid>
+      <description>I file che utilizzano un metodo di codifica per salvare il loro contenuto sono detti &amp;lsquo;codificati&amp;rsquo;.</description>
+    </item>
+    
+    <item>
       <title>Elenco di varie estensioni di file</title>
       <link>https://fileformats.org/it/categories/misc-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:06 +0000</pubDate>
@@ -53,66 +98,21 @@
     </item>
     
     <item>
-      <title>L&#39;elenco completo delle estensioni dei file per sviluppatori</title>
-      <link>https://fileformats.org/it/categories/developer-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 02:15:12 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/categories/developer-file-extensions/</guid>
-      <description>I tipi di file rilevanti per la creazione di software possono essere trovati nella categoria File per sviluppatori.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;elenco completo delle estensioni dei file compressi</title>
-      <link>https://fileformats.org/it/categories/compressed-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/categories/compressed-file-extensions/</guid>
-      <description>Risparmiare spazio sul disco rigido è uno dei motivi principali per cui esistono file compressi.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;elenco completo delle estensioni dei file di dati</title>
-      <link>https://fileformats.org/it/categories/data-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/categories/data-file-extensions/</guid>
-      <description>Database, progetti e documenti salvati sono tutti i tipi di file di dati.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;elenco completo delle estensioni dei file di immagini della fotocamera</title>
-      <link>https://fileformats.org/it/categories/camera-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/categories/camera-image-file-extensions/</guid>
-      <description>I file raw delle immagini della fotocamera vengono archiviati in un formato raw che conserva tutte le informazioni registrate dal sensore della fotocamera.</description>
-    </item>
-    
-    <item>
       <title>L&#39;elenco completo delle estensioni dei file di layout di pagina</title>
       <link>https://fileformats.org/it/categories/page-layout-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 02:48:26 +0000</pubDate>
       
       <guid>https://fileformats.org/it/categories/page-layout-file-extensions/</guid>
       <description>I documenti noti come file di layout di pagina possono contenere contemporaneamente informazioni di testo e immagini.</description>
     </item>
     
     <item>
-      <title>L&#39;elenco completo delle estensioni dei file di plugin</title>
-      <link>https://fileformats.org/it/categories/plugin-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>L&#39;elenco completo delle estensioni dei file per sviluppatori</title>
+      <link>https://fileformats.org/it/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:12 +0000</pubDate>
       
-      <guid>https://fileformats.org/it/categories/plugin-file-extensions/</guid>
-      <description>I programmi esistenti possono beneficiare di funzionalità e funzionalità aggiuntive utilizzando i file plug-in.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;elenco completo delle estensioni di file codificate</title>
-      <link>https://fileformats.org/it/categories/encoded-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/categories/encoded-file-extensions/</guid>
-      <description>I file che utilizzano un metodo di codifica per salvare il loro contenuto sono detti &amp;lsquo;codificati&amp;rsquo;.</description>
+      <guid>https://fileformats.org/it/categories/developer-file-extensions/</guid>
+      <description>I tipi di file rilevanti per la creazione di software possono essere trovati nella categoria File per sviluppatori.</description>
     </item>
     
   </channel>

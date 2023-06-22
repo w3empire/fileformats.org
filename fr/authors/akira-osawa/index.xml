@@ -6,7 +6,61 @@
     <description>Recent content in Tous les articles de Akira Osawa sur FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:57:49 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier SITX (Archive StuffIt X) ?</title>
+      <link>https://fileformats.org/fr/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/stuffit-x-archive/</guid>
+      <description>Archive StuffIt X</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier 7Z (fichier compressé 7-Zip) ?</title>
+      <link>https://fileformats.org/fr/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/7-zip-compressed-file/</guid>
+      <description>Fichier compressé 7-zip</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier RAR (Archive compressée WinRAR) ?</title>
+      <link>https://fileformats.org/fr/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/winrar-compressed-archive/</guid>
+      <description>Archive compressée WinRAR</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier RWZ (image compressée par Rawzor) ?</title>
+      <link>https://fileformats.org/fr/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/rawzor-compressed-image/</guid>
+      <description>Image compressée par Rawzor</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier NRW (Fichier d&#39;image brute Nikon) ?</title>
+      <link>https://fileformats.org/fr/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/nikon-raw-image-file/</guid>
+      <description>Fichier d&amp;rsquo;image brute Nikon</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier ERF (Fichier brut Epson) ?</title>
+      <link>https://fileformats.org/fr/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/epson-raw-file/</guid>
+      <description>Fichier brut Epson</description>
+    </item>
+    
     <item>
       <title>Qu&#39;est-ce qu&#39;un fichier AFS (Fichier de projet STAAD.foundation) ?</title>
       <link>https://fileformats.org/fr/file-types/staad-foundation-project-file/</link>
@@ -17,12 +71,39 @@
     </item>
     
     <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier PSM (Fichier de tôlerie Solid Edge) ?</title>
+      <link>https://fileformats.org/fr/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Fichier de tôlerie Solid Edge</description>
+    </item>
+    
+    <item>
       <title>Qu&#39;est-ce qu&#39;un fichier DLV (fichier d&#39;exportation CATIA 4) ?</title>
       <link>https://fileformats.org/fr/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:07 +0000</pubDate>
       
       <guid>https://fileformats.org/fr/file-types/catia-4-export-file/</guid>
       <description>Fichier d&amp;rsquo;exportation CATIA 4</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier OPT (fichier Opterecenja) ?</title>
+      <link>https://fileformats.org/fr/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:46 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/opterecenja-file/</guid>
+      <description>Fichier Opterecenja</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier DSB (fichier de sauvegarde Dell DataSafe) ?</title>
+      <link>https://fileformats.org/fr/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/dell-datasafe-backup-file/</guid>
+      <description>Fichier de sauvegarde Dell DataSafe</description>
     </item>
     
     <item>
@@ -41,6 +122,24 @@
       
       <guid>https://fileformats.org/fr/file-types/ti-connect-backup-file/</guid>
       <description>Fichier de sauvegarde TI Connect</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier NPF (Fichier de partition NTI) ?</title>
+      <link>https://fileformats.org/fr/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/nti-partition-file/</guid>
+      <description>Fichier de partition NTI</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier BKZ (fichier de sauvegarde FileFort) ?</title>
+      <link>https://fileformats.org/fr/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:28:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/filefort-backup-file/</guid>
+      <description>Fichier de sauvegarde FileFort</description>
     </item>
     
     <item>
@@ -68,6 +167,15 @@
       
       <guid>https://fileformats.org/fr/file-types/ensoniq-sq-80-file/</guid>
       <description>Fichier Ensoniq SQ-80</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier MTM (module MultiTracker) ?</title>
+      <link>https://fileformats.org/fr/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/multitracker-module/</guid>
+      <description>Module MultiTracker</description>
     </item>
     
     <item>
@@ -113,6 +221,15 @@
       
       <guid>https://fileformats.org/fr/file-types/form-z-suspended-render-file/</guid>
       <description>Fichier de rendu form·Z en pause</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier PDF (fichier au format de document portable) ?</title>
+      <link>https://fileformats.org/fr/file-types/portable-document-format-file/</link>
+      <pubDate>Tue, 13 Dec 2022 02:48:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/portable-document-format-file/</guid>
+      <description>Fichier au format de document portable</description>
     </item>
     
   </channel>

@@ -6,7 +6,43 @@
     <description>Recent content in FileFormatsに関するRichard Scottによるすべての記事 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:32 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:25:47 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GZファイル（Gnu圧縮アーカイブ）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/gnu-zipped-archive/</guid>
+      <description>Gnu圧縮アーカイブ</description>
+    </item>
+    
+    <item>
+      <title>ZIPファイル（圧縮ファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/zipped-file/</guid>
+      <description>圧縮ファイル</description>
+    </item>
+    
+    <item>
+      <title>ARWファイルとは何ですか（ソニーデジタルカメラの画像）？</title>
+      <link>https://fileformats.org/ja/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:01:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/sony-digital-camera-image/</guid>
+      <description>ソニーデジタルカメラの画像</description>
+    </item>
+    
+    <item>
+      <title>NEFファイルとは何ですか（ニコン電子フォーマットのRAW画像）？</title>
+      <link>https://fileformats.org/ja/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>ニコン電子フォーマットのRAW画像です</description>
+    </item>
+    
     <item>
       <title>TCT ファイル (TurboCAD 設計テンプレート) とは?</title>
       <link>https://fileformats.org/ja/file-types/turbocad-drawing-template/</link>
@@ -14,6 +50,24 @@
       
       <guid>https://fileformats.org/ja/file-types/turbocad-drawing-template/</guid>
       <description>TurboCAD 設計テンプレート</description>
+    </item>
+    
+    <item>
+      <title>EPFファイル（EAGLEプロジェクト）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:46 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/eagle-project/</guid>
+      <description>EAGLEプロジェクト</description>
+    </item>
+    
+    <item>
+      <title>IBAファイル（Lectraの衣料品デザインピースファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectraの衣料品デザインピースファイル</description>
     </item>
     
     <item>
@@ -41,6 +95,15 @@
       
       <guid>https://fileformats.org/ja/file-types/tcp-optimizer-backup-file/</guid>
       <description>TCP Optimizer バックアップファイル</description>
+    </item>
+    
+    <item>
+      <title>COPYファイル（ソニーエリクソン保護コンテンツファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>ソニーエリクソン保護コンテンツファイル</description>
     </item>
     
     <item>
@@ -104,6 +167,15 @@
       
       <guid>https://fileformats.org/ja/file-types/houdini-apprentice-file/</guid>
       <description>Houdini Apprentice プログラム ファイル</description>
+    </item>
+    
+    <item>
+      <title>PDEXファイル（オリエントコンピューターの暗号化データファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>オリエントコンピューターの暗号化データファイルです</description>
     </item>
     
     <item>

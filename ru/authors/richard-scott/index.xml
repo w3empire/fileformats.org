@@ -6,7 +6,43 @@
     <description>Recent content in Все статьи Ричарда Скотта на FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:34 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:25:50 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что такое файл GZ (архив Gnu сжатия)?</title>
+      <link>https://fileformats.org/ru/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/gnu-zipped-archive/</guid>
+      <description>Архив Gnu сжатия</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл ZIP (архивированный файл)?</title>
+      <link>https://fileformats.org/ru/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/zipped-file/</guid>
+      <description>Архивированный файл</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл ARW (Изображение цифровой камеры Sony)?</title>
+      <link>https://fileformats.org/ru/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:02:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/sony-digital-camera-image/</guid>
+      <description>Изображение цифровой камеры Sony</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл NEF (сырое изображение в электронном формате Nikon)?</title>
+      <link>https://fileformats.org/ru/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>Сырое изображение в электронном формате Nikon</description>
+    </item>
+    
     <item>
       <title>Что такое файл TCT (Шаблон дизайна TurboCAD)?</title>
       <link>https://fileformats.org/ru/file-types/turbocad-drawing-template/</link>
@@ -14,6 +50,24 @@
       
       <guid>https://fileformats.org/ru/file-types/turbocad-drawing-template/</guid>
       <description>Шаблон дизайна TurboCAD</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл EPF (проект EAGLE)?</title>
+      <link>https://fileformats.org/ru/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/eagle-project/</guid>
+      <description>Проект EAGLE</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл IBA (файл деталей моделирования одежды Lectra)?</title>
+      <link>https://fileformats.org/ru/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Файл деталей моделирования одежды Lectra</description>
     </item>
     
     <item>
@@ -41,6 +95,15 @@
       
       <guid>https://fileformats.org/ru/file-types/tcp-optimizer-backup-file/</guid>
       <description>Файл резервной копии TCP Optimizer</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл COPY (файл с защищенным контентом Sony Ericsson)?</title>
+      <link>https://fileformats.org/ru/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Файл с защищенным контентом Sony Ericsson</description>
     </item>
     
     <item>
@@ -104,6 +167,15 @@
       
       <guid>https://fileformats.org/ru/file-types/houdini-apprentice-file/</guid>
       <description>Программный файл Houdini Apprentice</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл PDEX (зашифрованный файл данных компьютера Orient)?</title>
+      <link>https://fileformats.org/ru/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>Зашифрованный файл данных компьютера Orient</description>
     </item>
     
     <item>

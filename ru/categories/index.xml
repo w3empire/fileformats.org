@@ -6,11 +6,29 @@
     <description>Recent content in Все категории on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:34 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Полный список расширений сжатых файлов</title>
+      <link>https://fileformats.org/ru/categories/compressed-file-extensions/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/compressed-file-extensions/</guid>
+      <description>Экономия места на жестком диске — одна из основных причин существования сжатых файлов.</description>
+    </item>
+    
+    <item>
+      <title>Полный список расширений файлов изображений камеры</title>
+      <link>https://fileformats.org/ru/categories/camera-image-file-extensions/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/camera-image-file-extensions/</guid>
+      <description>Файлы необработанных изображений камеры хранятся в необработанном формате, который сохраняет всю информацию, записанную датчиком камеры.</description>
+    </item>
+    
     <item>
       <title>Полный список расширений файлов САПР</title>
       <link>https://fileformats.org/ru/categories/cad-file-extensions/</link>
-      <pubDate>Tue, 27 Dec 2022 17:37:34 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 17:47:54 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/categories/cad-file-extensions/</guid>
       <description>Файлы автоматизированного проектирования (САПР) могут включать двухмерные или трехмерные модели.</description>
@@ -19,10 +37,19 @@
     <item>
       <title>Полный список расширений файлов резервных копий</title>
       <link>https://fileformats.org/ru/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 14:21:41 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 16:46:18 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/categories/backup-file-extensions/</guid>
       <description>Резервные копии отдельных файлов и данных, относящихся к программам резервного копирования, включены в раздел «Файлы резервных копий».</description>
+    </item>
+    
+    <item>
+      <title>Полный список расширений файлов данных</title>
+      <link>https://fileformats.org/ru/categories/data-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 15:07:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/data-file-extensions/</guid>
+      <description>Базы данных, проекты и сохраненные документы — это все типы файлов данных.</description>
     </item>
     
     <item>
@@ -44,6 +71,24 @@
     </item>
     
     <item>
+      <title>Полный список расширений файлов плагинов</title>
+      <link>https://fileformats.org/ru/categories/plugin-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/plugin-file-extensions/</guid>
+      <description>Существующие программы могут получить дополнительные возможности и функциональные возможности с помощью файлов плагинов.</description>
+    </item>
+    
+    <item>
+      <title>Полный список закодированных расширений файлов</title>
+      <link>https://fileformats.org/ru/categories/encoded-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:42:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/categories/encoded-file-extensions/</guid>
+      <description>Файлы, которые используют метод кодирования для сохранения своего содержимого, называются «закодированными».</description>
+    </item>
+    
+    <item>
       <title>Список различных расширений файлов</title>
       <link>https://fileformats.org/ru/categories/misc-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:10 +0000</pubDate>
@@ -53,66 +98,21 @@
     </item>
     
     <item>
-      <title>Полный список расширений файлов разработчика</title>
-      <link>https://fileformats.org/ru/categories/developer-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/developer-file-extensions/</guid>
-      <description>Типы файлов, относящиеся к созданию программного обеспечения, можно найти в категории «Файлы разработчика».</description>
-    </item>
-    
-    <item>
-      <title>Полный список закодированных расширений файлов</title>
-      <link>https://fileformats.org/ru/categories/encoded-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/encoded-file-extensions/</guid>
-      <description>Файлы, которые используют метод кодирования для сохранения своего содержимого, называются «закодированными».</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений сжатых файлов</title>
-      <link>https://fileformats.org/ru/categories/compressed-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/compressed-file-extensions/</guid>
-      <description>Экономия места на жестком диске — одна из основных причин существования сжатых файлов.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов данных</title>
-      <link>https://fileformats.org/ru/categories/data-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/data-file-extensions/</guid>
-      <description>Базы данных, проекты и сохраненные документы — это все типы файлов данных.</description>
-    </item>
-    
-    <item>
-      <title>Полный список расширений файлов изображений камеры</title>
-      <link>https://fileformats.org/ru/categories/camera-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ru/categories/camera-image-file-extensions/</guid>
-      <description>Файлы необработанных изображений камеры хранятся в необработанном формате, который сохраняет всю информацию, записанную датчиком камеры.</description>
-    </item>
-    
-    <item>
       <title>Полный список расширений файлов макета страницы</title>
       <link>https://fileformats.org/ru/categories/page-layout-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 02:48:30 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/categories/page-layout-file-extensions/</guid>
       <description>Документы, известные как файлы макета страницы, могут одновременно содержать как текстовую, так и графическую информацию.</description>
     </item>
     
     <item>
-      <title>Полный список расширений файлов плагинов</title>
-      <link>https://fileformats.org/ru/categories/plugin-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Полный список расширений файлов разработчика</title>
+      <link>https://fileformats.org/ru/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
       
-      <guid>https://fileformats.org/ru/categories/plugin-file-extensions/</guid>
-      <description>Существующие программы могут получить дополнительные возможности и функциональные возможности с помощью файлов плагинов.</description>
+      <guid>https://fileformats.org/ru/categories/developer-file-extensions/</guid>
+      <description>Типы файлов, относящиеся к созданию программного обеспечения, можно найти в категории «Файлы разработчика».</description>
     </item>
     
   </channel>

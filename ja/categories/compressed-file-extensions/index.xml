@@ -5,6 +5,61 @@
     <link>https://fileformats.org/ja/categories/compressed-file-extensions/</link>
     <description>Recent content in 圧縮ファイル拡張子の完全なリスト on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SITXファイル（StuffIt Xアーカイブ）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/stuffit-x-archive/</guid>
+      <description>StuffIt Xアーカイブ</description>
+    </item>
+    
+    <item>
+      <title>GZファイル（Gnu圧縮アーカイブ）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/gnu-zipped-archive/</guid>
+      <description>Gnu圧縮アーカイブ</description>
+    </item>
+    
+    <item>
+      <title>7Zファイル（7-Zip 圧縮ファイル）とは？</title>
+      <link>https://fileformats.org/ja/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip 圧縮ファイル</description>
+    </item>
+    
+    <item>
+      <title>RARファイルとは何ですか（WinRARの圧縮アーカイブ）？</title>
+      <link>https://fileformats.org/ja/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/winrar-compressed-archive/</guid>
+      <description>WinRARの圧縮アーカイブ</description>
+    </item>
+    
+    <item>
+      <title>ZIPファイル（圧縮ファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/zipped-file/</guid>
+      <description>圧縮ファイル</description>
+    </item>
+    
+    <item>
+      <title>SPDファイル（S Noteファイル）とは？</title>
+      <link>https://fileformats.org/ja/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/s-note-file/</guid>
+      <description>S Noteファイル</description>
+    </item>
+    
   </channel>
 </rss>

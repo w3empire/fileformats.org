@@ -5,6 +5,97 @@
     <link>https://fileformats.org/fr/categories/camera-image-file-extensions/</link>
     <description>Recent content in La liste complète des extensions de fichiers d&#39;image de caméra on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/fr/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier DNG (fichier d&#39;image négative numérique) ?</title>
+      <link>https://fileformats.org/fr/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/digital-negative-image-file/</guid>
+      <description>Fichier d&amp;rsquo;image négative numérique</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier EIP (fichier de paquet d&#39;image amélioré) ?</title>
+      <link>https://fileformats.org/fr/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/enhanced-image-package-file/</guid>
+      <description>Fichier de paquet d&amp;rsquo;image amélioré</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier RWZ (image compressée par Rawzor) ?</title>
+      <link>https://fileformats.org/fr/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/rawzor-compressed-image/</guid>
+      <description>Image compressée par Rawzor</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier ARW (Image d&#39;appareil photo numérique Sony) ?</title>
+      <link>https://fileformats.org/fr/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:01:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/sony-digital-camera-image/</guid>
+      <description>Image d&amp;rsquo;appareil photo numérique Sony</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier NEF (Image brute au format électronique Nikon) ?</title>
+      <link>https://fileformats.org/fr/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>Image brute au format électronique Nikon</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier NRW (Fichier d&#39;image brute Nikon) ?</title>
+      <link>https://fileformats.org/fr/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/nikon-raw-image-file/</guid>
+      <description>Fichier d&amp;rsquo;image brute Nikon</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier RW2 (Image brute Panasonic) ?</title>
+      <link>https://fileformats.org/fr/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/panasonic-raw-image/</guid>
+      <description>Image brute Panasonic</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier RAF (fichier d&#39;image brute Fuji) ?</title>
+      <link>https://fileformats.org/fr/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/fuji-raw-image-file/</guid>
+      <description>Fichier d&amp;rsquo;image brute Fuji</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier ERF (Fichier brut Epson) ?</title>
+      <link>https://fileformats.org/fr/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/epson-raw-file/</guid>
+      <description>Fichier brut Epson</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un fichier CR2 (Fichier d&#39;image brute Canon) ?</title>
+      <link>https://fileformats.org/fr/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/file-types/canon-raw-image-file/</guid>
+      <description>Fichier d&amp;rsquo;image brute Canon</description>
+    </item>
+    
   </channel>
 </rss>

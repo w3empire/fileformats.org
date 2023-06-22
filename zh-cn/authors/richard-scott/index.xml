@@ -6,7 +6,43 @@
     <description>Recent content in 理查德·斯科特在 FileFormats 上的所有文章 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:35 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:25:50 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GZ文件（Gnu压缩归档）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/gnu-zipped-archive/</guid>
+      <description>Gnu压缩归档</description>
+    </item>
+    
+    <item>
+      <title>什么是ZIP文件（压缩文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/zipped-file/</guid>
+      <description>压缩文件</description>
+    </item>
+    
+    <item>
+      <title>什么是ARW文件（索尼数码相机图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:02:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/sony-digital-camera-image/</guid>
+      <description>索尼数码相机图像</description>
+    </item>
+    
+    <item>
+      <title>什么是NEF文件（尼康电子格式原始图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>尼康电子格式原始图像</description>
+    </item>
+    
     <item>
       <title>什么是 TCT 文件（TurboCAD 设计模板）？</title>
       <link>https://fileformats.org/zh-cn/file-types/turbocad-drawing-template/</link>
@@ -14,6 +50,24 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/turbocad-drawing-template/</guid>
       <description>TurboCAD 设计模板</description>
+    </item>
+    
+    <item>
+      <title>什么是EPF文件（EAGLE项目）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/eagle-project/</guid>
+      <description>EAGLE项目</description>
+    </item>
+    
+    <item>
+      <title>IBA 文件（Lectra 服装设计件文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectra 服装设计件文件</description>
     </item>
     
     <item>
@@ -41,6 +95,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/tcp-optimizer-backup-file/</guid>
       <description>TCP Optimizer 备份文件</description>
+    </item>
+    
+    <item>
+      <title>什么是COPY文件（Sony Ericsson受保护的内容文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Sony Ericsson受保护的内容文件</description>
     </item>
     
     <item>
@@ -104,6 +167,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/houdini-apprentice-file/</guid>
       <description>Houdini Apprentice 程序文件</description>
+    </item>
+    
+    <item>
+      <title>什么是PDEX文件（Orient计算机加密数据文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>Orient计算机加密数据文件</description>
     </item>
     
     <item>

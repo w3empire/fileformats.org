@@ -6,7 +6,61 @@
     <description>Recent content in FileFormats에 대한 Akira Osawa의 모든 기사 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:57:55 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:28 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SITX 파일 (StuffIt X 아카이브)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/stuffit-x-archive/</guid>
+      <description>StuffIt X 아카이브</description>
+    </item>
+    
+    <item>
+      <title>7Z 파일(7-Zip 압축 파일)이란 무엇입니까?</title>
+      <link>https://fileformats.org/ko/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip 압축 파일</description>
+    </item>
+    
+    <item>
+      <title>RAR 파일 (WinRAR 압축 아카이브)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/winrar-compressed-archive/</guid>
+      <description>WinRAR 압축 아카이브</description>
+    </item>
+    
+    <item>
+      <title>RWZ 파일 (Rawzor 압축 이미지)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor 압축 이미지</description>
+    </item>
+    
+    <item>
+      <title>NRW 파일 (니콘 RAW 이미지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/nikon-raw-image-file/</guid>
+      <description>니콘 RAW 이미지 파일입니다</description>
+    </item>
+    
+    <item>
+      <title>ERF 파일 (Epson 원본 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/epson-raw-file/</guid>
+      <description>Epson 원본 파일</description>
+    </item>
+    
     <item>
       <title>AFS 파일(STAAD.foundation 프로젝트 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/staad-foundation-project-file/</link>
@@ -17,12 +71,39 @@
     </item>
     
     <item>
+      <title>PSM 파일(Solid Edge 시트 메탈 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Solid Edge 시트 메탈 파일</description>
+    </item>
+    
+    <item>
       <title>DLV 파일(CATIA 4 내보내기 파일)이란?</title>
       <link>https://fileformats.org/ko/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:11 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/catia-4-export-file/</guid>
       <description>CATIA 4 내보내기 파일</description>
+    </item>
+    
+    <item>
+      <title>OPT 파일 (Opterecenja 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/opterecenja-file/</guid>
+      <description>Opterecenja 파일</description>
+    </item>
+    
+    <item>
+      <title>DSB 파일 (Dell DataSafe 백업 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/dell-datasafe-backup-file/</guid>
+      <description>Dell DataSafe 백업 파일</description>
     </item>
     
     <item>
@@ -41,6 +122,24 @@
       
       <guid>https://fileformats.org/ko/file-types/ti-connect-backup-file/</guid>
       <description>TI Connect 백업 파일</description>
+    </item>
+    
+    <item>
+      <title>NPF 파일 (NTI 파티션 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/nti-partition-file/</guid>
+      <description>NTI 파티션 파일</description>
+    </item>
+    
+    <item>
+      <title>BKZ 파일 (FileFort 백업 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:28:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/filefort-backup-file/</guid>
+      <description>FileFort 백업 파일</description>
     </item>
     
     <item>
@@ -68,6 +167,15 @@
       
       <guid>https://fileformats.org/ko/file-types/ensoniq-sq-80-file/</guid>
       <description>Ensoniq SQ-80 파일</description>
+    </item>
+    
+    <item>
+      <title>MTM 파일 (MultiTracker 모듈)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/multitracker-module/</guid>
+      <description>MultiTracker 모듈</description>
     </item>
     
     <item>
@@ -113,6 +221,15 @@
       
       <guid>https://fileformats.org/ko/file-types/form-z-suspended-render-file/</guid>
       <description>Form·Z 렌더링 파일이 일시 중지됨</description>
+    </item>
+    
+    <item>
+      <title>PDF 파일 (휴대용 문서 형식 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/portable-document-format-file/</link>
+      <pubDate>Tue, 13 Dec 2022 02:48:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/portable-document-format-file/</guid>
+      <description>휴대용 문서 형식 파일</description>
     </item>
     
   </channel>

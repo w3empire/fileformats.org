@@ -6,7 +6,61 @@
     <description>Recent content in FileFormatsに関する大澤晃のすべての記事 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:57:53 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SITXファイル（StuffIt Xアーカイブ）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/stuffit-x-archive/</guid>
+      <description>StuffIt Xアーカイブ</description>
+    </item>
+    
+    <item>
+      <title>7Zファイル（7-Zip 圧縮ファイル）とは？</title>
+      <link>https://fileformats.org/ja/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip 圧縮ファイル</description>
+    </item>
+    
+    <item>
+      <title>RARファイルとは何ですか（WinRARの圧縮アーカイブ）？</title>
+      <link>https://fileformats.org/ja/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/winrar-compressed-archive/</guid>
+      <description>WinRARの圧縮アーカイブ</description>
+    </item>
+    
+    <item>
+      <title>RWZファイルとは何ですか（Rawzor圧縮画像）？</title>
+      <link>https://fileformats.org/ja/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor圧縮画像</description>
+    </item>
+    
+    <item>
+      <title>NRWファイル（ニコンのRAW画像ファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/nikon-raw-image-file/</guid>
+      <description>ニコンのRAW画像ファイルです</description>
+    </item>
+    
+    <item>
+      <title>ERFファイル（Epson RAWファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/epson-raw-file/</guid>
+      <description>Epson RAWファイル</description>
+    </item>
+    
     <item>
       <title>AFS ファイル (STAAD.foundation プロジェクト ファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/staad-foundation-project-file/</link>
@@ -17,12 +71,39 @@
     </item>
     
     <item>
+      <title>PSMファイル（Solid Edgeシートメタルファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Solid Edgeシートメタルファイル</description>
+    </item>
+    
+    <item>
       <title>DLV ファイル (CATIA 4 エクスポート ファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:09 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/file-types/catia-4-export-file/</guid>
       <description>CATIA 4 エクスポート ファイル</description>
+    </item>
+    
+    <item>
+      <title>OPTファイル（Opterecenjaファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/opterecenja-file/</guid>
+      <description>Opterecenjaファイル</description>
+    </item>
+    
+    <item>
+      <title>DSBファイル（Dell DataSafeバックアップファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/dell-datasafe-backup-file/</guid>
+      <description>Dell DataSafeバックアップファイル</description>
     </item>
     
     <item>
@@ -41,6 +122,24 @@
       
       <guid>https://fileformats.org/ja/file-types/ti-connect-backup-file/</guid>
       <description>TI Connect バックアップ ファイル</description>
+    </item>
+    
+    <item>
+      <title>NPFファイル（NTIパーティションファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:04 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/nti-partition-file/</guid>
+      <description>NTIパーティションファイル</description>
+    </item>
+    
+    <item>
+      <title>BKZ ファイル（FileFort バックアップファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:28:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/filefort-backup-file/</guid>
+      <description>FileFort バックアップファイル</description>
     </item>
     
     <item>
@@ -68,6 +167,15 @@
       
       <guid>https://fileformats.org/ja/file-types/ensoniq-sq-80-file/</guid>
       <description>Ensoniq SQ-80 ファイル</description>
+    </item>
+    
+    <item>
+      <title>MTMファイル（MultiTrackerモジュール）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/multitracker-module/</guid>
+      <description>MultiTrackerモジュール</description>
     </item>
     
     <item>
@@ -113,6 +221,15 @@
       
       <guid>https://fileformats.org/ja/file-types/form-z-suspended-render-file/</guid>
       <description>Form・Z レンダリングファイル一時停止</description>
+    </item>
+    
+    <item>
+      <title>PDFファイル（ポータブルドキュメントフォーマットファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/portable-document-format-file/</link>
+      <pubDate>Tue, 13 Dec 2022 02:48:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/portable-document-format-file/</guid>
+      <description>ポータブルドキュメントフォーマットファイル</description>
     </item>
     
   </channel>

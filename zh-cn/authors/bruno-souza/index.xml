@@ -6,7 +6,61 @@
     <description>Recent content in Bruno Souza 在 FileFormats 上的所有文章 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:47:43 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是DNG文件（数字底片图像文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/digital-negative-image-file/</guid>
+      <description>数字底片图像文件</description>
+    </item>
+    
+    <item>
+      <title>什么是EIP文件（增强图像包文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/enhanced-image-package-file/</guid>
+      <description>增强图像包文件</description>
+    </item>
+    
+    <item>
+      <title>什么是RW2文件（松下原始图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/panasonic-raw-image/</guid>
+      <description>松下原始图像</description>
+    </item>
+    
+    <item>
+      <title>RAF文件（富士原始图像文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/fuji-raw-image-file/</guid>
+      <description>富士原始图像文件</description>
+    </item>
+    
+    <item>
+      <title>CR2文件（佳能RAW图像文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/canon-raw-image-file/</guid>
+      <description>佳能RAW图像文件</description>
+    </item>
+    
+    <item>
+      <title>MCX文件是什么（MICRO CADAM-X/6000模型数据文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>MICRO CADAM-X/6000模型数据文件</description>
+    </item>
+    
     <item>
       <title>什么是 CPA 文件（CADSTAR PCB文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/cadstar-pcb-archive-file/</link>
@@ -14,6 +68,24 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/cadstar-pcb-archive-file/</guid>
       <description>CADSTAR PCB文件</description>
+    </item>
+    
+    <item>
+      <title>什么是FBW文件（HP Recovery Manager备份文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>HP Recovery Manager备份文件</description>
+    </item>
+    
+    <item>
+      <title>NMM文件（三星备忘录文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:07:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/samsung-memo-file/</guid>
+      <description>三星备忘录文件</description>
     </item>
     
     <item>
@@ -35,6 +107,15 @@
     </item>
     
     <item>
+      <title>什么是MUI文件（Myriad用户仪器文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/myriad-user-instrument-file/</guid>
+      <description>Myriad用户仪器文件</description>
+    </item>
+    
+    <item>
       <title>什么是 MP3 文件（MP3 音频文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:26 +0000</pubDate>
@@ -50,6 +131,33 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/cinema-4d-model-file/</guid>
       <description>Cinema 4D 模型文件</description>
+    </item>
+    
+    <item>
+      <title>什么是SPD文件（SPSS可移植数据文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/spss-portable-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/spss-portable-data-file/</guid>
+      <description>SPSS可移植数据文件</description>
+    </item>
+    
+    <item>
+      <title>什么是SPD文件（密封的Acrobat文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:42:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/sealed-acrobat-document/</guid>
+      <description>密封的Acrobat文件</description>
+    </item>
+    
+    <item>
+      <title>什么是 SPD 文件（S Note 文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/s-note-file/</guid>
+      <description>S Note 文件</description>
     </item>
     
     <item>

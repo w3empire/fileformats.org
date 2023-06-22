@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>什么是MUI文件（Myriad用户仪器文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/myriad-user-instrument-file/</guid>
+      <description>Myriad用户仪器文件</description>
+    </item>
+    
+    <item>
+      <title>什么是COPY文件（Sony Ericsson受保护的内容文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Sony Ericsson受保护的内容文件</description>
+    </item>
+    
+    <item>
       <title>什么是 WPROJ 文件（Wwise 项目文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:21 +0000</pubDate>
@@ -68,6 +86,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/ensoniq-sq-80-file/</guid>
       <description>Ensoniq SQ-80 文件</description>
+    </item>
+    
+    <item>
+      <title>什么是MTM文件（MultiTracker模块）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/multitracker-module/</guid>
+      <description>MultiTracker模块</description>
     </item>
     
   </channel>

@@ -6,7 +6,61 @@
     <description>Recent content in All articles by Bruno Souza on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jan 2023 20:06:10 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 12:52:06 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an MJPG file (Motion JPEG Video)?</title>
+      <link>https://fileformats.org/file-types/motion-jpeg-video/</link>
+      <pubDate>Thu, 22 Jun 2023 12:52:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/motion-jpeg-video/</guid>
+      <description>Motion JPEG Video</description>
+    </item>
+    
+    <item>
+      <title>What is an MPV file (MPEG-2 Elementary Stream Video)?</title>
+      <link>https://fileformats.org/file-types/mpeg-2-elementary-stream-video/</link>
+      <pubDate>Thu, 22 Jun 2023 12:26:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/mpeg-2-elementary-stream-video/</guid>
+      <description>MPEG-2 Elementary Stream Video</description>
+    </item>
+    
+    <item>
+      <title>What is an MGV file (PSP Video File)?</title>
+      <link>https://fileformats.org/file-types/psp-video-file/</link>
+      <pubDate>Thu, 22 Jun 2023 11:29:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/psp-video-file/</guid>
+      <description>PSP Video File</description>
+    </item>
+    
+    <item>
+      <title>What is a WMMP file (Windows Movie Maker Project File)?</title>
+      <link>https://fileformats.org/file-types/windows-movie-maker-project-file/</link>
+      <pubDate>Thu, 22 Jun 2023 10:37:39 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/windows-movie-maker-project-file/</guid>
+      <description>Windows Movie Maker Project File</description>
+    </item>
+    
+    <item>
+      <title>What is a WMV file (Windows Media Video)?</title>
+      <link>https://fileformats.org/file-types/windows-media-video/</link>
+      <pubDate>Mon, 12 Jun 2023 13:46:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/windows-media-video/</guid>
+      <description>Windows Media Video</description>
+    </item>
+    
+    <item>
+      <title>What is a WEBM file (WebM Video)?</title>
+      <link>https://fileformats.org/file-types/webm-video/</link>
+      <pubDate>Mon, 12 Jun 2023 13:11:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/webm-video/</guid>
+      <description>WebM Video</description>
+    </item>
+    
     <item>
       <title>What is a DNG file (Digital Negative Image File)?</title>
       <link>https://fileformats.org/file-types/digital-negative-image-file/</link>

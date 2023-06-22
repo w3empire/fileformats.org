@@ -6,11 +6,29 @@
     <description>Recent content in 모든 카테고리 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:33 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:28 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>압축 파일 확장자의 전체 목록</title>
+      <link>https://fileformats.org/ko/categories/compressed-file-extensions/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/categories/compressed-file-extensions/</guid>
+      <description>하드 드라이브의 공간을 절약하는 것은 압축 파일이 존재하는 주된 이유 중 하나입니다.</description>
+    </item>
+    
+    <item>
+      <title>카메라 이미지 파일 확장자의 전체 목록</title>
+      <link>https://fileformats.org/ko/categories/camera-image-file-extensions/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/categories/camera-image-file-extensions/</guid>
+      <description>카메라 이미지 원시 파일은 카메라 센서가 기록하는 모든 정보를 유지하는 원시 형식으로 저장됩니다.</description>
+    </item>
+    
     <item>
       <title>Cad 파일 확장자의 전체 목록</title>
       <link>https://fileformats.org/ko/categories/cad-file-extensions/</link>
-      <pubDate>Tue, 27 Dec 2022 17:37:33 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 17:47:52 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/categories/cad-file-extensions/</guid>
       <description>CAD(Computer-Aided Design) 파일에는 2차원 또는 3차원 모델이 포함될 수 있습니다.</description>
@@ -19,10 +37,19 @@
     <item>
       <title>백업 파일 확장자의 전체 목록</title>
       <link>https://fileformats.org/ko/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 14:21:40 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 16:46:18 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/categories/backup-file-extensions/</guid>
       <description>개별 파일의 백업 복사본과 백업 프로그램과 관련된 데이터는 모두 백업 파일 섹션에 포함되어 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>데이터 파일 확장자의 전체 목록</title>
+      <link>https://fileformats.org/ko/categories/data-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/categories/data-file-extensions/</guid>
+      <description>데이터베이스, 프로젝트 및 저장된 문서는 모두 데이터 파일 유형입니다.</description>
     </item>
     
     <item>
@@ -44,6 +71,24 @@
     </item>
     
     <item>
+      <title>플러그인 파일 확장자의 전체 목록</title>
+      <link>https://fileformats.org/ko/categories/plugin-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/categories/plugin-file-extensions/</guid>
+      <description>기존 프로그램은 플러그인 파일을 사용하여 추가 기능을 활용할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>인코딩된 파일 확장자의 전체 목록</title>
+      <link>https://fileformats.org/ko/categories/encoded-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/categories/encoded-file-extensions/</guid>
+      <description>인코딩 방법을 사용하여 내용을 저장하는 파일을 &amp;lsquo;인코딩&amp;rsquo;이라고 합니다.</description>
+    </item>
+    
+    <item>
       <title>기타 파일 확장자 목록</title>
       <link>https://fileformats.org/ko/categories/misc-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:09 +0000</pubDate>
@@ -53,66 +98,21 @@
     </item>
     
     <item>
-      <title>개발자 파일 확장자의 전체 목록</title>
-      <link>https://fileformats.org/ko/categories/developer-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 02:15:15 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ko/categories/developer-file-extensions/</guid>
-      <description>소프트웨어 생성과 관련된 파일 형식은 개발자 파일 범주에서 찾을 수 있습니다.</description>
-    </item>
-    
-    <item>
-      <title>데이터 파일 확장자의 전체 목록</title>
-      <link>https://fileformats.org/ko/categories/data-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ko/categories/data-file-extensions/</guid>
-      <description>데이터베이스, 프로젝트 및 저장된 문서는 모두 데이터 파일 유형입니다.</description>
-    </item>
-    
-    <item>
-      <title>압축 파일 확장자의 전체 목록</title>
-      <link>https://fileformats.org/ko/categories/compressed-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ko/categories/compressed-file-extensions/</guid>
-      <description>하드 드라이브의 공간을 절약하는 것은 압축 파일이 존재하는 주된 이유 중 하나입니다.</description>
-    </item>
-    
-    <item>
-      <title>인코딩된 파일 확장자의 전체 목록</title>
-      <link>https://fileformats.org/ko/categories/encoded-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ko/categories/encoded-file-extensions/</guid>
-      <description>인코딩 방법을 사용하여 내용을 저장하는 파일을 &amp;lsquo;인코딩&amp;rsquo;이라고 합니다.</description>
-    </item>
-    
-    <item>
-      <title>카메라 이미지 파일 확장자의 전체 목록</title>
-      <link>https://fileformats.org/ko/categories/camera-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ko/categories/camera-image-file-extensions/</guid>
-      <description>카메라 이미지 원시 파일은 카메라 센서가 기록하는 모든 정보를 유지하는 원시 형식으로 저장됩니다.</description>
-    </item>
-    
-    <item>
       <title>페이지 레이아웃 파일 확장자의 전체 목록</title>
       <link>https://fileformats.org/ko/categories/page-layout-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 02:48:29 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/categories/page-layout-file-extensions/</guid>
       <description>페이지 레이아웃 파일이라고 하는 문서는 텍스트와 이미지 정보를 동시에 포함할 수 있습니다.</description>
     </item>
     
     <item>
-      <title>플러그인 파일 확장자의 전체 목록</title>
-      <link>https://fileformats.org/ko/categories/plugin-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>개발자 파일 확장자의 전체 목록</title>
+      <link>https://fileformats.org/ko/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:15 +0000</pubDate>
       
-      <guid>https://fileformats.org/ko/categories/plugin-file-extensions/</guid>
-      <description>기존 프로그램은 플러그인 파일을 사용하여 추가 기능을 활용할 수 있습니다.</description>
+      <guid>https://fileformats.org/ko/categories/developer-file-extensions/</guid>
+      <description>소프트웨어 생성과 관련된 파일 형식은 개발자 파일 범주에서 찾을 수 있습니다.</description>
     </item>
     
   </channel>

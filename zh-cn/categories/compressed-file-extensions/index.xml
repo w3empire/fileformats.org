@@ -5,6 +5,61 @@
     <link>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</link>
     <description>Recent content in 压缩文件扩展名的完整列表 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/zh-cn/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是SITX文件（StuffIt X存档）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/stuffit-x-archive/</guid>
+      <description>StuffIt X存档</description>
+    </item>
+    
+    <item>
+      <title>GZ文件（Gnu压缩归档）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/gnu-zipped-archive/</guid>
+      <description>Gnu压缩归档</description>
+    </item>
+    
+    <item>
+      <title>什么是 7Z 文件（7-Zip 压缩文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip 压缩文件</description>
+    </item>
+    
+    <item>
+      <title>RAR文件是什么（WinRAR压缩存档）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/winrar-compressed-archive/</guid>
+      <description>WinRAR压缩存档</description>
+    </item>
+    
+    <item>
+      <title>什么是ZIP文件（压缩文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/zipped-file/</guid>
+      <description>压缩文件</description>
+    </item>
+    
+    <item>
+      <title>什么是 SPD 文件（S Note 文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/s-note-file/</guid>
+      <description>S Note 文件</description>
+    </item>
+    
   </channel>
 </rss>

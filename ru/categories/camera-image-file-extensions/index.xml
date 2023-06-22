@@ -5,6 +5,97 @@
     <link>https://fileformats.org/ru/categories/camera-image-file-extensions/</link>
     <description>Recent content in Полный список расширений файлов изображений камеры on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ru/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что такое файл DNG (цифровой отрицательный файл изображения)?</title>
+      <link>https://fileformats.org/ru/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/digital-negative-image-file/</guid>
+      <description>Цифровой отрицательный файл изображения</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл EIP (файл расширенного пакета изображений)?</title>
+      <link>https://fileformats.org/ru/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/enhanced-image-package-file/</guid>
+      <description>Файл расширенного пакета изображений</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл RWZ (Сжатое изображение Rawzor)?</title>
+      <link>https://fileformats.org/ru/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:40 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/rawzor-compressed-image/</guid>
+      <description>Сжатое изображение Rawzor</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл ARW (Изображение цифровой камеры Sony)?</title>
+      <link>https://fileformats.org/ru/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:02:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/sony-digital-camera-image/</guid>
+      <description>Изображение цифровой камеры Sony</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл NEF (сырое изображение в электронном формате Nikon)?</title>
+      <link>https://fileformats.org/ru/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>Сырое изображение в электронном формате Nikon</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл NRW (файл сырого изображения Nikon)?</title>
+      <link>https://fileformats.org/ru/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/nikon-raw-image-file/</guid>
+      <description>Файл сырого изображения Nikon</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл RW2 (сырое изображение Panasonic)?</title>
+      <link>https://fileformats.org/ru/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/panasonic-raw-image/</guid>
+      <description>Сырое изображение Panasonic</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл RAF (файл сырого изображения Fuji)?</title>
+      <link>https://fileformats.org/ru/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/fuji-raw-image-file/</guid>
+      <description>Файл сырого изображения Fuji</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл ERF (файл Epson в формате raw)?</title>
+      <link>https://fileformats.org/ru/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/epson-raw-file/</guid>
+      <description>Файл Epson в формате raw</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл CR2 (Файл изображения Canon в формате RAW)?</title>
+      <link>https://fileformats.org/ru/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/canon-raw-image-file/</guid>
+      <description>Файл изображения Canon в формате RAW</description>
+    </item>
+    
   </channel>
 </rss>

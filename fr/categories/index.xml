@@ -6,11 +6,29 @@
     <description>Recent content in Toutes catégories on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La liste complète des extensions de fichiers compressés</title>
+      <link>https://fileformats.org/fr/categories/compressed-file-extensions/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/compressed-file-extensions/</guid>
+      <description>L&amp;rsquo;économie d&amp;rsquo;espace sur votre disque dur est l&amp;rsquo;une des principales raisons pour lesquelles les fichiers compressés existent.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des extensions de fichiers d&#39;image de caméra</title>
+      <link>https://fileformats.org/fr/categories/camera-image-file-extensions/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/camera-image-file-extensions/</guid>
+      <description>Les fichiers bruts d&amp;rsquo;image de l&amp;rsquo;appareil photo sont stockés dans un format brut qui conserve toutes les informations enregistrées par le capteur de l&amp;rsquo;appareil photo.</description>
+    </item>
+    
     <item>
       <title>La liste complète des extensions de fichiers CAO</title>
       <link>https://fileformats.org/fr/categories/cad-file-extensions/</link>
-      <pubDate>Tue, 27 Dec 2022 17:37:29 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 17:47:48 +0000</pubDate>
       
       <guid>https://fileformats.org/fr/categories/cad-file-extensions/</guid>
       <description>Les fichiers de conception assistée par ordinateur (CAO) peuvent inclure des modèles bidimensionnels ou tridimensionnels.</description>
@@ -19,10 +37,19 @@
     <item>
       <title>La liste complète des extensions de fichiers de sauvegarde</title>
       <link>https://fileformats.org/fr/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 14:21:36 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 16:46:14 +0000</pubDate>
       
       <guid>https://fileformats.org/fr/categories/backup-file-extensions/</guid>
       <description>Les copies de sauvegarde des fichiers individuels et des données relatives aux programmes de sauvegarde sont toutes deux incluses dans la section Fichiers de sauvegarde.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des extensions de fichiers de données</title>
+      <link>https://fileformats.org/fr/categories/data-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/data-file-extensions/</guid>
+      <description>Les bases de données, les projets et les documents enregistrés sont tous des types de fichiers de données.</description>
     </item>
     
     <item>
@@ -44,6 +71,24 @@
     </item>
     
     <item>
+      <title>La liste complète des extensions de fichiers plugins</title>
+      <link>https://fileformats.org/fr/categories/plugin-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/plugin-file-extensions/</guid>
+      <description>Les programmes existants peuvent bénéficier de fonctionnalités et de fonctionnalités supplémentaires en utilisant des fichiers de plug-in.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des extensions de fichiers codés</title>
+      <link>https://fileformats.org/fr/categories/encoded-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/fr/categories/encoded-file-extensions/</guid>
+      <description>Les fichiers qui utilisent une méthode d&amp;rsquo;encodage pour enregistrer leur contenu sont dits &amp;rsquo;encodés&#39;.</description>
+    </item>
+    
+    <item>
       <title>Liste des extensions de fichiers divers</title>
       <link>https://fileformats.org/fr/categories/misc-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:05 +0000</pubDate>
@@ -53,66 +98,21 @@
     </item>
     
     <item>
-      <title>La liste complète des extensions de fichier de développeur</title>
-      <link>https://fileformats.org/fr/categories/developer-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 02:15:11 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/developer-file-extensions/</guid>
-      <description>Les types de fichiers pertinents pour la création de logiciels se trouvent dans la catégorie Developer Files.</description>
-    </item>
-    
-    <item>
       <title>La liste complète des extensions de fichier de mise en page</title>
       <link>https://fileformats.org/fr/categories/page-layout-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 02:48:24 +0000</pubDate>
       
       <guid>https://fileformats.org/fr/categories/page-layout-file-extensions/</guid>
       <description>Les documents connus sous le nom de fichiers de mise en page peuvent contenir à la fois des informations de texte et d&amp;rsquo;image.</description>
     </item>
     
     <item>
-      <title>La liste complète des extensions de fichiers codés</title>
-      <link>https://fileformats.org/fr/categories/encoded-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>La liste complète des extensions de fichier de développeur</title>
+      <link>https://fileformats.org/fr/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:11 +0000</pubDate>
       
-      <guid>https://fileformats.org/fr/categories/encoded-file-extensions/</guid>
-      <description>Les fichiers qui utilisent une méthode d&amp;rsquo;encodage pour enregistrer leur contenu sont dits &amp;rsquo;encodés&#39;.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers compressés</title>
-      <link>https://fileformats.org/fr/categories/compressed-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/compressed-file-extensions/</guid>
-      <description>L&amp;rsquo;économie d&amp;rsquo;espace sur votre disque dur est l&amp;rsquo;une des principales raisons pour lesquelles les fichiers compressés existent.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers d&#39;image de caméra</title>
-      <link>https://fileformats.org/fr/categories/camera-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/camera-image-file-extensions/</guid>
-      <description>Les fichiers bruts d&amp;rsquo;image de l&amp;rsquo;appareil photo sont stockés dans un format brut qui conserve toutes les informations enregistrées par le capteur de l&amp;rsquo;appareil photo.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers de données</title>
-      <link>https://fileformats.org/fr/categories/data-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/data-file-extensions/</guid>
-      <description>Les bases de données, les projets et les documents enregistrés sont tous des types de fichiers de données.</description>
-    </item>
-    
-    <item>
-      <title>La liste complète des extensions de fichiers plugins</title>
-      <link>https://fileformats.org/fr/categories/plugin-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/fr/categories/plugin-file-extensions/</guid>
-      <description>Les programmes existants peuvent bénéficier de fonctionnalités et de fonctionnalités supplémentaires en utilisant des fichiers de plug-in.</description>
+      <guid>https://fileformats.org/fr/categories/developer-file-extensions/</guid>
+      <description>Les types de fichiers pertinents pour la création de logiciels se trouvent dans la catégorie Developer Files.</description>
     </item>
     
   </channel>

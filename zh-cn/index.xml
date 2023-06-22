@@ -6,7 +6,151 @@
     <description>Recent content in FileFormats - 互联网上最准确的文件扩展信息站点 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:35 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是SITX文件（StuffIt X存档）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/stuffit-x-archive/</guid>
+      <description>StuffIt X存档</description>
+    </item>
+    
+    <item>
+      <title>GZ文件（Gnu压缩归档）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/gnu-zipped-archive/</guid>
+      <description>Gnu压缩归档</description>
+    </item>
+    
+    <item>
+      <title>什么是 7Z 文件（7-Zip 压缩文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip 压缩文件</description>
+    </item>
+    
+    <item>
+      <title>RAR文件是什么（WinRAR压缩存档）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/winrar-compressed-archive/</guid>
+      <description>WinRAR压缩存档</description>
+    </item>
+    
+    <item>
+      <title>什么是ZIP文件（压缩文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/zipped-file/</guid>
+      <description>压缩文件</description>
+    </item>
+    
+    <item>
+      <title>什么是DNG文件（数字底片图像文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/digital-negative-image-file/</guid>
+      <description>数字底片图像文件</description>
+    </item>
+    
+    <item>
+      <title>什么是EIP文件（增强图像包文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/enhanced-image-package-file/</guid>
+      <description>增强图像包文件</description>
+    </item>
+    
+    <item>
+      <title>什么是RWZ文件（Rawzor压缩图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor压缩图像</description>
+    </item>
+    
+    <item>
+      <title>什么是ARW文件（索尼数码相机图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:02:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/sony-digital-camera-image/</guid>
+      <description>索尼数码相机图像</description>
+    </item>
+    
+    <item>
+      <title>什么是NEF文件（尼康电子格式原始图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>尼康电子格式原始图像</description>
+    </item>
+    
+    <item>
+      <title>NRW文件（尼康原始图像文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/nikon-raw-image-file/</guid>
+      <description>尼康原始图像文件</description>
+    </item>
+    
+    <item>
+      <title>什么是RW2文件（松下原始图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/panasonic-raw-image/</guid>
+      <description>松下原始图像</description>
+    </item>
+    
+    <item>
+      <title>RAF文件（富士原始图像文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/fuji-raw-image-file/</guid>
+      <description>富士原始图像文件</description>
+    </item>
+    
+    <item>
+      <title>什么是ERF文件（爱普生原始文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/epson-raw-file/</guid>
+      <description>爱普生原始文件</description>
+    </item>
+    
+    <item>
+      <title>CR2文件（佳能RAW图像文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/canon-raw-image-file/</guid>
+      <description>佳能RAW图像文件</description>
+    </item>
+    
+    <item>
+      <title>MCX文件是什么（MICRO CADAM-X/6000模型数据文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>MICRO CADAM-X/6000模型数据文件</description>
+    </item>
+    
     <item>
       <title>什么是 TCT 文件（TurboCAD 设计模板）？</title>
       <link>https://fileformats.org/zh-cn/file-types/turbocad-drawing-template/</link>
@@ -35,6 +179,15 @@
     </item>
     
     <item>
+      <title>什么是PSM文件（Solid Edge钣金文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Solid Edge钣金文件</description>
+    </item>
+    
+    <item>
       <title>什么是 DLV 文件（CATIA 4 导出文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:14 +0000</pubDate>
@@ -44,12 +197,66 @@
     </item>
     
     <item>
+      <title>什么是EPF文件（EAGLE项目）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/eagle-project/</guid>
+      <description>EAGLE项目</description>
+    </item>
+    
+    <item>
+      <title>IBA 文件（Lectra 服装设计件文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectra 服装设计件文件</description>
+    </item>
+    
+    <item>
+      <title>什么是OPT文件（Opterecenja文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/opterecenja-file/</guid>
+      <description>Opterecenja文件</description>
+    </item>
+    
+    <item>
       <title>什么是 BDC 文件（West Point Bridge Designer 设计文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/west-point-bridge-designer-design-file/</link>
       <pubDate>Mon, 26 Dec 2022 17:12:17 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/file-types/west-point-bridge-designer-design-file/</guid>
       <description>West Point Bridge Designer 设计文件</description>
+    </item>
+    
+    <item>
+      <title>什么是FBW文件（HP Recovery Manager备份文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>HP Recovery Manager备份文件</description>
+    </item>
+    
+    <item>
+      <title>NMM文件（三星备忘录文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:07:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/samsung-memo-file/</guid>
+      <description>三星备忘录文件</description>
+    </item>
+    
+    <item>
+      <title>DSB文件（Dell DataSafe备份文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:39 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/dell-datasafe-backup-file/</guid>
+      <description>Dell DataSafe备份文件</description>
     </item>
     
     <item>
@@ -80,6 +287,15 @@
     </item>
     
     <item>
+      <title>什么是NPF文件（NTI分区文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/nti-partition-file/</guid>
+      <description>NTI分区文件</description>
+    </item>
+    
+    <item>
       <title>什么是 SPG 文件（TCP Optimizer 备份文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:04 +0000</pubDate>
@@ -98,12 +314,39 @@
     </item>
     
     <item>
+      <title>什么是 BKZ 文件（FileFort 备份文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:29:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/filefort-backup-file/</guid>
+      <description>FileFort 备份文件</description>
+    </item>
+    
+    <item>
       <title>什么是 UST 文件（UTAU 序列文本文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/utau-sequence-text-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:50:23 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/file-types/utau-sequence-text-file/</guid>
       <description>UTAU 序列文本文件</description>
+    </item>
+    
+    <item>
+      <title>什么是MUI文件（Myriad用户仪器文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/myriad-user-instrument-file/</guid>
+      <description>Myriad用户仪器文件</description>
+    </item>
+    
+    <item>
+      <title>什么是COPY文件（Sony Ericsson受保护的内容文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Sony Ericsson受保护的内容文件</description>
     </item>
     
     <item>
@@ -158,6 +401,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/ensoniq-sq-80-file/</guid>
       <description>Ensoniq SQ-80 文件</description>
+    </item>
+    
+    <item>
+      <title>什么是MTM文件（MultiTracker模块）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/multitracker-module/</guid>
+      <description>MultiTracker模块</description>
     </item>
     
     <item>
@@ -251,12 +503,57 @@
     </item>
     
     <item>
+      <title>什么是SPD文件（SPSS可移植数据文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/spss-portable-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/spss-portable-data-file/</guid>
+      <description>SPSS可移植数据文件</description>
+    </item>
+    
+    <item>
+      <title>什么是SPD文件（密封的Acrobat文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:42:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/sealed-acrobat-document/</guid>
+      <description>密封的Acrobat文件</description>
+    </item>
+    
+    <item>
       <title>什么是SPD文件（Form·Z渲染文件暂停）？</title>
       <link>https://fileformats.org/zh-cn/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:11 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/file-types/form-z-suspended-render-file/</guid>
       <description>Form·Z渲染文件暂停</description>
+    </item>
+    
+    <item>
+      <title>什么是 SPD 文件（S Note 文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/s-note-file/</guid>
+      <description>S Note 文件</description>
+    </item>
+    
+    <item>
+      <title>什么是PDEX文件（Orient计算机加密数据文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>Orient计算机加密数据文件</description>
+    </item>
+    
+    <item>
+      <title>什么是PDF文件（便携式文档格式文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/portable-document-format-file/</link>
+      <pubDate>Tue, 13 Dec 2022 02:48:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/portable-document-format-file/</guid>
+      <description>便携式文档格式文件</description>
     </item>
     
     <item>

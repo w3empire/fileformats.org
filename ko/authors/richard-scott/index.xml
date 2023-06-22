@@ -6,7 +6,43 @@
     <description>Recent content in FileFormats에 대한 Richard Scott의 모든 기사 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:33 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:25:48 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GZ 파일 (Gnu 압축 아카이브)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/gnu-zipped-archive/</guid>
+      <description>Gnu 압축 아카이브</description>
+    </item>
+    
+    <item>
+      <title>ZIP 파일(압축 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/zipped-file/</guid>
+      <description>압축 파일</description>
+    </item>
+    
+    <item>
+      <title>ARW 파일이란 무엇인가요 (소니 디지털 카메라 이미지)?</title>
+      <link>https://fileformats.org/ko/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:02:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/sony-digital-camera-image/</guid>
+      <description>소니 디지털 카메라 이미지</description>
+    </item>
+    
+    <item>
+      <title>NEF 파일 (니콘 전자 형식 원본 이미지)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>니콘 전자 형식 원본 이미지입니다</description>
+    </item>
+    
     <item>
       <title>TCT 파일(TurboCAD 설계 템플릿)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/turbocad-drawing-template/</link>
@@ -14,6 +50,24 @@
       
       <guid>https://fileformats.org/ko/file-types/turbocad-drawing-template/</guid>
       <description>TurboCAD 설계 템플릿</description>
+    </item>
+    
+    <item>
+      <title>EPF 파일 (EAGLE 프로젝트)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/eagle-project/</guid>
+      <description>EAGLE 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>IBA 파일(Lectra 의류 디자인 조각 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectra 의류 디자인 조각 파일</description>
     </item>
     
     <item>
@@ -41,6 +95,15 @@
       
       <guid>https://fileformats.org/ko/file-types/tcp-optimizer-backup-file/</guid>
       <description>TCP Optimizer 백업 파일</description>
+    </item>
+    
+    <item>
+      <title>COPY 파일 (Sony Ericsson 보호된 콘텐츠 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Sony Ericsson 보호된 콘텐츠 파일</description>
     </item>
     
     <item>
@@ -104,6 +167,15 @@
       
       <guid>https://fileformats.org/ko/file-types/houdini-apprentice-file/</guid>
       <description>Houdini Apprentice 프로그램 파일</description>
+    </item>
+    
+    <item>
+      <title>PDEX 파일 (오리엔트 컴퓨터 암호화 데이터 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:39 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>오리엔트 컴퓨터 암호화 데이터 파일입니다</description>
     </item>
     
     <item>

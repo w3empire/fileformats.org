@@ -6,7 +6,151 @@
     <description>Recent content in A lista completa de todas as extensões, formatos e significados de arquivos on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:27 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:21 +0000</lastBuildDate><atom:link href="https://fileformats.org/pt/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O que é um arquivo SITX (arquivo StuffIt X)?</title>
+      <link>https://fileformats.org/pt/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/stuffit-x-archive/</guid>
+      <description>Arquivo StuffIt X</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo GZ (arquivo compactado Gnu)?</title>
+      <link>https://fileformats.org/pt/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:43 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/gnu-zipped-archive/</guid>
+      <description>Arquivo compactado Gnu</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo 7Z (arquivo compactado 7-Zip)?</title>
+      <link>https://fileformats.org/pt/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/7-zip-compressed-file/</guid>
+      <description>Arquivo compactado 7-Zip</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo RAR (arquivo compactado do WinRAR)?</title>
+      <link>https://fileformats.org/pt/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/winrar-compressed-archive/</guid>
+      <description>Arquivo compactado do WinRAR</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo ZIP (arquivo compactado)?</title>
+      <link>https://fileformats.org/pt/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/zipped-file/</guid>
+      <description>Arquivo compactado</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo DNG (arquivo de imagem negativa digital)?</title>
+      <link>https://fileformats.org/pt/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/digital-negative-image-file/</guid>
+      <description>Arquivo de imagem negativa digital</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo EIP (Arquivo de pacote de imagem aprimorada)?</title>
+      <link>https://fileformats.org/pt/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/enhanced-image-package-file/</guid>
+      <description>Arquivo de pacote de imagem aprimorada</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo RWZ (imagem comprimida pelo Rawzor)?</title>
+      <link>https://fileformats.org/pt/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/rawzor-compressed-image/</guid>
+      <description>Imagem comprimida pelo Rawzor</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo ARW (imagem de câmera digital Sony)?</title>
+      <link>https://fileformats.org/pt/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:01:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/sony-digital-camera-image/</guid>
+      <description>Imagem de câmera digital Sony</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo NEF (Imagem bruta em formato eletrônico da Nikon)?</title>
+      <link>https://fileformats.org/pt/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>Imagem bruta em formato eletrônico da Nikon</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo NRW (Arquivo de imagem bruta da Nikon)?</title>
+      <link>https://fileformats.org/pt/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:03 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/nikon-raw-image-file/</guid>
+      <description>Arquivo de imagem bruta da Nikon</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo RW2 (Imagem bruta da Panasonic)?</title>
+      <link>https://fileformats.org/pt/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/panasonic-raw-image/</guid>
+      <description>Imagem bruta da Panasonic</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo RAF (arquivo de imagem raw da Fuji)?</title>
+      <link>https://fileformats.org/pt/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/fuji-raw-image-file/</guid>
+      <description>Arquivo de imagem raw da Fuji</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo ERF (Arquivo bruto da Epson)?</title>
+      <link>https://fileformats.org/pt/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/epson-raw-file/</guid>
+      <description>Arquivo bruto da Epson</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo CR2 (Arquivo de imagem bruta da Canon)?</title>
+      <link>https://fileformats.org/pt/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/canon-raw-image-file/</guid>
+      <description>Arquivo de imagem bruta da Canon</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo MCX (arquivo de dados de modelo MICRO CADAM-X/6000)?</title>
+      <link>https://fileformats.org/pt/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>Arquivo de dados do modelo MICRO CADAM-X/6000</description>
+    </item>
+    
     <item>
       <title>O que é um arquivo TCT (Modelo de desenho do turbocad)?</title>
       <link>https://fileformats.org/pt/file-types/turbocad-drawing-template/</link>
@@ -35,6 +179,15 @@
     </item>
     
     <item>
+      <title>O que é um arquivo PSM (Arquivo de chapa metálica do Solid Edge)?</title>
+      <link>https://fileformats.org/pt/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Arquivo de chapa metálica do Solid Edge</description>
+    </item>
+    
+    <item>
       <title>O que é um arquivo DLV (Arquivo de exportação do CATIA 4)?</title>
       <link>https://fileformats.org/pt/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:05 +0000</pubDate>
@@ -44,12 +197,66 @@
     </item>
     
     <item>
+      <title>O que é um arquivo EPF (Projeto EAGLE)?</title>
+      <link>https://fileformats.org/pt/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/eagle-project/</guid>
+      <description>Projeto EAGLE</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo IBA (arquivo de peças de design de roupas da Lectra)?</title>
+      <link>https://fileformats.org/pt/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Arquivo de peças de design de roupas da Lectra</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo OPT (Arquivo de Opterecenja)?</title>
+      <link>https://fileformats.org/pt/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/opterecenja-file/</guid>
+      <description>Arquivo de Opterecenja</description>
+    </item>
+    
+    <item>
       <title>O que é um arquivo BDC (Arquivo de Design do West Point Bridge Designer)?</title>
       <link>https://fileformats.org/pt/file-types/west-point-bridge-designer-design-file/</link>
       <pubDate>Mon, 26 Dec 2022 17:12:07 +0000</pubDate>
       
       <guid>https://fileformats.org/pt/file-types/west-point-bridge-designer-design-file/</guid>
       <description>Arquivo de Design do West Point Bridge Designer</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo FBW (Arquivo de backup do HP Recovery Manager)?</title>
+      <link>https://fileformats.org/pt/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>Arquivo de backup do HP Recovery Manager</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo NMM (Arquivo de memorando da Samsung)?</title>
+      <link>https://fileformats.org/pt/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/samsung-memo-file/</guid>
+      <description>Arquivo de memorando da Samsung</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo DSB (arquivo de backup do Dell DataSafe)?</title>
+      <link>https://fileformats.org/pt/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/dell-datasafe-backup-file/</guid>
+      <description>Arquivo de backup do Dell DataSafe</description>
     </item>
     
     <item>
@@ -80,6 +287,15 @@
     </item>
     
     <item>
+      <title>O que é um arquivo NPF (Arquivo de partição NTI)?</title>
+      <link>https://fileformats.org/pt/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:25:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/nti-partition-file/</guid>
+      <description>Arquivo de partição NTI</description>
+    </item>
+    
+    <item>
       <title>O que é um arquivo SPG (Arquivo de backup do TCP Optimizer)?</title>
       <link>https://fileformats.org/pt/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:09:49 +0000</pubDate>
@@ -98,12 +314,39 @@
     </item>
     
     <item>
+      <title>O que é um arquivo BKZ (arquivo de backup do FileFort)?</title>
+      <link>https://fileformats.org/pt/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:28:53 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/filefort-backup-file/</guid>
+      <description>Arquivo de backup do FileFort</description>
+    </item>
+    
+    <item>
       <title>O que é um arquivo UST (Arquivo de Texto de Sequência UTAU)?</title>
       <link>https://fileformats.org/pt/file-types/utau-sequence-text-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:50:16 +0000</pubDate>
       
       <guid>https://fileformats.org/pt/file-types/utau-sequence-text-file/</guid>
       <description>Arquivo de texto de sequência do UTAU</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo MUI (arquivo de instrumento do usuário Myriad)?</title>
+      <link>https://fileformats.org/pt/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/myriad-user-instrument-file/</guid>
+      <description>Arquivo de instrumento do usuário Myriad</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo COPY (arquivo de conteúdo protegido Sony Ericsson)?</title>
+      <link>https://fileformats.org/pt/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Arquivo de conteúdo protegido Sony Ericsson</description>
     </item>
     
     <item>
@@ -158,6 +401,15 @@
       
       <guid>https://fileformats.org/pt/file-types/ensoniq-sq-80-file/</guid>
       <description>Arquivo Ensoniq SQ-80</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo MTM (Módulo de Multirrastreamento)?</title>
+      <link>https://fileformats.org/pt/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/multitracker-module/</guid>
+      <description>Módulo de Multirrastreamento</description>
     </item>
     
     <item>
@@ -251,12 +503,57 @@
     </item>
     
     <item>
+      <title>O que é um arquivo SPD (arquivo de dados portátil do SPSS)?</title>
+      <link>https://fileformats.org/pt/file-types/spss-portable-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/spss-portable-data-file/</guid>
+      <description>Arquivo de dados portátil do SPSS</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo SPD (Documento lacrado do Acrobat)?</title>
+      <link>https://fileformats.org/pt/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/sealed-acrobat-document/</guid>
+      <description>Documento lacrado do Acrobat</description>
+    </item>
+    
+    <item>
       <title>O que é um arquivo SPD (Arquivo de renderização do Form·Z pausado)?</title>
       <link>https://fileformats.org/pt/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:03 +0000</pubDate>
       
       <guid>https://fileformats.org/pt/file-types/form-z-suspended-render-file/</guid>
       <description>Arquivo de renderização do Form·Z pausado</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo SPD (Arquivo S Note)?</title>
+      <link>https://fileformats.org/pt/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/s-note-file/</guid>
+      <description>Arquivo S Note</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo PDEX (arquivo de dados criptografados do computador Orient)?</title>
+      <link>https://fileformats.org/pt/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>Arquivo de dados criptografados do computador Orient</description>
+    </item>
+    
+    <item>
+      <title>O que é um arquivo PDF (Arquivo de formato de documento portátil)?</title>
+      <link>https://fileformats.org/pt/file-types/portable-document-format-file/</link>
+      <pubDate>Tue, 13 Dec 2022 02:48:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/pt/file-types/portable-document-format-file/</guid>
+      <description>Arquivo de formato de documento portátil</description>
     </item>
     
     <item>

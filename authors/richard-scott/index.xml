@@ -6,7 +6,70 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Feb 2023 19:08:12 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 12:18:06 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an NCOR file (Adobe Encore Project File)?</title>
+      <link>https://fileformats.org/file-types/adobe-encore-project-file/</link>
+      <pubDate>Thu, 22 Jun 2023 12:18:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/adobe-encore-project-file/</guid>
+      <description>Adobe Encore Project File</description>
+    </item>
+    
+    <item>
+      <title>What is an HDMOV file (QuickTime HD Movie File)?</title>
+      <link>https://fileformats.org/file-types/quicktime-hd-movie-file/</link>
+      <pubDate>Thu, 22 Jun 2023 11:32:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/quicktime-hd-movie-file/</guid>
+      <description>QuickTime HD Movie File</description>
+    </item>
+    
+    <item>
+      <title>What is a CAMPROJ file (Camtasia Studio Project)?</title>
+      <link>https://fileformats.org/file-types/camtasia-studio-project/</link>
+      <pubDate>Thu, 22 Jun 2023 09:40:46 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/camtasia-studio-project/</guid>
+      <description>Camtasia Studio Project</description>
+    </item>
+    
+    <item>
+      <title>What is an FLV file (Flash Video)?</title>
+      <link>https://fileformats.org/file-types/flash-video/</link>
+      <pubDate>Mon, 12 Jun 2023 13:34:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/flash-video/</guid>
+      <description>Flash Video</description>
+    </item>
+    
+    <item>
+      <title>What is a MOV file (Apple QuickTime Movie)?</title>
+      <link>https://fileformats.org/file-types/apple-quicktime-movie/</link>
+      <pubDate>Mon, 12 Jun 2023 12:43:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/apple-quicktime-movie/</guid>
+      <description>Apple QuickTime Movie</description>
+    </item>
+    
+    <item>
+      <title>What is an MP4 file (MPEG-4 Video File)?</title>
+      <link>https://fileformats.org/file-types/mpeg-4-video-file/</link>
+      <pubDate>Sun, 11 Jun 2023 21:16:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/mpeg-4-video-file/</guid>
+      <description>MPEG-4 Video File</description>
+    </item>
+    
+    <item>
+      <title>What is an MPG file (MPEG Video File)?</title>
+      <link>https://fileformats.org/file-types/mpeg-video-file/</link>
+      <pubDate>Sun, 11 Jun 2023 19:52:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/mpeg-video-file/</guid>
+      <description>MPEG Video File</description>
+    </item>
+    
     <item>
       <title>What is an ICE file (ICE File Archive)?</title>
       <link>https://fileformats.org/file-types/ice-file-archive/</link>

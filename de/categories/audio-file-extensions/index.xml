@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>Was ist eine MUI-Datei (Myriad-Benutzerinstrument-Datei)?</title>
+      <link>https://fileformats.org/de/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/file-types/myriad-user-instrument-file/</guid>
+      <description>Myriad-Benutzerinstrument-Datei</description>
+    </item>
+    
+    <item>
+      <title>Was ist eine COPY-Datei (geschützte Sony Ericsson-Inhaltsdatei)?</title>
+      <link>https://fileformats.org/de/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Geschützte Sony Ericsson-Inhaltsdatei</description>
+    </item>
+    
+    <item>
       <title>Was ist eine WPROJ-Datei (Wwise-Projektdatei)?</title>
       <link>https://fileformats.org/de/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:22 +0000</pubDate>
@@ -68,6 +86,15 @@
       
       <guid>https://fileformats.org/de/file-types/ensoniq-sq-80-file/</guid>
       <description>Ensoniq SQ-80-Datei</description>
+    </item>
+    
+    <item>
+      <title>Was ist eine MTM-Datei (MultiTracker-Modul)?</title>
+      <link>https://fileformats.org/de/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/file-types/multitracker-module/</guid>
+      <description>MultiTracker-Modul</description>
     </item>
     
   </channel>

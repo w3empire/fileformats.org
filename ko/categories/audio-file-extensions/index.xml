@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>MUI 파일(Myriad 사용자 악기 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/myriad-user-instrument-file/</guid>
+      <description>Myriad 사용자 악기 파일</description>
+    </item>
+    
+    <item>
+      <title>COPY 파일 (Sony Ericsson 보호된 콘텐츠 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Sony Ericsson 보호된 콘텐츠 파일</description>
+    </item>
+    
+    <item>
       <title>WPROJ 파일(Wwise 프로젝트 파일)이란 무엇인가요?</title>
       <link>https://fileformats.org/ko/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:19 +0000</pubDate>
@@ -68,6 +86,15 @@
       
       <guid>https://fileformats.org/ko/file-types/ensoniq-sq-80-file/</guid>
       <description>Ensoniq SQ-80 파일</description>
+    </item>
+    
+    <item>
+      <title>MTM 파일 (MultiTracker 모듈)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/multitracker-module/</guid>
+      <description>MultiTracker 모듈</description>
     </item>
     
   </channel>

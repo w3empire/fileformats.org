@@ -5,6 +5,61 @@
     <link>https://fileformats.org/ko/categories/compressed-file-extensions/</link>
     <description>Recent content in 압축 파일 확장자의 전체 목록 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ko/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:28 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SITX 파일 (StuffIt X 아카이브)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/stuffit-x-archive/</guid>
+      <description>StuffIt X 아카이브</description>
+    </item>
+    
+    <item>
+      <title>GZ 파일 (Gnu 압축 아카이브)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/gnu-zipped-archive/</guid>
+      <description>Gnu 압축 아카이브</description>
+    </item>
+    
+    <item>
+      <title>7Z 파일(7-Zip 압축 파일)이란 무엇입니까?</title>
+      <link>https://fileformats.org/ko/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip 압축 파일</description>
+    </item>
+    
+    <item>
+      <title>RAR 파일 (WinRAR 압축 아카이브)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/winrar-compressed-archive/</guid>
+      <description>WinRAR 압축 아카이브</description>
+    </item>
+    
+    <item>
+      <title>ZIP 파일(압축 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/zipped-file/</guid>
+      <description>압축 파일</description>
+    </item>
+    
+    <item>
+      <title>SPD 파일(S Note 파일)이란?</title>
+      <link>https://fileformats.org/ko/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/s-note-file/</guid>
+      <description>S Note 파일</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,11 +6,29 @@
     <description>Recent content in Die vollständige Liste aller Dateierweiterungs- und Dateitypkategorien on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:31 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die vollständige Liste der komprimierten Dateierweiterungen</title>
+      <link>https://fileformats.org/de/categories/compressed-file-extensions/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/categories/compressed-file-extensions/</guid>
+      <description>Das Einsparen von Speicherplatz auf Ihrer Festplatte ist einer der Hauptgründe, warum komprimierte Dateien existieren.</description>
+    </item>
+    
+    <item>
+      <title>Die vollständige Liste der Dateierweiterungen für Kamerabilder</title>
+      <link>https://fileformats.org/de/categories/camera-image-file-extensions/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/categories/camera-image-file-extensions/</guid>
+      <description>Kamerabild-Rohdateien werden in einem Rohformat gespeichert, das alle Informationen enthält, die der Sensor der Kamera aufgezeichnet hat.</description>
+    </item>
+    
     <item>
       <title>Die vollständige Liste der Cad-Dateierweiterungen</title>
       <link>https://fileformats.org/de/categories/cad-file-extensions/</link>
-      <pubDate>Tue, 27 Dec 2022 17:37:37 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 17:47:58 +0000</pubDate>
       
       <guid>https://fileformats.org/de/categories/cad-file-extensions/</guid>
       <description>CAD-Dateien (Computer Aided Design) können entweder zweidimensionale oder dreidimensionale Modelle enthalten.</description>
@@ -19,10 +37,19 @@
     <item>
       <title>Die vollständige Liste der Backup-Dateierweiterungen</title>
       <link>https://fileformats.org/de/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 14:21:43 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 16:46:21 +0000</pubDate>
       
       <guid>https://fileformats.org/de/categories/backup-file-extensions/</guid>
       <description>Sicherungskopien einzelner Dateien und Daten zu Sicherungsprogrammen sind beide im Abschnitt Sicherungsdateien enthalten.</description>
+    </item>
+    
+    <item>
+      <title>Die vollständige Liste der Datendateierweiterungen</title>
+      <link>https://fileformats.org/de/categories/data-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 15:07:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/categories/data-file-extensions/</guid>
+      <description>Datenbanken, Projekte und gespeicherte Dokumente sind alle Arten von Datendateien.</description>
     </item>
     
     <item>
@@ -44,6 +71,24 @@
     </item>
     
     <item>
+      <title>Die vollständige Liste der Plugin-Dateierweiterungen</title>
+      <link>https://fileformats.org/de/categories/plugin-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/categories/plugin-file-extensions/</guid>
+      <description>Vorhandene Programme können durch die Verwendung von Plugin-Dateien von zusätzlichen Features und Funktionen profitieren.</description>
+    </item>
+    
+    <item>
+      <title>Die vollständige Liste der verschlüsselten Dateierweiterungen</title>
+      <link>https://fileformats.org/de/categories/encoded-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:42:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/categories/encoded-file-extensions/</guid>
+      <description>Dateien, die eine Verschlüsselungsmethode verwenden, um ihren Inhalt zu speichern, werden als „codiert“ bezeichnet.</description>
+    </item>
+    
+    <item>
       <title>Liste verschiedener Dateierweiterungen</title>
       <link>https://fileformats.org/de/categories/misc-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:12 +0000</pubDate>
@@ -53,66 +98,21 @@
     </item>
     
     <item>
-      <title>Die vollständige Liste der Entwickler-Dateierweiterungen</title>
-      <link>https://fileformats.org/de/categories/developer-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 02:15:18 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/categories/developer-file-extensions/</guid>
-      <description>Dateitypen, die für die Erstellung von Software relevant sind, finden Sie in der Kategorie Entwicklerdateien.</description>
-    </item>
-    
-    <item>
-      <title>Die vollständige Liste der Dateierweiterungen für Kamerabilder</title>
-      <link>https://fileformats.org/de/categories/camera-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/categories/camera-image-file-extensions/</guid>
-      <description>Kamerabild-Rohdateien werden in einem Rohformat gespeichert, das alle Informationen enthält, die der Sensor der Kamera aufgezeichnet hat.</description>
-    </item>
-    
-    <item>
-      <title>Die vollständige Liste der Datendateierweiterungen</title>
-      <link>https://fileformats.org/de/categories/data-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/categories/data-file-extensions/</guid>
-      <description>Datenbanken, Projekte und gespeicherte Dokumente sind alle Arten von Datendateien.</description>
-    </item>
-    
-    <item>
-      <title>Die vollständige Liste der komprimierten Dateierweiterungen</title>
-      <link>https://fileformats.org/de/categories/compressed-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/categories/compressed-file-extensions/</guid>
-      <description>Das Einsparen von Speicherplatz auf Ihrer Festplatte ist einer der Hauptgründe, warum komprimierte Dateien existieren.</description>
-    </item>
-    
-    <item>
-      <title>Die vollständige Liste der Plugin-Dateierweiterungen</title>
-      <link>https://fileformats.org/de/categories/plugin-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/categories/plugin-file-extensions/</guid>
-      <description>Vorhandene Programme können durch die Verwendung von Plugin-Dateien von zusätzlichen Features und Funktionen profitieren.</description>
-    </item>
-    
-    <item>
       <title>Die vollständige Liste der Seitenlayout-Dateierweiterungen</title>
       <link>https://fileformats.org/de/categories/page-layout-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 02:48:32 +0000</pubDate>
       
       <guid>https://fileformats.org/de/categories/page-layout-file-extensions/</guid>
       <description>Als Seitenlayoutdateien bezeichnete Dokumente können gleichzeitig Text- und Bildinformationen enthalten.</description>
     </item>
     
     <item>
-      <title>Die vollständige Liste der verschlüsselten Dateierweiterungen</title>
-      <link>https://fileformats.org/de/categories/encoded-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Die vollständige Liste der Entwickler-Dateierweiterungen</title>
+      <link>https://fileformats.org/de/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:18 +0000</pubDate>
       
-      <guid>https://fileformats.org/de/categories/encoded-file-extensions/</guid>
-      <description>Dateien, die eine Verschlüsselungsmethode verwenden, um ihren Inhalt zu speichern, werden als „codiert“ bezeichnet.</description>
+      <guid>https://fileformats.org/de/categories/developer-file-extensions/</guid>
+      <description>Dateitypen, die für die Erstellung von Software relevant sind, finden Sie in der Kategorie Entwicklerdateien.</description>
     </item>
     
   </channel>

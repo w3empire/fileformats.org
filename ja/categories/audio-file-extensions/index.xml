@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>MUIファイル（マイリアドユーザーインストゥルメントファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/myriad-user-instrument-file/</guid>
+      <description>マイリアドユーザーインストゥルメントファイル</description>
+    </item>
+    
+    <item>
+      <title>COPYファイル（ソニーエリクソン保護コンテンツファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>ソニーエリクソン保護コンテンツファイル</description>
+    </item>
+    
+    <item>
       <title>WPROJ ファイル (Wwiseプロジェクトファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:18 +0000</pubDate>
@@ -68,6 +86,15 @@
       
       <guid>https://fileformats.org/ja/file-types/ensoniq-sq-80-file/</guid>
       <description>Ensoniq SQ-80 ファイル</description>
+    </item>
+    
+    <item>
+      <title>MTMファイル（MultiTrackerモジュール）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/multitracker-module/</guid>
+      <description>MultiTrackerモジュール</description>
     </item>
     
   </channel>

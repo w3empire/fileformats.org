@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>Что такое файл MUI (файл инструмента Myriad пользователя)?</title>
+      <link>https://fileformats.org/ru/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/myriad-user-instrument-file/</guid>
+      <description>Файл инструмента Myriad пользователя</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл COPY (файл с защищенным контентом Sony Ericsson)?</title>
+      <link>https://fileformats.org/ru/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Файл с защищенным контентом Sony Ericsson</description>
+    </item>
+    
+    <item>
       <title>Что такое файл WPROJ (Файл проекта Wwise)?</title>
       <link>https://fileformats.org/ru/file-types/wwise-project-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:20:20 +0000</pubDate>
@@ -68,6 +86,15 @@
       
       <guid>https://fileformats.org/ru/file-types/ensoniq-sq-80-file/</guid>
       <description>Файл Ensoniq SQ-80</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл MTM (модуль MultiTracker)?</title>
+      <link>https://fileformats.org/ru/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:36 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/multitracker-module/</guid>
+      <description>Модуль MultiTracker</description>
     </item>
     
   </channel>

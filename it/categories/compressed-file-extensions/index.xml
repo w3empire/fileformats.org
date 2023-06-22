@@ -5,6 +5,61 @@
     <link>https://fileformats.org/it/categories/compressed-file-extensions/</link>
     <description>Recent content in L&#39;elenco completo delle estensioni dei file compressi on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/it/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cos&#39;è un file SITX (Archivio StuffIt X)?</title>
+      <link>https://fileformats.org/it/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/stuffit-x-archive/</guid>
+      <description>Archivio StuffIt X</description>
+    </item>
+    
+    <item>
+      <title>Cosa è un file GZ (archivio compresso Gnu)?</title>
+      <link>https://fileformats.org/it/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:46 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/gnu-zipped-archive/</guid>
+      <description>Archivio compresso Gnu</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file 7Z (file compresso 7-Zip)?</title>
+      <link>https://fileformats.org/it/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/7-zip-compressed-file/</guid>
+      <description>File compresso 7-Zip</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file RAR (Archivio compresso WinRAR)?</title>
+      <link>https://fileformats.org/it/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/winrar-compressed-archive/</guid>
+      <description>Archivio compresso WinRAR</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file ZIP (File compresso)?</title>
+      <link>https://fileformats.org/it/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/zipped-file/</guid>
+      <description>File compresso</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file SPD (File S Note)?</title>
+      <link>https://fileformats.org/it/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/s-note-file/</guid>
+      <description>File S Note</description>
+    </item>
+    
   </channel>
 </rss>

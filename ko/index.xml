@@ -6,7 +6,151 @@
     <description>Recent content in FileFormats - 인터넷에서 가장 정확한 파일 확장자 정보 사이트 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:33 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:28 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SITX 파일 (StuffIt X 아카이브)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/stuffit-x-archive/</guid>
+      <description>StuffIt X 아카이브</description>
+    </item>
+    
+    <item>
+      <title>GZ 파일 (Gnu 압축 아카이브)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/gnu-zipped-archive/</guid>
+      <description>Gnu 압축 아카이브</description>
+    </item>
+    
+    <item>
+      <title>7Z 파일(7-Zip 압축 파일)이란 무엇입니까?</title>
+      <link>https://fileformats.org/ko/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip 압축 파일</description>
+    </item>
+    
+    <item>
+      <title>RAR 파일 (WinRAR 압축 아카이브)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/winrar-compressed-archive/</guid>
+      <description>WinRAR 압축 아카이브</description>
+    </item>
+    
+    <item>
+      <title>ZIP 파일(압축 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/zipped-file/</guid>
+      <description>압축 파일</description>
+    </item>
+    
+    <item>
+      <title>DNG 파일(디지털 부정 이미지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/digital-negative-image-file/</guid>
+      <description>디지털 부정 이미지 파일</description>
+    </item>
+    
+    <item>
+      <title>EIP 파일 (향상된 이미지 패키지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/enhanced-image-package-file/</guid>
+      <description>향상된 이미지 패키지 파일</description>
+    </item>
+    
+    <item>
+      <title>RWZ 파일 (Rawzor 압축 이미지)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor 압축 이미지</description>
+    </item>
+    
+    <item>
+      <title>ARW 파일이란 무엇인가요 (소니 디지털 카메라 이미지)?</title>
+      <link>https://fileformats.org/ko/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:02:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/sony-digital-camera-image/</guid>
+      <description>소니 디지털 카메라 이미지</description>
+    </item>
+    
+    <item>
+      <title>NEF 파일 (니콘 전자 형식 원본 이미지)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>니콘 전자 형식 원본 이미지입니다</description>
+    </item>
+    
+    <item>
+      <title>NRW 파일 (니콘 RAW 이미지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/nikon-raw-image-file/</guid>
+      <description>니콘 RAW 이미지 파일입니다</description>
+    </item>
+    
+    <item>
+      <title>RW2 파일 (파나소닉 RAW 이미지)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/panasonic-raw-image/</guid>
+      <description>파나소닉 RAW 이미지</description>
+    </item>
+    
+    <item>
+      <title>RAF 파일(후지 RAW 이미지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/fuji-raw-image-file/</guid>
+      <description>후지 RAW 이미지 파일</description>
+    </item>
+    
+    <item>
+      <title>ERF 파일 (Epson 원본 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/epson-raw-file/</guid>
+      <description>Epson 원본 파일</description>
+    </item>
+    
+    <item>
+      <title>CR2 파일 (Canon Raw 이미지 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/canon-raw-image-file/</guid>
+      <description>Canon Raw 이미지 파일.</description>
+    </item>
+    
+    <item>
+      <title>MCX 파일이란 무엇인가요 (MICRO CADAM-X/6000 모델 데이터 파일)?</title>
+      <link>https://fileformats.org/ko/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>MICRO CADAM-X/6000 모델 데이터 파일</description>
+    </item>
+    
     <item>
       <title>TCT 파일(TurboCAD 설계 템플릿)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/turbocad-drawing-template/</link>
@@ -35,6 +179,15 @@
     </item>
     
     <item>
+      <title>PSM 파일(Solid Edge 시트 메탈 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Solid Edge 시트 메탈 파일</description>
+    </item>
+    
+    <item>
       <title>DLV 파일(CATIA 4 내보내기 파일)이란?</title>
       <link>https://fileformats.org/ko/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:11 +0000</pubDate>
@@ -44,12 +197,66 @@
     </item>
     
     <item>
+      <title>EPF 파일 (EAGLE 프로젝트)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/eagle-project/</guid>
+      <description>EAGLE 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>IBA 파일(Lectra 의류 디자인 조각 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectra 의류 디자인 조각 파일</description>
+    </item>
+    
+    <item>
+      <title>OPT 파일 (Opterecenja 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/opterecenja-file/</guid>
+      <description>Opterecenja 파일</description>
+    </item>
+    
+    <item>
       <title>BDC 파일(West Point Bridge Designer 설계 파일)이란?</title>
       <link>https://fileformats.org/ko/file-types/west-point-bridge-designer-design-file/</link>
       <pubDate>Mon, 26 Dec 2022 17:12:14 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/west-point-bridge-designer-design-file/</guid>
       <description>West Point Bridge Designer 설계 파일</description>
+    </item>
+    
+    <item>
+      <title>FBW 파일(HP Recovery Manager 백업 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>HP Recovery Manager 백업 파일</description>
+    </item>
+    
+    <item>
+      <title>NMM 파일(Samsung 메모 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/samsung-memo-file/</guid>
+      <description>Samsung 메모 파일</description>
+    </item>
+    
+    <item>
+      <title>DSB 파일 (Dell DataSafe 백업 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/dell-datasafe-backup-file/</guid>
+      <description>Dell DataSafe 백업 파일</description>
     </item>
     
     <item>
@@ -80,6 +287,15 @@
     </item>
     
     <item>
+      <title>NPF 파일 (NTI 파티션 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/nti-partition-file/</guid>
+      <description>NTI 파티션 파일</description>
+    </item>
+    
+    <item>
       <title>SPG 파일(TCP Optimizer 백업 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:02 +0000</pubDate>
@@ -98,12 +314,39 @@
     </item>
     
     <item>
+      <title>BKZ 파일 (FileFort 백업 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:28:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/filefort-backup-file/</guid>
+      <description>FileFort 백업 파일</description>
+    </item>
+    
+    <item>
       <title>UST 파일(UTAU 시퀀스 텍스트 파일)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/utau-sequence-text-file/</link>
       <pubDate>Sun, 25 Dec 2022 12:50:22 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/utau-sequence-text-file/</guid>
       <description>UTAU 시퀀스 텍스트 파일</description>
+    </item>
+    
+    <item>
+      <title>MUI 파일(Myriad 사용자 악기 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/myriad-user-instrument-file/</guid>
+      <description>Myriad 사용자 악기 파일</description>
+    </item>
+    
+    <item>
+      <title>COPY 파일 (Sony Ericsson 보호된 콘텐츠 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>Sony Ericsson 보호된 콘텐츠 파일</description>
     </item>
     
     <item>
@@ -158,6 +401,15 @@
       
       <guid>https://fileformats.org/ko/file-types/ensoniq-sq-80-file/</guid>
       <description>Ensoniq SQ-80 파일</description>
+    </item>
+    
+    <item>
+      <title>MTM 파일 (MultiTracker 모듈)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/multitracker-module/</guid>
+      <description>MultiTracker 모듈</description>
     </item>
     
     <item>
@@ -251,12 +503,57 @@
     </item>
     
     <item>
+      <title>SPD 파일 (SPSS 이동식 데이터 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/spss-portable-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/spss-portable-data-file/</guid>
+      <description>SPSS 이동식 데이터 파일</description>
+    </item>
+    
+    <item>
+      <title>SPD 파일(봉인된 아크로뱃 문서)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/sealed-acrobat-document/</guid>
+      <description>봉인된 아크로뱃 문서</description>
+    </item>
+    
+    <item>
       <title>SPD 파일(Form·Z 렌더링 파일이 일시 중지됨)이란 무엇입니까?</title>
       <link>https://fileformats.org/ko/file-types/form-z-suspended-render-file/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:09 +0000</pubDate>
       
       <guid>https://fileformats.org/ko/file-types/form-z-suspended-render-file/</guid>
       <description>Form·Z 렌더링 파일이 일시 중지됨</description>
+    </item>
+    
+    <item>
+      <title>SPD 파일(S Note 파일)이란?</title>
+      <link>https://fileformats.org/ko/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/s-note-file/</guid>
+      <description>S Note 파일</description>
+    </item>
+    
+    <item>
+      <title>PDEX 파일 (오리엔트 컴퓨터 암호화 데이터 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:39 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>오리엔트 컴퓨터 암호화 데이터 파일입니다</description>
+    </item>
+    
+    <item>
+      <title>PDF 파일 (휴대용 문서 형식 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/portable-document-format-file/</link>
+      <pubDate>Tue, 13 Dec 2022 02:48:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/portable-document-format-file/</guid>
+      <description>휴대용 문서 형식 파일</description>
     </item>
     
     <item>

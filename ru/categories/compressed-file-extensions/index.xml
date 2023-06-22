@@ -5,6 +5,61 @@
     <link>https://fileformats.org/ru/categories/compressed-file-extensions/</link>
     <description>Recent content in Полный список расширений сжатых файлов on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ru/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/categories/compressed-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что такое файл SITX (архив StuffIt X)?</title>
+      <link>https://fileformats.org/ru/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/stuffit-x-archive/</guid>
+      <description>Архив StuffIt X</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл GZ (архив Gnu сжатия)?</title>
+      <link>https://fileformats.org/ru/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/gnu-zipped-archive/</guid>
+      <description>Архив Gnu сжатия</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл 7Z (7-Zip сжатый файл)?</title>
+      <link>https://fileformats.org/ru/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip сжатый файл</description>
+    </item>
+    
+    <item>
+      <title>Что такое RAR-файл (сжатый архив WinRAR)?</title>
+      <link>https://fileformats.org/ru/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/winrar-compressed-archive/</guid>
+      <description>Сжатый архив WinRAR</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл ZIP (архивированный файл)?</title>
+      <link>https://fileformats.org/ru/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/zipped-file/</guid>
+      <description>Архивированный файл</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл SPD (файл S Note)?</title>
+      <link>https://fileformats.org/ru/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/s-note-file/</guid>
+      <description>файл S Note</description>
+    </item>
+    
   </channel>
 </rss>

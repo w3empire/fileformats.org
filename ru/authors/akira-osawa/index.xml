@@ -6,7 +6,61 @@
     <description>Recent content in Все статьи Акиры Осавы на FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:57:56 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что такое файл SITX (архив StuffIt X)?</title>
+      <link>https://fileformats.org/ru/file-types/stuffit-x-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/stuffit-x-archive/</guid>
+      <description>Архив StuffIt X</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл 7Z (7-Zip сжатый файл)?</title>
+      <link>https://fileformats.org/ru/file-types/7-zip-compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 10:09:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/7-zip-compressed-file/</guid>
+      <description>7-Zip сжатый файл</description>
+    </item>
+    
+    <item>
+      <title>Что такое RAR-файл (сжатый архив WinRAR)?</title>
+      <link>https://fileformats.org/ru/file-types/winrar-compressed-archive/</link>
+      <pubDate>Mon, 09 Jan 2023 16:46:17 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/winrar-compressed-archive/</guid>
+      <description>Сжатый архив WinRAR</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл RWZ (Сжатое изображение Rawzor)?</title>
+      <link>https://fileformats.org/ru/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:40 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/rawzor-compressed-image/</guid>
+      <description>Сжатое изображение Rawzor</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл NRW (файл сырого изображения Nikon)?</title>
+      <link>https://fileformats.org/ru/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/nikon-raw-image-file/</guid>
+      <description>Файл сырого изображения Nikon</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл ERF (файл Epson в формате raw)?</title>
+      <link>https://fileformats.org/ru/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/epson-raw-file/</guid>
+      <description>Файл Epson в формате raw</description>
+    </item>
+    
     <item>
       <title>Что такое файл AFS (Файл проекта STAAD.foundation)?</title>
       <link>https://fileformats.org/ru/file-types/staad-foundation-project-file/</link>
@@ -17,12 +71,39 @@
     </item>
     
     <item>
+      <title>Что такое файл PSM (Файл листового металла Solid Edge)?</title>
+      <link>https://fileformats.org/ru/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:40 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Файл листового металла Solid Edge</description>
+    </item>
+    
+    <item>
       <title>Что такое файл DLV (Экспортный файл CATIA 4)?</title>
       <link>https://fileformats.org/ru/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:13 +0000</pubDate>
       
       <guid>https://fileformats.org/ru/file-types/catia-4-export-file/</guid>
       <description>Экспортный файл CATIA 4</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл OPT (файл Opterecenja)?</title>
+      <link>https://fileformats.org/ru/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/opterecenja-file/</guid>
+      <description>Файл Opterecenja</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл DSB (файл резервной копии Dell DataSafe)?</title>
+      <link>https://fileformats.org/ru/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/dell-datasafe-backup-file/</guid>
+      <description>Файл резервной копии Dell DataSafe</description>
     </item>
     
     <item>
@@ -41,6 +122,24 @@
       
       <guid>https://fileformats.org/ru/file-types/ti-connect-backup-file/</guid>
       <description>Резервный файл TI Connect</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл NPF (файл раздела NTI)?</title>
+      <link>https://fileformats.org/ru/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/nti-partition-file/</guid>
+      <description>Файл раздела NTI</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл BKZ (файл резервной копии FileFort)?</title>
+      <link>https://fileformats.org/ru/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:29:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/filefort-backup-file/</guid>
+      <description>Файл резервной копии FileFort</description>
     </item>
     
     <item>
@@ -68,6 +167,15 @@
       
       <guid>https://fileformats.org/ru/file-types/ensoniq-sq-80-file/</guid>
       <description>Файл Ensoniq SQ-80</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл MTM (модуль MultiTracker)?</title>
+      <link>https://fileformats.org/ru/file-types/multitracker-module/</link>
+      <pubDate>Sat, 24 Dec 2022 11:31:36 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/multitracker-module/</guid>
+      <description>Модуль MultiTracker</description>
     </item>
     
     <item>
@@ -113,6 +221,15 @@
       
       <guid>https://fileformats.org/ru/file-types/form-z-suspended-render-file/</guid>
       <description>Файл рендеринга Form·Z приостановлен</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл PDF (переносимый формат документа)?</title>
+      <link>https://fileformats.org/ru/file-types/portable-document-format-file/</link>
+      <pubDate>Tue, 13 Dec 2022 02:48:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/portable-document-format-file/</guid>
+      <description>Переносимый формат документа</description>
     </item>
     
   </channel>

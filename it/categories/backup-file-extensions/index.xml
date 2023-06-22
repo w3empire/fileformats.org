@@ -6,7 +6,25 @@
     <description>Recent content in L&#39;elenco completo delle estensioni dei file di backup on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 14:21:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 16:46:15 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cos&#39;è un file FBW (File di backup di HP Recovery Manager)?</title>
+      <link>https://fileformats.org/it/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>File di backup di HP Recovery Manager</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file DSB (File di backup Dell DataSafe)?</title>
+      <link>https://fileformats.org/it/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:33 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/dell-datasafe-backup-file/</guid>
+      <description>File di backup Dell DataSafe</description>
+    </item>
+    
     <item>
       <title>Cos&#39;è un file WX (File di backup Wanam Xposed)?</title>
       <link>https://fileformats.org/it/file-types/wanam-xposed-backup-file/</link>
@@ -35,6 +53,15 @@
     </item>
     
     <item>
+      <title>Cos&#39;è un file NPF (File di partizione NTI)?</title>
+      <link>https://fileformats.org/it/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/nti-partition-file/</guid>
+      <description>File di partizione NTI</description>
+    </item>
+    
+    <item>
       <title>Che cos&#39;è un file SPG (File di backup TCP Optimizer)?</title>
       <link>https://fileformats.org/it/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:09:59 +0000</pubDate>
@@ -50,6 +77,15 @@
       
       <guid>https://fileformats.org/it/file-types/automatic-backup-file/</guid>
       <description>File di backup automatico</description>
+    </item>
+    
+    <item>
+      <title>Cosa è un file BKZ (File di backup FileFort)?</title>
+      <link>https://fileformats.org/it/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:28:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/filefort-backup-file/</guid>
+      <description>File di backup FileFort</description>
     </item>
     
     <item>

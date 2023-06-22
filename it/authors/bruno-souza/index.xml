@@ -6,7 +6,61 @@
     <description>Recent content in Tutti gli articoli di Bruno Souza su FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:47:35 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:21 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cos&#39;è un file DNG (File di immagine negativa digitale)?</title>
+      <link>https://fileformats.org/it/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/digital-negative-image-file/</guid>
+      <description>File di immagine negativa digitale</description>
+    </item>
+    
+    <item>
+      <title>Che cos&#39;è un file EIP (File del pacchetto di immagini migliorato)?</title>
+      <link>https://fileformats.org/it/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/enhanced-image-package-file/</guid>
+      <description>File del pacchetto di immagini migliorato</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file RW2 (immagine raw Panasonic)?</title>
+      <link>https://fileformats.org/it/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:53 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/panasonic-raw-image/</guid>
+      <description>Immagine raw Panasonic</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file RAF (file immagine raw Fuji)?</title>
+      <link>https://fileformats.org/it/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/fuji-raw-image-file/</guid>
+      <description>File immagine raw Fuji</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file CR2 (File di immagine Raw Canon)?</title>
+      <link>https://fileformats.org/it/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/canon-raw-image-file/</guid>
+      <description>File di immagine Raw Canon</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file MCX (file di dati del modello MICRO CADAM-X/6000)?</title>
+      <link>https://fileformats.org/it/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>File di dati del modello MICRO CADAM-X/6000</description>
+    </item>
+    
     <item>
       <title>Cos&#39;è un file CPA (File di archivio PCB CADSTAR)?</title>
       <link>https://fileformats.org/it/file-types/cadstar-pcb-archive-file/</link>
@@ -14,6 +68,24 @@
       
       <guid>https://fileformats.org/it/file-types/cadstar-pcb-archive-file/</guid>
       <description>File di archivio PCB CADSTAR</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file FBW (File di backup di HP Recovery Manager)?</title>
+      <link>https://fileformats.org/it/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>File di backup di HP Recovery Manager</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file NMM (File memo di Samsung)?</title>
+      <link>https://fileformats.org/it/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/samsung-memo-file/</guid>
+      <description>File memo di Samsung</description>
     </item>
     
     <item>
@@ -35,6 +107,15 @@
     </item>
     
     <item>
+      <title>Cos&#39;è un file MUI (file di strumento utente Myriad)?</title>
+      <link>https://fileformats.org/it/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/myriad-user-instrument-file/</guid>
+      <description>File di strumento utente Myriad</description>
+    </item>
+    
+    <item>
       <title>Cos&#39;è un file MP3 (file audio MP3)?</title>
       <link>https://fileformats.org/it/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:21 +0000</pubDate>
@@ -50,6 +131,33 @@
       
       <guid>https://fileformats.org/it/file-types/cinema-4d-model-file/</guid>
       <description>File modello Cinema 4D</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file SPD (file dati portatile SPSS)?</title>
+      <link>https://fileformats.org/it/file-types/spss-portable-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/spss-portable-data-file/</guid>
+      <description>File dati portatile SPSS</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file SPD (Documento sigillato di Acrobat)?</title>
+      <link>https://fileformats.org/it/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/sealed-acrobat-document/</guid>
+      <description>Documento sigillato di Acrobat</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file SPD (File S Note)?</title>
+      <link>https://fileformats.org/it/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/s-note-file/</guid>
+      <description>File S Note</description>
     </item>
     
     <item>

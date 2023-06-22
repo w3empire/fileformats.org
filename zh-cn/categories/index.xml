@@ -6,11 +6,29 @@
     <description>Recent content in 所有类别 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:35 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>压缩文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</guid>
+      <description>节省硬盘空间是压缩文件存在的主要原因之一。</description>
+    </item>
+    
+    <item>
+      <title>相机图像文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/camera-image-file-extensions/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/camera-image-file-extensions/</guid>
+      <description>相机图像原始文件以原始格式存储，该格式保留了相机传感器记录的所有信息。</description>
+    </item>
+    
     <item>
       <title>CAD 文件扩展名的完整列表</title>
       <link>https://fileformats.org/zh-cn/categories/cad-file-extensions/</link>
-      <pubDate>Tue, 27 Dec 2022 17:37:35 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 17:47:56 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/categories/cad-file-extensions/</guid>
       <description>计算机辅助设计 (CAD) 文件可能包括二维或三维模型。</description>
@@ -19,10 +37,19 @@
     <item>
       <title>备份文件扩展名的完整列表</title>
       <link>https://fileformats.org/zh-cn/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 14:21:42 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 16:46:20 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/categories/backup-file-extensions/</guid>
       <description>单个文件的备份副本和与备份程序有关的数据都包含在“备份文件”部分中。</description>
+    </item>
+    
+    <item>
+      <title>数据文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/data-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 15:07:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/data-file-extensions/</guid>
+      <description>数据库、项目和保存的文档都是数据文件类型。</description>
     </item>
     
     <item>
@@ -44,6 +71,24 @@
     </item>
     
     <item>
+      <title>插件文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/plugin-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/plugin-file-extensions/</guid>
+      <description>现有程序可以通过使用插件文件从附加特性和功能中受益。</description>
+    </item>
+    
+    <item>
+      <title>编码文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/encoded-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:42:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/encoded-file-extensions/</guid>
+      <description>使用编码方法保存其内容的文件被称为“编码”。</description>
+    </item>
+    
+    <item>
       <title>杂项文件扩展名列表</title>
       <link>https://fileformats.org/zh-cn/categories/misc-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:11 +0000</pubDate>
@@ -53,66 +98,21 @@
     </item>
     
     <item>
+      <title>页面布局文件扩展名的完整列表</title>
+      <link>https://fileformats.org/zh-cn/categories/page-layout-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:48:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/categories/page-layout-file-extensions/</guid>
+      <description>称为页面布局文件的文档可以同时包含文本和图像信息。</description>
+    </item>
+    
+    <item>
       <title>开发人员文件扩展名的完整列表</title>
       <link>https://fileformats.org/zh-cn/categories/developer-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 02:15:17 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/categories/developer-file-extensions/</guid>
       <description>与创建软件相关的文件类型可以在 Developer Files 类别中找到。</description>
-    </item>
-    
-    <item>
-      <title>压缩文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</guid>
-      <description>节省硬盘空间是压缩文件存在的主要原因之一。</description>
-    </item>
-    
-    <item>
-      <title>插件文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/plugin-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/plugin-file-extensions/</guid>
-      <description>现有程序可以通过使用插件文件从附加特性和功能中受益。</description>
-    </item>
-    
-    <item>
-      <title>数据文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/data-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/data-file-extensions/</guid>
-      <description>数据库、项目和保存的文档都是数据文件类型。</description>
-    </item>
-    
-    <item>
-      <title>相机图像文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/camera-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/camera-image-file-extensions/</guid>
-      <description>相机图像原始文件以原始格式存储，该格式保留了相机传感器记录的所有信息。</description>
-    </item>
-    
-    <item>
-      <title>编码文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/encoded-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/encoded-file-extensions/</guid>
-      <description>使用编码方法保存其内容的文件被称为“编码”。</description>
-    </item>
-    
-    <item>
-      <title>页面布局文件扩展名的完整列表</title>
-      <link>https://fileformats.org/zh-cn/categories/page-layout-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/zh-cn/categories/page-layout-file-extensions/</guid>
-      <description>称为页面布局文件的文档可以同时包含文本和图像信息。</description>
     </item>
     
   </channel>

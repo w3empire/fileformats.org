@@ -6,7 +6,16 @@
     <description>Recent content in CAD 文件扩展名的完整列表 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:35 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/cad-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:47:56 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/cad-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MCX文件是什么（MICRO CADAM-X/6000模型数据文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>MICRO CADAM-X/6000模型数据文件</description>
+    </item>
+    
     <item>
       <title>什么是 TCT 文件（TurboCAD 设计模板）？</title>
       <link>https://fileformats.org/zh-cn/file-types/turbocad-drawing-template/</link>
@@ -35,12 +44,48 @@
     </item>
     
     <item>
+      <title>什么是PSM文件（Solid Edge钣金文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:42 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Solid Edge钣金文件</description>
+    </item>
+    
+    <item>
       <title>什么是 DLV 文件（CATIA 4 导出文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:14 +0000</pubDate>
       
       <guid>https://fileformats.org/zh-cn/file-types/catia-4-export-file/</guid>
       <description>CATIA 4 导出文件</description>
+    </item>
+    
+    <item>
+      <title>什么是EPF文件（EAGLE项目）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/eagle-project/</guid>
+      <description>EAGLE项目</description>
+    </item>
+    
+    <item>
+      <title>IBA 文件（Lectra 服装设计件文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectra 服装设计件文件</description>
+    </item>
+    
+    <item>
+      <title>什么是OPT文件（Opterecenja文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/opterecenja-file/</guid>
+      <description>Opterecenja文件</description>
     </item>
     
     <item>

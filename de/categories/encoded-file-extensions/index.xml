@@ -5,6 +5,25 @@
     <link>https://fileformats.org/de/categories/encoded-file-extensions/</link>
     <description>Recent content in Die vollständige Liste der verschlüsselten Dateierweiterungen on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/de/categories/encoded-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 03:42:02 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/categories/encoded-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was ist eine SPD-Datei (Versiegeltes Acrobat-Dokument)?</title>
+      <link>https://fileformats.org/de/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:42:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/file-types/sealed-acrobat-document/</guid>
+      <description>Versiegeltes Acrobat-Dokument</description>
+    </item>
+    
+    <item>
+      <title>Was ist eine PDEX-Datei (Orient Computer verschlüsselte Datendatei)?</title>
+      <link>https://fileformats.org/de/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>Orient Computer verschlüsselte Datendatei</description>
+    </item>
+    
   </channel>
 </rss>

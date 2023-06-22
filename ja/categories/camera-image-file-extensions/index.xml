@@ -5,6 +5,97 @@
     <link>https://fileformats.org/ja/categories/camera-image-file-extensions/</link>
     <description>Recent content in カメラ画像ファイル拡張子の完全なリスト on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:23 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNGファイル（デジタルネガティブイメージファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/digital-negative-image-file/</guid>
+      <description>デジタルネガティブイメージファイル</description>
+    </item>
+    
+    <item>
+      <title>EIPファイル（拡張画像パッケージファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/enhanced-image-package-file/</guid>
+      <description>拡張画像パッケージファイル</description>
+    </item>
+    
+    <item>
+      <title>RWZファイルとは何ですか（Rawzor圧縮画像）？</title>
+      <link>https://fileformats.org/ja/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor圧縮画像</description>
+    </item>
+    
+    <item>
+      <title>ARWファイルとは何ですか（ソニーデジタルカメラの画像）？</title>
+      <link>https://fileformats.org/ja/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:01:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/sony-digital-camera-image/</guid>
+      <description>ソニーデジタルカメラの画像</description>
+    </item>
+    
+    <item>
+      <title>NEFファイルとは何ですか（ニコン電子フォーマットのRAW画像）？</title>
+      <link>https://fileformats.org/ja/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>ニコン電子フォーマットのRAW画像です</description>
+    </item>
+    
+    <item>
+      <title>NRWファイル（ニコンのRAW画像ファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:10 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/nikon-raw-image-file/</guid>
+      <description>ニコンのRAW画像ファイルです</description>
+    </item>
+    
+    <item>
+      <title>RW2ファイル（パナソニックのRAWイメージ）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/panasonic-raw-image/</guid>
+      <description>パナソニックのRAWイメージ</description>
+    </item>
+    
+    <item>
+      <title>RAFファイル（富士のRAW画像ファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/fuji-raw-image-file/</guid>
+      <description>富士のRAW画像ファイル</description>
+    </item>
+    
+    <item>
+      <title>ERFファイル（Epson RAWファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:28 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/epson-raw-file/</guid>
+      <description>Epson RAWファイル</description>
+    </item>
+    
+    <item>
+      <title>CR2ファイル（キヤノンのRAWイメージファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:53 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/canon-raw-image-file/</guid>
+      <description>キヤノンのRAWイメージファイル。</description>
+    </item>
+    
   </channel>
 </rss>

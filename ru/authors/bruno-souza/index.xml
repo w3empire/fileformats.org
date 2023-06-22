@@ -6,7 +6,61 @@
     <description>Recent content in Все статьи Бруно Соуза на FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 18:47:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/ru/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что такое файл DNG (цифровой отрицательный файл изображения)?</title>
+      <link>https://fileformats.org/ru/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/digital-negative-image-file/</guid>
+      <description>Цифровой отрицательный файл изображения</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл EIP (файл расширенного пакета изображений)?</title>
+      <link>https://fileformats.org/ru/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/enhanced-image-package-file/</guid>
+      <description>Файл расширенного пакета изображений</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл RW2 (сырое изображение Panasonic)?</title>
+      <link>https://fileformats.org/ru/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/panasonic-raw-image/</guid>
+      <description>Сырое изображение Panasonic</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл RAF (файл сырого изображения Fuji)?</title>
+      <link>https://fileformats.org/ru/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/fuji-raw-image-file/</guid>
+      <description>Файл сырого изображения Fuji</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл CR2 (Файл изображения Canon в формате RAW)?</title>
+      <link>https://fileformats.org/ru/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/canon-raw-image-file/</guid>
+      <description>Файл изображения Canon в формате RAW</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл MCX (файл данных модели MICRO CADAM-X/6000)?</title>
+      <link>https://fileformats.org/ru/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>Файл данных модели MICRO CADAM-X/6000</description>
+    </item>
+    
     <item>
       <title>Что такое файл CPA (Файл CADSTAR PCB)?</title>
       <link>https://fileformats.org/ru/file-types/cadstar-pcb-archive-file/</link>
@@ -14,6 +68,24 @@
       
       <guid>https://fileformats.org/ru/file-types/cadstar-pcb-archive-file/</guid>
       <description>Файл CADSTAR PCB</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл FBW (файл резервной копии HP Recovery Manager)?</title>
+      <link>https://fileformats.org/ru/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>Файл резервной копии HP Recovery Manager</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл NMM (файл записей Samsung)?</title>
+      <link>https://fileformats.org/ru/file-types/samsung-memo-file/</link>
+      <pubDate>Mon, 26 Dec 2022 15:07:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/samsung-memo-file/</guid>
+      <description>Файл записей Samsung</description>
     </item>
     
     <item>
@@ -35,6 +107,15 @@
     </item>
     
     <item>
+      <title>Что такое файл MUI (файл инструмента Myriad пользователя)?</title>
+      <link>https://fileformats.org/ru/file-types/myriad-user-instrument-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:38:19 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/myriad-user-instrument-file/</guid>
+      <description>Файл инструмента Myriad пользователя</description>
+    </item>
+    
+    <item>
       <title>Что такое файл MP3 (Аудиофайл MP3)?</title>
       <link>https://fileformats.org/ru/file-types/mp3-audio-file/</link>
       <pubDate>Sat, 24 Dec 2022 12:52:25 +0000</pubDate>
@@ -50,6 +131,33 @@
       
       <guid>https://fileformats.org/ru/file-types/cinema-4d-model-file/</guid>
       <description>Файл модели Cinema 4D</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл SPD (Переносимый файл данных SPSS)?</title>
+      <link>https://fileformats.org/ru/file-types/spss-portable-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/spss-portable-data-file/</guid>
+      <description>Переносимый файл данных SPSS</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл SPD (Запечатанный документ Acrobat)?</title>
+      <link>https://fileformats.org/ru/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:42:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/sealed-acrobat-document/</guid>
+      <description>Запечатанный документ Acrobat</description>
+    </item>
+    
+    <item>
+      <title>Что такое файл SPD (файл S Note)?</title>
+      <link>https://fileformats.org/ru/file-types/s-note-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:15:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ru/file-types/s-note-file/</guid>
+      <description>файл S Note</description>
     </item>
     
     <item>

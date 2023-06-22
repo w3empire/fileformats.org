@@ -5,6 +5,97 @@
     <link>https://fileformats.org/ko/categories/camera-image-file-extensions/</link>
     <description>Recent content in 카메라 이미지 파일 확장자의 전체 목록 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ko/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:24 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNG 파일(디지털 부정 이미지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/digital-negative-image-file/</guid>
+      <description>디지털 부정 이미지 파일</description>
+    </item>
+    
+    <item>
+      <title>EIP 파일 (향상된 이미지 패키지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/enhanced-image-package-file/</guid>
+      <description>향상된 이미지 패키지 파일</description>
+    </item>
+    
+    <item>
+      <title>RWZ 파일 (Rawzor 압축 이미지)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor 압축 이미지</description>
+    </item>
+    
+    <item>
+      <title>ARW 파일이란 무엇인가요 (소니 디지털 카메라 이미지)?</title>
+      <link>https://fileformats.org/ko/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:02:00 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/sony-digital-camera-image/</guid>
+      <description>소니 디지털 카메라 이미지</description>
+    </item>
+    
+    <item>
+      <title>NEF 파일 (니콘 전자 형식 원본 이미지)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>니콘 전자 형식 원본 이미지입니다</description>
+    </item>
+    
+    <item>
+      <title>NRW 파일 (니콘 RAW 이미지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/nikon-raw-image-file/</guid>
+      <description>니콘 RAW 이미지 파일입니다</description>
+    </item>
+    
+    <item>
+      <title>RW2 파일 (파나소닉 RAW 이미지)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/panasonic-raw-image/</guid>
+      <description>파나소닉 RAW 이미지</description>
+    </item>
+    
+    <item>
+      <title>RAF 파일(후지 RAW 이미지 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/fuji-raw-image-file/</guid>
+      <description>후지 RAW 이미지 파일</description>
+    </item>
+    
+    <item>
+      <title>ERF 파일 (Epson 원본 파일)이란 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/epson-raw-file/</guid>
+      <description>Epson 원본 파일</description>
+    </item>
+    
+    <item>
+      <title>CR2 파일 (Canon Raw 이미지 파일)은 무엇인가요?</title>
+      <link>https://fileformats.org/ko/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/canon-raw-image-file/</guid>
+      <description>Canon Raw 이미지 파일.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,7 +6,43 @@
     <description>Recent content in Tutti gli articoli di Richard Scott su FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:25:46 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosa è un file GZ (archivio compresso Gnu)?</title>
+      <link>https://fileformats.org/it/file-types/gnu-zipped-archive/</link>
+      <pubDate>Tue, 10 Jan 2023 10:25:46 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/gnu-zipped-archive/</guid>
+      <description>Archivio compresso Gnu</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file ZIP (File compresso)?</title>
+      <link>https://fileformats.org/it/file-types/zipped-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:41:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/zipped-file/</guid>
+      <description>File compresso</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file ARW (immagine di una fotocamera digitale Sony)?</title>
+      <link>https://fileformats.org/it/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:01:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/sony-digital-camera-image/</guid>
+      <description>Immagine di una fotocamera digitale Sony</description>
+    </item>
+    
+    <item>
+      <title>Cosa è un file NEF (Immagine raw in formato elettronico Nikon)?</title>
+      <link>https://fileformats.org/it/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>Immagine raw in formato elettronico Nikon</description>
+    </item>
+    
     <item>
       <title>Cos&#39;è un file TCT (Modello di progettazione TurboCAD)?</title>
       <link>https://fileformats.org/it/file-types/turbocad-drawing-template/</link>
@@ -14,6 +50,24 @@
       
       <guid>https://fileformats.org/it/file-types/turbocad-drawing-template/</guid>
       <description>Modello di progettazione TurboCAD</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file EPF (progetto EAGLE)?</title>
+      <link>https://fileformats.org/it/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:43 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/eagle-project/</guid>
+      <description>Progetto EAGLE</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file IBA (file di pezzi di design abbigliamento Lectra)?</title>
+      <link>https://fileformats.org/it/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>File di pezzi di design abbigliamento Lectra</description>
     </item>
     
     <item>
@@ -41,6 +95,15 @@
       
       <guid>https://fileformats.org/it/file-types/tcp-optimizer-backup-file/</guid>
       <description>File di backup TCP Optimizer</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file COPY (File di contenuto protetto Sony Ericsson)?</title>
+      <link>https://fileformats.org/it/file-types/sony-ericsson-protected-content-file/</link>
+      <pubDate>Sun, 25 Dec 2022 12:29:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/sony-ericsson-protected-content-file/</guid>
+      <description>File di contenuto protetto Sony Ericsson</description>
     </item>
     
     <item>
@@ -104,6 +167,15 @@
       
       <guid>https://fileformats.org/it/file-types/houdini-apprentice-file/</guid>
       <description>File Houdini Apprentice</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è un file PDEX (file dati crittografati di Orient Computer)?</title>
+      <link>https://fileformats.org/it/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:36 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>File dati crittografati di Orient Computer</description>
     </item>
     
     <item>

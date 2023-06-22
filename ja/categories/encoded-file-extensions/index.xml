@@ -5,6 +5,25 @@
     <link>https://fileformats.org/ja/categories/encoded-file-extensions/</link>
     <description>Recent content in エンコードされたファイル拡張子の完全なリスト on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/ja/categories/encoded-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 03:41:57 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/encoded-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPDファイル（シールドされたアクロバットドキュメント）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/sealed-acrobat-document/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/sealed-acrobat-document/</guid>
+      <description>シールドされたアクロバットドキュメント</description>
+    </item>
+    
+    <item>
+      <title>PDEXファイル（オリエントコンピューターの暗号化データファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/orient-computer-encrypted-data-file/</link>
+      <pubDate>Tue, 13 Dec 2022 03:07:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/orient-computer-encrypted-data-file/</guid>
+      <description>オリエントコンピューターの暗号化データファイルです</description>
+    </item>
+    
   </channel>
 </rss>

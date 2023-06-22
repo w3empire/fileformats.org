@@ -6,7 +6,16 @@
     <description>Recent content in CAD ファイル拡張子の完全なリスト on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:32 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/cad-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:47:51 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/cad-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MCXファイルとは何ですか（MICRO CADAM-X/6000モデルデータファイル）？</title>
+      <link>https://fileformats.org/ja/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:51 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>MICRO CADAM-X/6000モデルデータファイル</description>
+    </item>
+    
     <item>
       <title>TCT ファイル (TurboCAD 設計テンプレート) とは?</title>
       <link>https://fileformats.org/ja/file-types/turbocad-drawing-template/</link>
@@ -35,12 +44,48 @@
     </item>
     
     <item>
+      <title>PSMファイル（Solid Edgeシートメタルファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Solid Edgeシートメタルファイル</description>
+    </item>
+    
+    <item>
       <title>DLV ファイル (CATIA 4 エクスポート ファイル) とは何ですか?</title>
       <link>https://fileformats.org/ja/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:09 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/file-types/catia-4-export-file/</guid>
       <description>CATIA 4 エクスポート ファイル</description>
+    </item>
+    
+    <item>
+      <title>EPFファイル（EAGLEプロジェクト）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:46 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/eagle-project/</guid>
+      <description>EAGLEプロジェクト</description>
+    </item>
+    
+    <item>
+      <title>IBAファイル（Lectraの衣料品デザインピースファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Lectraの衣料品デザインピースファイル</description>
+    </item>
+    
+    <item>
+      <title>OPTファイル（Opterecenjaファイル）とは何ですか？</title>
+      <link>https://fileformats.org/ja/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/file-types/opterecenja-file/</guid>
+      <description>Opterecenjaファイル</description>
     </item>
     
     <item>

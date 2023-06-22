@@ -6,11 +6,29 @@
     <description>Recent content in すべてのカテゴリ on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:32 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:57:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>圧縮ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/compressed-file-extensions/</link>
+      <pubDate>Tue, 10 Jan 2023 10:57:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/compressed-file-extensions/</guid>
+      <description>圧縮ファイルが存在する主な理由の 1 つは、ハード ドライブのスペースを節約することです。</description>
+    </item>
+    
+    <item>
+      <title>カメラ画像ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/camera-image-file-extensions/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/camera-image-file-extensions/</guid>
+      <description>カメラ画像の RAW ファイルは、カメラのセンサーが記録したすべての情報を保持する RAW 形式で保存されます。</description>
+    </item>
+    
     <item>
       <title>CAD ファイル拡張子の完全なリスト</title>
       <link>https://fileformats.org/ja/categories/cad-file-extensions/</link>
-      <pubDate>Tue, 27 Dec 2022 17:37:32 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 17:47:51 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/categories/cad-file-extensions/</guid>
       <description>コンピュータ支援設計 (CAD) ファイルには、2 次元または 3 次元のモデルが含まれる場合があります。</description>
@@ -19,10 +37,19 @@
     <item>
       <title>バックアップ ファイル拡張子の完全なリスト</title>
       <link>https://fileformats.org/ja/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 14:21:39 +0000</pubDate>
+      <pubDate>Mon, 26 Dec 2022 16:46:16 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/categories/backup-file-extensions/</guid>
       <description>バックアップ プログラムに関連する個々のファイルとデータのバックアップ コピーは、どちらも [バックアップ ファイル] セクションに含まれています。</description>
+    </item>
+    
+    <item>
+      <title>データ ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/data-file-extensions/</link>
+      <pubDate>Mon, 26 Dec 2022 15:06:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/data-file-extensions/</guid>
+      <description>データベース、プロジェクト、および保存されたドキュメントは、すべての種類のデータ ファイルです。</description>
     </item>
     
     <item>
@@ -44,6 +71,24 @@
     </item>
     
     <item>
+      <title>プラグイン ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/plugin-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:50:53 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/plugin-file-extensions/</guid>
+      <description>既存のプログラムは、プラグイン ファイルを使用して追加の機能を利用できます。</description>
+    </item>
+    
+    <item>
+      <title>エンコードされたファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/encoded-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 03:41:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ja/categories/encoded-file-extensions/</guid>
+      <description>エンコード方法を使用してコンテンツを保存するファイルは、「エンコードされている」と言われます。</description>
+    </item>
+    
+    <item>
       <title>その他のファイル拡張子のリスト</title>
       <link>https://fileformats.org/ja/categories/misc-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 03:36:07 +0000</pubDate>
@@ -53,66 +98,21 @@
     </item>
     
     <item>
-      <title>開発者ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/developer-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 02:15:14 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/developer-file-extensions/</guid>
-      <description>ソフトウェアの作成に関連するファイルの種類は、開発者用ファイル カテゴリにあります。</description>
-    </item>
-    
-    <item>
-      <title>エンコードされたファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/encoded-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/encoded-file-extensions/</guid>
-      <description>エンコード方法を使用してコンテンツを保存するファイルは、「エンコードされている」と言われます。</description>
-    </item>
-    
-    <item>
-      <title>カメラ画像ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/camera-image-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/camera-image-file-extensions/</guid>
-      <description>カメラ画像の RAW ファイルは、カメラのセンサーが記録したすべての情報を保持する RAW 形式で保存されます。</description>
-    </item>
-    
-    <item>
-      <title>データ ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/data-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/data-file-extensions/</guid>
-      <description>データベース、プロジェクト、および保存されたドキュメントは、すべての種類のデータ ファイルです。</description>
-    </item>
-    
-    <item>
-      <title>プラグイン ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/plugin-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fileformats.org/ja/categories/plugin-file-extensions/</guid>
-      <description>既存のプログラムは、プラグイン ファイルを使用して追加の機能を利用できます。</description>
-    </item>
-    
-    <item>
       <title>ページ レイアウト ファイル拡張子の完全なリスト</title>
       <link>https://fileformats.org/ja/categories/page-layout-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2022 02:48:28 +0000</pubDate>
       
       <guid>https://fileformats.org/ja/categories/page-layout-file-extensions/</guid>
       <description>ページ レイアウト ファイルと呼ばれるドキュメントは、テキストと画像の両方の情報を同時に保持できます。</description>
     </item>
     
     <item>
-      <title>圧縮ファイル拡張子の完全なリスト</title>
-      <link>https://fileformats.org/ja/categories/compressed-file-extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>開発者ファイル拡張子の完全なリスト</title>
+      <link>https://fileformats.org/ja/categories/developer-file-extensions/</link>
+      <pubDate>Tue, 13 Dec 2022 02:15:14 +0000</pubDate>
       
-      <guid>https://fileformats.org/ja/categories/compressed-file-extensions/</guid>
-      <description>圧縮ファイルが存在する主な理由の 1 つは、ハード ドライブのスペースを節約することです。</description>
+      <guid>https://fileformats.org/ja/categories/developer-file-extensions/</guid>
+      <description>ソフトウェアの作成に関連するファイルの種類は、開発者用ファイル カテゴリにあります。</description>
     </item>
     
   </channel>

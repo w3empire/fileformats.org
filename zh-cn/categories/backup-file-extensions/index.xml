@@ -6,7 +6,25 @@
     <description>Recent content in 备份文件扩展名的完整列表 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 14:21:42 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 16:46:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/backup-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是FBW文件（HP Recovery Manager备份文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 16:46:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/</guid>
+      <description>HP Recovery Manager备份文件</description>
+    </item>
+    
+    <item>
+      <title>DSB文件（Dell DataSafe备份文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/dell-datasafe-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 14:48:39 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/dell-datasafe-backup-file/</guid>
+      <description>Dell DataSafe备份文件</description>
+    </item>
+    
     <item>
       <title>什么是 WX 文件（Wanam Xposed 备份文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/wanam-xposed-backup-file/</link>
@@ -35,6 +53,15 @@
     </item>
     
     <item>
+      <title>什么是NPF文件（NTI分区文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/nti-partition-file/</link>
+      <pubDate>Mon, 26 Dec 2022 13:26:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/nti-partition-file/</guid>
+      <description>NTI分区文件</description>
+    </item>
+    
+    <item>
       <title>什么是 SPG 文件（TCP Optimizer 备份文件）？</title>
       <link>https://fileformats.org/zh-cn/file-types/tcp-optimizer-backup-file/</link>
       <pubDate>Mon, 26 Dec 2022 13:10:04 +0000</pubDate>
@@ -50,6 +77,15 @@
       
       <guid>https://fileformats.org/zh-cn/file-types/automatic-backup-file/</guid>
       <description>自动备份文件</description>
+    </item>
+    
+    <item>
+      <title>什么是 BKZ 文件（FileFort 备份文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/filefort-backup-file/</link>
+      <pubDate>Mon, 26 Dec 2022 12:29:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/filefort-backup-file/</guid>
+      <description>FileFort 备份文件</description>
     </item>
     
     <item>

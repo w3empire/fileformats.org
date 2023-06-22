@@ -6,7 +6,16 @@
     <description>Recent content in La lista completa de extensiones de archivos Cad on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 17:37:28 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/cad-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 17:47:47 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/cad-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es un archivo MCX (archivo de datos de modelo MICRO CADAM-X/6000)?</title>
+      <link>https://fileformats.org/es/file-types/micro-cadam-x-6000-model-data-file/</link>
+      <pubDate>Tue, 27 Dec 2022 17:47:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/micro-cadam-x-6000-model-data-file/</guid>
+      <description>Archivo de datos de modelo MICRO CADAM-X/6000</description>
+    </item>
+    
     <item>
       <title>¿Qué es un archivo TCT (Plantilla de diseño TurboCAD)?</title>
       <link>https://fileformats.org/es/file-types/turbocad-drawing-template/</link>
@@ -35,12 +44,48 @@
     </item>
     
     <item>
+      <title>¿Qué es un archivo PSM (Archivo de chapa de Solid Edge)?</title>
+      <link>https://fileformats.org/es/file-types/solid-edge-sheet-metal-file/</link>
+      <pubDate>Mon, 26 Dec 2022 18:33:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/solid-edge-sheet-metal-file/</guid>
+      <description>Archivo de chapa de Solid Edge</description>
+    </item>
+    
+    <item>
       <title>¿Qué es un archivo DLV (Archivo de exportación de CATIA 4)?</title>
       <link>https://fileformats.org/es/file-types/catia-4-export-file/</link>
       <pubDate>Mon, 26 Dec 2022 18:17:06 +0000</pubDate>
       
       <guid>https://fileformats.org/es/file-types/catia-4-export-file/</guid>
       <description>Archivo de exportación de CATIA 4</description>
+    </item>
+    
+    <item>
+      <title>¿Qué es un archivo EPF (proyecto EAGLE)?</title>
+      <link>https://fileformats.org/es/file-types/eagle-project/</link>
+      <pubDate>Mon, 26 Dec 2022 17:59:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/eagle-project/</guid>
+      <description>Proyecto EAGLE</description>
+    </item>
+    
+    <item>
+      <title>¿Qué es un archivo IBA (archivo de piezas de diseño de ropa de Lectra)?</title>
+      <link>https://fileformats.org/es/file-types/lectra-clothing-design-pieces-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:37:24 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/lectra-clothing-design-pieces-file/</guid>
+      <description>Archivo de piezas de diseño de ropa de Lectra</description>
+    </item>
+    
+    <item>
+      <title>¿Qué es un archivo OPT (archivo de Opterecenja)?</title>
+      <link>https://fileformats.org/es/file-types/opterecenja-file/</link>
+      <pubDate>Mon, 26 Dec 2022 17:26:45 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/file-types/opterecenja-file/</guid>
+      <description>Archivo de Opterecenja</description>
     </item>
     
     <item>

@@ -5,6 +5,97 @@
     <link>https://fileformats.org/zh-cn/categories/camera-image-file-extensions/</link>
     <description>Recent content in 相机图像文件扩展名的完整列表 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fileformats.org/zh-cn/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jan 2023 20:06:26 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/categories/camera-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是DNG文件（数字底片图像文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/digital-negative-image-file/</link>
+      <pubDate>Tue, 03 Jan 2023 20:06:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/digital-negative-image-file/</guid>
+      <description>数字底片图像文件</description>
+    </item>
+    
+    <item>
+      <title>什么是EIP文件（增强图像包文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/enhanced-image-package-file/</link>
+      <pubDate>Tue, 03 Jan 2023 16:34:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/enhanced-image-package-file/</guid>
+      <description>增强图像包文件</description>
+    </item>
+    
+    <item>
+      <title>什么是RWZ文件（Rawzor压缩图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/rawzor-compressed-image/</link>
+      <pubDate>Tue, 03 Jan 2023 15:54:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/rawzor-compressed-image/</guid>
+      <description>Rawzor压缩图像</description>
+    </item>
+    
+    <item>
+      <title>什么是ARW文件（索尼数码相机图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/sony-digital-camera-image/</link>
+      <pubDate>Sun, 01 Jan 2023 23:02:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/sony-digital-camera-image/</guid>
+      <description>索尼数码相机图像</description>
+    </item>
+    
+    <item>
+      <title>什么是NEF文件（尼康电子格式原始图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/nikon-electronic-format-raw-image/</link>
+      <pubDate>Sun, 01 Jan 2023 22:15:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/nikon-electronic-format-raw-image/</guid>
+      <description>尼康电子格式原始图像</description>
+    </item>
+    
+    <item>
+      <title>NRW文件（尼康原始图像文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/nikon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 19:44:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/nikon-raw-image-file/</guid>
+      <description>尼康原始图像文件</description>
+    </item>
+    
+    <item>
+      <title>什么是RW2文件（松下原始图像）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/panasonic-raw-image/</link>
+      <pubDate>Tue, 27 Dec 2022 19:13:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/panasonic-raw-image/</guid>
+      <description>松下原始图像</description>
+    </item>
+    
+    <item>
+      <title>RAF文件（富士原始图像文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/fuji-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:53:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/fuji-raw-image-file/</guid>
+      <description>富士原始图像文件</description>
+    </item>
+    
+    <item>
+      <title>什么是ERF文件（爱普生原始文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/epson-raw-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:39:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/epson-raw-file/</guid>
+      <description>爱普生原始文件</description>
+    </item>
+    
+    <item>
+      <title>CR2文件（佳能RAW图像文件）是什么？</title>
+      <link>https://fileformats.org/zh-cn/file-types/canon-raw-image-file/</link>
+      <pubDate>Tue, 27 Dec 2022 18:13:58 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/canon-raw-image-file/</guid>
+      <description>佳能RAW图像文件</description>
+    </item>
+    
   </channel>
 </rss>
