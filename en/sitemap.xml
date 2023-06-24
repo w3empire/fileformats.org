@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fileformats.org/authors/akira-osawa/</loc>
-    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+    <loc>https://fileformats.org/authors/richard-scott/</loc>
+    <lastmod>2023-06-24T07:51:34+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/authors/akira-osawa/"
+                href="https://fileformats.org/pt/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/authors/akira-osawa/"
+                href="https://fileformats.org/es/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
+                href="https://fileformats.org/zh-cn/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/authors/akira-osawa/"
+                href="https://fileformats.org/ru/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/authors/akira-osawa/"
+                href="https://fileformats.org/ja/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/authors/akira-osawa/"
+                href="https://fileformats.org/de/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/authors/akira-osawa/"
+                href="https://fileformats.org/ko/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/authors/akira-osawa/"
+                href="https://fileformats.org/fr/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/authors/akira-osawa/"
+                href="https://fileformats.org/it/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/authors/akira-osawa/"
+                href="https://fileformats.org/authors/richard-scott/"
                 />
   </url><url>
     <loc>https://fileformats.org/</loc>
-    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+    <lastmod>2023-06-24T07:51:34+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/authors/</loc>
-    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+    <lastmod>2023-06-24T07:51:34+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/</loc>
-    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+    <lastmod>2023-06-24T07:51:34+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +215,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/</loc>
-    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+    <lastmod>2023-06-24T07:51:34+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -267,20 +267,70 @@
                 href="https://fileformats.org/file-types/"
                 />
   </url><url>
-    <loc>https://fileformats.org/categories/video-file-extensions/</loc>
-    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+    <loc>https://fileformats.org/categories/database-file-extensions/</loc>
+    <lastmod>2023-06-24T07:51:34+00:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/file-types/bink-video-2-file/</loc>
-    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/itunes-database-file/</loc>
+    <lastmod>2023-06-24T07:51:34+00:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/file-types/playstation-movie-file/</loc>
-    <lastmod>2023-06-22T13:35:32+00:00</lastmod>
+    <loc>https://fileformats.org/authors/akira-osawa/</loc>
+    <lastmod>2023-06-24T07:46:25+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/akira-osawa/"
+                />
   </url><url>
-    <loc>https://fileformats.org/file-types/ogg-video-file/</loc>
-    <lastmod>2023-06-22T13:01:04+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/intouch-with-database/</loc>
+    <lastmod>2023-06-24T07:46:25+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/authors/bruno-souza/</loc>
-    <lastmod>2023-06-22T12:52:06+00:00</lastmod>
+    <lastmod>2023-06-24T07:37:24+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -332,6 +382,42 @@
                 href="https://fileformats.org/authors/bruno-souza/"
                 />
   </url><url>
+    <loc>https://fileformats.org/file-types/smart-response-teacher-database-file/</loc>
+    <lastmod>2023-06-24T07:37:24+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/interbase-database-file/</loc>
+    <lastmod>2023-06-24T07:30:15+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/gps-database-file/</loc>
+    <lastmod>2023-06-24T07:24:54+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/dts-settings-file/</loc>
+    <lastmod>2023-06-24T07:04:21+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/data-definition-language-file/</loc>
+    <lastmod>2023-06-24T06:58:46+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/denaro-account/</loc>
+    <lastmod>2023-06-24T06:51:30+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/microsoft-access-report/</loc>
+    <lastmod>2023-06-24T06:47:16+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/textease-ct-database-file/</loc>
+    <lastmod>2023-06-24T06:41:58+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/categories/video-file-extensions/</loc>
+    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/bink-video-2-file/</loc>
+    <lastmod>2023-06-22T14:45:03+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/playstation-movie-file/</loc>
+    <lastmod>2023-06-22T13:35:32+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/ogg-video-file/</loc>
+    <lastmod>2023-06-22T13:01:04+00:00</lastmod>
+  </url><url>
     <loc>https://fileformats.org/file-types/motion-jpeg-video/</loc>
     <lastmod>2023-06-22T12:52:06+00:00</lastmod>
   </url><url>
@@ -340,59 +426,6 @@
   </url><url>
     <loc>https://fileformats.org/file-types/mpeg-2-elementary-stream-video/</loc>
     <lastmod>2023-06-22T12:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/authors/richard-scott/</loc>
-    <lastmod>2023-06-22T12:18:06+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/richard-scott/"
-                />
   </url><url>
     <loc>https://fileformats.org/file-types/adobe-encore-project-file/</loc>
     <lastmod>2023-06-22T12:18:06+00:00</lastmod>

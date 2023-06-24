@@ -6,7 +6,43 @@
     <description>Recent content in All articles by Akira Osawa on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jun 2023 14:45:03 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 07:46:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an ITW file (InTouch With Database)?</title>
+      <link>https://fileformats.org/file-types/intouch-with-database/</link>
+      <pubDate>Sat, 24 Jun 2023 07:46:25 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/intouch-with-database/</guid>
+      <description>InTouch With Database</description>
+    </item>
+    
+    <item>
+      <title>What is an GDB file (InterBase Database File)?</title>
+      <link>https://fileformats.org/file-types/interbase-database-file/</link>
+      <pubDate>Sat, 24 Jun 2023 07:30:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/interbase-database-file/</guid>
+      <description>InterBase Database File</description>
+    </item>
+    
+    <item>
+      <title>What is a DTSX file (DTS Settings File)?</title>
+      <link>https://fileformats.org/file-types/dts-settings-file/</link>
+      <pubDate>Sat, 24 Jun 2023 07:04:21 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/dts-settings-file/</guid>
+      <description>DTS Settings File</description>
+    </item>
+    
+    <item>
+      <title>What is an NMONEY file (Denaro Account)?</title>
+      <link>https://fileformats.org/file-types/denaro-account/</link>
+      <pubDate>Sat, 24 Jun 2023 06:51:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/denaro-account/</guid>
+      <description>Denaro Account</description>
+    </item>
+    
     <item>
       <title>What is a BK2 file (Bink Video 2 File)?</title>
       <link>https://fileformats.org/file-types/bink-video-2-file/</link>
