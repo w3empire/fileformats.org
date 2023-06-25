@@ -6,11 +6,20 @@
     <description>Recent content in List of all FileFormats authors on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jun 2023 07:51:34 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jun 2023 06:39:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All articles by Bruno Souza on FileFormats</title>
+      <link>https://fileformats.org/authors/bruno-souza/</link>
+      <pubDate>Sun, 25 Jun 2023 06:39:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/authors/bruno-souza/</guid>
+      <description>Technical Writer and Editor</description>
+    </item>
+    
     <item>
       <title>All Articles by Richard Scott on FileFormats</title>
       <link>https://fileformats.org/authors/richard-scott/</link>
-      <pubDate>Sat, 24 Jun 2023 07:51:34 +0000</pubDate>
+      <pubDate>Sun, 25 Jun 2023 05:47:32 +0000</pubDate>
       
       <guid>https://fileformats.org/authors/richard-scott/</guid>
       <description>Technical Writer</description>
@@ -19,18 +28,9 @@
     <item>
       <title>All articles by Akira Osawa on FileFormats</title>
       <link>https://fileformats.org/authors/akira-osawa/</link>
-      <pubDate>Sat, 24 Jun 2023 07:46:25 +0000</pubDate>
+      <pubDate>Sun, 25 Jun 2023 03:42:22 +0000</pubDate>
       
       <guid>https://fileformats.org/authors/akira-osawa/</guid>
-      <description>Technical Writer and Editor</description>
-    </item>
-    
-    <item>
-      <title>All articles by Bruno Souza on FileFormats</title>
-      <link>https://fileformats.org/authors/bruno-souza/</link>
-      <pubDate>Sat, 24 Jun 2023 07:37:24 +0000</pubDate>
-      
-      <guid>https://fileformats.org/authors/bruno-souza/</guid>
       <description>Technical Writer and Editor</description>
     </item>
     

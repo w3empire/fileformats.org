@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Complete List of Disk Image File Extensions on File Formats</title>
+    <link>https://fileformats.org/categories/disk-image-file-extensions/</link>
+    <description>Recent content in The Complete List of Disk Image File Extensions on File Formats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Jun 2023 06:39:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/disk-image-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an IMG file (Floppy Disk Image)?</title>
+      <link>https://fileformats.org/file-types/floppy-disk-image/</link>
+      <pubDate>Sun, 25 Jun 2023 06:39:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/floppy-disk-image/</guid>
+      <description>Floppy Disk Image</description>
+    </item>
+    
+    <item>
+      <title>What is an IMG file (Macintosh Disk Image)?</title>
+      <link>https://fileformats.org/file-types/macintosh-disk-image/</link>
+      <pubDate>Sun, 25 Jun 2023 06:25:14 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/macintosh-disk-image/</guid>
+      <description>Macintosh Disk Image</description>
+    </item>
+    
+    <item>
+      <title>What is an IMG file (Disc Image Data File)?</title>
+      <link>https://fileformats.org/file-types/disc-image-data-file/</link>
+      <pubDate>Sun, 25 Jun 2023 05:47:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/disc-image-data-file/</guid>
+      <description>Disc Image Data File</description>
+    </item>
+    
+    <item>
+      <title>What is a VMDK file (Virtual Machine Disk File)?</title>
+      <link>https://fileformats.org/file-types/virtual-machine-disk-file/</link>
+      <pubDate>Sun, 25 Jun 2023 05:21:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/virtual-machine-disk-file/</guid>
+      <description>Virtual Machine Disk File</description>
+    </item>
+    
+    <item>
+      <title>What is an MDF file (Media Disc Image File)?</title>
+      <link>https://fileformats.org/file-types/media-disc-image-file/</link>
+      <pubDate>Sun, 25 Jun 2023 05:13:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/media-disc-image-file/</guid>
+      <description>Media Disc Image File</description>
+    </item>
+    
+    <item>
+      <title>What is a VDI file (Virtuo CD Manager Disk Image)?</title>
+      <link>https://fileformats.org/file-types/virtuo-cd-manager-disk-image/</link>
+      <pubDate>Sun, 25 Jun 2023 05:01:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/virtuo-cd-manager-disk-image/</guid>
+      <description>Virtuo CD Manager Disk Image</description>
+    </item>
+    
+    <item>
+      <title>What is a VDI file (VirtualBox Virtual Disk Image)?</title>
+      <link>https://fileformats.org/file-types/virtualbox-virtual-disk-image/</link>
+      <pubDate>Sun, 25 Jun 2023 04:54:52 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/virtualbox-virtual-disk-image/</guid>
+      <description>VirtualBox Virtual Disk Image</description>
+    </item>
+    
+    <item>
+      <title>What is a ROM file (Read Only Memory Image)?</title>
+      <link>https://fileformats.org/file-types/read-only-memory-image/</link>
+      <pubDate>Sun, 25 Jun 2023 04:45:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/read-only-memory-image/</guid>
+      <description>Read Only Memory Image</description>
+    </item>
+    
+    <item>
+      <title>What is a DVD file (CloneCD DVD Information File)?</title>
+      <link>https://fileformats.org/file-types/clonecd-dvd-information-file/</link>
+      <pubDate>Sun, 25 Jun 2023 04:38:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/clonecd-dvd-information-file/</guid>
+      <description>CloneCD DVD Information File</description>
+    </item>
+    
+    <item>
+      <title>What is an MDS file (Media Descriptor Sidecar File)?</title>
+      <link>https://fileformats.org/file-types/media-descriptor-sidecar-file/</link>
+      <pubDate>Sun, 25 Jun 2023 04:29:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/media-descriptor-sidecar-file/</guid>
+      <description>Media Descriptor Sidecar File</description>
+    </item>
+    
+    <item>
+      <title>What is an NRI file (Nero ISO CD Compilation File)?</title>
+      <link>https://fileformats.org/file-types/nero-iso-cd-compilation-file/</link>
+      <pubDate>Sun, 25 Jun 2023 04:20:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/nero-iso-cd-compilation-file/</guid>
+      <description>Nero ISO CD Compilation File</description>
+    </item>
+    
+    <item>
+      <title>What is a VFD file (Virtual Floppy Disk)?</title>
+      <link>https://fileformats.org/file-types/virtual-floppy-disk/</link>
+      <pubDate>Sun, 25 Jun 2023 04:12:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/virtual-floppy-disk/</guid>
+      <description>Virtual Floppy Disk</description>
+    </item>
+    
+    <item>
+      <title>What is an ISO file (Disc Image File)?</title>
+      <link>https://fileformats.org/file-types/disc-image-file/</link>
+      <pubDate>Sun, 25 Jun 2023 04:03:44 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/disc-image-file/</guid>
+      <description>Disc Image File</description>
+    </item>
+    
+    <item>
+      <title>What is a CSO file (Compressed ISO Disk Image)?</title>
+      <link>https://fileformats.org/file-types/compressed-iso-disk-image/</link>
+      <pubDate>Sun, 25 Jun 2023 03:49:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/compressed-iso-disk-image/</guid>
+      <description>Compressed ISO Disk Image</description>
+    </item>
+    
+    <item>
+      <title>What is a DMG file (Apple Disk Image)?</title>
+      <link>https://fileformats.org/file-types/apple-disk-image/</link>
+      <pubDate>Sun, 25 Jun 2023 03:42:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/apple-disk-image/</guid>
+      <description>Apple Disk Image</description>
+    </item>
+    
+  </channel>
+</rss>

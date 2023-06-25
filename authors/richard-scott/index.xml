@@ -6,7 +6,43 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jun 2023 07:51:34 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jun 2023 05:47:32 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an IMG file (Disc Image Data File)?</title>
+      <link>https://fileformats.org/file-types/disc-image-data-file/</link>
+      <pubDate>Sun, 25 Jun 2023 05:47:32 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/disc-image-data-file/</guid>
+      <description>Disc Image Data File</description>
+    </item>
+    
+    <item>
+      <title>What is an MDF file (Media Disc Image File)?</title>
+      <link>https://fileformats.org/file-types/media-disc-image-file/</link>
+      <pubDate>Sun, 25 Jun 2023 05:13:06 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/media-disc-image-file/</guid>
+      <description>Media Disc Image File</description>
+    </item>
+    
+    <item>
+      <title>What is a ROM file (Read Only Memory Image)?</title>
+      <link>https://fileformats.org/file-types/read-only-memory-image/</link>
+      <pubDate>Sun, 25 Jun 2023 04:45:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/read-only-memory-image/</guid>
+      <description>Read Only Memory Image</description>
+    </item>
+    
+    <item>
+      <title>What is a VFD file (Virtual Floppy Disk)?</title>
+      <link>https://fileformats.org/file-types/virtual-floppy-disk/</link>
+      <pubDate>Sun, 25 Jun 2023 04:12:02 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/virtual-floppy-disk/</guid>
+      <description>Virtual Floppy Disk</description>
+    </item>
+    
     <item>
       <title>What is an ITDB file (iTunes Database File)?</title>
       <link>https://fileformats.org/file-types/itunes-database-file/</link>
