@@ -6,7 +6,43 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Jun 2023 05:47:32 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 08:54:15 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a TK3 file (TK3 Multimedia eBook)?</title>
+      <link>https://fileformats.org/file-types/tk3-multimedia-ebook/</link>
+      <pubDate>Mon, 26 Jun 2023 08:54:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/tk3-multimedia-ebook/</guid>
+      <description>TK3 Multimedia eBook</description>
+    </item>
+    
+    <item>
+      <title>What is a EA file (Kindle End Actions File)?</title>
+      <link>https://fileformats.org/file-types/kindle-end-actions-file/</link>
+      <pubDate>Mon, 26 Jun 2023 08:46:40 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/kindle-end-actions-file/</guid>
+      <description>Kindle End Actions File</description>
+    </item>
+    
+    <item>
+      <title>What is an AZW file (Amazon Kindle eBook File)?</title>
+      <link>https://fileformats.org/file-types/amazon-kindle-ebook-file/</link>
+      <pubDate>Mon, 26 Jun 2023 06:48:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/amazon-kindle-ebook-file/</guid>
+      <description>Amazon Kindle eBook File</description>
+    </item>
+    
+    <item>
+      <title>What is a MOBI file (Mobipocket eBook)?</title>
+      <link>https://fileformats.org/file-types/mobipocket-ebook/</link>
+      <pubDate>Mon, 26 Jun 2023 06:40:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/mobipocket-ebook/</guid>
+      <description>Mobipocket eBook</description>
+    </item>
+    
     <item>
       <title>What is an IMG file (Disc Image Data File)?</title>
       <link>https://fileformats.org/file-types/disc-image-data-file/</link>

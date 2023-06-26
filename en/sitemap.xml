@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fileformats.org/authors/bruno-souza/</loc>
-    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
+    <loc>https://fileformats.org/authors/akira-osawa/</loc>
+    <lastmod>2023-06-26T09:08:32+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/authors/bruno-souza/"
+                href="https://fileformats.org/pt/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/authors/bruno-souza/"
+                href="https://fileformats.org/es/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
+                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/authors/bruno-souza/"
+                href="https://fileformats.org/ru/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/authors/bruno-souza/"
+                href="https://fileformats.org/ja/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/authors/bruno-souza/"
+                href="https://fileformats.org/de/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/authors/bruno-souza/"
+                href="https://fileformats.org/ko/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/authors/bruno-souza/"
+                href="https://fileformats.org/fr/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/authors/bruno-souza/"
+                href="https://fileformats.org/it/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/authors/bruno-souza/"
+                href="https://fileformats.org/authors/akira-osawa/"
                 />
   </url><url>
     <loc>https://fileformats.org/</loc>
-    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
+    <lastmod>2023-06-26T09:08:32+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/authors/</loc>
-    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
+    <lastmod>2023-06-26T09:08:32+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/</loc>
-    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
+    <lastmod>2023-06-26T09:08:32+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +215,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/</loc>
-    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
+    <lastmod>2023-06-26T09:08:32+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -267,17 +267,14 @@
                 href="https://fileformats.org/file-types/"
                 />
   </url><url>
-    <loc>https://fileformats.org/categories/disk-image-file-extensions/</loc>
-    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
+    <loc>https://fileformats.org/categories/ebook-file-extensions/</loc>
+    <lastmod>2023-06-26T09:08:32+00:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/file-types/floppy-disk-image/</loc>
-    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/file-types/macintosh-disk-image/</loc>
-    <lastmod>2023-06-25T06:25:14+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/jehovah-s-witnesses-publication/</loc>
+    <lastmod>2023-06-26T09:08:32+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/authors/richard-scott/</loc>
-    <lastmod>2023-06-25T05:47:32+00:00</lastmod>
+    <lastmod>2023-06-26T08:54:15+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -329,6 +326,95 @@
                 href="https://fileformats.org/authors/richard-scott/"
                 />
   </url><url>
+    <loc>https://fileformats.org/file-types/tk3-multimedia-ebook/</loc>
+    <lastmod>2023-06-26T08:54:15+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/kindle-end-actions-file/</loc>
+    <lastmod>2023-06-26T08:46:40+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/authors/bruno-souza/</loc>
+    <lastmod>2023-06-26T07:06:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/bruno-souza/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/sony-portable-reader-file/</loc>
+    <lastmod>2023-06-26T07:06:35+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/amazon-page-number-index-file/</loc>
+    <lastmod>2023-06-26T06:56:48+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/amazon-kindle-ebook-file/</loc>
+    <lastmod>2023-06-26T06:48:26+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/mobipocket-ebook/</loc>
+    <lastmod>2023-06-26T06:40:37+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/open-ebook/</loc>
+    <lastmod>2023-06-26T06:32:28+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/martview-ebook-file/</loc>
+    <lastmod>2023-06-26T06:22:31+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/kindle-topaz-ebook-file/</loc>
+    <lastmod>2023-06-26T06:08:16+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/categories/disk-image-file-extensions/</loc>
+    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/floppy-disk-image/</loc>
+    <lastmod>2023-06-25T06:39:20+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/macintosh-disk-image/</loc>
+    <lastmod>2023-06-25T06:25:14+00:00</lastmod>
+  </url><url>
     <loc>https://fileformats.org/file-types/disc-image-data-file/</loc>
     <lastmod>2023-06-25T05:47:32+00:00</lastmod>
   </url><url>
@@ -364,59 +450,6 @@
   </url><url>
     <loc>https://fileformats.org/file-types/compressed-iso-disk-image/</loc>
     <lastmod>2023-06-25T03:49:09+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/authors/akira-osawa/</loc>
-    <lastmod>2023-06-25T03:42:22+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/akira-osawa/"
-                />
   </url><url>
     <loc>https://fileformats.org/file-types/apple-disk-image/</loc>
     <lastmod>2023-06-25T03:42:22+00:00</lastmod>

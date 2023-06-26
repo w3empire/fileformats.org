@@ -6,7 +6,43 @@
     <description>Recent content in All articles by Bruno Souza on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Jun 2023 06:39:20 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 07:06:35 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an LRF file (Sony Portable Reader File)?</title>
+      <link>https://fileformats.org/file-types/sony-portable-reader-file/</link>
+      <pubDate>Mon, 26 Jun 2023 07:06:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/sony-portable-reader-file/</guid>
+      <description>Sony Portable Reader File</description>
+    </item>
+    
+    <item>
+      <title>What is an APNX file (Amazon Page Number Index File)?</title>
+      <link>https://fileformats.org/file-types/amazon-page-number-index-file/</link>
+      <pubDate>Mon, 26 Jun 2023 06:56:48 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/amazon-page-number-index-file/</guid>
+      <description>Amazon Page Number Index File</description>
+    </item>
+    
+    <item>
+      <title>What is a MART file (MartView eBook File)?</title>
+      <link>https://fileformats.org/file-types/martview-ebook-file/</link>
+      <pubDate>Mon, 26 Jun 2023 06:22:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/martview-ebook-file/</guid>
+      <description>MartView eBook File</description>
+    </item>
+    
+    <item>
+      <title>What is a TPZ file (Kindle Topaz eBook File)?</title>
+      <link>https://fileformats.org/file-types/kindle-topaz-ebook-file/</link>
+      <pubDate>Mon, 26 Jun 2023 06:08:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/kindle-topaz-ebook-file/</guid>
+      <description>Kindle Topaz eBook File</description>
+    </item>
+    
     <item>
       <title>What is an IMG file (Floppy Disk Image)?</title>
       <link>https://fileformats.org/file-types/floppy-disk-image/</link>
