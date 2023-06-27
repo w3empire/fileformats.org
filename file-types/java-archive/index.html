@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="auto">
+<head>
+    <title>What is a JAR file (Java Archive)?</title><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link rel="canonical" href="https://fileformats.org/file-types/java-archive/">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest"><meta name="keywords" content="File Extensions, File Types, File Formats, File Info, File Extension Meanings, Files" /><meta name="description" content="What&#39;s JAR (Java Archive) file? Learn how to open, edit and convert JAR files. On this page you will find a list of software compatible with the JAR file." />
+
+
+<meta itemprop="name" content="What is a JAR file (Java Archive)?">
+<meta itemprop="description" content="What&#39;s JAR (Java Archive) file? Learn how to open, edit and convert JAR files. On this page you will find a list of software compatible with the JAR file."><meta itemprop="wordCount" content="2071"><meta itemprop="image" content="https://fileformats.org/images/fileformats.jpg">
+
+
+<meta itemprop="keywords" content="File Extensions, File Types, File Formats, File Info, File Extension Meanings, Files" />
+
+
+<meta property="og:title" content="What is a JAR file (Java Archive)?" />
+<meta property="og:image" content="https://fileformats.org/images/fileformats.jpg" />
+<meta property="og:description" content="What&#39;s JAR (Java Archive) file? Learn how to open, edit and convert JAR files. On this page you will find a list of software compatible with the JAR file." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://fileformats.org/file-types/java-archive/" /><meta property="article:section" content="file-types" /><meta property="og:site_name" content="File Formats" />
+
+
+<meta name="twitter:card" value="summary">
+<meta name="twitter:title" content="What is a JAR file (Java Archive)?"/>
+<meta name="twitter:image" content="https://fileformats.org/images/fileformats.jpg" />
+<meta name="twitter:description" content="What&#39;s JAR (Java Archive) file? Learn how to open, edit and convert JAR files. On this page you will find a list of software compatible with the JAR file."/>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V3MBY51CR7"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-V3MBY51CR7');
+</script>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3427355473051563" crossorigin="anonymous"></script>
+
+
+<script async src="https://fundingchoicesmessages.google.com/i/pub-3427355473051563?ers=1" nonce="7Ryo_4L2-c2VYlCZatPdBg"></script><script nonce="7Ryo_4L2-c2VYlCZatPdBg">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+
+
+
+<script>(function(){
+
+'use strict';var aa=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},ba="function"==typeof Object.create?Object.create:function(a){var b=function(){};b.prototype=a;return new b},k;if("function"==typeof Object.setPrototypeOf)k=Object.setPrototypeOf;else{var m;a:{var ca={a:!0},n={};try{n.__proto__=ca;m=n.a;break a}catch(a){}m=!1}k=m?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}
+var p=k,q=function(a,b){a.prototype=ba(b.prototype);a.prototype.constructor=a;if(p)p(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.v=b.prototype},r=this||self,da=function(){},t=function(a){return a};var u;var w=function(a,b){this.g=b===v?a:""};w.prototype.toString=function(){return this.g+""};var v={},x=function(a){if(void 0===u){var b=null;var c=r.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:t,createScript:t,createScriptURL:t})}catch(d){r.console&&r.console.error(d.message)}u=b}else u=b}a=(b=u)?b.createScriptURL(a):a;return new w(a,v)};var A=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};var B={},C=null;var D="function"===typeof Uint8Array;function E(a,b,c){return"object"===typeof a?D&&!Array.isArray(a)&&a instanceof Uint8Array?c(a):F(a,b,c):b(a)}function F(a,b,c){if(Array.isArray(a)){for(var d=Array(a.length),e=0;e<a.length;e++){var f=a[e];null!=f&&(d[e]=E(f,b,c))}Array.isArray(a)&&a.s&&G(d);return d}d={};for(e in a)Object.prototype.hasOwnProperty.call(a,e)&&(f=a[e],null!=f&&(d[e]=E(f,b,c)));return d}
+function ea(a){return F(a,function(b){return"number"===typeof b?isFinite(b)?b:String(b):b},function(b){var c;void 0===c&&(c=0);if(!C){C={};for(var d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),e=["+/=","+/","-_=","-_.","-_"],f=0;5>f;f++){var h=d.concat(e[f].split(""));B[f]=h;for(var g=0;g<h.length;g++){var l=h[g];void 0===C[l]&&(C[l]=g)}}}c=B[c];d=Array(Math.floor(b.length/3));e=c[64]||"";for(f=h=0;h<b.length-2;h+=3){var y=b[h],z=b[h+1];l=b[h+2];g=c[y>>2];y=c[(y&3)<<
+4|z>>4];z=c[(z&15)<<2|l>>6];l=c[l&63];d[f++]=""+g+y+z+l}g=0;l=e;switch(b.length-h){case 2:g=b[h+1],l=c[(g&15)<<2]||e;case 1:b=b[h],d[f]=""+c[b>>2]+c[(b&3)<<4|g>>4]+l+e}return d.join("")})}var fa={s:{value:!0,configurable:!0}},G=function(a){Array.isArray(a)&&!Object.isFrozen(a)&&Object.defineProperties(a,fa);return a};var H;var J=function(a,b,c){var d=H;H=null;a||(a=d);d=this.constructor.u;a||(a=d?[d]:[]);this.j=d?0:-1;this.h=null;this.g=a;a:{d=this.g.length;a=d-1;if(d&&(d=this.g[a],!(null===d||"object"!=typeof d||Array.isArray(d)||D&&d instanceof Uint8Array))){this.l=a-this.j;this.i=d;break a}void 0!==b&&-1<b?(this.l=Math.max(b,a+1-this.j),this.i=null):this.l=Number.MAX_VALUE}if(c)for(b=0;b<c.length;b++)a=c[b],a<this.l?(a+=this.j,(d=this.g[a])?G(d):this.g[a]=I):(d=this.l+this.j,this.g[d]||(this.i=this.g[d]={}),(d=this.i[a])?
+G(d):this.i[a]=I)},I=Object.freeze(G([])),K=function(a,b){if(-1===b)return null;if(b<a.l){b+=a.j;var c=a.g[b];return c!==I?c:a.g[b]=G([])}if(a.i)return c=a.i[b],c!==I?c:a.i[b]=G([])},M=function(a,b){var c=L;if(-1===b)return null;a.h||(a.h={});if(!a.h[b]){var d=K(a,b);d&&(a.h[b]=new c(d))}return a.h[b]};J.prototype.toJSON=function(){var a=N(this,!1);return ea(a)};
+var N=function(a,b){if(a.h)for(var c in a.h)if(Object.prototype.hasOwnProperty.call(a.h,c)){var d=a.h[c];if(Array.isArray(d))for(var e=0;e<d.length;e++)d[e]&&N(d[e],b);else d&&N(d,b)}return a.g},O=function(a,b){H=b=b?JSON.parse(b):null;a=new a(b);H=null;return a};J.prototype.toString=function(){return N(this,!1).toString()};var P=function(a){J.call(this,a)};q(P,J);function ha(a){var b,c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document,d=null===(b=c.querySelector)||void 0===b?void 0:b.call(c,"script[nonce]");(b=d?d.nonce||d.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",b)};var Q=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},R=function(a){this.g=a||r.document||document};R.prototype.appendChild=function(a,b){a.appendChild(b)};var S=function(a,b,c,d,e,f){try{var h=a.g,g=Q(a.g,"SCRIPT");g.async=!0;g.src=b instanceof w&&b.constructor===w?b.g:"type_error:TrustedResourceUrl";ha(g);h.head.appendChild(g);g.addEventListener("load",function(){e();d&&h.head.removeChild(g)});g.addEventListener("error",function(){0<c?S(a,b,c-1,d,e,f):(d&&h.head.removeChild(g),f())})}catch(l){f()}};var ia=r.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ja=r.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),ka=r.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),la=function(a,b,c){this.h=a;this.j=new R(this.h);this.g=null;this.i=[];this.l=!1;this.o=b;this.m=c},V=function(a){if(a.h.body&&!a.l){var b=
+function(){T(a);r.setTimeout(function(){return U(a,3)},50)};S(a.j,a.o,2,!0,function(){r[a.m]||b()},b);a.l=!0}},T=function(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.h.body.appendChild(d);a.i.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style["background-color"]=ma(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=ma(0,10,0,10,0,10);b.style.display=
+"flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=X(a);c.style.width=W(80,85).toString()+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=Q(a.j.g,"IMG");d.className=A();d.src=ia;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=X(a),f=X(a);f.style["font-weight"]="bold";f.textContent=ja;var h=X(a);h.textContent=ka;Y(a,
+e,f);Y(a,e,h);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.h.body.appendChild(a.g);b=W(1,5);for(c=0;c<b;c++)d=X(a),a.h.body.appendChild(d),a.i.push(d)},Y=function(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)},W=function(a,b){return Math.floor(a+Math.random()*(b-a))},ma=function(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f,
+255)).toString()+")"},X=function(a){a=Q(a.j.g,"DIV");a.className=A();return a},U=function(a,b){0>=b||null!=a.g&&0!=a.g.offsetHeight&&0!=a.g.offsetWidth||(na(a),T(a),r.setTimeout(function(){return U(a,b-1)},50))},na=function(a){var b=a.i;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:aa(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.i=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};var pa=function(a,b,c,d,e){var f=oa(c),h=function(l){l.appendChild(f);r.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},g=function(l){document.body?h(document.body):0<l?r.setTimeout(function(){g(l-1)},e):b()};g(3)},oa=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var L=function(a){J.call(this,a)};q(L,J);var qa=function(a){J.call(this,a)};q(qa,J);var ra=function(a,b){this.l=a;this.m=new R(a.document);this.g=b;this.i=K(this.g,1);b=M(this.g,2);this.o=x(K(b,4)||"");this.h=!1;b=M(this.g,13);b=x(K(b,4)||"");this.j=new la(a.document,b,K(this.g,12))};ra.prototype.start=function(){sa(this)};
+var sa=function(a){ta(a);S(a.m,a.o,3,!1,function(){a:{var b=a.i;var c=r.btoa(b);if(c=r[c]){try{var d=O(P,r.atob(c))}catch(e){b=!1;break a}b=b===K(d,1)}else b=!1}b?Z(a,K(a.g,14)):(Z(a,K(a.g,8)),V(a.j))},function(){pa(function(){Z(a,K(a.g,7));V(a.j)},function(){return Z(a,K(a.g,6))},K(a.g,9),K(a.g,10),K(a.g,11))})},Z=function(a,b){a.h||(a.h=!0,a=new a.l.XMLHttpRequest,a.open("GET",b,!0),a.send())},ta=function(a){var b=r.btoa(a.i);a.l[b]&&Z(a,K(a.g,5))};(function(a,b){r[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];r[a]=da;b.apply(null,d)}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new ra(window,O(qa,window.atob(a)))).start()});}).call(this);
+
+window.__h82AlnkH6D91__("WyJwdWItMzQyNzM1NTQ3MzA1MTU2MyIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi0zNDI3MzU1NDczMDUxNTYzIl0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hYUjVjdkdiaTNrUE0zajBqVmoyd0VrZFRNbjRLY3JVcml4ZUdCYUhDUUw5aDFRQ1A1MDg2QWZ0d2QyQ3F1SjRycXp1LXVuZktLbGhEV2ZKc01SVVA4OE1RXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFZSQkRxa1Nuakk4ZnhwM0dNSWxpanFPWV95NmhaUzNOZjZvTkNycGJCWDFlUk1kdkdEZmNIMURDa1lqVjFnSXhkelBYNVdXc0N5ZWpmYTh2WXpWLUc0Q3dcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFhFSFZuVFhnamFIWlFYb29tOWUwVnlTMWJSYlNxMVNfcU9TNHBVeFdxMVVUaGV5Qm81RHZ3MHh2VWtrWFZ5SjVEVTBnNnctTmNpdHVTQTQtYmU3UncyQmdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFdxczhIeVdxLWxfYWY5a3d1d2IyZEVGbTlzb19UVjVGMlZmSnM1VjM5S3lsV0xLZVdFRUhDRnF5bVZ6MFJad3VoTmhyakZHdlJWYlQxZ09WdmJxUmlablFcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUTTBNamN6TlRVME56TXdOVEUxTmpNXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi0zNDI3MzU1NDczMDUxNTYzLmpzP3VzcXBcdTAwM2RDQkkiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4WGNGN2dIem5oTzNnSEV2QWMwTHFWQWkwcU5FT0FMdk5BamlmWEgxSVFoa3VmQW9xN3BIZXVWOXRQczhGd3JoY0JBU3Z3cGVlOFl2UTN2Z0cxRmN0bHlSd1x1MDAzZFx1MDAzZCJd");</script>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.6/dist/semantic.min.css"><link rel="stylesheet" href="https://fileformats.org/css/main.min.11e5fd6de8e6fcd2807f70997a9a8dbebde4616111b7e51707e5b400c1fe9f5d.css" integrity="sha256-EeX9bejm/NKAf3CZepqNvr3kYWERt&#43;UXB&#43;W0AMH&#43;n10=" crossorigin="anonymous"><script type="application/ld+json">
+    {"@context": "http://schema.org","@id": "https:\/\/fileformats.org\/file-types\/java-archive\/","@type": "Dataset","url": "https:\/\/fileformats.org\/file-types\/java-archive\/","name": "Java Archive","alternateName": "JAR","description": "\u0022What\u0027s JAR (Java Archive) file? Learn how to open, edit and convert JAR files. On this page you will find a list of software compatible with the JAR file.\u0022","dateModified": "2023-06-27 06:03:27 \u002b0000 UTC","creator":{
+            "@type": "Organization",
+            "name": "Oracle"
+        }}
+</script>
+</script></head>
+<body><div class="ui left demo vertical inverted sidebar huge menu">
+    <div class="item" style="background-color: #1b1c1d;">
+        <a href="https://fileformats.org/" class="item no-border" title="Back to home page">
+            <span class="flex-center site-name__inverted">
+                <i class="copy outline icon"></i>
+                FileFormats
+            </span>
+        </a>
+    </div><a class="item" href="https://fileformats.org/categories/3d-image-file-extensions/"><i class="cube icon icon"></i>3D Image File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/audio-file-extensions/"><i class="volume up icon icon"></i>Audio File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/backup-file-extensions/"><i class="save outline icon"></i>Backup File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/cad-file-extensions/"><i class="file icon"></i>Cad File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/camera-image-file-extensions/"><i class="camera retro icon"></i>Camera Image File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/compressed-file-extensions/"><i class="file archive outline icon"></i>Compressed File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/data-file-extensions/"><i class="table icon"></i>Data File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/database-file-extensions/"><i class="database icon"></i>Database File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/developer-file-extensions/"><i class="file code outline icon"></i>Developer File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/disk-image-file-extensions/"><i class="hdd outline icon"></i>Disk Image File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/ebook-file-extensions/"><i class="book icon"></i>eBook File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/encoded-file-extensions/"><i class="user secret icon"></i>Encoded File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/executable-file-extensions/"><i class="user cog icon"></i>Executable File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/misc-file-extensions/"><i class="copy outline icon"></i>Misc File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/page-layout-file-extensions/"><i class="puzzle piece icon"></i>Page Layout File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/plugin-file-extensions/"><i class="plug icon"></i>Plugin File Extensions
+            </a><a class="item" href="https://fileformats.org/categories/video-file-extensions/"><i class="video icon"></i>Video File Extensions
+            </a>
+    <div class="item menu-bottom-space"></div>
+
+</div>
+<div class="pusher">
+        
+        <span id="back-to-top" class="box-shadow" title="Back to the top">
+            <i class="ui large text up arrow icon m-0"></i>
+        </span>
+
+
+
+
+<div class="ui inverted menu m-0 flex-center bg-header mw-100 br-0">
+    <div class="ui container">
+
+        
+        <a class="item" id="open-sidebar"><i class="large bars icon"></i></a>
+
+        
+        <a href="https://fileformats.org/" class="item hide-desktop" title="Back to home page">
+            <span class="flex-center site-name">
+                <i class="home icon"></i>
+            </span>
+        </a>
+
+        <a href="https://fileformats.org/" class="item hide-mobile" title="Back to home page">
+            <span class="flex-center site-name">
+                <i class="copy outline icon logo-icon"></i>
+                FileFormats
+            </span>
+        </a>
+
+        <div class="ui right aligned item m-0" style="flex: 1;">
+            <div class="ui labeled icon input">
+                
+                <input type="text" placeholder="Search..." id="search-input" style="border-top-right-radius: 4px;border-bottom-right-radius: 4px;">
+                <i class="search link icon" id="search-query"></i>
+            </div>
+        </div>
+
+    </div>
+</div><div class="ad-unit-container" align="center">
+    <div class="ad">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="5022247450"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div><div class="ui fluid container">
+    <div class="ui mini message text-center affiliate-disclaimer-msg br-0" style="padding-top: 6px;padding-bottom: 6px;">
+        <div class="content">
+            <i class="info circle icon"></i>
+            This site is user funded. When possible, we use affiliate links. <a class="legacy-link amzn" href="https://support.fileformats.org/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener">Learn more</a>
+        </div>
+    </div>
+</div><div class="ui container">
+        <div class="ui breadcrumb" id="breadcrumb" style="margin-top: 2rem;margin-bottom: 1.5rem;">
+    <a href="https://fileformats.org/" class="section">Home
+    </a><i class="angle double right icon divider"></i>
+    <a href="https://fileformats.org/file-types/" class="section">File Extensions
+    </a>
+        <i class="angle double right icon divider"></i>
+        <a href="https://fileformats.org/categories/executable-file-extensions/" class="section">Executable File Extensions</a>
+    
+
+    <i class="angle double right icon divider"></i>
+    <a href="https://fileformats.org/file-types/java-archive/" class="section">JAR - Java Archive</a>
+    </div>
+    </div>
+    <script>
+        var breadcrumbs = document.getElementById("breadcrumb");
+        sessionStorage.removeItem('filenux_breadcrumbs');
+        sessionStorage.setItem("filenux_breadcrumbs", breadcrumbs.innerHTML);
+    </script>
+
+
+
+<div class="ui container">
+    <div class="ui grid">
+        
+        <div class="eleven wide computer fourteen wide tablet sixteen wide mobile column main-content">
+<div class="ui basic fitted segment b-0 clearfix pager">
+    
+    
+    
+    <a href="/file-types/ios-application/" class="ui labeled icon left floated button" title="iOS Application">
+        <span class="overflow-hidden">IPA</span>
+        <i class="left chevron icon flex-center"></i>
+    </a>
+    <a href="/file-types/android-package-file/" class="ui right labeled icon right floated button" title="Android Package File">
+        <span class="overflow-hidden">APK</span>
+        <i class="right chevron icon flex-center"></i>
+    </a></div>
+<div class="ui vertical fitted raised segment bg-white main-segment">
+
+    <div class="ui basic padded segment mt-0">
+
+        <div class="file-type-card-header">
+            <div class="file-type-card-header__shape"></div>
+        </div>
+        
+        <div class="ui stackable grid">
+            <div class="row"><div class="three wide column center aligned">
+                        <img class="ui rounded centered image download-icon lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_f5f569d722b5907dbbe1ccec1f344394.png" alt="What is a JAR file (Java Archive)?" title="What is a JAR file (Java Archive)?">
+                    </div><div class="thirteen wide column download-info">
+
+                    <h1 class="ui header mt-0">.JAR (Java Archive) - File Extension</h1>
+
+
+                    <div class="ui horizontal middle aligned celled list">
+                        <div class="item">
+                            <div class="content">
+                                <strong>Developer:</strong> Oracle
+                            </div>
+                        </div><div class="item">
+                                <div class="content"><strong>File format:</strong> <a class="legacy-link" href="https://fileformats.org/tags/zip-file-format">ZIP</a>
+                                </div>
+                            </div></div>
+
+                    
+                </div>
+            </div>
+        </div>
+        
+
+        
+        <div class="ui floating message">
+            <div class="ui grid">
+                
+                <div class="thirteen wide computer fourteen wide tablet sixteen wide mobile column"><p>Open, Edit, and Convert the <strong>.JAR</strong> File Type with <strong>File Viewer Plus!</strong></p>
+                </div>
+                <div class="three wide computer two wide tablet sixteen wide mobile column">
+                    <a href="https://order.shareit.com/cart/add?vendorid=200276557&amp;PRODUCT[300995578]=1&amp;backlink=https%3A%2F%2Ffileformats.org&amp;affiliateid=200292503" target="_blank" rel="noopener nofollow" class="ui fluid primary button z-depth-2">OPEN</a>
+                </div>
+            </div>
+
+        </div>
+        
+
+    </div>
+
+</div>
+
+            
+            <div class="ui vertical fitted raised segment bg-white sidebar-widget" align="center">
+    <div class="bg-white ad-unit" data-text="Advertisement">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="5022247450"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div><div class="ui vertical fitted raised segment bg-white main-segment main-article">
+    <div class="ui basic padded segment">
+        <h2 id="what-is-a-jar-file">What is a JAR file?</h2>
+<p>A JAR (Java Archive) file is a file format that is commonly used in the Java programming language. It serves as a container for bundling Java class files, associated metadata, and resources into a single file.</p>
+<p>The JAR format, developed by Sun Microsystems (now Oracle), utilizes the popular <a class="legacy-link" href="/file-types/zipped-file/">Zip compression</a> algorithm to reduce file size and facilitate easy distribution and deployment of Java applications and libraries.</p>
+<p>The primary purpose of a JAR file is to package Java bytecode, which is the compiled version of Java source code, along with any necessary resources and libraries required for the Java program to run. By consolidating all these components into a single file, JAR files simplify the process of sharing and distributing Java applications.</p>
+<h2 id="how-to-open-a-jar-file">How to open a JAR file</h2>
+<p>Opening a JAR file is a straightforward process that can be accomplished using various software programs. Here are the steps to open a JAR file:</p>
+<ol>
+<li><strong>Java Runtime Environment (JRE):</strong> JAR files are designed to be executed by the Java Virtual Machine (JVM), which is a part of the Java Runtime Environment (JRE). If you have JRE installed on your computer, you can simply double-click on the JAR file, and the associated Java application or library will be launched.</li>
+<li><strong>Command Line:</strong> Alternatively, you can open a JAR file from the command line using the <code>java</code> command. Open the command prompt or terminal, navigate to the directory where the JAR file is located, and type the following command: <code>java -jar filename.jar</code>, replacing &ldquo;filename.jar&rdquo; with the actual name of the JAR file.</li>
+<li><strong>Integrated Development Environments (IDEs):</strong> IDEs such as Eclipse, IntelliJ IDEA, and NetBeans provide built-in support for working with JAR files. You can import JAR files into your Java project and use the classes and resources contained within them.</li>
+</ol>
+<h2 id="how-to-convert-a-jar-file">How to convert a JAR file</h2>
+<p>Converting a file to the JAR format involves creating a JAR archive that encapsulates the desired files and directories. However, it&rsquo;s important to note that the JAR format is primarily used for packaging Java-related content.</p>
+<p>Converting other file types to JAR might not be applicable or straightforward. Nevertheless, here are the general steps for creating a JAR file:</p>
+<ol>
+<li><strong>Java Archive Tool (jar) Command-line Utility:</strong> The <code>jar</code> command-line utility, bundled with the Java Development Kit (JDK), allows you to create JAR files. Using the command <code>jar -cf jarfile.jar file1 file2 directory1</code>, you can create a JAR file named &ldquo;jarfile.jar&rdquo; containing &ldquo;file1,&rdquo; &ldquo;file2,&rdquo; and &ldquo;directory1&rdquo; in the current directory.</li>
+<li><strong>Integrated Development Environments (IDEs):</strong> Most Java IDEs provide a graphical interface to create JAR files. You can usually find an option to export your project as a JAR file within the IDE&rsquo;s project settings or export wizard.</li>
+</ol>
+<p>While converting other file types to JAR might not be practical, converting JAR files to other formats is possible. To extract the contents of a JAR file, you can use any ZIP extraction tool. Simply rename the JAR file extension to &ldquo;.zip&rdquo; and extract the files using software like WinRAR, 7-Zip, or the built-in extraction tools on operating systems.</p>
+<h2 id="security-considerations-are-jar-files-safe">Security Considerations: Are &ldquo;.JAR&rdquo; Files Safe?</h2>
+<p>JAR files, like any other file format, can potentially pose security risks if not handled carefully. Due to their ability to contain executable Java code, they have been exploited by malware and used in various cyberattacks. Here are some security considerations to keep in mind:</p>
+<ol>
+<li><strong>Malicious Code:</strong> JAR files can include Java applets or applications that, when executed, may perform malicious actions on the user&rsquo;s system. It is important to be cautious when running JAR files from untrusted sources or websites.</li>
+<li><strong>Digital Signatures:</strong> To enhance security, JAR files can be digitally signed using digital certificates. Digital signatures provide a way to verify the authenticity and integrity of the JAR file, ensuring that it hasn&rsquo;t been tampered with or modified by unauthorized parties.</li>
+<li><strong>Security Updates:</strong> Keeping your Java Runtime Environment (JRE) up-to-date is crucial to protecting against known vulnerabilities. Oracle regularly releases security updates to address potential risks associated with executing JAR files.</li>
+</ol>
+<p>To mitigate security risks when working with JAR files, it is recommended to only run JAR files from trusted sources, keep your software up-to-date, and exercise caution when interacting with unfamiliar or suspicious JAR files.</p>
+<h2 id="format-details-for-jar-files">Format Details for JAR Files</h2>
+<p>The JAR file format follows the structure of a typical ZIP archive. It consists of a central directory containing metadata and references to the compressed files within the archive. Here are some key details about the JAR file format:</p>
+<ul>
+<li><strong>Compression:</strong> JAR files utilize the ZIP compression algorithm to reduce file size while maintaining the integrity of the archived files.</li>
+<li><strong>Manifest File:</strong> A JAR file includes a manifest file, named &ldquo;MANIFEST.MF,&rdquo; that contains metadata and attributes about the JAR file, such as version information, entry points, and dependencies.</li>
+<li><strong>Archiving Structure:</strong> JAR files store files and directories in a hierarchical structure, similar to file systems. The directory entries within the JAR file preserve the relative paths of the archived files, allowing for organized organization and retrieval.</li>
+<li><strong>Executable JARs:</strong> A JAR file can be designated as an executable JAR by specifying the main class to be executed when the JAR file is launched. This allows JAR files to act as standalone Java applications.</li>
+</ul>
+<h2 id="uses-and-applications-of-jar-files">Uses and Applications of JAR Files</h2>
+<p>JAR files find extensive use in the Java ecosystem, serving as a fundamental unit of packaging and distribution for Java applications and libraries. Here are some common use cases for JAR files:</p>
+<ul>
+<li><strong>Java Applications:</strong> JAR files are commonly used to package and distribute standalone Java applications. By bundling all the necessary Java class files, resources, and libraries into a single JAR file, developers can simplify the deployment and distribution process.</li>
+<li><strong>Java Libraries:</strong> JAR files serve as containers for reusable Java libraries. Developers can package their Java code into JAR files, making it easier to share and utilize the libraries across multiple projects.</li>
+<li><strong>Applets:</strong> In the past, JAR files were widely used to distribute Java applets, which were small Java programs embedded within web pages. Applets allowed developers to create interactive content that could run within a web browser.</li>
+<li><strong>Dependencies and Classpaths:</strong> JAR files are crucial for managing dependencies and classpaths in Java projects. By including JAR files as dependencies, developers can ensure that the required libraries are available during the compilation and execution of their Java code.</li>
+</ul>
+<h2 id="associated-software-programs">Associated Software Programs</h2>
+<p>Several software programs are commonly used to open and create JAR files. Here are some popular options:</p>
+<ul>
+<li><strong>Java Development Kit (JDK):</strong> The JDK, provided by Oracle, includes the <code>jar</code> utility, allowing you to create and manipulate JAR files from the command line.</li>
+<li><strong>Java Integrated Development Environments (IDEs):</strong> IDEs such as Eclipse, IntelliJ IDEA, and NetBeans provide built-in support for working with JAR files. They offer graphical interfaces to create, modify, and run JAR files within the development environment.</li>
+<li><strong>ZIP Extraction Tools:</strong> JAR files, being based on the ZIP format, can be opened and extracted using various ZIP extraction tools such as WinRAR, 7-Zip, and the built-in extraction tools found in most operating systems.</li>
+</ul>
+<h2 id="advantages-and-disadvantages-of-jar-files">Advantages and Disadvantages of JAR Files</h2>
+<p>Like any file format, JAR files come with their own set of advantages and disadvantages.</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li><strong>Portability:</strong> JAR files can be executed on any system with a compatible Java Runtime Environment (JRE), making them highly portable across different operating systems.</li>
+<li><strong>Simplicity:</strong> JAR files simplify the distribution and deployment of Java applications and libraries by packaging all the necessary components into a single file.</li>
+<li><strong>Compression:</strong> By utilizing the ZIP compression algorithm, JAR files can significantly reduce file size, making them efficient for storage and network transfer.</li>
+<li><strong>Versioning and Dependencies:</strong> JAR files allow developers to manage dependencies and versioning, ensuring that the correct versions of libraries are used in Java projects.</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li><strong>Security Risks:</strong> JAR files can potentially contain malicious code, making them a potential vector for malware and cyberattacks if not handled with caution.</li>
+<li><strong>Limited to the Java Ecosystem:</strong> While JAR files are essential for Java development, they are primarily intended for use within the Java ecosystem and may not be applicable for other programming languages or platforms.</li>
+<li><strong>Compatibility:</strong> JAR files may encounter compatibility issues if they depend on specific Java versions or external libraries that are not available on the target system.</li>
+</ul>
+<h2 id="comparison">Comparison</h2>
+<p>When comparing the JAR file format to other similar or related file extensions, it&rsquo;s important to consider the specific use cases and characteristics of each format. Here&rsquo;s a comparison with two commonly used file extensions:</p>
+<ol>
+<li><strong>JAR vs. ZIP:</strong> JAR files are essentially ZIP archives with additional metadata and conventions specific to Java. While ZIP files are used for general-purpose compression and archiving, JAR files are primarily designed for packaging Java applications and libraries. JAR files offer features such as manifest files and executable JARs that are not present in regular ZIP archives.</li>
+<li><strong>JAR vs. WAR:</strong> A WAR (Web Application Archive) file is a specialized form of a JAR file used for packaging and deploying Java web applications. While JAR files are more general-purpose and can be used for any Java application or library, WAR files are specifically tailored for web applications, including HTML, CSS, and other web-related resources.</li>
+</ol>
+<h2 id="troubleshooting-jar-files">Troubleshooting JAR Files</h2>
+<p>Encountering problems with JAR files can be frustrating, but many issues can be resolved with simple solutions. Here are some common problems and their potential solutions:</p>
+<ul>
+<li><strong>Unable to Execute a JAR File:</strong> Ensure that you have the Java Runtime Environment (JRE) installed on your system. If the JAR file doesn&rsquo;t execute by double-clicking, try running it from the command line using the <code>java -jar filename.jar</code> command.</li>
+<li><strong>Classpath Issues:</strong> If your JAR file depends on external libraries, make sure they are correctly included in the classpath. Verify the location and name of the dependent JAR files.</li>
+<li><strong>Manifest File Errors:</strong> If you encounter issues related to the manifest file, ensure that it follows the proper syntax and conventions. Check for missing or incorrect entries, especially if you are creating an executable JAR.</li>
+<li><strong>Security Warnings:</strong> If your operating system or security software flags the JAR file as potentially harmful, exercise caution and ensure that the file is from a trusted source. Consider scanning the JAR file with reputable antivirus software.</li>
+</ul>
+<h2 id="history-of-the-jar-file-extension">History of the JAR File Extension</h2>
+<p>The JAR file format was created by Sun Microsystems (now Oracle) as part of the Java platform in the late 1990s. It was introduced to address the need for a standardized packaging format that could bundle Java class files, resources, and metadata into a single archive.</p>
+<p>The primary motivation behind the development of JAR files was to simplify the distribution and deployment of Java applications and libraries. Before JAR files, developers had to manually manage multiple files and directories, which led to compatibility and deployment challenges.</p>
+<p>Over the years, the JAR format has evolved to support additional features, such as the inclusion of a manifest file, support for digital signatures, and the ability to create executable JARs. These advancements have further enhanced the versatility and security of JAR files within the Java ecosystem.</p>
+<h2 id="tips-and-tricks-for-jar-files">Tips and Tricks for JAR Files</h2>
+<p>Here are some tips and tricks for effectively working with JAR files:</p>
+<ul>
+<li><strong>Versioning:</strong> Consider using versioning conventions for your JAR files to keep track of different releases and updates. This can help manage dependencies and ensure compatibility with other projects.</li>
+<li><strong>Managing Dependencies:</strong> Utilize build tools and dependency management systems like Apache Maven or Gradle to automatically resolve and include required libraries in your JAR files.</li>
+<li><strong>Optimizing Compression:</strong> If file size is a concern, experiment with different compression levels when creating JAR files. Higher compression levels result in smaller file sizes but may increase the time required for extraction and execution.</li>
+<li><strong>Code Signing:</strong> If you are distributing JAR files, consider signing them with a digital certificate. Digital signatures provide an additional layer of trust and security, ensuring that the JAR files have not been tampered with.</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>The JAR file extension plays a crucial role in the Java ecosystem, providing a versatile and standardized format for packaging and distributing Java applications and libraries. With their ability to compress files, manage dependencies, and simplify deployment, JAR files have become an integral part of Java development.</p>
+<p>While JAR files offer numerous benefits, it&rsquo;s essential to be aware of the potential security risks associated with executing JAR files from untrusted sources.</p>
+<p>By following best practices, such as running JAR files only from trusted sources, keeping software up-to-date, and using digital signatures, users can mitigate these risks and safely leverage the power of JAR files in their Java projects.</p>
+
+
+        
+    </div>
+</div><div class="ui vertical fitted raised segment bg-white sidebar-widget" align="center">
+    <div class="bg-white ad-unit" data-text="Advertisement">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="5022247450"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div><div class="ui vertical fitted raised segment bg-white main-segment">
+    <div class="ui basic padded segment">
+
+        <h2 class="ui header section-header">
+            <div class="content">Software Compatible With The JAR File Type
+                <div class="sub header">Java Archive</div>
+            </div>
+        </h2><p>In this section you will find a list of the best programs compatible with the JAR file type. We&#39;ve selected the best software for Windows, Mac, Android and Linux to open, edit, convert and view the contents of JAR files.</p>
+
+        <div class="ui pointing secondary menu scroll-menu"><a class="active item" data-tab="windows">
+                    <div class="ui tiny header">
+                        <i class="windows icon"></i>
+                        <div class="content">Windows</div>
+                    </div>
+                </a><a class="item" data-tab="mac">
+                    <div class="ui tiny header">
+                        <i class="apple icon"></i>
+                        <div class="content">macOS</div>
+                    </div>
+                </a><a class="item" data-tab="android">
+                    <div class="ui tiny header">
+                        <i class="android icon"></i>
+                        <div class="content">Android</div>
+                    </div>
+                </a><a class="item" data-tab="linux">
+                    <div class="ui tiny header">
+                        <i class="linux icon"></i>
+                        <div class="content">Linux</div>
+                    </div>
+                </a></div><div class="ui active tab basic fitted segment" data-tab="windows">
+                    <table class="ui small celled unstackable table">
+                        <tbody>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/file-viewer-plus_hu88e77fda8259aec1ad610bc9dd60fa00_828_32x0_resize_catmullrom_3.png" alt="File Viewer Plus" width="32"><div class="content"><a href="https://order.shareit.com/cart/add?vendorid=200276557&amp;PRODUCT[300995578]=1&amp;backlink=https%3A%2F%2Ffileformats.org&amp;affiliateid=200292503" target="_blank" rel="noopener nofollow" class="legacy-link">File Viewer Plus</a><div class="sub header"><strong>License: <span class="paid_license">Paid</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="https://order.shareit.com/cart/add?vendorid=200276557&amp;PRODUCT[300995578]=1&amp;backlink=https%3A%2F%2Ffileformats.org&amp;affiliateid=200292503" target="_blank" rel="noopener nofollow" class="ui primary button">
+                                                <i class="arrow down icon mr-0 hide-desktop"></i>
+                                                <i class="arrow down icon hide-mobile"></i>
+                                                <span class="hide-mobile">DOWNLOAD</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/oracle_java_runtime_environment_hu417b4c82aa449acce86edf38ae562e3e_883_32x0_resize_catmullrom_3.png" alt="Oracle Java Runtime Environment" width="32"><div class="content"><a href="/search-online/?q=Oracle%20Java%20Runtime%20Environment" target="_blank" rel="nofollow noopener" class="legacy-link">Oracle Java Runtime Environment</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Oracle%20Java%20Runtime%20Environment" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/oracle_java_se_development_kit_hu19f8ee6977f916d397e85cf0652e7bbf_635_32x0_resize_catmullrom_3.png" alt="Oracle Java SE Development Kit" width="32"><div class="content"><a href="/search-online/?q=Oracle%20Java%20SE%20Development%20Kit" target="_blank" rel="nofollow noopener" class="legacy-link">Oracle Java SE Development Kit</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Oracle%20Java%20SE%20Development%20Kit" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/corel-winzip_huc0b424ea233b383d7245c1bc6f86709b_1360_32x0_resize_catmullrom_3.png" alt="Corel WinZip" width="32"><div class="content"><a href="https://prf.hn/l/xny5beG" target="_blank" rel="noopener" class="legacy-link">Corel WinZip</a><div class="sub header"><strong>License: <span class="trial_license">Trial</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="https://prf.hn/l/xny5beG" target="_blank" rel="noopener" class="ui primary button">
+                                                <i class="arrow down icon mr-0 hide-desktop"></i>
+                                                <i class="arrow down icon hide-mobile"></i>
+                                                <span class="hide-mobile">DOWNLOAD</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/7-zip_hud8c070b23ecc9973f7d6a3ba66a9fd54_166_32x0_resize_catmullrom_3.png" alt="7-Zip" width="32"><div class="content"><a href="/search-online/?q=7-Zip" target="_blank" rel="nofollow noopener" class="legacy-link">7-Zip</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=7-Zip" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/rarlab-winrar_huc4d229eaa7e005a9ef81e41f1bbf237c_1561_32x0_resize_catmullrom_3.png" alt="RARLAB WinRAR" width="32"><div class="content"><a href="https://prf.hn/l/LbYm8Md" target="_blank" rel="noopener" class="legacy-link">RARLAB WinRAR</a><div class="sub header"><strong>License: <span class="trial_license">Trial</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="https://prf.hn/l/LbYm8Md" target="_blank" rel="noopener" class="ui primary button">
+                                                <i class="arrow down icon mr-0 hide-desktop"></i>
+                                                <i class="arrow down icon hide-mobile"></i>
+                                                <span class="hide-mobile">DOWNLOAD</span>
+                                            </a></td>
+                                </tr></tbody>
+                    </table>
+                </div><div class="ui tab basic fitted segment" data-tab="mac">
+                    <table class="ui small celled unstackable table">
+                        <tbody>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/oracle_java_runtime_environment_hu417b4c82aa449acce86edf38ae562e3e_883_32x0_resize_catmullrom_3.png" alt="Oracle Java Runtime Environment" width="32"><div class="content"><a href="/search-online/?q=Oracle%20Java%20Runtime%20Environment" target="_blank" rel="nofollow noopener" class="legacy-link">Oracle Java Runtime Environment</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Oracle%20Java%20Runtime%20Environment" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/oracle_java_se_development_kit_hu19f8ee6977f916d397e85cf0652e7bbf_635_32x0_resize_catmullrom_3.png" alt="Oracle Java SE Development Kit" width="32"><div class="content"><a href="/search-online/?q=Oracle%20Java%20SE%20Development%20Kit" target="_blank" rel="nofollow noopener" class="legacy-link">Oracle Java SE Development Kit</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Oracle%20Java%20SE%20Development%20Kit" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/apple-archive-utility_hu9ce682b67cb22c91cafd684ac18f51df_925_32x0_resize_catmullrom_3.png" alt="Apple Archive Utility" width="32"><div class="content"><a href="/search-online/?q=Apple%20Archive%20Utility" target="_blank" rel="nofollow noopener" class="legacy-link">Apple Archive Utility</a></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Apple%20Archive%20Utility" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/keka-for-mac_hu803ab1c7ac62f4f664109220a8b6334b_1559_32x0_resize_catmullrom_3.png" alt="Keka" width="32"><div class="content"><a href="/search-online/?q=Keka" target="_blank" rel="nofollow noopener" class="legacy-link">Keka</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Keka" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/corel-winzip-mac_hue1588e4816a4b46b2a64cd282aa3b9e5_1419_32x0_resize_catmullrom_3.png" alt="Corel WinZip" width="32"><div class="content"><a href="/search-online/?q=Corel%20WinZip" target="_blank" rel="nofollow noopener" class="legacy-link">Corel WinZip</a><div class="sub header"><strong>License: <span class="trial_license">Trial</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Corel%20WinZip" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr></tbody>
+                    </table>
+                </div><div class="ui tab basic fitted segment" data-tab="android">
+                    <table class="ui small celled unstackable table">
+                        <tbody>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/zdevs-zarchiver-for-android_hu28940dd08e6228522e8a345e64ba1948_1017_32x0_resize_catmullrom_3.png" alt="ZDevs ZArchiver" width="32"><div class="content"><a href="/search-online/?q=ZDevs%20ZArchiver" target="_blank" rel="nofollow noopener" class="legacy-link">ZDevs ZArchiver</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=ZDevs%20ZArchiver" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr></tbody>
+                    </table>
+                </div><div class="ui tab basic fitted segment" data-tab="linux">
+                    <table class="ui small celled unstackable table">
+                        <tbody>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/oracle_java_runtime_environment_hu417b4c82aa449acce86edf38ae562e3e_883_32x0_resize_catmullrom_3.png" alt="Oracle Java Runtime Environment" width="32"><div class="content"><a href="/search-online/?q=Oracle%20Java%20Runtime%20Environment" target="_blank" rel="nofollow noopener" class="legacy-link">Oracle Java Runtime Environment</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Oracle%20Java%20Runtime%20Environment" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/oracle_java_se_development_kit_hu19f8ee6977f916d397e85cf0652e7bbf_635_32x0_resize_catmullrom_3.png" alt="Oracle Java SE Development Kit" width="32"><div class="content"><a href="/search-online/?q=Oracle%20Java%20SE%20Development%20Kit" target="_blank" rel="nofollow noopener" class="legacy-link">Oracle Java SE Development Kit</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Oracle%20Java%20SE%20Development%20Kit" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="">
+                                        <h2 class="ui small header compatible-software__list-item"><img class="ui tiny image lazy-img" data-src="https://fileformats.org/images/software/default_hub93e09ef93c24bcd4baa8f23f26b6525_619_32x0_resize_catmullrom_3.png" alt="Xarchiver" width="32"><div class="content"><a href="/search-online/?q=Xarchiver" target="_blank" rel="nofollow noopener" class="legacy-link">Xarchiver</a><div class="sub header"><strong>License: <span class="free_license">Free</span></strong></div></div>
+                                        </h2>
+                                    </td>
+
+                                    <td style="text-align: center;" class="collapsing hide-mobile"><a href="/search-online/?q=Xarchiver" target="_blank" rel="nofollow noopener" class="ui button" title="Search Online" alt="Search Online">
+                                                <i class="search icon mr-0 hide-desktop"></i>
+                                                <i class="search icon hide-mobile"></i>
+                                                <span class="hide-mobile">Search Online</span>
+                                            </a></td>
+                                </tr></tbody>
+                    </table>
+                </div></div>
+</div>
+<div class="ui basic fitted segment b-0 clearfix pager">
+    
+    
+    
+    <a href="/file-types/ios-application/" class="ui labeled icon left floated button" title="iOS Application">
+        <span class="overflow-hidden">IPA</span>
+        <i class="left chevron icon flex-center"></i>
+    </a>
+    <a href="/file-types/android-package-file/" class="ui right labeled icon right floated button" title="Android Package File">
+        <span class="overflow-hidden">APK</span>
+        <i class="right chevron icon flex-center"></i>
+    </a></div></div>
+        
+
+        
+        <div class="five wide computer fourteen wide tablet sixteen wide mobile column"><div class="ui vertical fitted raised segment bg-white sidebar-widget" align="center">
+    <div class="bg-white ad-unit" data-text="Advertisement">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="7174887637"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+<div class="ui vertical fitted raised segment bg-white sidebar-widget">
+    <div class="ui basic segment">
+        <h2 class="ui small header">
+            Share this page
+        </h2>
+
+        <div class="seven ui buttons">
+            <a href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2ffileformats.org%2ffile-types%2fjava-archive%2f" target="_blank" rel="noopener noreferrer" class="ui facebook icon button" aria-label="Share on Facebook" title="Share on Facebook">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z" fill="#FFFFFF" /></svg>
+            </a>
+            <a href="https://twitter.com/intent/tweet/?text=What%20is%20a%20JAR%20file%20%28Java%20Archive%29%3f&amp;url=https%3a%2f%2ffileformats.org%2ffile-types%2fjava-archive%2f&amp;hashtags=j%2czip-file-format%2ccommon-file-extensions" class="ui twitter icon button" target="_blank" rel="noopener noreferrer" aria-label="Share on Twitter" title="Share on Twitter">
+                <svg version="1.1" viewBox="0 0 24 24" width="18" height="16" xml:space="preserve">
+                    <path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z" fill="#FFFFFF" />
+                </svg>
+            </a>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ffileformats.org%2ffile-types%2fjava-archive%2f&amp;title=What%20is%20a%20JAR%20file%20%28Java%20Archive%29%3f&amp;summary=What%20is%20a%20JAR%20file%20%28Java%20Archive%29%3f&amp;source=https%3a%2f%2ffileformats.org%2ffile-types%2fjava-archive%2f" class="ui linkedin icon button" target="_blank" rel="noopener noreferrer" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 24 24"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z" fill="#FFFFFF" /></svg>
+            </a>
+            <a href="https://api.whatsapp.com/send?text=What%20is%20a%20JAR%20file%20%28Java%20Archive%29%3f%20-%20https%3a%2f%2ffileformats.org%2ffile-types%2fjava-archive%2f" class="ui whatsapp icon button" target="_blank" rel="noopener noreferrer" aria-label="Share on WhatsApp" title="Share on WhatsApp">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z" fill="#FFFFFF" /></svg>
+            </a>
+            <a class="ui icon button share-button reddit" target="_blank" rel="noopener noreferrer" aria-label="Share on Reddit"
+                href="https://reddit.com/submit?url=https%3a%2f%2ffileformats.org%2ffile-types%2fjava-archive%2f&title=What%20is%20a%20JAR%20file%20%28Java%20Archive%29%3f" title="Share on Reddit">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 24 24"><path d="M24 11.779c0-1.459-1.192-2.645-2.657-2.645-.715 0-1.363.286-1.84.746-1.81-1.191-4.259-1.949-6.971-2.046l1.483-4.669 4.016.941-.006.058c0 1.193.975 2.163 2.174 2.163 1.198 0 2.172-.97 2.172-2.163s-.975-2.164-2.172-2.164c-.92 0-1.704.574-2.021 1.379l-4.329-1.015c-.189-.046-.381.063-.44.249l-1.654 5.207c-2.838.034-5.409.798-7.3 2.025-.474-.438-1.103-.712-1.799-.712-1.465 0-2.656 1.187-2.656 2.646 0 .97.533 1.811 1.317 2.271-.052.282-.086.567-.086.857 0 3.911 4.808 7.093 10.719 7.093s10.72-3.182 10.72-7.093c0-.274-.029-.544-.075-.81.832-.447 1.405-1.312 1.405-2.318zm-17.224 1.816c0-.868.71-1.575 1.582-1.575.872 0 1.581.707 1.581 1.575s-.709 1.574-1.581 1.574-1.582-.706-1.582-1.574zm9.061 4.669c-.797.793-2.048 1.179-3.824 1.179l-.013-.003-.013.003c-1.777 0-3.028-.386-3.824-1.179-.145-.144-.145-.379 0-.523.145-.145.381-.145.526 0 .65.647 1.729.961 3.298.961l.013.003.013-.003c1.569 0 2.648-.315 3.298-.962.145-.145.381-.144.526 0 .145.145.145.379 0 .524zm-.189-3.095c-.872 0-1.581-.706-1.581-1.574 0-.868.709-1.575 1.581-1.575s1.581.707 1.581 1.575-.709 1.574-1.581 1.574z" fill="#FFFFFF"/></svg>
+            </a>
+            <a href="mailto:?Subject=What%20is%20a%20JAR%20file%20%28Java%20Archive%29%3f&amp;Body=Check%20this%20out: https%3a%2f%2ffileformats.org%2ffile-types%2fjava-archive%2f" class="ui secondary icon button" target="_blank" rel="noopener noreferrer" aria-label="Share by Email" title="Share by Email">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 24 24"><path d="M12 12.713l-11.985-9.713h23.971l-11.986 9.713zm-5.425-1.822l-6.575-5.329v12.501l6.575-7.172zm10.85 0l6.575 7.172v-12.501l-6.575 5.329zm-1.557 1.261l-3.868 3.135-3.868-3.135-8.11 8.848h23.956l-8.11-8.848z" fill="#FFFFFF" /></svg>
+            </a></div> 
+
+
+    </div>
+</div><div class="ui vertical fitted raised segment bg-white sidebar-widget"><div class="ui fluid card mb-0 br-0">
+        <div class="extra content">
+            <div class="author">
+                <div class="ui small header" style="display: flex;">
+                    <div class="ui image">
+                        <img class="ui avatar image lazy-img" data-src="https://fileformats.org/images/authors/richard.png" title="Author Picture" alt="Author Picture" style="width: 50px; height: 50px;">
+                    </div>
+                    <div class="content" style="flex: 1;">
+                        <div class="sub header">
+                            <small style="text-transform: uppercase;">Author</small>
+                        </div>
+                        <a href="https://fileformats.org/authors/richard-scott/" class="legacy-link__author-name">Richard Scott</a>
+                        <div class="sub header">
+                            Technical Writer
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</div><div class="ui vertical fitted raised segment bg-white sidebar-widget" align="center">
+    <div class="bg-white ad-unit" data-text="Advertisement">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="9609479289"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+<table class="ui big raised segment unstackable selectable table sidebar-widget">
+    <thead>
+        <tr>
+            <th colspan="2">Related file extensions</th>
+        </tr>
+    </thead>
+
+    <tbody><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/unix-executable-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="Unix Executable File" title="Unix Executable File">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/unix-executable-file/">BIN</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Unix Executable File</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/automator-workflow/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_35c40c69dea0991baaace8c35786a082.png" alt="Automator Workflow" title="Automator Workflow">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/automator-workflow/">WORKFLOW</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Automator Workflow</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/renamed-virus-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="Renamed Virus File" title="Renamed Virus File">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/renamed-virus-file/">0XE</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Renamed Virus File</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/xbox-executable-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="Xbox Executable File" title="Xbox Executable File">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/xbox-executable-file/">XBE</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Xbox Executable File</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/windows-command-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_b2c0167d169dc2d6af5e8a7c5f5d39f3.png" alt="Windows Command File" title="Windows Command File">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/windows-command-file/">CMD</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Windows Command File</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/linux-executable-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="Linux Executable File" title="Linux Executable File">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/linux-executable-file/">RUN</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Linux Executable File</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/quickbms-script/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="QuickBMS Script" title="QuickBMS Script">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/quickbms-script/">BMS</span>
+                        <div class="sub header">
+                            <span class="ui grey text">QuickBMS Script</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/autohotkey-script/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_8c939ba18c28c808d616996ed2e27fbf.png" alt="AutoHotkey Script" title="AutoHotkey Script">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/autohotkey-script/">AHK</span>
+                        <div class="sub header">
+                            <span class="ui grey text">AutoHotkey Script</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/windows-executable-file/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_a69fc79c0e70404b0533596308ff5437.png" alt="Windows Executable File" title="Windows Executable File">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/windows-executable-file/">EXE</span>
+                        <div class="sub header">
+                            <span class="ui grey text">Windows Executable File</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr><tr class="break-word">
+            <td><a class="ui small header download-list-item" href="/file-types/ios-application/">
+                    <div class="download-icon-list__container">
+                        <img class="ui rounded centered image download-icon-list lazy-img" data-src="https://fileformats.org/images/transparent-bg_hu8292c7ba3194f2dab792e7d76fc51dbe_1725_2f7842967917cdb8da5cf10f9e47fd18.png" alt="iOS Application" title="iOS Application">
+                    </div>
+
+                    <div class="content" style="flex: 1;">
+                        <span class="legacy-link" href="/file-types/ios-application/">IPA</span>
+                        <div class="sub header">
+                            <span class="ui grey text">iOS Application</span>
+                        </div>
+                    </div>
+                </a>
+
+            </td>
+        </tr></tbody>
+</table><div class="ui vertical fitted raised segment bg-white sidebar-widget" align="center">
+    <div class="bg-white ad-unit" data-text="Advertisement">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="9609479289"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+    
+
+    
+    
+
+    
+</div>
+        
+
+    </div>
+
+</div>
+
+
+        
+        <div class="bg-white" align="center">
+    <div class="ad-unit">
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-format="autorelaxed"
+             data-ad-client="ca-pub-3427355473051563"
+             data-ad-slot="6791744254"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div><div class="ui vertical raised padded segment bg-white">
+    <div class="ui container">
+        <h2 class="ui header center aligned">Why Trust FileFormats?</h2>
+        <div class="ui three column center aligned divided stackable grid">
+            <div class="row">
+                <div class="column">
+                    <div class="ui basic segment">
+                        <h2 class="ui icon header">
+                            <i class="green search icon"></i>Research
+                        </h2>
+                        <p>The FileFormats team has independently researched the file format presented on this page.</p>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="ui basic segment">
+                        <h2 class="ui icon header">
+                            <i class="green puzzle piece icon"></i>Compatibility
+                        </h2>
+                        <p>We individually test every apps presented as compatible with this file format to make sure you only get the best solution to you problem.</p>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="ui basic segment">
+                        <h2 class="ui icon header">
+                            <i class="green bullseye icon"></i>Accuracy
+                        </h2>
+                        <p>Our goal is 100% accuracy and we only publish information about file types that we have verified.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div><div class="ui inverted vertical footer segment" style="padding: 70px 0 150px;">
+    <div class="ui container">
+        <div class="ui inverted divided equal height stackable grid">
+            <div class="six wide column">
+    
+
+    <a href="https://fileformats.org/" class="item" title="Back to home page">
+        <span class="site-name__inverted mt-0 pt-0 mb-20" style="display: inline-block;">
+            <i class="copy outline icon"></i> FileFormats
+        </span>
+    </a>
+
+    <p>The largest database of file extensions on the internet. The most trusted source of information about file types and file formats. Here you can find all data related to files. Our website has information on over 10,000 file types.</p>
+
+</div><div class="three wide column"><div class="ui inverted small header">Browse by</div>
+                    <div class="ui inverted very relaxed link list"><div class="item"><div class="content">
+                                <a href="https://fileformats.org/categories/" class="amzn inverted_footer__link">
+                                    Categories
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://fileformats.org/authors/" class="amzn inverted_footer__link">
+                                    Authors
+                                </a>
+                            </div>
+                        </div></div></div><div class="three wide column"><div class="ui inverted small header">Institutional</div>
+                    <div class="ui inverted very relaxed link list"><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/about/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    About us
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/privacy-policy/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Privacy policy
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/terms/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Terms of use
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/cookie-policy/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Cookie policy
+                                </a>
+                            </div>
+                        </div><div class="item"><div class="content">
+                                <a href="https://support.fileformats.org/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener noreferrer" class="amzn inverted_footer__link">
+                                    Affiliate disclosure
+                                </a>
+                            </div>
+                        </div></div></div><div class="three wide column">
+                
+
+                
+            </div>
+        </div>
+        <div class="ui section divider"></div>
+        <div class="ui container">
+            <p><span class="ui grey text">All product names, logos and brand names are the property of their respective owners. All company, product and service names used on this site are for identification purposes only. The use of these names, logos and brands does not imply endorsement.</span></p>
+            <div class="ui grid">
+                <div class="row">
+                    <div class="column center aligned">
+                        
+
+                        <small style="text-transform: uppercase;">&copy; <script>document.write( (new Date()).getFullYear() )</script> FileFormats.org, a W3EMPIRE property  - All rights reserved</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div> 
+
+
+    
+<script src="/js/vendor/jquery@3.x/jquery.min.js"></script>
+<script src="/js/vendor/fomantic-ui@2.8.6/semantic.min.js"></script>
+
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.min.js"></script>
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.youtube.min.js"></script>
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.picture.min.js"></script>
+
+
+<script src="/js/vendor/lightbox2@2.11.3/lightbox.min.js"></script>
+
+<script src="/js/app.js"></script>
+
+    <script>
+        
+        $("#search-query").click(function() {
+            search();
+        });
+
+        function search() {
+            var searchQuery =  $("#search-input").val().trim();
+            if (searchQuery) {
+                
+                var searchURL = "/search/?q=" + encodeURIComponent(searchQuery);
+
+                window.location = searchURL;
+            }
+
+            return false;
+        }
+
+        var searchInput = $('#search-input');
+        $(window).keydown(function(e) {
+            
+            if (e.keyCode === 13) {
+                
+                if (searchInput.is(':focus')) {
+                    
+                    search();
+                }
+            }
+        });
+    </script>
+<script>
+    $('.ui.rating').rating();
+
+    lightbox.option({
+        'wrapAround': true
+    });
+
+    $(".ui.progress").progress({
+        label: "ratio",
+        text: {
+            ratio: ' {value}'
+        },
+        className: {
+            active: ''
+        }
+    });
+</script>
+</body>
+</html>
