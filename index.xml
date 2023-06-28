@@ -6,7 +6,106 @@
     <description>Recent content in FileFormats - The most accurate file extension information site on the internet on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jun 2023 08:27:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 09:05:57 +0000</lastBuildDate><atom:link href="https://fileformats.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a WOFF2 file (Web Open Font Format 2.0 File)?</title>
+      <link>https://fileformats.org/file-types/web-open-font-format-2-0-file/</link>
+      <pubDate>Wed, 28 Jun 2023 09:05:57 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/web-open-font-format-2-0-file/</guid>
+      <description>Web Open Font Format 2.0 File</description>
+    </item>
+    
+    <item>
+      <title>What is a WOFF file (Web Open Font Format File)?</title>
+      <link>https://fileformats.org/file-types/web-open-font-format-file/</link>
+      <pubDate>Wed, 28 Jun 2023 08:50:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/web-open-font-format-file/</guid>
+      <description>Web Open Font Format File</description>
+    </item>
+    
+    <item>
+      <title>What is a PFB file (Printer Font Binary File)?</title>
+      <link>https://fileformats.org/file-types/printer-font-binary-file/</link>
+      <pubDate>Wed, 28 Jun 2023 08:41:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/printer-font-binary-file/</guid>
+      <description>Printer Font Binary File</description>
+    </item>
+    
+    <item>
+      <title>What is a VLW file (Processing Font File)?</title>
+      <link>https://fileformats.org/file-types/processing-font-file/</link>
+      <pubDate>Wed, 28 Jun 2023 08:34:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/processing-font-file/</guid>
+      <description>Processing Font File</description>
+    </item>
+    
+    <item>
+      <title>What is a JFPROJ file (JSON Font Project File)?</title>
+      <link>https://fileformats.org/file-types/json-font-project-file/</link>
+      <pubDate>Wed, 28 Jun 2023 08:24:50 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/json-font-project-file/</guid>
+      <description>JSON Font Project File</description>
+    </item>
+    
+    <item>
+      <title>What is a PFA file (Printer Font ASCII File)?</title>
+      <link>https://fileformats.org/file-types/printer-font-ascii-file/</link>
+      <pubDate>Wed, 28 Jun 2023 07:04:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/printer-font-ascii-file/</guid>
+      <description>Printer Font ASCII File</description>
+    </item>
+    
+    <item>
+      <title>What is a TTF file (TrueType Font)?</title>
+      <link>https://fileformats.org/file-types/truetype-font/</link>
+      <pubDate>Wed, 28 Jun 2023 06:52:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/truetype-font/</guid>
+      <description>TrueType Font</description>
+    </item>
+    
+    <item>
+      <title>What is an OTF file (OpenType Font)?</title>
+      <link>https://fileformats.org/file-types/opentype-font/</link>
+      <pubDate>Wed, 28 Jun 2023 06:45:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/opentype-font/</guid>
+      <description>OpenType Font</description>
+    </item>
+    
+    <item>
+      <title>What is an FNT file (Bitmap Font Generator Font Descriptor)?</title>
+      <link>https://fileformats.org/file-types/bitmap-font-generator-font-descriptor/</link>
+      <pubDate>Wed, 28 Jun 2023 06:41:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/bitmap-font-generator-font-descriptor/</guid>
+      <description>Bitmap Font Generator Font Descriptor</description>
+    </item>
+    
+    <item>
+      <title>What is an FNT file (Windows Font File)?</title>
+      <link>https://fileformats.org/file-types/windows-font-file/</link>
+      <pubDate>Wed, 28 Jun 2023 06:31:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/windows-font-file/</guid>
+      <description>Windows Font File</description>
+    </item>
+    
+    <item>
+      <title>What is a VFB file (FontLab Studio Font File)?</title>
+      <link>https://fileformats.org/file-types/fontlab-studio-font-file/</link>
+      <pubDate>Wed, 28 Jun 2023 06:24:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/fontlab-studio-font-file/</guid>
+      <description>FontLab Studio Font File</description>
+    </item>
+    
     <item>
       <title>What is a BIN file (Unix Executable File)?</title>
       <link>https://fileformats.org/file-types/unix-executable-file/</link>

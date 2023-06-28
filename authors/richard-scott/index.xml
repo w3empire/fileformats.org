@@ -6,7 +6,52 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jun 2023 08:27:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 08:41:16 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a PFB file (Printer Font Binary File)?</title>
+      <link>https://fileformats.org/file-types/printer-font-binary-file/</link>
+      <pubDate>Wed, 28 Jun 2023 08:41:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/printer-font-binary-file/</guid>
+      <description>Printer Font Binary File</description>
+    </item>
+    
+    <item>
+      <title>What is a TTF file (TrueType Font)?</title>
+      <link>https://fileformats.org/file-types/truetype-font/</link>
+      <pubDate>Wed, 28 Jun 2023 06:52:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/truetype-font/</guid>
+      <description>TrueType Font</description>
+    </item>
+    
+    <item>
+      <title>What is an FNT file (Bitmap Font Generator Font Descriptor)?</title>
+      <link>https://fileformats.org/file-types/bitmap-font-generator-font-descriptor/</link>
+      <pubDate>Wed, 28 Jun 2023 06:41:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/bitmap-font-generator-font-descriptor/</guid>
+      <description>Bitmap Font Generator Font Descriptor</description>
+    </item>
+    
+    <item>
+      <title>What is an FNT file (Windows Font File)?</title>
+      <link>https://fileformats.org/file-types/windows-font-file/</link>
+      <pubDate>Wed, 28 Jun 2023 06:31:20 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/windows-font-file/</guid>
+      <description>Windows Font File</description>
+    </item>
+    
+    <item>
+      <title>What is a VFB file (FontLab Studio Font File)?</title>
+      <link>https://fileformats.org/file-types/fontlab-studio-font-file/</link>
+      <pubDate>Wed, 28 Jun 2023 06:24:26 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/fontlab-studio-font-file/</guid>
+      <description>FontLab Studio Font File</description>
+    </item>
+    
     <item>
       <title>What is a BIN file (Unix Executable File)?</title>
       <link>https://fileformats.org/file-types/unix-executable-file/</link>
