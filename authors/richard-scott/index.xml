@@ -6,7 +6,43 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jun 2023 08:41:16 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 08:32:08 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an MCSTRUCTURE file (Minecraft Structure)?</title>
+      <link>https://fileformats.org/file-types/minecraft-structure/</link>
+      <pubDate>Thu, 29 Jun 2023 08:32:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/minecraft-structure/</guid>
+      <description>Minecraft Structure</description>
+    </item>
+    
+    <item>
+      <title>What is a W3X file (Warcraft 3 Expansion Map FIle)?</title>
+      <link>https://fileformats.org/file-types/warcraft-3-expansion-map-file/</link>
+      <pubDate>Thu, 29 Jun 2023 08:25:53 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/warcraft-3-expansion-map-file/</guid>
+      <description>Warcraft 3 Expansion Map FIle</description>
+    </item>
+    
+    <item>
+      <title>What is a W3N file (Warcraft 3 Expansion Campaign Map File)?</title>
+      <link>https://fileformats.org/file-types/warcraft-3-expansion-campaign-map-file/</link>
+      <pubDate>Thu, 29 Jun 2023 08:15:53 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/warcraft-3-expansion-campaign-map-file/</guid>
+      <description>Warcraft 3 Expansion Campaign Map File</description>
+    </item>
+    
+    <item>
+      <title>What is a MII file (Wii Virtual Avatar File)?</title>
+      <link>https://fileformats.org/file-types/wii-virtual-avatar-file/</link>
+      <pubDate>Thu, 29 Jun 2023 07:39:11 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/wii-virtual-avatar-file/</guid>
+      <description>Wii Virtual Avatar File</description>
+    </item>
+    
     <item>
       <title>What is a PFB file (Printer Font Binary File)?</title>
       <link>https://fileformats.org/file-types/printer-font-binary-file/</link>

@@ -6,32 +6,32 @@
     <description>Recent content in List of all FileFormats authors on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jun 2023 09:05:57 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 09:41:44 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All articles by Akira Osawa on FileFormats</title>
       <link>https://fileformats.org/authors/akira-osawa/</link>
-      <pubDate>Wed, 28 Jun 2023 09:05:57 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2023 09:41:44 +0000</pubDate>
       
       <guid>https://fileformats.org/authors/akira-osawa/</guid>
       <description>Technical Writer and Editor</description>
     </item>
     
     <item>
-      <title>All Articles by Richard Scott on FileFormats</title>
-      <link>https://fileformats.org/authors/richard-scott/</link>
-      <pubDate>Wed, 28 Jun 2023 08:41:16 +0000</pubDate>
-      
-      <guid>https://fileformats.org/authors/richard-scott/</guid>
-      <description>Technical Writer</description>
-    </item>
-    
-    <item>
       <title>All articles by Bruno Souza on FileFormats</title>
       <link>https://fileformats.org/authors/bruno-souza/</link>
-      <pubDate>Wed, 28 Jun 2023 08:24:50 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2023 08:40:42 +0000</pubDate>
       
       <guid>https://fileformats.org/authors/bruno-souza/</guid>
       <description>Technical Writer and Editor</description>
+    </item>
+    
+    <item>
+      <title>All Articles by Richard Scott on FileFormats</title>
+      <link>https://fileformats.org/authors/richard-scott/</link>
+      <pubDate>Thu, 29 Jun 2023 08:32:08 +0000</pubDate>
+      
+      <guid>https://fileformats.org/authors/richard-scott/</guid>
+      <description>Technical Writer</description>
     </item>
     
   </channel>

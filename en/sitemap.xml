@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fileformats.org/authors/akira-osawa/</loc>
-    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+    <lastmod>2023-06-29T09:41:44+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -56,7 +56,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/</loc>
-    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+    <lastmod>2023-06-29T09:41:44+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/authors/</loc>
-    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+    <lastmod>2023-06-29T09:41:44+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/</loc>
-    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+    <lastmod>2023-06-29T09:41:44+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +215,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/</loc>
-    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+    <lastmod>2023-06-29T09:41:44+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -267,17 +267,73 @@
                 href="https://fileformats.org/file-types/"
                 />
   </url><url>
-    <loc>https://fileformats.org/categories/font-file-extensions/</loc>
-    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+    <loc>https://fileformats.org/categories/game-file-extensions/</loc>
+    <lastmod>2023-06-29T09:41:44+00:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/file-types/web-open-font-format-2-0-file/</loc>
-    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/portal-bonus-map-script/</loc>
+    <lastmod>2023-06-29T09:41:44+00:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/file-types/web-open-font-format-file/</loc>
-    <lastmod>2023-06-28T08:50:22+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/unreal-static-meshes/</loc>
+    <lastmod>2023-06-29T08:48:22+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/authors/bruno-souza/</loc>
+    <lastmod>2023-06-29T08:40:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/bruno-souza/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/tetr-io-replay/</loc>
+    <lastmod>2023-06-29T08:40:42+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/authors/richard-scott/</loc>
-    <lastmod>2023-06-28T08:41:16+00:00</lastmod>
+    <lastmod>2023-06-29T08:32:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -329,64 +385,44 @@
                 href="https://fileformats.org/authors/richard-scott/"
                 />
   </url><url>
+    <loc>https://fileformats.org/file-types/minecraft-structure/</loc>
+    <lastmod>2023-06-29T08:32:08+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/warcraft-3-expansion-map-file/</loc>
+    <lastmod>2023-06-29T08:25:53+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/warcraft-3-expansion-campaign-map-file/</loc>
+    <lastmod>2023-06-29T08:15:53+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/steins-gate-archive/</loc>
+    <lastmod>2023-06-29T08:04:55+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/osu-replay-file/</loc>
+    <lastmod>2023-06-29T07:54:48+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/the-sims-3-package-file/</loc>
+    <lastmod>2023-06-29T07:44:58+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/wii-virtual-avatar-file/</loc>
+    <lastmod>2023-06-29T07:39:11+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/mario-kart-wii-archive/</loc>
+    <lastmod>2023-06-29T07:28:19+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/categories/font-file-extensions/</loc>
+    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/web-open-font-format-2-0-file/</loc>
+    <lastmod>2023-06-28T09:05:57+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/web-open-font-format-file/</loc>
+    <lastmod>2023-06-28T08:50:22+00:00</lastmod>
+  </url><url>
     <loc>https://fileformats.org/file-types/printer-font-binary-file/</loc>
     <lastmod>2023-06-28T08:41:16+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/file-types/processing-font-file/</loc>
     <lastmod>2023-06-28T08:34:50+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/authors/bruno-souza/</loc>
-    <lastmod>2023-06-28T08:24:50+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/bruno-souza/"
-                />
   </url><url>
     <loc>https://fileformats.org/file-types/json-font-project-file/</loc>
     <lastmod>2023-06-28T08:24:50+00:00</lastmod>
