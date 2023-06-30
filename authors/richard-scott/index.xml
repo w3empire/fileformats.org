@@ -6,7 +6,16 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jun 2023 08:32:08 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 08:52:59 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a GPX file (GPS Exchange File)?</title>
+      <link>https://fileformats.org/file-types/gps-exchange-file/</link>
+      <pubDate>Fri, 30 Jun 2023 08:52:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/gps-exchange-file/</guid>
+      <description>GPS Exchange File</description>
+    </item>
+    
     <item>
       <title>What is an MCSTRUCTURE file (Minecraft Structure)?</title>
       <link>https://fileformats.org/file-types/minecraft-structure/</link>

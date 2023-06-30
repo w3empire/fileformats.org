@@ -6,7 +6,97 @@
     <description>Recent content in FileFormats - The most accurate file extension information site on the internet on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jun 2023 09:41:44 +0000</lastBuildDate><atom:link href="https://fileformats.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 14:12:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an SSF file (Trimble Standard Storage Format File)?</title>
+      <link>https://fileformats.org/file-types/trimble-standard-storage-format-file/</link>
+      <pubDate>Fri, 30 Jun 2023 14:12:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/trimble-standard-storage-format-file/</guid>
+      <description>Trimble Standard Storage Format File</description>
+    </item>
+    
+    <item>
+      <title>What is an SP3 file (NGS SP3 File)?</title>
+      <link>https://fileformats.org/file-types/ngs-sp3-file/</link>
+      <pubDate>Fri, 30 Jun 2023 14:03:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/ngs-sp3-file/</guid>
+      <description>NGS SP3 File</description>
+    </item>
+    
+    <item>
+      <title>What is an NM2 file (Navitel Map)?</title>
+      <link>https://fileformats.org/file-types/navitel-map/</link>
+      <pubDate>Fri, 30 Jun 2023 13:56:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/navitel-map/</guid>
+      <description>Navitel Map</description>
+    </item>
+    
+    <item>
+      <title>What is an SHP file (ESRI Shapefile)?</title>
+      <link>https://fileformats.org/file-types/esri-shapefile/</link>
+      <pubDate>Fri, 30 Jun 2023 13:42:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/esri-shapefile/</guid>
+      <description>ESRI Shapefile</description>
+    </item>
+    
+    <item>
+      <title>What is an EMBR file (Spatial Geodatabase File)?</title>
+      <link>https://fileformats.org/file-types/spatial-geodatabase-file/</link>
+      <pubDate>Fri, 30 Jun 2023 09:24:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/spatial-geodatabase-file/</guid>
+      <description>Spatial Geodatabase File</description>
+    </item>
+    
+    <item>
+      <title>What is a GEOJSON file (GeoJSON File)?</title>
+      <link>https://fileformats.org/file-types/geojson-file/</link>
+      <pubDate>Fri, 30 Jun 2023 09:16:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/geojson-file/</guid>
+      <description>GeoJSON File</description>
+    </item>
+    
+    <item>
+      <title>What is a KML file (Keyhole Markup Language File)?</title>
+      <link>https://fileformats.org/file-types/keyhole-markup-language-file/</link>
+      <pubDate>Fri, 30 Jun 2023 09:03:23 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/keyhole-markup-language-file/</guid>
+      <description>Keyhole Markup Language File</description>
+    </item>
+    
+    <item>
+      <title>What is a GPX file (GPS Exchange File)?</title>
+      <link>https://fileformats.org/file-types/gps-exchange-file/</link>
+      <pubDate>Fri, 30 Jun 2023 08:52:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/gps-exchange-file/</guid>
+      <description>GPS Exchange File</description>
+    </item>
+    
+    <item>
+      <title>What is an IMG file (Garmin Map Image File)?</title>
+      <link>https://fileformats.org/file-types/garmin-map-image-file/</link>
+      <pubDate>Fri, 30 Jun 2023 08:41:39 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/garmin-map-image-file/</guid>
+      <description>Garmin Map Image File</description>
+    </item>
+    
+    <item>
+      <title>What is a GMAP file (Garmin Map File)?</title>
+      <link>https://fileformats.org/file-types/garmin-map-file/</link>
+      <pubDate>Fri, 30 Jun 2023 08:33:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/garmin-map-file/</guid>
+      <description>Garmin Map File</description>
+    </item>
+    
     <item>
       <title>What is a BNS file (Portal Bonus Map Script)?</title>
       <link>https://fileformats.org/file-types/portal-bonus-map-script/</link>

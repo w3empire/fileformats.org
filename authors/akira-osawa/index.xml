@@ -6,7 +6,52 @@
     <description>Recent content in All articles by Akira Osawa on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jun 2023 09:41:44 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 14:12:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an SSF file (Trimble Standard Storage Format File)?</title>
+      <link>https://fileformats.org/file-types/trimble-standard-storage-format-file/</link>
+      <pubDate>Fri, 30 Jun 2023 14:12:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/trimble-standard-storage-format-file/</guid>
+      <description>Trimble Standard Storage Format File</description>
+    </item>
+    
+    <item>
+      <title>What is an SP3 file (NGS SP3 File)?</title>
+      <link>https://fileformats.org/file-types/ngs-sp3-file/</link>
+      <pubDate>Fri, 30 Jun 2023 14:03:56 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/ngs-sp3-file/</guid>
+      <description>NGS SP3 File</description>
+    </item>
+    
+    <item>
+      <title>What is an NM2 file (Navitel Map)?</title>
+      <link>https://fileformats.org/file-types/navitel-map/</link>
+      <pubDate>Fri, 30 Jun 2023 13:56:07 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/navitel-map/</guid>
+      <description>Navitel Map</description>
+    </item>
+    
+    <item>
+      <title>What is an SHP file (ESRI Shapefile)?</title>
+      <link>https://fileformats.org/file-types/esri-shapefile/</link>
+      <pubDate>Fri, 30 Jun 2023 13:42:55 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/esri-shapefile/</guid>
+      <description>ESRI Shapefile</description>
+    </item>
+    
+    <item>
+      <title>What is an EMBR file (Spatial Geodatabase File)?</title>
+      <link>https://fileformats.org/file-types/spatial-geodatabase-file/</link>
+      <pubDate>Fri, 30 Jun 2023 09:24:59 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/spatial-geodatabase-file/</guid>
+      <description>Spatial Geodatabase File</description>
+    </item>
+    
     <item>
       <title>What is a BNS file (Portal Bonus Map Script)?</title>
       <link>https://fileformats.org/file-types/portal-bonus-map-script/</link>
