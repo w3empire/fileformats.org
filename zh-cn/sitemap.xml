@@ -55,112 +55,6 @@
                 href="https://fileformats.org/zh-cn/"
                 />
   </url><url>
-    <loc>https://fileformats.org/zh-cn/file-types/stuffit-x-archive/</loc>
-    <lastmod>2023-01-10T10:57:30+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/file-types/stuffit-x-archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/file-types/stuffit-x-archive/"
-                />
-  </url><url>
-    <loc>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</loc>
-    <lastmod>2023-01-10T10:57:30+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/categories/compressed-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/categories/compressed-file-extensions/"
-                />
-  </url><url>
     <loc>https://fileformats.org/zh-cn/authors/akira-osawa/</loc>
     <lastmod>2023-01-10T10:57:30+00:00</lastmod>
     <xhtml:link
@@ -212,6 +106,59 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://fileformats.org/zh-cn/authors/akira-osawa/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/zh-cn/file-types/stuffit-x-archive/</loc>
+    <lastmod>2023-01-10T10:57:30+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/stuffit-x-archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/stuffit-x-archive/"
                 />
   </url><url>
     <loc>https://fileformats.org/zh-cn/authors/</loc>
@@ -267,6 +214,59 @@
                 href="https://fileformats.org/zh-cn/authors/"
                 />
   </url><url>
+    <loc>https://fileformats.org/zh-cn/categories/</loc>
+    <lastmod>2023-01-10T10:57:30+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/categories/"
+                />
+  </url><url>
     <loc>https://fileformats.org/zh-cn/file-types/</loc>
     <lastmod>2023-01-10T10:57:30+00:00</lastmod>
     <xhtml:link
@@ -320,57 +320,57 @@
                 href="https://fileformats.org/zh-cn/file-types/"
                 />
   </url><url>
-    <loc>https://fileformats.org/zh-cn/categories/</loc>
+    <loc>https://fileformats.org/zh-cn/categories/compressed-file-extensions/</loc>
     <lastmod>2023-01-10T10:57:30+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/categories/"
+                href="https://fileformats.org/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/categories/"
+                href="https://fileformats.org/pt/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/categories/"
+                href="https://fileformats.org/es/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/categories/"
+                href="https://fileformats.org/ru/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/categories/"
+                href="https://fileformats.org/ja/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/categories/"
+                href="https://fileformats.org/de/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/categories/"
+                href="https://fileformats.org/ko/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/categories/"
+                href="https://fileformats.org/fr/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/categories/"
+                href="https://fileformats.org/it/categories/compressed-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/categories/"
+                href="https://fileformats.org/zh-cn/categories/compressed-file-extensions/"
                 />
   </url><url>
     <loc>https://fileformats.org/zh-cn/file-types/gnu-zipped-archive/</loc>
@@ -1857,59 +1857,6 @@
                 href="https://fileformats.org/zh-cn/file-types/west-point-bridge-designer-design-file/"
                 />
   </url><url>
-    <loc>https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/</loc>
-    <lastmod>2022-12-26T16:46:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/file-types/hp-recovery-manager-backup-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/"
-                />
-  </url><url>
     <loc>https://fileformats.org/zh-cn/categories/backup-file-extensions/</loc>
     <lastmod>2022-12-26T16:46:20+00:00</lastmod>
     <xhtml:link
@@ -1961,6 +1908,59 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://fileformats.org/zh-cn/categories/backup-file-extensions/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/</loc>
+    <lastmod>2022-12-26T16:46:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/hp-recovery-manager-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/hp-recovery-manager-backup-file/"
                 />
   </url><url>
     <loc>https://fileformats.org/zh-cn/file-types/samsung-memo-file/</loc>
@@ -3659,59 +3659,6 @@
                 href="https://fileformats.org/zh-cn/file-types/houdini-apprentice-file/"
                 />
   </url><url>
-    <loc>https://fileformats.org/zh-cn/file-types/spss-portable-data-file/</loc>
-    <lastmod>2022-12-13T03:50:58+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/file-types/spss-portable-data-file/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/file-types/spss-portable-data-file/"
-                />
-  </url><url>
     <loc>https://fileformats.org/zh-cn/categories/plugin-file-extensions/</loc>
     <lastmod>2022-12-13T03:50:58+00:00</lastmod>
     <xhtml:link
@@ -3765,57 +3712,57 @@
                 href="https://fileformats.org/zh-cn/categories/plugin-file-extensions/"
                 />
   </url><url>
-    <loc>https://fileformats.org/zh-cn/file-types/sealed-acrobat-document/</loc>
-    <lastmod>2022-12-13T03:42:01+00:00</lastmod>
+    <loc>https://fileformats.org/zh-cn/file-types/spss-portable-data-file/</loc>
+    <lastmod>2022-12-13T03:50:58+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/pt/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/es/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/ru/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/ja/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/de/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/ko/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/fr/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/it/file-types/spss-portable-data-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/file-types/sealed-acrobat-document/"
+                href="https://fileformats.org/zh-cn/file-types/spss-portable-data-file/"
                 />
   </url><url>
     <loc>https://fileformats.org/zh-cn/categories/encoded-file-extensions/</loc>
@@ -3869,6 +3816,59 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://fileformats.org/zh-cn/categories/encoded-file-extensions/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/zh-cn/file-types/sealed-acrobat-document/</loc>
+    <lastmod>2022-12-13T03:42:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/sealed-acrobat-document/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/sealed-acrobat-document/"
                 />
   </url><url>
     <loc>https://fileformats.org/zh-cn/file-types/form-z-suspended-render-file/</loc>
@@ -4189,59 +4189,6 @@
                 href="https://fileformats.org/zh-cn/categories/page-layout-file-extensions/"
                 />
   </url><url>
-    <loc>https://fileformats.org/zh-cn/file-types/bluej-default-template/</loc>
-    <lastmod>2022-12-13T02:15:17+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/file-types/bluej-default-template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/file-types/bluej-default-template/"
-                />
-  </url><url>
     <loc>https://fileformats.org/zh-cn/categories/developer-file-extensions/</loc>
     <lastmod>2022-12-13T02:15:17+00:00</lastmod>
     <xhtml:link
@@ -4293,6 +4240,59 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://fileformats.org/zh-cn/categories/developer-file-extensions/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/zh-cn/file-types/bluej-default-template/</loc>
+    <lastmod>2022-12-13T02:15:17+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/bluej-default-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/bluej-default-template/"
                 />
   </url><url>
     <loc>https://fileformats.org/zh-cn/file-types/xfire-user-interface-template/</loc>
