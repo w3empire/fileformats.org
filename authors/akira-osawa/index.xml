@@ -6,7 +6,52 @@
     <description>Recent content in All articles by Akira Osawa on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jun 2023 14:12:37 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 21:27:31 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an SDX file &amp; how do I open an SDX file (Sample MIDI Dump Exchange)?</title>
+      <link>https://fileformats.org/file-types/sample-midi-dump-exchange/</link>
+      <pubDate>Fri, 01 Sep 2023 21:27:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/sample-midi-dump-exchange/</guid>
+      <description>Sample MIDI Dump Exchange</description>
+    </item>
+    
+    <item>
+      <title>What is an SDT file &amp; how do I open an SDT file (Electronic Arts Sound Data File)?</title>
+      <link>https://fileformats.org/file-types/electronic-arts-sound-data-file/</link>
+      <pubDate>Fri, 01 Sep 2023 21:22:13 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/electronic-arts-sound-data-file/</guid>
+      <description>Electronic Arts Sound Data File</description>
+    </item>
+    
+    <item>
+      <title>What is a GSM file &amp; how do I open a GSM file (US Robotics GSM Audio File)?</title>
+      <link>https://fileformats.org/file-types/us-robotics-gsm-audio-file/</link>
+      <pubDate>Fri, 01 Sep 2023 21:19:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/us-robotics-gsm-audio-file/</guid>
+      <description>US Robotics GSM Audio File</description>
+    </item>
+    
+    <item>
+      <title>What is a BP file &amp; how do I open a BP file (Boomplay Music File)?</title>
+      <link>https://fileformats.org/file-types/boomplay-music-file/</link>
+      <pubDate>Fri, 01 Sep 2023 21:12:49 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/boomplay-music-file/</guid>
+      <description>Boomplay Music File</description>
+    </item>
+    
+    <item>
+      <title>What is a WEBA file &amp; how do I open a WEBA file (WebM Audio File)?</title>
+      <link>https://fileformats.org/file-types/webm-audio-file/</link>
+      <pubDate>Tue, 29 Aug 2023 18:26:04 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/webm-audio-file/</guid>
+      <description>WebM Audio File</description>
+    </item>
+    
     <item>
       <title>What is an SSF file &amp; how do I open an SSF file (Trimble Standard Storage Format File)?</title>
       <link>https://fileformats.org/file-types/trimble-standard-storage-format-file/</link>

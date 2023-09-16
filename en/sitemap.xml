@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fileformats.org/authors/akira-osawa/</loc>
-    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
+    <loc>https://fileformats.org/authors/bruno-souza/</loc>
+    <lastmod>2023-09-01T21:28:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/authors/akira-osawa/"
+                href="https://fileformats.org/pt/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/authors/akira-osawa/"
+                href="https://fileformats.org/es/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
+                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/authors/akira-osawa/"
+                href="https://fileformats.org/ru/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/authors/akira-osawa/"
+                href="https://fileformats.org/ja/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/authors/akira-osawa/"
+                href="https://fileformats.org/de/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/authors/akira-osawa/"
+                href="https://fileformats.org/ko/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/authors/akira-osawa/"
+                href="https://fileformats.org/fr/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/authors/akira-osawa/"
+                href="https://fileformats.org/it/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/authors/akira-osawa/"
+                href="https://fileformats.org/authors/bruno-souza/"
                 />
   </url><url>
     <loc>https://fileformats.org/</loc>
-    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
+    <lastmod>2023-09-01T21:28:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/authors/</loc>
-    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
+    <lastmod>2023-09-01T21:28:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/</loc>
-    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
+    <lastmod>2023-09-01T21:28:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +215,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/</loc>
-    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
+    <lastmod>2023-09-01T21:28:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -267,85 +267,123 @@
                 href="https://fileformats.org/file-types/"
                 />
   </url><url>
-    <loc>https://fileformats.org/categories/gis-file-extensions/</loc>
-    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/file-types/trimble-standard-storage-format-file/</loc>
-    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/file-types/ngs-sp3-file/</loc>
-    <lastmod>2023-06-30T14:03:56+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/file-types/navitel-map/</loc>
-    <lastmod>2023-06-30T13:56:07+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/file-types/esri-shapefile/</loc>
-    <lastmod>2023-06-30T13:42:55+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/file-types/spatial-geodatabase-file/</loc>
-    <lastmod>2023-06-30T09:24:59+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/authors/bruno-souza/</loc>
-    <lastmod>2023-06-30T09:16:05+00:00</lastmod>
+    <loc>https://fileformats.org/categories/audio-file-extensions/</loc>
+    <lastmod>2023-09-01T21:28:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/authors/bruno-souza/"
+                href="https://fileformats.org/pt/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/authors/bruno-souza/"
+                href="https://fileformats.org/es/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
+                href="https://fileformats.org/zh-cn/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/authors/bruno-souza/"
+                href="https://fileformats.org/ru/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/authors/bruno-souza/"
+                href="https://fileformats.org/ja/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/authors/bruno-souza/"
+                href="https://fileformats.org/de/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/authors/bruno-souza/"
+                href="https://fileformats.org/ko/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/authors/bruno-souza/"
+                href="https://fileformats.org/fr/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/authors/bruno-souza/"
+                href="https://fileformats.org/it/categories/audio-file-extensions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/authors/bruno-souza/"
+                href="https://fileformats.org/categories/audio-file-extensions/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/geojson-file/</loc>
-    <lastmod>2023-06-30T09:16:05+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/soundfont-2-sound-bank/</loc>
+    <lastmod>2023-09-01T21:28:17+00:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/file-types/keyhole-markup-language-file/</loc>
-    <lastmod>2023-06-30T09:03:23+00:00</lastmod>
+    <loc>https://fileformats.org/authors/akira-osawa/</loc>
+    <lastmod>2023-09-01T21:27:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/akira-osawa/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/sample-midi-dump-exchange/</loc>
+    <lastmod>2023-09-01T21:27:31+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/enhanced-audio-codec-3-file/</loc>
+    <lastmod>2023-09-01T21:26:50+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/authors/richard-scott/</loc>
-    <lastmod>2023-06-30T08:52:59+00:00</lastmod>
+    <lastmod>2023-09-01T21:26:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -396,6 +434,75 @@
                 hreflang="en"
                 href="https://fileformats.org/authors/richard-scott/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/file-types/nes-sound-format-audio/</loc>
+    <lastmod>2023-09-01T21:26:03+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/yamaha-korg-keyboard-style/</loc>
+    <lastmod>2023-09-01T21:24:36+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/apple-lossless-audio-codec-file/</loc>
+    <lastmod>2023-09-01T21:23:20+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/electronic-arts-sound-data-file/</loc>
+    <lastmod>2023-09-01T21:22:13+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/us-robotics-gsm-audio-file/</loc>
+    <lastmod>2023-09-01T21:19:47+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/garageband-magic-template/</loc>
+    <lastmod>2023-09-01T21:18:30+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/audiocuentos-audiobook/</loc>
+    <lastmod>2023-09-01T21:17:16+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/call-of-duty-black-ops-ii-sound-archive/</loc>
+    <lastmod>2023-09-01T21:15:27+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/boomplay-music-file/</loc>
+    <lastmod>2023-09-01T21:12:49+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/furnace-module/</loc>
+    <lastmod>2023-08-30T16:37:05+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/advanced-audio-coding-file/</loc>
+    <lastmod>2023-08-29T19:12:56+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/wave-audio/</loc>
+    <lastmod>2023-08-29T19:00:19+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/midi-music-data/</loc>
+    <lastmod>2023-08-29T18:39:54+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/webm-audio-file/</loc>
+    <lastmod>2023-08-29T18:26:04+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/free-lossless-audio-codec-file/</loc>
+    <lastmod>2023-08-29T18:14:08+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/categories/gis-file-extensions/</loc>
+    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/trimble-standard-storage-format-file/</loc>
+    <lastmod>2023-06-30T14:12:37+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/ngs-sp3-file/</loc>
+    <lastmod>2023-06-30T14:03:56+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/navitel-map/</loc>
+    <lastmod>2023-06-30T13:56:07+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/esri-shapefile/</loc>
+    <lastmod>2023-06-30T13:42:55+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/spatial-geodatabase-file/</loc>
+    <lastmod>2023-06-30T09:24:59+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/geojson-file/</loc>
+    <lastmod>2023-06-30T09:16:05+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/keyhole-markup-language-file/</loc>
+    <lastmod>2023-06-30T09:03:23+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/file-types/gps-exchange-file/</loc>
     <lastmod>2023-06-30T08:52:59+00:00</lastmod>
@@ -2302,59 +2409,6 @@
                 href="https://fileformats.org/file-types/hp-recovery-manager-backup-file/"
                 />
   </url><url>
-    <loc>https://fileformats.org/categories/data-file-extensions/</loc>
-    <lastmod>2022-12-26T15:06:48+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/categories/data-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/categories/data-file-extensions/"
-                />
-  </url><url>
     <loc>https://fileformats.org/file-types/samsung-memo-file/</loc>
     <lastmod>2022-12-26T15:06:48+00:00</lastmod>
     <xhtml:link
@@ -2830,59 +2884,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fileformats.org/file-types/filefort-backup-file/"
-                />
-  </url><url>
-    <loc>https://fileformats.org/categories/audio-file-extensions/</loc>
-    <lastmod>2022-12-25T12:50:15+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/categories/audio-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/categories/audio-file-extensions/"
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/utau-sequence-text-file/</loc>
@@ -4949,5 +4950,71 @@
                 hreflang="en"
                 href="https://fileformats.org/search/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/categories/data-file-extensions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/categories/data-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/categories/data-file-extensions/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/categories/raster-image-file-extensions/</loc>
+  </url><url>
+    <loc>https://fileformats.org/categories/settings-file-extensions/</loc>
+  </url><url>
+    <loc>https://fileformats.org/categories/spreadsheet-file-extensions/</loc>
+  </url><url>
+    <loc>https://fileformats.org/categories/system-file-extensions/</loc>
+  </url><url>
+    <loc>https://fileformats.org/categories/text-file-extensions/</loc>
+  </url><url>
+    <loc>https://fileformats.org/categories/vector-image-file-extensions/</loc>
+  </url><url>
+    <loc>https://fileformats.org/categories/web-file-extensions/</loc>
   </url>
 </urlset>

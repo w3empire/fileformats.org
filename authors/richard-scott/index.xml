@@ -6,7 +6,25 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jun 2023 08:52:59 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 21:26:03 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an NSF file &amp; how do I open an NSF file (NES Sound Format Audio)?</title>
+      <link>https://fileformats.org/file-types/nes-sound-format-audio/</link>
+      <pubDate>Fri, 01 Sep 2023 21:26:03 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/nes-sound-format-audio/</guid>
+      <description>NES Sound Format Audio</description>
+    </item>
+    
+    <item>
+      <title>What is a MIDI file &amp; how do I open a MIDI file (MIDI Music Data)?</title>
+      <link>https://fileformats.org/file-types/midi-music-data/</link>
+      <pubDate>Tue, 29 Aug 2023 18:39:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/midi-music-data/</guid>
+      <description>MIDI Music Data</description>
+    </item>
+    
     <item>
       <title>What is a GPX file &amp; how do I open a GPX file (GPS Exchange File)?</title>
       <link>https://fileformats.org/file-types/gps-exchange-file/</link>
