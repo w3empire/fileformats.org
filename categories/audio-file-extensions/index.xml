@@ -6,7 +6,52 @@
     <description>Recent content in The Complete List of Audio File Extensions on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 21:28:17 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 12:04:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/audio-file-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a VSQ file &amp; how do I open a VSQ file (VOCALOID2 Project File)?</title>
+      <link>https://fileformats.org/file-types/vocaloid2-project-file/</link>
+      <pubDate>Sat, 16 Sep 2023 12:04:29 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/vocaloid2-project-file/</guid>
+      <description>VOCALOID2 Project File</description>
+    </item>
+    
+    <item>
+      <title>What is an XFS file &amp; how do I open an XFS file (eRacer Sound File)?</title>
+      <link>https://fileformats.org/file-types/eracer-sound-file/</link>
+      <pubDate>Sat, 16 Sep 2023 11:50:38 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/eracer-sound-file/</guid>
+      <description>eRacer Sound File</description>
+    </item>
+    
+    <item>
+      <title>What is an AUP file &amp; how do I open an AUP file (Audacity Project File)?</title>
+      <link>https://fileformats.org/file-types/audacity-project-file/</link>
+      <pubDate>Sat, 16 Sep 2023 10:53:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/audacity-project-file/</guid>
+      <description>Audacity Project File</description>
+    </item>
+    
+    <item>
+      <title>What is an ASD file &amp; how do I open an ASD file (Ableton Live Sample Analysis)?</title>
+      <link>https://fileformats.org/file-types/ableton-live-sample-analysis/</link>
+      <pubDate>Sat, 16 Sep 2023 10:45:18 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/ableton-live-sample-analysis/</guid>
+      <description>Ableton Live Sample Analysis</description>
+    </item>
+    
+    <item>
+      <title>What is a TOC file &amp; how do I open a TOC file (PSP Custom Audio Track)?</title>
+      <link>https://fileformats.org/file-types/psp-custom-audio-track/</link>
+      <pubDate>Sat, 16 Sep 2023 10:17:34 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/psp-custom-audio-track/</guid>
+      <description>PSP Custom Audio Track</description>
+    </item>
+    
     <item>
       <title>What is an SF2 file &amp; how do I open an SF2 file (SoundFont 2 Sound Bank)?</title>
       <link>https://fileformats.org/file-types/soundfont-2-sound-bank/</link>
