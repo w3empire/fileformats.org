@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fileformats.org/authors/richard-scott/</loc>
-    <lastmod>2023-09-16T12:04:29+00:00</lastmod>
+    <loc>https://fileformats.org/authors/bruno-souza/</loc>
+    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/authors/richard-scott/"
+                href="https://fileformats.org/pt/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/authors/richard-scott/"
+                href="https://fileformats.org/es/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/richard-scott/"
+                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/authors/richard-scott/"
+                href="https://fileformats.org/ru/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/authors/richard-scott/"
+                href="https://fileformats.org/ja/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/authors/richard-scott/"
+                href="https://fileformats.org/de/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/authors/richard-scott/"
+                href="https://fileformats.org/ko/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/authors/richard-scott/"
+                href="https://fileformats.org/fr/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/authors/richard-scott/"
+                href="https://fileformats.org/it/authors/bruno-souza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/authors/richard-scott/"
+                href="https://fileformats.org/authors/bruno-souza/"
                 />
   </url><url>
     <loc>https://fileformats.org/</loc>
-    <lastmod>2023-09-16T12:04:29+00:00</lastmod>
+    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/authors/</loc>
-    <lastmod>2023-09-16T12:04:29+00:00</lastmod>
+    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -161,8 +161,61 @@
                 href="https://fileformats.org/authors/"
                 />
   </url><url>
+    <loc>https://fileformats.org/categories/3d-image-file-extensions/</loc>
+    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/categories/3d-image-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/categories/3d-image-file-extensions/"
+                />
+  </url><url>
     <loc>https://fileformats.org/categories/</loc>
-    <lastmod>2023-09-16T12:04:29+00:00</lastmod>
+    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +268,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/</loc>
-    <lastmod>2023-09-16T12:04:29+00:00</lastmod>
+    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -265,6 +318,186 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fileformats.org/file-types/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/blender-3d-data-file/</loc>
+    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/renderware-model-file/</loc>
+    <lastmod>2023-09-29T14:17:03+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/authors/akira-osawa/</loc>
+    <lastmod>2023-09-29T13:58:56+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/akira-osawa/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/fragment-shader-file/</loc>
+    <lastmod>2023-09-29T13:58:56+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/daz-user-file/</loc>
+    <lastmod>2023-09-29T13:47:38+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/partdesigner-part/</loc>
+    <lastmod>2023-09-29T10:56:07+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/dreamplan-home-design-project/</loc>
+    <lastmod>2023-09-17T08:43:03+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/categories/developer-file-extensions/</loc>
+    <lastmod>2023-09-17T08:37:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/categories/developer-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/categories/developer-file-extensions/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/delphi-diagram-portfolio-file/</loc>
+    <lastmod>2023-09-17T08:37:31+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/authors/richard-scott/</loc>
+    <lastmod>2023-09-16T12:04:29+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/richard-scott/"
                 />
   </url><url>
     <loc>https://fileformats.org/categories/audio-file-extensions/</loc>
@@ -326,114 +559,8 @@
     <loc>https://fileformats.org/file-types/eracer-sound-file/</loc>
     <lastmod>2023-09-16T11:50:38+00:00</lastmod>
   </url><url>
-    <loc>https://fileformats.org/authors/akira-osawa/</loc>
-    <lastmod>2023-09-16T10:53:16+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/akira-osawa/"
-                />
-  </url><url>
     <loc>https://fileformats.org/file-types/audacity-project-file/</loc>
     <lastmod>2023-09-16T10:53:16+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/authors/bruno-souza/</loc>
-    <lastmod>2023-09-16T10:45:18+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/bruno-souza/"
-                />
   </url><url>
     <loc>https://fileformats.org/file-types/ableton-live-sample-analysis/</loc>
     <lastmod>2023-09-16T10:45:18+00:00</lastmod>
@@ -3431,59 +3558,6 @@
                 href="https://fileformats.org/file-types/multitracker-module/"
                 />
   </url><url>
-    <loc>https://fileformats.org/categories/3d-image-file-extensions/</loc>
-    <lastmod>2022-12-23T19:00:56-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/categories/3d-image-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/categories/3d-image-file-extensions/"
-                />
-  </url><url>
     <loc>https://fileformats.org/file-types/aero-experience-file/</loc>
     <lastmod>2022-12-23T19:00:56-03:00</lastmod>
     <xhtml:link
@@ -4542,59 +4616,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fileformats.org/file-types/portable-document-format-file/"
-                />
-  </url><url>
-    <loc>https://fileformats.org/categories/developer-file-extensions/</loc>
-    <lastmod>2022-12-13T02:44:57-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/categories/developer-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/categories/developer-file-extensions/"
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/bluej-default-template/</loc>

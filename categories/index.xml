@@ -6,7 +6,25 @@
     <description>Recent content in The Complete List of All File Extension and File Type Categories on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Sep 2023 12:04:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Sep 2023 08:15:03 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Complete List of 3D Image File Extensions</title>
+      <link>https://fileformats.org/categories/3d-image-file-extensions/</link>
+      <pubDate>Sat, 30 Sep 2023 08:15:03 +0000</pubDate>
+      
+      <guid>https://fileformats.org/categories/3d-image-file-extensions/</guid>
+      <description>Three-dimensional models, three-dimensional animations, and three-dimensional project files are all examples of what can be found within 3D image files.</description>
+    </item>
+    
+    <item>
+      <title>The Complete List of Developer File Extensions</title>
+      <link>https://fileformats.org/categories/developer-file-extensions/</link>
+      <pubDate>Sun, 17 Sep 2023 08:37:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/categories/developer-file-extensions/</guid>
+      <description>File types relevant to creating software can be found in the Developer Files category.</description>
+    </item>
+    
     <item>
       <title>The Complete List of Audio File Extensions</title>
       <link>https://fileformats.org/categories/audio-file-extensions/</link>
@@ -125,15 +143,6 @@
     </item>
     
     <item>
-      <title>The Complete List of 3D Image File Extensions</title>
-      <link>https://fileformats.org/categories/3d-image-file-extensions/</link>
-      <pubDate>Fri, 23 Dec 2022 19:00:56 -0300</pubDate>
-      
-      <guid>https://fileformats.org/categories/3d-image-file-extensions/</guid>
-      <description>Three-dimensional models, three-dimensional animations, and three-dimensional project files are all examples of what can be found within 3D image files.</description>
-    </item>
-    
-    <item>
       <title>The Complete List of Plugin File Extensions</title>
       <link>https://fileformats.org/categories/plugin-file-extensions/</link>
       <pubDate>Tue, 13 Dec 2022 03:51:30 -0300</pubDate>
@@ -167,15 +176,6 @@
       
       <guid>https://fileformats.org/categories/page-layout-file-extensions/</guid>
       <description>Documents known as page layout files can hold both text and image information at the same time.</description>
-    </item>
-    
-    <item>
-      <title>The Complete List of Developer File Extensions</title>
-      <link>https://fileformats.org/categories/developer-file-extensions/</link>
-      <pubDate>Tue, 13 Dec 2022 02:44:52 -0300</pubDate>
-      
-      <guid>https://fileformats.org/categories/developer-file-extensions/</guid>
-      <description>File types relevant to creating software can be found in the Developer Files category.</description>
     </item>
     
     <item>
