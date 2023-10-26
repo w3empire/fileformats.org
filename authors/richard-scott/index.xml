@@ -6,7 +6,34 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Sep 2023 12:04:29 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Sep 2023 15:27:47 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an IV file &amp; how do I open an IV file (Open Inventor Scene Graph File)?</title>
+      <link>https://fileformats.org/file-types/open-inventor-scene-graph-file/</link>
+      <pubDate>Sat, 30 Sep 2023 15:27:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/open-inventor-scene-graph-file/</guid>
+      <description>Open Inventor Scene Graph File</description>
+    </item>
+    
+    <item>
+      <title>What is a MAKERBOT file &amp; how do I open a MAKERBOT file (MakerBot Print File)?</title>
+      <link>https://fileformats.org/file-types/makerbot-print-file/</link>
+      <pubDate>Sat, 30 Sep 2023 13:39:54 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/makerbot-print-file/</guid>
+      <description>MakerBot Print File</description>
+    </item>
+    
+    <item>
+      <title>What is an MCSG file &amp; how do I open an MCSG file (MagicaCSG 3D Model)?</title>
+      <link>https://fileformats.org/file-types/magicacsg-3d-model/</link>
+      <pubDate>Sat, 30 Sep 2023 12:01:16 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/magicacsg-3d-model/</guid>
+      <description>MagicaCSG 3D Model</description>
+    </item>
+    
     <item>
       <title>What is a VSQ file &amp; how do I open a VSQ file (VOCALOID2 Project File)?</title>
       <link>https://fileformats.org/file-types/vocaloid2-project-file/</link>

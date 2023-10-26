@@ -6,7 +6,34 @@
     <description>Recent content in All articles by Bruno Souza on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Sep 2023 08:15:03 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 18:30:04 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an ATM file &amp; how do I open an ATM file (Vue Atmospheres File)?</title>
+      <link>https://fileformats.org/file-types/vue-atmospheres-file/</link>
+      <pubDate>Sun, 01 Oct 2023 18:30:04 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/vue-atmospheres-file/</guid>
+      <description>Vue Atmospheres File</description>
+    </item>
+    
+    <item>
+      <title>What is an M3D file &amp; how do I open an M3D file (3D Model File)?</title>
+      <link>https://fileformats.org/file-types/3d-model-file/</link>
+      <pubDate>Sat, 30 Sep 2023 12:22:31 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/3d-model-file/</guid>
+      <description>3D Model File</description>
+    </item>
+    
+    <item>
+      <title>What is an SMD file &amp; how do I open an SMD file (Valve Studiomdl Data File)?</title>
+      <link>https://fileformats.org/file-types/valve-studiomdl-data-file/</link>
+      <pubDate>Sat, 30 Sep 2023 12:12:01 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/valve-studiomdl-data-file/</guid>
+      <description>Valve Studiomdl Data File</description>
+    </item>
+    
     <item>
       <title>What is a BLEND file &amp; how do I open a BLEND file (Blender 3D Data File)?</title>
       <link>https://fileformats.org/file-types/blender-3d-data-file/</link>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fileformats.org/authors/bruno-souza/</loc>
-    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+    <lastmod>2023-10-01T18:30:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -56,7 +56,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/</loc>
-    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+    <lastmod>2023-10-01T18:30:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/authors/</loc>
-    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+    <lastmod>2023-10-01T18:30:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/3d-image-file-extensions/</loc>
-    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+    <lastmod>2023-10-01T18:30:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +215,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/</loc>
-    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+    <lastmod>2023-10-01T18:30:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -268,7 +268,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/</loc>
-    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+    <lastmod>2023-10-01T18:30:04+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -320,14 +320,11 @@
                 href="https://fileformats.org/file-types/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/blender-3d-data-file/</loc>
-    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/file-types/renderware-model-file/</loc>
-    <lastmod>2023-09-29T14:17:03+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/vue-atmospheres-file/</loc>
+    <lastmod>2023-10-01T18:30:04+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/authors/akira-osawa/</loc>
-    <lastmod>2023-09-29T13:58:56+00:00</lastmod>
+    <lastmod>2023-10-01T18:21:37+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -378,6 +375,86 @@
                 hreflang="en"
                 href="https://fileformats.org/authors/akira-osawa/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/file-types/mental-ray-image-depth-file/</loc>
+    <lastmod>2023-10-01T18:21:37+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/daz-studio-uv-mapping-file/</loc>
+    <lastmod>2023-10-01T10:29:38+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/authors/richard-scott/</loc>
+    <lastmod>2023-09-30T15:27:47+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/richard-scott/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/open-inventor-scene-graph-file/</loc>
+    <lastmod>2023-09-30T15:27:47+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/makerbot-print-file/</loc>
+    <lastmod>2023-09-30T13:39:54+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/3d-model-file/</loc>
+    <lastmod>2023-09-30T12:22:31+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/valve-studiomdl-data-file/</loc>
+    <lastmod>2023-09-30T12:12:01+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/magicacsg-3d-model/</loc>
+    <lastmod>2023-09-30T12:01:16+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/blender-3d-data-file/</loc>
+    <lastmod>2023-09-30T08:15:03+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/renderware-model-file/</loc>
+    <lastmod>2023-09-29T14:17:03+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/file-types/fragment-shader-file/</loc>
     <lastmod>2023-09-29T13:58:56+00:00</lastmod>
@@ -446,59 +523,6 @@
   </url><url>
     <loc>https://fileformats.org/file-types/delphi-diagram-portfolio-file/</loc>
     <lastmod>2023-09-17T08:37:31+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/authors/richard-scott/</loc>
-    <lastmod>2023-09-16T12:04:29+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/richard-scott/"
-                />
   </url><url>
     <loc>https://fileformats.org/categories/audio-file-extensions/</loc>
     <lastmod>2023-09-16T12:04:29+00:00</lastmod>
@@ -4883,6 +4907,266 @@
                 href="https://fileformats.org/file-types/libreoffice-document-lock-file/"
                 />
   </url><url>
+    <loc>https://fileformats.org/institutional/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/institutional/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/institutional/about/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/institutional/affiliate-disclosure/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/institutional/affiliate-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/institutional/affiliate-disclosure/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/institutional/cookie-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/institutional/cookie-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/institutional/cookie-policy/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/institutional/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/institutional/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/institutional/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/institutional/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/institutional/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/institutional/privacy-policy/"
+                />
+  </url><url>
     <loc>https://fileformats.org/search-online/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4985,6 +5269,58 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fileformats.org/search/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/institutional/terms/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/institutional/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/institutional/terms/"
                 />
   </url><url>
     <loc>https://fileformats.org/categories/data-file-extensions/</loc>
