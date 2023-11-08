@@ -6,7 +6,16 @@
     <description>Recent content in All Articles by Richard Scott on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Sep 2023 15:27:47 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Nov 2023 13:42:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a PHY file &amp; how do I open a PHY file (3ds Max Physique File)?</title>
+      <link>https://fileformats.org/file-types/3ds-max-physique-file/</link>
+      <pubDate>Wed, 08 Nov 2023 13:42:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/3ds-max-physique-file/</guid>
+      <description>3ds Max Physique File</description>
+    </item>
+    
     <item>
       <title>What is an IV file &amp; how do I open an IV file (Open Inventor Scene Graph File)?</title>
       <link>https://fileformats.org/file-types/open-inventor-scene-graph-file/</link>
