@@ -6,7 +6,25 @@
     <description>Recent content in All articles by Akira Osawa on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Nov 2023 13:34:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 18:30:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a CFG file &amp; how do I open a CFG file (Cal3D Model Configuration File)?</title>
+      <link>https://fileformats.org/file-types/cal3d-model-configuration-file/</link>
+      <pubDate>Thu, 09 Nov 2023 18:30:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/cal3d-model-configuration-file/</guid>
+      <description>Cal3D Model Configuration File</description>
+    </item>
+    
+    <item>
+      <title>What is an MC5 file &amp; how do I open an MC5 file (Poser 5 Material File)?</title>
+      <link>https://fileformats.org/file-types/poser-5-material-file/</link>
+      <pubDate>Thu, 09 Nov 2023 18:13:27 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/poser-5-material-file/</guid>
+      <description>Poser 5 Material File</description>
+    </item>
+    
     <item>
       <title>What is a THING file &amp; how do I open a THING file (MakerBot Thing File)?</title>
       <link>https://fileformats.org/file-types/makerbot-thing-file/</link>

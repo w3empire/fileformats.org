@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fileformats.org/authors/richard-scott/</loc>
-    <lastmod>2023-11-08T13:42:09+00:00</lastmod>
+    <lastmod>2023-11-09T18:40:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -56,7 +56,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/</loc>
-    <lastmod>2023-11-08T13:42:09+00:00</lastmod>
+    <lastmod>2023-11-09T18:40:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/authors/</loc>
-    <lastmod>2023-11-08T13:42:09+00:00</lastmod>
+    <lastmod>2023-11-09T18:40:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/3d-image-file-extensions/</loc>
-    <lastmod>2023-11-08T13:42:09+00:00</lastmod>
+    <lastmod>2023-11-09T18:40:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +215,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/</loc>
-    <lastmod>2023-11-08T13:42:09+00:00</lastmod>
+    <lastmod>2023-11-09T18:40:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -268,7 +268,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/</loc>
-    <lastmod>2023-11-08T13:42:09+00:00</lastmod>
+    <lastmod>2023-11-09T18:40:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -320,11 +320,11 @@
                 href="https://fileformats.org/file-types/"
                 />
   </url><url>
-    <loc>https://fileformats.org/file-types/3ds-max-physique-file/</loc>
-    <lastmod>2023-11-08T13:42:09+00:00</lastmod>
+    <loc>https://fileformats.org/file-types/mikumikudance-model-file/</loc>
+    <lastmod>2023-11-09T18:40:17+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/authors/akira-osawa/</loc>
-    <lastmod>2023-11-08T13:34:30+00:00</lastmod>
+    <lastmod>2023-11-09T18:30:30+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -375,6 +375,15 @@
                 hreflang="en"
                 href="https://fileformats.org/authors/akira-osawa/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/file-types/cal3d-model-configuration-file/</loc>
+    <lastmod>2023-11-09T18:30:30+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/poser-5-material-file/</loc>
+    <lastmod>2023-11-09T18:13:27+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/3ds-max-physique-file/</loc>
+    <lastmod>2023-11-08T13:42:09+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/file-types/makerbot-thing-file/</loc>
     <lastmod>2023-11-08T13:34:30+00:00</lastmod>
