@@ -6,7 +6,25 @@
     <description>Recent content in List of all FileFormats authors on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Nov 2023 18:40:17 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 20:35:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All articles by Bruno Souza on FileFormats</title>
+      <link>https://fileformats.org/authors/bruno-souza/</link>
+      <pubDate>Sat, 25 Nov 2023 20:35:22 +0000</pubDate>
+      
+      <guid>https://fileformats.org/authors/bruno-souza/</guid>
+      <description>Technical Writer and Editor</description>
+    </item>
+    
+    <item>
+      <title>All articles by Akira Osawa on FileFormats</title>
+      <link>https://fileformats.org/authors/akira-osawa/</link>
+      <pubDate>Sat, 25 Nov 2023 20:18:05 +0000</pubDate>
+      
+      <guid>https://fileformats.org/authors/akira-osawa/</guid>
+      <description>Technical Writer and Editor</description>
+    </item>
+    
     <item>
       <title>All Articles by Richard Scott on FileFormats</title>
       <link>https://fileformats.org/authors/richard-scott/</link>
@@ -14,24 +32,6 @@
       
       <guid>https://fileformats.org/authors/richard-scott/</guid>
       <description>Technical Writer</description>
-    </item>
-    
-    <item>
-      <title>All articles by Akira Osawa on FileFormats</title>
-      <link>https://fileformats.org/authors/akira-osawa/</link>
-      <pubDate>Thu, 09 Nov 2023 18:30:30 +0000</pubDate>
-      
-      <guid>https://fileformats.org/authors/akira-osawa/</guid>
-      <description>Technical Writer and Editor</description>
-    </item>
-    
-    <item>
-      <title>All articles by Bruno Souza on FileFormats</title>
-      <link>https://fileformats.org/authors/bruno-souza/</link>
-      <pubDate>Wed, 08 Nov 2023 13:29:59 +0000</pubDate>
-      
-      <guid>https://fileformats.org/authors/bruno-souza/</guid>
-      <description>Technical Writer and Editor</description>
     </item>
     
   </channel>
