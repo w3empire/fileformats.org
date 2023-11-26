@@ -6,7 +6,16 @@
     <description>Recent content in The Complete List of All File Extension and File Type Categories on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Nov 2023 20:35:22 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 13:01:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Complete List of Backup File Extensions</title>
+      <link>https://fileformats.org/categories/backup-file-extensions/</link>
+      <pubDate>Sun, 26 Nov 2023 13:01:41 +0000</pubDate>
+      
+      <guid>https://fileformats.org/categories/backup-file-extensions/</guid>
+      <description>Backup copies of individual files and data pertaining to backup programs are both included in the Backup Files section.</description>
+    </item>
+    
     <item>
       <title>The Complete List of 3D Image File Extensions</title>
       <link>https://fileformats.org/categories/3d-image-file-extensions/</link>
@@ -131,15 +140,6 @@
       
       <guid>https://fileformats.org/categories/cad-file-extensions/</guid>
       <description>Computer-aided design (CAD) files may include either two-dimensional or three-dimensional models.</description>
-    </item>
-    
-    <item>
-      <title>The Complete List of Backup File Extensions</title>
-      <link>https://fileformats.org/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 16:46:05 +0000</pubDate>
-      
-      <guid>https://fileformats.org/categories/backup-file-extensions/</guid>
-      <description>Backup copies of individual files and data pertaining to backup programs are both included in the Backup Files section.</description>
     </item>
     
     <item>
