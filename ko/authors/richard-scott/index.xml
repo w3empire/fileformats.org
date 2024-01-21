@@ -6,7 +6,16 @@
     <description>Recent content in FileFormats에 대한 Richard Scott의 모든 기사 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 10 Jan 2023 10:25:48 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jan 2024 23:00:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/ko/authors/richard-scott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QBMB 파일이란 무엇이며 QBMB 파일 (QuickBooks 백업 파일)을 어떻게 열 수 있을까요?</title>
+      <link>https://fileformats.org/ko/file-types/quickbooks-backup-file/</link>
+      <pubDate>Sat, 20 Jan 2024 23:00:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/ko/file-types/quickbooks-backup-file/</guid>
+      <description>QuickBooks 백업 파일</description>
+    </item>
+    
     <item>
       <title>GZ 파일 (Gnu 압축 아카이브)이란 무엇인가요?</title>
       <link>https://fileformats.org/ko/file-types/gnu-zipped-archive/</link>

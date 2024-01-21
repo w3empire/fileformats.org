@@ -6,7 +6,16 @@
     <description>Recent content in 所有文件扩展名、格式和含义的完整列表 on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Jan 2023 10:57:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jan 2024 23:00:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/zh-cn/file-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是QBMB文件及如何打开QBMB文件（QuickBooks备份文件）？</title>
+      <link>https://fileformats.org/zh-cn/file-types/quickbooks-backup-file/</link>
+      <pubDate>Sat, 20 Jan 2024 23:00:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/zh-cn/file-types/quickbooks-backup-file/</guid>
+      <description>QuickBooks备份文件</description>
+    </item>
+    
     <item>
       <title>什么是SITX文件（StuffIt X存档）？</title>
       <link>https://fileformats.org/zh-cn/file-types/stuffit-x-archive/</link>

@@ -6,7 +6,16 @@
     <description>Recent content in Todas las categorias on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 10 Jan 2023 10:57:21 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jan 2024 23:00:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La lista completa de extensiones de archivos de copia de seguridad</title>
+      <link>https://fileformats.org/es/categories/backup-file-extensions/</link>
+      <pubDate>Sat, 20 Jan 2024 23:00:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/es/categories/backup-file-extensions/</guid>
+      <description>Las copias de seguridad de los archivos individuales y los datos relacionados con los programas de copia de seguridad se incluyen en la sección Archivos de copia de seguridad.</description>
+    </item>
+    
     <item>
       <title>La lista completa de extensiones de archivos comprimidos</title>
       <link>https://fileformats.org/es/categories/compressed-file-extensions/</link>
@@ -32,15 +41,6 @@
       
       <guid>https://fileformats.org/es/categories/cad-file-extensions/</guid>
       <description>Los archivos de diseño asistido por computadora (CAD) pueden incluir modelos bidimensionales o tridimensionales.</description>
-    </item>
-    
-    <item>
-      <title>La lista completa de extensiones de archivos de copia de seguridad</title>
-      <link>https://fileformats.org/es/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 16:46:12 +0000</pubDate>
-      
-      <guid>https://fileformats.org/es/categories/backup-file-extensions/</guid>
-      <description>Las copias de seguridad de los archivos individuales y los datos relacionados con los programas de copia de seguridad se incluyen en la sección Archivos de copia de seguridad.</description>
     </item>
     
     <item>

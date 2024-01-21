@@ -6,7 +6,16 @@
     <description>Recent content in Liste aller FileFormats-Autoren on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Jan 2023 10:57:31 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jan 2024 23:00:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/de/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alle Artikel von Richard Scott auf FileFormats</title>
+      <link>https://fileformats.org/de/authors/richard-scott/</link>
+      <pubDate>Sat, 20 Jan 2024 23:00:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/de/authors/richard-scott/</guid>
+      <description>Technischer Schreiber</description>
+    </item>
+    
     <item>
       <title>Alle Artikel von Akira Osawa auf FileFormats</title>
       <link>https://fileformats.org/de/authors/akira-osawa/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://fileformats.org/de/authors/akira-osawa/</guid>
       <description>Technischer Redakteur und Redakteur</description>
-    </item>
-    
-    <item>
-      <title>Alle Artikel von Richard Scott auf FileFormats</title>
-      <link>https://fileformats.org/de/authors/richard-scott/</link>
-      <pubDate>Tue, 10 Jan 2023 10:25:51 +0000</pubDate>
-      
-      <guid>https://fileformats.org/de/authors/richard-scott/</guid>
-      <description>Technischer Schreiber</description>
     </item>
     
     <item>

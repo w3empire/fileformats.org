@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fileformats.org/de/authors/akira-osawa/</loc>
-    <lastmod>2023-01-10T10:57:31+00:00</lastmod>
+    <loc>https://fileformats.org/de/authors/richard-scott/</loc>
+    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/authors/akira-osawa/"
+                href="https://fileformats.org/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/authors/akira-osawa/"
+                href="https://fileformats.org/pt/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/authors/akira-osawa/"
+                href="https://fileformats.org/es/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
+                href="https://fileformats.org/zh-cn/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/authors/akira-osawa/"
+                href="https://fileformats.org/ru/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/authors/akira-osawa/"
+                href="https://fileformats.org/ja/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/authors/akira-osawa/"
+                href="https://fileformats.org/ko/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/authors/akira-osawa/"
+                href="https://fileformats.org/fr/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/authors/akira-osawa/"
+                href="https://fileformats.org/it/authors/richard-scott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/authors/akira-osawa/"
+                href="https://fileformats.org/de/authors/richard-scott/"
                 />
   </url><url>
     <loc>https://fileformats.org/de/file-types/</loc>
-    <lastmod>2023-01-10T10:57:31+00:00</lastmod>
+    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/de/categories/</loc>
-    <lastmod>2023-01-10T10:57:31+00:00</lastmod>
+    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -159,6 +159,271 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://fileformats.org/de/categories/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/de/categories/backup-file-extensions/</loc>
+    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/categories/backup-file-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/categories/backup-file-extensions/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/de/</loc>
+    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/de/authors/</loc>
+    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/de/file-types/quickbooks-backup-file/</loc>
+    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/file-types/quickbooks-backup-file/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/file-types/quickbooks-backup-file/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/de/authors/akira-osawa/</loc>
+    <lastmod>2023-01-10T10:57:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/akira-osawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/akira-osawa/"
                 />
   </url><url>
     <loc>https://fileformats.org/de/categories/compressed-file-extensions/</loc>
@@ -214,112 +479,6 @@
                 href="https://fileformats.org/de/categories/compressed-file-extensions/"
                 />
   </url><url>
-    <loc>https://fileformats.org/de/</loc>
-    <lastmod>2023-01-10T10:57:31+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/"
-                />
-  </url><url>
-    <loc>https://fileformats.org/de/authors/</loc>
-    <lastmod>2023-01-10T10:57:31+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/"
-                />
-  </url><url>
     <loc>https://fileformats.org/de/file-types/stuffit-x-archive/</loc>
     <lastmod>2023-01-10T10:57:31+00:00</lastmod>
     <xhtml:link
@@ -371,59 +530,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://fileformats.org/de/file-types/stuffit-x-archive/"
-                />
-  </url><url>
-    <loc>https://fileformats.org/de/authors/richard-scott/</loc>
-    <lastmod>2023-01-10T10:25:51+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/richard-scott/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/richard-scott/"
                 />
   </url><url>
     <loc>https://fileformats.org/de/file-types/gnu-zipped-archive/</loc>
@@ -1855,59 +1961,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://fileformats.org/de/file-types/west-point-bridge-designer-design-file/"
-                />
-  </url><url>
-    <loc>https://fileformats.org/de/categories/backup-file-extensions/</loc>
-    <lastmod>2022-12-26T16:46:21+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/categories/backup-file-extensions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/categories/backup-file-extensions/"
                 />
   </url><url>
     <loc>https://fileformats.org/de/file-types/hp-recovery-manager-backup-file/</loc>

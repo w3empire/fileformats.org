@@ -6,7 +6,16 @@
     <description>Recent content in Tutte le categorie on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 10 Jan 2023 10:57:25 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jan 2024 23:00:09 +0000</lastBuildDate><atom:link href="https://fileformats.org/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;elenco completo delle estensioni dei file di backup</title>
+      <link>https://fileformats.org/it/categories/backup-file-extensions/</link>
+      <pubDate>Sat, 20 Jan 2024 23:00:09 +0000</pubDate>
+      
+      <guid>https://fileformats.org/it/categories/backup-file-extensions/</guid>
+      <description>Le copie di backup dei singoli file e dei dati relativi ai programmi di backup sono entrambe incluse nella sezione File di backup.</description>
+    </item>
+    
     <item>
       <title>L&#39;elenco completo delle estensioni dei file compressi</title>
       <link>https://fileformats.org/it/categories/compressed-file-extensions/</link>
@@ -32,15 +41,6 @@
       
       <guid>https://fileformats.org/it/categories/cad-file-extensions/</guid>
       <description>I file CAD (Computer Aided Design) possono includere modelli bidimensionali o tridimensionali.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;elenco completo delle estensioni dei file di backup</title>
-      <link>https://fileformats.org/it/categories/backup-file-extensions/</link>
-      <pubDate>Mon, 26 Dec 2022 16:46:15 +0000</pubDate>
-      
-      <guid>https://fileformats.org/it/categories/backup-file-extensions/</guid>
-      <description>Le copie di backup dei singoli file e dei dati relativi ai programmi di backup sono entrambe incluse nella sezione File di backup.</description>
     </item>
     
     <item>
