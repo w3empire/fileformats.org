@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fileformats.org/authors/richard-scott/</loc>
-    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <loc>https://fileformats.org/authors/akira-osawa/</loc>
+    <lastmod>2024-02-13T20:03:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://fileformats.org/pt/authors/richard-scott/"
+                href="https://fileformats.org/pt/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://fileformats.org/es/authors/richard-scott/"
+                href="https://fileformats.org/es/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/richard-scott/"
+                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://fileformats.org/ru/authors/richard-scott/"
+                href="https://fileformats.org/ru/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://fileformats.org/ja/authors/richard-scott/"
+                href="https://fileformats.org/ja/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://fileformats.org/de/authors/richard-scott/"
+                href="https://fileformats.org/de/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://fileformats.org/ko/authors/richard-scott/"
+                href="https://fileformats.org/ko/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fileformats.org/fr/authors/richard-scott/"
+                href="https://fileformats.org/fr/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://fileformats.org/it/authors/richard-scott/"
+                href="https://fileformats.org/it/authors/akira-osawa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fileformats.org/authors/richard-scott/"
+                href="https://fileformats.org/authors/akira-osawa/"
                 />
   </url><url>
     <loc>https://fileformats.org/</loc>
-    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <lastmod>2024-02-13T20:03:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/authors/</loc>
-    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <lastmod>2024-02-13T20:03:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/</loc>
-    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <lastmod>2024-02-13T20:03:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +215,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/</loc>
-    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <lastmod>2024-02-13T20:03:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -268,7 +268,7 @@
                 />
   </url><url>
     <loc>https://fileformats.org/categories/backup-file-extensions/</loc>
-    <lastmod>2024-01-20T23:00:09+00:00</lastmod>
+    <lastmod>2024-02-13T20:03:47+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -319,6 +319,139 @@
                 hreflang="en"
                 href="https://fileformats.org/categories/backup-file-extensions/"
                 />
+  </url><url>
+    <loc>https://fileformats.org/file-types/microsoft-works-database-backup-file/</loc>
+    <lastmod>2024-02-13T20:03:47+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/authors/richard-scott/</loc>
+    <lastmod>2024-02-13T19:57:22+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/richard-scott/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/richard-scott/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/aomei-backupper-disk-backup-file/</loc>
+    <lastmod>2024-02-13T19:57:22+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/nero-backitup-archive/</loc>
+    <lastmod>2024-02-13T19:49:37+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/authors/bruno-souza/</loc>
+    <lastmod>2024-02-13T19:43:30+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://fileformats.org/pt/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://fileformats.org/es/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://fileformats.org/ru/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://fileformats.org/ja/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://fileformats.org/de/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fileformats.org/ko/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fileformats.org/fr/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://fileformats.org/it/authors/bruno-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fileformats.org/authors/bruno-souza/"
+                />
+  </url><url>
+    <loc>https://fileformats.org/file-types/dbase-multiple-index-backup-file/</loc>
+    <lastmod>2024-02-13T19:43:30+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/microsoft-onenote-package/</loc>
+    <lastmod>2024-02-13T19:35:42+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/backup-file/</loc>
+    <lastmod>2024-02-13T19:29:37+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/akeeba-backup-archive/</loc>
+    <lastmod>2024-02-13T19:20:35+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/sql-backup-sql-server-backup-file/</loc>
+    <lastmod>2024-02-13T01:46:15+00:00</lastmod>
+  </url><url>
+    <loc>https://fileformats.org/file-types/oracle-vm-virtualbox-settings-backup-file/</loc>
+    <lastmod>2024-02-13T01:34:12+00:00</lastmod>
   </url><url>
     <loc>https://fileformats.org/file-types/quickbooks-backup-file/</loc>
     <lastmod>2024-01-20T23:00:09+00:00</lastmod>
@@ -371,59 +504,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fileformats.org/file-types/quickbooks-backup-file/"
-                />
-  </url><url>
-    <loc>https://fileformats.org/authors/bruno-souza/</loc>
-    <lastmod>2023-11-26T13:01:41+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/bruno-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/bruno-souza/"
                 />
   </url><url>
     <loc>https://fileformats.org/file-types/scarlet-ipa-backup/</loc>
@@ -487,59 +567,6 @@
   </url><url>
     <loc>https://fileformats.org/file-types/warcraft-3-3d-model-text-file/</loc>
     <lastmod>2023-11-25T20:35:22+00:00</lastmod>
-  </url><url>
-    <loc>https://fileformats.org/authors/akira-osawa/</loc>
-    <lastmod>2023-11-25T20:18:05+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://fileformats.org/pt/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://fileformats.org/es/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fileformats.org/zh-cn/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://fileformats.org/ru/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://fileformats.org/ja/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://fileformats.org/de/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fileformats.org/ko/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fileformats.org/fr/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://fileformats.org/it/authors/akira-osawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fileformats.org/authors/akira-osawa/"
-                />
   </url><url>
     <loc>https://fileformats.org/file-types/3ds-max-motion-mixer-file/</loc>
     <lastmod>2023-11-25T20:18:05+00:00</lastmod>

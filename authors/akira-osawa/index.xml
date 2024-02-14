@@ -6,7 +6,25 @@
     <description>Recent content in All articles by Akira Osawa on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Nov 2023 20:18:05 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 20:03:47 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/akira-osawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a BDB file &amp; how do I open a BDB file (Microsoft Works Database Backup File)?</title>
+      <link>https://fileformats.org/file-types/microsoft-works-database-backup-file/</link>
+      <pubDate>Tue, 13 Feb 2024 20:03:47 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/microsoft-works-database-backup-file/</guid>
+      <description>Microsoft Works Database Backup File</description>
+    </item>
+    
+    <item>
+      <title>What is a BAK2 file &amp; how do I open a BAK2 file (Backup File)?</title>
+      <link>https://fileformats.org/file-types/backup-file/</link>
+      <pubDate>Tue, 13 Feb 2024 19:29:37 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/backup-file/</guid>
+      <description>Backup File</description>
+    </item>
+    
     <item>
       <title>What is a MIX file &amp; how do I open a MIX file (3ds Max Motion Mixer File)?</title>
       <link>https://fileformats.org/file-types/3ds-max-motion-mixer-file/</link>

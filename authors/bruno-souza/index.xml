@@ -6,7 +6,43 @@
     <description>Recent content in All articles by Bruno Souza on FileFormats on File Formats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Nov 2023 13:01:41 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 19:43:30 +0000</lastBuildDate><atom:link href="https://fileformats.org/authors/bruno-souza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an MBK file &amp; how do I open an MBK file (dBASE Multiple Index Backup File)?</title>
+      <link>https://fileformats.org/file-types/dbase-multiple-index-backup-file/</link>
+      <pubDate>Tue, 13 Feb 2024 19:43:30 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/dbase-multiple-index-backup-file/</guid>
+      <description>dBASE Multiple Index Backup File</description>
+    </item>
+    
+    <item>
+      <title>What is a JPA file &amp; how do I open a JPA file (Akeeba Backup Archive)?</title>
+      <link>https://fileformats.org/file-types/akeeba-backup-archive/</link>
+      <pubDate>Tue, 13 Feb 2024 19:20:35 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/akeeba-backup-archive/</guid>
+      <description>Akeeba Backup Archive</description>
+    </item>
+    
+    <item>
+      <title>What is an SQB file &amp; how do I open an SQB file (SQL Backup SQL Server Backup File)?</title>
+      <link>https://fileformats.org/file-types/sql-backup-sql-server-backup-file/</link>
+      <pubDate>Tue, 13 Feb 2024 01:46:15 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/sql-backup-sql-server-backup-file/</guid>
+      <description>SQL Backup SQL Server Backup File</description>
+    </item>
+    
+    <item>
+      <title>What is a VBOX-PREV file &amp; how do I open a VBOX-PREV file (Oracle VM VirtualBox Settings Backup File)?</title>
+      <link>https://fileformats.org/file-types/oracle-vm-virtualbox-settings-backup-file/</link>
+      <pubDate>Tue, 13 Feb 2024 01:34:12 +0000</pubDate>
+      
+      <guid>https://fileformats.org/file-types/oracle-vm-virtualbox-settings-backup-file/</guid>
+      <description>Oracle VM VirtualBox Settings Backup File</description>
+    </item>
+    
     <item>
       <title>What is an SCRIPA file &amp; how do I open an SCRIPA file (Scarlet IPA Backup)?</title>
       <link>https://fileformats.org/file-types/scarlet-ipa-backup/</link>
